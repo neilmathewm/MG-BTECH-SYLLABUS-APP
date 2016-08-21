@@ -1,0 +1,35 @@
+CE010 507COMPUTING TECHNIQUES LAB
+
+Teaching Scheme	Credit: 2
+3 hours Practical  per week.
+
+Objective:
+
+To make the students aware of recent application softwares and to develop programming skills in C language.
+
+List of Experiments:
+
+1.	Familiarization of computer hardware, peripherals and network components. Study of operating systems like DOS, Windows. Linux etc. Commands for use of files and directives. 
+
+2.	Familiarization with packages like MS Word, MS Excel, and power point. 
+3.	Programming examples related to control statements, arrays, structures, functions, pointers and files in accordance with syllabus of C like, 
+a. Solution of quadratic equations 
+b .Preparation of conversion tables
+c.	Summation of series 
+d.	Arrays manipulation 
+e.	Functions 
+f.	Recursive functions 
+g.	String manipulations 
+h.	Matrix operations 
+i. .Preparation of mark lists of students, bills etc. using structures
+j.	Input and out using files 
+k.	Simple programs of linked lists and command lime arguments 
+
+References
+
+1.	Balaguruswamy, Programming in C, Tata Mc Graw Hill. 
+
+2.	Kern Ingham , Ritchie, The C programming language, Prentice Hall. 
+3.	Byron S Gottfried, Programming with C, Tata Mc Graw Hill. 
+4.	Y. Kenetker, Let us C, BPB Publications. 
+5.	V. Rajaraman, Programming with C. 

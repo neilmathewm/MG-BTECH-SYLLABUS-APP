@@ -1,0 +1,39 @@
+EE 010 408: Electronic Circuits Lab
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+To expose the students to a variety of practical electronic circuits to prove the theories behind them.
+
+1.	Diode Characteristics 
+
+2.	BJT, FET and UJT characteristics. 
+3.	Design and testing of clipping and clamping circuits 
+4.	Design and testing of RC integrator and differentiator circuits. 
+5.	Design and testing of rectifier circuits – Half wave – Full wave (centre – tapped and bridge) circuits. Filter circuits. 
+6.	Design and testing of Zener Shunt and Transistor Series Voltage Regulator. 
+7.	Design and testing of RC coupled amplifier– frequency response. 
+8.	Design and testing of Feedback amplifiers. 
+9.	Design and testing of FET amplifier. 
+10.	Sweep circuits – UJT and BJT based sweep generators – sweep circuit using constant current source (BJT). 
+11.	Design and Testing of RC phase-shift Oscillator and LC Oscillator. 
+12.	Design and Testing of Astable and Bi-stable Multi-vibrators. 
+13.	Relay driving circuit using transistors. 
+
+Optional
+
+Simulation of the above circuits using EDA tools like PSPICE.
+(Any experiment relevant to EE 010 305 may be added)
+
+References
+
+1.	A.P. Malvino, Electronic Principles– TMH 
+
+2.	Floyd, Electronic Devices, Pearson Education, LPE 
+3.	Robert L. Boylestad and Louis Nashelsky, Electronic Devices and Circuit Theory, Pearson Education Asia, LPE. 
+
+4.	Navas, Electronic Circuits Lab Manual 
+ 

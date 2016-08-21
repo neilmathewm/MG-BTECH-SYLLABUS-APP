@@ -1,0 +1,58 @@
+EE 010 606 L01  High Voltage Engineering
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the basic techniques of high voltage AC, DC and Impulse generation and measurement. 
+
+•	To develop understanding about different high voltage testing techniques performed on electrical equipment. 
+
+
+Module I (14 hours)
+
+Fundamentals of electric breakdown in gases
+Gas as insulating medium - Types of ionization by collision - types of collision. Condition for ionization by electron/ion collision - Collision cross section - Electric fields of low E/P (electric field/pressure in a gas medium).
+
+Ionization process in gaseous media - Townsend mechanism and criterion of breakdown in gases - Paschen’s law and its application- Streamer theory of breakdown- Corona discharges-Different theories of breakdown in solid dielectrics- pure and commercial liquids.
+
+Module II (12 hours)
+
+Generation of High DC, AC and Impulse voltages
+
+HVDC : Cockcroft Walton double circuits – Multipliers- Vande Graaff generator
+HVAC : Generation of High AC voltages- Cascade connection of transformers – resonant transformers - Tesla coil.
+Impulse generation: Definition of impulse wave – B.I.S specification – single stage and multi stage impulse generator circuits. Tripping methods of impulse generator circuits - Impulse current generator.
+
+Module III (12 hours) Measurement of High DC and AC
+
+Peak voltage- Sphere gap for measurement of DC,AC and impulse voltages. Measurement of HVDC by generating voltmeter – Potential dividers. Measurement of HVAC - Series impedance and Capacitor meters – Capacitance Potential Dividers – CVT
+
+Module IV (10 hours)
+
+Measurement of Impulse voltage and current
+
+Measurement of impulse voltages and currents- Potential dividers - Measurement of impulse current- Hall generators - Magnetic potentio devices – Low current resistive shunts (Peak)
+
+Module V (12 hours)
+
+High voltage testing techniques
+
+Measurement of dielectric constant and loss angle – High voltage Schering Bridge – Partial discharge measurements in high voltage equipment. Power frequency and impulse testing of high voltage apparatus – B.I.S specification – HV testing of insulators, bushing, cables and transformers.
+ 
+
+Text Books
+
+1.	Naidu & Kamaraju ,High voltage Engineering ,Tata Mc Graw Hill Publications. 
+
+2.	E. Kuffel & W.S Zaengel ,High Voltage Engineering Fundamentals, Oxford Pergamon Press 
+
+Reference Books
+
+1.	L.Lalston , High voltage Technology , Oxford university press. 
+
+2.	Ravindra Arora ,High voltage insulation engineering , New Age International (P) Ltd. 
+
+3.	High voltage experimental Techniques, Dieter Kind, Vieweg &Sohn Verlagsgesellschaft mbH, Braunschweig/ Wiesbaden, 1978 
+ 

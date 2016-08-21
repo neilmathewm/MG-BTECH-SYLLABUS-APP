@@ -1,0 +1,41 @@
+CS010405: Microprocessor Systems
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of microprocessors and interfacing concepts. 
+•	To develop an understanding about the assembly level programming. 
+
+
+Module I (10 hours)
+
+Architecture of 8085 – Registers. Instruction set of 8085 - Instruction Types – Arithmetic – Logic data transfer, Branch, Stack, I/O and Machine Control instructions - Addressing Modes - Direct and Indirect Addressing - Immediate Addressing - Implicit Addressing.
+
+Module II (12 hours)
+
+Subroutines - Stack Operations - Call Return sequence- Programming Examples. Timing and control unit – The fetch operation – Machine cycle and T- State instruction and data flow. Address space partitioning - Memory mapped I/O - I/O mapped I/O.
+
+Module III (14 hours)
+
+Interrupts of 8085 - Hardware & Software Interrupts – Enabling, Disabling and masking of interrupts – Polling – HALT & HOLD states – Programmable interrupt controller – 8259.
+
+Module IV (12 hours)
+
+Data transfer schemes - Programmed data transfer - synchronous and asynchronous transfer - interrupt driven data transfer – DMA data transfer. Study of Interfacing ICs
+– 8257,8255 programmable peripheral interface (compare it with 8155).
+
+Module V (12 hours)
+
+Programmable interval timer 8253, 8251 -,Interfacing Keyboard and display devices, Hardware and Software approach – USART 8251. (interfacing chips functions and internal block diagram only).
+
+Reference Books
+
+1.	Gaonkar -Microprocessor Architecture, Programming and Applications with the 8085 -New Age International 
+2.	Renu Singh, B. P. Singh -Microprocessors, interfacing and Applications New Age International-Third Edition
+3.	N K Srinath -8085 Microprocessors programming and interfacing - PHI 
+4.	Adithya P. Mathur -Introduction to Microprocessors Systems - PHI 
+5.	KK Tripathi, Rajesh K Gangwar -Microprocessorand its Applications -Acme learning 
+6.	R.Theagarajan,S.Dhanasekaran,S.Dhanapal –Microprocessor and ITS Applications New Age International 
+7.	N Senthil Kumar,M saravanan,s.jeevananthan-Microprocessor and microcontrollers -Oxford higher education

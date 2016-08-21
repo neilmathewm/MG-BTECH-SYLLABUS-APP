@@ -1,0 +1,60 @@
+EE 010 704: Modern Control Theory
+
+Teaching Schedule: 2hours Lecture and 1hour Tutorial	Credits -3
+
+Objective: To provide sound knowledge of advanced control systems
+
+Module 1 (9 Hrs)
+
+Design of modern control systems- Concept of Controllability and Observability, Kalman’s and Gilbert’s tests for controllability and observability. Pole placement design using state variable feed back. Observers- design of full order observer.
+
+Module 2. (9Hrs)
+
+Non-linear systems – Characteristics – Phase plane analysis – linearization and stability of equilibrium points – Iscoline method – limit cycles of phase plane – stability of limit cycles.
+
+Module 3.(9Hrs)
+
+Describing function method– Harmonic linearization, describing function of nonlinear systems(On-Off, saturation and dead-zone only)-Analysis of nonlinear systems using describing function. Limit cycles’ amplitude and frequency – Stability of non-linear systems – Lyapunov’s method for non-linear system – Popov’s criterion.
+
+Module 4. (9Hrs)
+
+Discrete time systems – Sampling theorem – sample and hold circuits and data reconstruction – Z-transforms – inverse Z transforms – pulse transfer function – state variables – description of discrete time systems – time domain analysis – stability using Jury’s tests and Schurcohn method.
+
+Module 5. (9Hrs)
+
+Computer control of industrial processes(Basic Concepts only) – Control hierarchies for plant level automation – Microprocessor/microcontroller/DSP-based control.
+
+Programmable logic controllers –Principle of operation- Architecture. Introduction to PLC programming –symbols used in ladder diagrams-AND,OR,NOR,XOR,Latch operations, Illustrative example of a motor control using PLC.
+
+PC-based control – Direct Digital control (Basic concept only). Distributed Digital control (Basic Concept only) .
+
+
+
+Text Books:
+
+1.  K.P. Mohandas, Modern Control Engineering, Sanguine Technical Publishers.
+
+2	S.Hassan Saeed, Automatic Control Systems. Katson Books 
+
+3	M.N. Bandyopadhay, Control Engineering-Theory and Practice, PHI. 
+ 
+Reference:
+
+1  Alberto Isidori – Non-linear control systems
+
+2.	S. Wiggins – Introduction to applied non-linear dynamical systems and chaos 
+3.	Gene. F. Franklin and David Powel – Digital control of dynamic systems,Pearson. 
+
+4.	Benjamin .C. Kuo – Digital control systems 
+
+5.	Digital Control Engineering-Analysis and Design, M.Sami Sadali, Elsevier 
+
+6.	M. Gopal – Digital control and state variable methods,TMH 
+
+7.	Stefani,Shahian,Savant and Hostetter, Design of feedback Control Systems, Oxford University Press. 
+
+8.	Krishna Kant , Computer Based Industrial Control ,PHI(Module 5) 
+
+9.	S.K. Singh, Process Control, Concepts, Dynamics and Applications, PHI.(Module 5) 
+
+10.	W.Bolton – Instrumentation and control systems, Elsevier(Module 5) 

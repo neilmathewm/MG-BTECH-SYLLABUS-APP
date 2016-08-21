@@ -1,0 +1,43 @@
+CE010 606L01 ADVANCED SURVEYING
+
+(ELECTIVE I)
+Teaching Scheme	Credit:4
+
+2 hours lecture and 2 hours tutorial per week.
+
+Objective:
+
+To make the students aware of the advanced methods of surveying.
+
+Module 1(12 Hours)
+
+Total station surveying-study of instrument-measurement of parameters-methods of surveying-transferring data-software’s-auto plotter-plotting (assignment).
+
+Module 2 (12 Hours)
+
+Arial photogrammetry: Definition- types of photographs- geometry of photographs – parallax - pair of photographs- height determination- flight planning- stereoscopy.
+
+Module 3 (12 Hours)
+
+Remote sensing: Introduction and definition of remote sensing terminology- principles and methods of remote sensing- electro-magnetic
+radiation and spectrum- radiation sources-interference- atmospheric effects on
+remote sensing- atmospheric window –energy interaction with surface features-different types of platforms- sensors and their characteristics-orbital parameters of a
+satellite- multi concepts in remote sensing.
+
+Module 4 (12 Hours)
+
+Interpretation of images: Aerial photo interpretation – basic elements -techniques of photo interpretation- application of aerial photo interpretation-photographs versus maps- interpretation of satellite images- ground truth
+collection and interpretation and verification- advantages of multi date and multi band images.
+
+Module 5 (12 Hours)
+
+Applications: Applications in water resources management- land use mapping and monitoring- soil sciences- geology- agriculture- forestry - oceanography.
+
+References
+
+1.	Thomas M. Lillesand & Raiph W. Kiefer, “Remote sensing and image interpretation”, John Wiley Sons. 
+2.	Floyd F. Sabins, “Remote sensing principles and interpretation”, Freeman and company. 
+3.	Campbell J. B, “Introduction to remote sensing”, The Guilford press, London. 
+4.	Curran P.J., “Principles of remote sensing”, Longman, London. 
+5.	Engmen E.T and Gurnay R. J.,”Remote sensing in hydrology”, Chapman and Hall. 
+6.	Wolf P.R., “Elements of photogrammetry”, McGraw Hills. 

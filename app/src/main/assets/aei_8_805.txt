@@ -1,0 +1,55 @@
+AI010 805 G01
+
+Total quality management
+(Common to EI 010 805 G02 and IC 010 805 G03)
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+
+Objectives:
+
+1.	To understand the Total Quality Management concept and principles and the various tools available to achieve Total Quality Management. 
+2.	To understand the statistical approach for quality control. 
+3.	To create an awareness about the ISO and QS certification process and its need for the industries. 
+
+Module 1 Introduction
+
+Definition of Quality, Dimensions of Quality, Quality Planning, Quality costs – Analysis Techniques for Quality Costs, Basic concepts of Total Quality Management, Historical Review, Principles of TQM, Leadership – Concepts, Role of Senior Management, Quality Council, Quality Statements, Strategic Planning, Deming Philosophy, Barriers to TQM Implementation.
+
+Module 2 TQM Principles
+
+Customer satisfaction – Customer Perception of Quality, Customer Complaints, Service Quality, Customer Retention, Employee Involvement – Motivation, Empowerment, Teams, Recognition and Reward, Performance Appraisal, Benefits, Continuous Process Improvement – Juran Trilogy, PDSA Cycle, 5S, Kaizen, Supplier Partnership – Partnering, sourcing, Supplier Selection, Supplier Rating, Relationship Development, Performance Measures – Basic Concepts, Strategy, Performance Measure.
+
+Module 3
+
+Statistical Process Control (SPC)
+The seven tools of quality, Statistical Fundamentals – Measures of central Tendency and Dispersion, Population and Sample, Normal Curve, Control Charts for variables and attributes, Process capability, Concept of six sigma, New seven Management tools.
+
+Module 4
+
+TQM Tools
+Benchmarking – Reasons to Benchmark, Benchmarking Process, Quality Function Deployment (QFD) – House of Quality, QFD Process, Benefits, Taguchi Quality Loss Function, Total Productive Maintenance (TPM) – Concept, Improvement Needs, FMEA – Stages of FMEA.
+ 
+
+
+Module 5
+ 
+Quality Systems
+
+Need for ISO 9000 and Other Quality Systems, ISO 9000:2000 Quality System –Elements, Implementation of Quality System, Documentation, Quality Auditing, QS 9000, ISO 14000 – Concept, Requirements and Benefits.
+
+
+TEXT BOOK
+
+1. Dale H.Besterfiled, et al., Total Quality Management, Pearson Education, Inc. 2003. (Indian reprint 2004). ISBN 81-297-0260-6.
+
+REFERENCE BOOKS
+
+1.	James R.Evans & William M.Lidsay, The Management and Control of Quality, (5th Edition), South-Western (Thomson Learning), 2002 (ISBN 0-324-06680-5). 
+2.	Feigenbaum.A.V. “Total Quality Management, McGraw Hill, 1991. 
+3.	Oakland.J.S. “Total Quality Management Butterworth – Hcinemann Ltd., Oxford. 1989. 
+4.	Narayana V. and Sreenivasan, N.S. Quality Management – Concepts and Tasks, New Age International 1996. 
+5.	Zeiri. “Total Quality Management for Engineers Wood Head Publishers, 1991. 

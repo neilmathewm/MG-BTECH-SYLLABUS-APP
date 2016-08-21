@@ -1,0 +1,45 @@
+IT010 505: Language Translators
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To understand the different stages of the process of programming language translation 
+
+Module I (10 hours)
+
+Introduction to programming language translation - Design of Interpreters, Incremental Compilers, assemblers, macro processors, linkers and loaders (Basic Concepts Only) Structure of a compiler- Analysis/Synthesis model of compilation, phases of a compiler, compiler construction tools Lexical Analysis- Interface with input, parser and symbol table, token, lexeme and patterns, difficulties in lexical analysis, error reporting and implementation, Specification and recognition of tokens- Regular Expressions, Regular definitions, Transition diagrams- LEX.
+
+Module II (12 hours)
+
+Syntax Analysis- Compile time error handling- Error detection, reporting, recovery and repair Context free grammars-ambiguity, associativity, precedence Top down parsing- Recursive descent parsing , transformation on the grammars Predictive parsing-simple LL(1) grammar Bottom up parsing- Operator precedence grammars, LR parsers - LR(0), SLR(1), LALR(1) YACC.
+
+Module III (14 hours)
+
+Syntax Directed Translation- Syntax directed definitions, Inherited and synthesized attribute, dependency graph, e valuation order, bottom up and top down evaluation of attributes, L- and S- attributed definitions Type Checking- Type system, type expressions, structural and name equivalence of types, type conversion, overloaded functions and operators, polymorphic functions Run Time Environments- Storage organisation, activation tree, activation record, parameter passing, symbol table, dynamic storage allocation
+
+Module IV (12 hours)
+
+Intermediate Code Generation- Intermediate representations, translation of declarations, assignments, intermediate code generation for control flow, boolean expressions and procedure calls, implementation issues Code Generation and Instruction Selection- Issues, basic blocks and flow graphs, register allocation, code generation DAG representation of programs- Code generation from DAGs, peephole optimization, code generator generators, specifications of machine
+
+Module V (12 hours)
+
+Code Optimization- Sources of optimizations, Optimization of basic blocks, Loops in flow graphs, global dataflow analysis, Iterative solution of data-flow equations, Code improving transformations, dealing with aliases, dataflow analysis of structured flow graphs.
+ 
+
+Text Books
+
+1.	Aho A.V.,Sethi R, and Ullman J.D. Compilers: Principles, Techniques, and Tools,
+Addison-Wesley
+
+Reference Books
+
+1.	V Raghavan, “Priniples of Compiler Design”,Tata McGraw Hill, India, 2010 
+2.	Allen Holub, “Compiler Design in C”, Prentice Hall of India, 1993 
+3.	Arthur B. Pyster, “Compiler design and construction: tools and techniques with C and Pascal”, 2nd Edition, Van Nostrand Reinhold Co. New York, NY, USA 
+
+4.	Steven S. Muchnick, “Advanced Compiler Design & Implementation”, Morgan Kaufmann Pulishers, 2000 
+5.	Dhamdhere, “System Programming & Operating Systems”, 2nd edition, Tata McGraw Hill, India 
+ 
+

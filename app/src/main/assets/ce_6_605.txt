@@ -1,0 +1,45 @@
+CE010 605 WATER RESOURCES ENGINEERING
+
+Teaching scheme:	Credits:4
+3 hours lecture and 1 hour tutorial per week
+
+Objective :
+
+Students are expected to realize the importance of water resources and its application in irrigation engineering.
+
+Module 1 (15 hours)
+
+Irrigation: Definition-necessity of irrigation - environmental effects of irrigation
+- sources of water - irrigation systems- lift and flow irrigation – modes of irrigation - layout of irrigation schemes -historical development of irrigation in India through ages. Soil-water-plant relation – water requirement for crop -optimum moisture for crop growth - depth of water and frequency of irrigation -crop seasons and important crops in India. Crop period and base period - duty,delta and their relationship - factors affecting duty - commanded areas and intensity of irrigation. Consumptive use of water - evapotranspiration -determination of consumptive use - irrigation efficiencies.
+
+Module 2 (15 hours)
+
+Basic concepts of hydrology: Hydrological cycle and its components - rainfall - rain gauge- mean precipitation over a catchment area - run off - factors affecting runoff - hydrograph - direct run off and base flow - unit hydrograph - S. hydrograph – applications of unit hydrograph.
+Estimation of runoff: Empirical formula, infiltration method, rational method - flood estimation - flood frequency, unit hydrograph method and empirical formula.
+
+Module 3 (15 hours)
+
+Ground water: Definitions- porosity - specific yield - specific retention - storage coefficient-coefficient of permeability and transmissibility. Ground water velocity- Darcy's equation - flow towards wells - Dupit's theory of aquifers. Wells-shallow wells - deep wells - yield of an open well - constant level pumping
+test and recuperation test - tube wells - strainer, cavity and slotted tube wells- factors governing the selection of site and type of tube wells. Infiltration galleries and wells.
+
+Module 4 (15 hours)
+
+Flow irrigation: canal system - classification of canals and their alignment - requirements of a good distribution system-balancing depth - section of canal. Design of canals in alluvial soils - silt theories - non silting and non scouring velocity. Kennedy's theory - Lacey's theory - design of unlined canal using the two theories in alluvial soils - bed load and suspended load - canal outlets - requirements of good canal outlets - non modular - semi modular - modular outlets.
+
+Module 5 (12 hours )
+
+Reservoir planning: Investigation - selection of site - storage zones in a
+ 
+reservoir - mass inflow curve - demand curve - calculation of reservoir capacity and safe yield from mass inflow curve - reservoir sedimentation - reservoir sediment control - single purpose reservoirs - multi purpose reservoirs - useful life of a reservoir. River training works: guide banks, groynes and marginal bunds
+
+– flood control - causes - methods of flood control - principles of flood routing. Soil conservation: water logging and its control - reclamation of salt affected land.
+
+References
+
+1.	P.M.Modi, Irrigation-water recourses and water power, Standard book house, Delhi. 
+2.	S.K Garg, Irrigation and hydraulic structures, Khanna Publishers, Delhi 
+3.	R.K.Linsley, M.A.Kholar&J.L.H.Paulhur, Hydrology for Engineers, Mc Grawhill bookco., New York. 
+4.	Bharat Singer, Fundamentals of Irrigation Engineering. 
+5.	V.B.Priyani, Irrigation and Waterpower Engg, Charota Book stall Anand. 
+6.	Dr.B.C.Punmia&Dr.Pande.B.B.Lal, Irrigation & Water Power Engineering, Laxmi Publications 
+ 

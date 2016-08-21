@@ -1,0 +1,38 @@
+EC010 507 DIGITAL ELECTRONICS LAB
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week.
+
+Objectives
+
+•	To provide experience on design, testing, and realization of few digital circuits used. 
+
+•	To understand basic concepts of memories, decoders etc. 
+
+
+LIST OF EXPERIMENTS:-
+
+1.	Study of Logic Gates: Truth-table verification of OR, AND, NOT, XOR, NAND and NOR gates. 
+
+2.	Implementation of the given Boolean function using logic gates in both SOP and POS forms. 
+
+3.	Design and Realization of half, full adder or subtractor using basic gates and universal gates. 
+
+4.	Flip Flops: Truth-table verification of JK Master Slave FF, T and D FF. 
+
+5.	Asynchronous Counter: Realization of 4-bit up counter and Mod-N counters. 
+
+6.	Synchronous Counter: Realization of 4-bit up/down counter and Mod-N counter. 
+
+7.	Shift Register: Study of shift right, SIPO, SISO, PIPO, PISO and shift left operations 
+
+8.	Ring counter and Johnson Counter. 
+
+9.	Design examples using Multiplexer and De multiplexer. 
+
+10.	LED Display: Use of BCD to 7 Segment decoder / driver chip to drive LED display 
+
+11.	Static and Dynamic Characteristic of NAND gate (both TTL and MOS) 
+
+Mini Project based on above experiments.

@@ -1,0 +1,48 @@
+AI010 504
+
+DATA ACQUISITION SYSTEM
+Credits 4 3+1+0
+
+Objectives:
+
+1.	To help students get an awareness of modern data acquisition systems. 
+2.	To help students understand different types of sensors / transducers. 
+3.	To help students understand the elements of data acquisition system, and their selection. 
+4.	To help students understand how to do error budgeting. 
+
+
+Module 1
+
+An overview of data acquisition systems: Need for data acquisition - types of signals and signal information - advantage of handling digital data in comparison with analogue data; simplified block diagram: elements of a typical data acquisition system.
+
+Module 2
+
+Sensors: response parameters – selection criteria including functional specifications, environmental specifications and physical specifications – resistive, capacitive, and inductive sensors; temperature sensors; position sensors, displacement sensors, speed sensors; force sensors pressure sensors; vibration sensors, acceleration sensors; proximity sensors; flow sensors, flow-rate sensors; liquid-level sensors, humidity sensors.
+
+Module 3
+
+Signal conditioning units: functions including gain, excitation for sensors, linearization and filtering– single-ended and differential measurements - charge to voltage conversion
+– programmability of gain – selection of filters based on amplitude response and phase response requirements – shielding and guarding –
+
+Module 4
+
+Analogue to digital and digital to analogue converters: need for A/D converters – sampling rate and aliasing error- anti aliasing filter requirements - error estimation considering filter order - principle and features of digital ramp ADC, successive approximation ADC, flash ADC.
+
+Module 5
+
+Multiplexing and demultiplexing: basic concepts of time division multiplexing of analogue and digital data: conventional time division multiplexing, bit interleaved and byte interleaved multiplexing.
+Error budgeting and apportioning: rss error – rms error – system error estimate – error budgeting and apportioning total error among system elements.
+
+Text Books:
+ 
+1.	 Joseph J. Carr, Data acquisition and control: microcomputer applications for scientists and engineers, Tab Professional and Reference Books. 
+
+2.	 V.U.Bakshi U.A.Bakshi, Measurements And Instrumentation, Technical Publications. 
+
+References:
+
+3.	H. Rosemary Taylor, Data Acquisition for Sensor Systems, Chapman & Hall. 
+
+4.	John Park, Steve Mackay, Data Acquisition for Instrumentation and Control Systems; Elsevier 
+5.	Paul Horowitz and Hill, The Art of Electronics, Cambridge. 
+ 

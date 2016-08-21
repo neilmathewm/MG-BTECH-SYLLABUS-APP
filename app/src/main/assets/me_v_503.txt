@@ -1,0 +1,48 @@
+ME010 503: Advanced Mechanics of Materials
+
+(Common with PE010 503)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+1.	To impart concepts of stress and strain analysis in a solid. 
+
+2.	To study the methodologies in theory of elasticity at a basic level. 
+3.	To acquaint with energy methods to solve structural problems. 
+
+Module I (12 hours)
+
+Basic equations of Elasticity, Stress at a point with respect to a plane - normal and tangential components of stress - stress tensor - Cauchy’s equations - stress transformation - principal stresses and planes - strain at a point - strain tensor - analogy between stress and strain tensors - constitutive equations - generalized Hooke’s law - relation among elastic constants – equations of equilibrium -strain-displacement relations –
+
+Module II (12 hours)
+
+Compatibility conditions - boundary conditions - Saint Venant’s principle for end effects –uniqueness condition. 2-D problems in elasticity. Plane stress and plane strain problems – Airy’s stress function – solutions by polynomial method – solutions for bending of a cantilever with an end load and bending of a beam under uniform load.
+
+Module III (12 hours)
+
+Equations in polar coordinates - Lame’s problem - stress concentration problem of a small hole in a large plate. Axisymmetric problems - thick cylinders - interference fit - rotating discs. Special problems in bending: Unsymmetrical bending - shear center - curved beams with circular and rectangular cross-section
+
+Module IV (12 hours)
+
+Energy methods in elasticity: Strain energy of deformation - special cases of a body subjected to concentrated loads, due to axial force, shear force, bending moment and torque – reciprocal relation -Maxwell reciprocal theorem - Castigliano’s first and second theorems - virtual work principle -minimum potential energy theorem - complementary energy
+
+Module V (12 hours)
+
+Torsion of non-circular bars: Saint Venant’s theory - Prandtle’s method - solutions for circular and elliptical cross-sections - membrane analogy - torsion of thin walled open and closed sections- shear flow
+
+Text Books
+
+1.	L. S. Sreenath, Advanced Mechanics of Solids, McGraw Hill 
+2.	S. M. A. Kazimi, Solid Mechanics, McGraw Hill 
+
+3.	S. P. Timoshenko, J. N. Goodier, Theory of elasticity, McGraw Hill 
+
+Reference Books
+
+1.	J. P. Den Hartog, Advance Strength of Materials, McGraw Hill 
+
+2.	C. K. Wang, Applied Elasticity, McGraw Hill 
+ 

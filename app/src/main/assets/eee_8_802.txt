@@ -1,0 +1,65 @@
+
+EE 010 802: Switchgear and Protection
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours Tutorial per week
+
+Objectives
+
+•	To develop the understanding of protection in power systems. 
+
+Module I (12 hours)
+
+Switch Gear: Definition And Terminology, Protective Gear and Control Gear, Basics of Switch Gear-Contactors, Isolators, Fuses, Earthling switches and Circuit Breakers
+
+Circuit Breakers: Insulating fluid ,Properties of insulating and arc quenching medium ,initiation of arc in circuit breakers, arc interruption , current chopping and resistance switching, capacitive current breaking, restriking and recovery voltage, main parts of a circuit breaker, Rating of alternating current circuit breakers, DC circuit breakers. Bulk oil circuit breakers – Minimum Oil circuit breakers -Vacuum circuit breakers- SF6 Gas circuit breakers constructional details, principle of operation advantages and disadvantages
+
+Module II (12 hours)
+
+Structure of a power system, protective zone, primary and back up protection, basic requirements, protective schemes. Classification of protective relays –Induction relays – operating principle- constructional details and characteristics, thermal relays, transducer relays, electronic relays, classification based on function.
+
+Protective schemes- over current relaying, instantaneous over current relays, time delayed relays ,definite time over current relays ,inverse time over current relays, IDMT relays and relay coordination .Differential relays circulating current differential relays and voltage balance differential relays, Biased percentage differential relays. Directional over current and directional power relays. Distance relays –Impedance relays –reactance relays and mho type relays- theory and applications.
+
+Module III (12 hours)
+
+Static relays –static relay components-static over current relays - static distance relays,-static differential relays – static earth fault relays-static polyphase relays
+
+Microprocessor based relays- over current, earth fault, impedance, reactance and Mho relay-Application of microprocessor based relays. Relay testing
+
+Module IV (12 hours)
+
+Generator protection – faults in generators –stator protection –rotor protection –miscellaneous protections .Conventional protection of generators. Motor Protection –stator protection- rotor protection – overload protection –unbalance and single phasing protection-under voltage and reverse phase protection-protection for loss of synchronism
+
+Transformer protection-Faults in transformers-differential protection –over current and earth fault protection –Bucholz relay. Protection of feeders - Radial feeders-parallel feeders - ring mains-differential pilot protection –Merz price protection –Translay system. Protection of transmission lines-definite time and time –distance protection-phase and earth fault protection-carrier current protection
+
+Module V (12 hours)
+
+Over voltages in power systems –Power frequency over voltages-Switching over voltages causes of over voltages
+
+Protection against over voltages- surge arrestors .Wave propagation in Transmission lines and cables- transmitted and reflected waves-surge impedance. Insulation coordination
+ 
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+60% -  Tests (minimum 2)
+
+20% - Assignments (minimum 2) such as home work, problem solving, group discussions, quiz, literature survey, seminar, term-project, software exercises, etc.
+
+20% -  Regularity in the class
+
+
+
+Text Books
+
+1. Switch Gear and Power system Protection :Ravindra P Singh, Tata Mc Graw Hill
+
+2. Switch Gear and Power System Protection : Badri Ram D N Viswakarma, Tata Mc Graw Hill
+
+Reference Books
+
+1. Power System Protection and Switchgear: Ravindranath and Chander, New Age Int’l 2. Electrical Power Systems: C. L. Wadhwa, New Age Int’l
+3. A Course in Electrical Power Systems: Sony, Gupta, Bhatnagar
+
+4. Elements of Power System Analysis: William D. Stevenson, Tata Mc Graw Hill 5. Traveling Waves on Transmission Systems: Bewsley L. V.
+6. Power System Protection: M. A Date, B. Oza and N.C Nair, Bharati Prakashan New Age International

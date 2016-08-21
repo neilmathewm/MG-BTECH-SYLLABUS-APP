@@ -1,0 +1,38 @@
+ME010 408  STRENGTH OF MATERIALS LAB
+
+(Common with PE010 307 and AU010 408)
+
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objective: To study properties of various materials
+
+List of Experiments
+
+1.	Tests on springs (open and close coiled) 
+
+2.	Bending Test on Wooden Beams using U. T. M. 
+3.	Verification of Clerk. Maxwell's Law of reciprocal deflection and Determination of Youngs modulus’E ‘for steel. 
+4.	Torsion Pendulum (M.S. wires. Aluminum wires and brass wires) 
+5.	Tension test using U. T. M. on M. S. Rod, torsteel and High Tensile steel. 
+6.	Torsion Test on M. S. Rod. 
+7.	Shear Test on M.S. Rod. 
+8.	Fatigue Test 
+9.	Impact Test (Izod and Charpy) 
+10.	Hardness Test (Brinell, Vicker’s and Rebound) 
+11.	Strut Test. 
+
+Note
+
+All tests should be done as per relevant BIS.
+
+References
+
+1.	Timoshenko.S.P, Strength of Materials, Part-1, D.Van Nostrand company, Inc.Newyork. 
+2.	Bansal R.K., Strength of Materials, Lakshmi Publications, New Delhi. 
+3.	Bhavikatti S.S , Strength of Materials, Vikas Publishing House (P) Ltd. 
+4.	D.S. Prakash Rao, Strength of Materials, Vol. I, University Press (India) Ltd. 
+5.	Popov E.P., Engineering Mechanics of solids, Prentice Hall of India, New Deihi. 
+6.	Punmia B.C, Strength of Materials and Mechanics of structures, Vol.1, Lakshmi Publications, New Delhi. 

@@ -1,0 +1,46 @@
+CS010 706L02: DATA MINING AND DATA WAREHOUSING
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To impart an introduction to Data Mining. 
+
+•	To develop basic knowledge of how data is transformed to Data Warehouses . 
+
+
+Module I (12 hours)
+
+Data Mining- Data Mining Funtionalities -Classification of Data Mining Systems-Data Mining Task Primitives- Major Issues in Data Mining
+Data Preprocessing- Descriptive Data Summarization- Data Cleaning- Data Integration and Transformation- Data Reduction- Data Discretization and Concept Hierarchy Generation
+
+Module II	(14 hours)
+
+Data Warehouse- A Multidimensional Data Model- Data Warehouse Architecture- Data Warehouse Implementation
+
+Data Cube Computation and Data Generalization- Efficient methods for Data Cube Computation- Data Cube and OLAP Technology- Attribute Oriented Induction
+
+Module III    (10 hours)
+
+Mining Frequent Patterns-Associations- Correlations-Basic Concepts-Efficient and Scalable Frequent Itemset Mining methods- Mining various kinds of Association Rules- From Association Mining to Correlation Analysis- Constraint Based Association Mining.
+
+Module IV	(12 hours)
+
+Classification and Prediction- Issues regarding Classification and Prediction- Classification by Decision Tree Induction- Bayesian Classification – Rule Based Classification-Classification by Backpropagation- Support Vector Machines- Classification by Association Rule Analysis- Learning from Neighbors- Prediction- Accuracy and Error measures-Evaluating the accuracy of a Predictor- Ensemble methods- Model Selection.
+
+Module V	(12 hours)
+
+Cluster Analysis- Types of Data in Cluster Analysis- Catagorization of Major Clustering methods- Partitioning methods- Hierarchical methods- Density based methods- Grid based methods- Model based Clustering methods- Clustering High Dimensional Data- Constraint based Cluster Analysis- Outlier analysis
+
+Reference Books
+1)	Jiawei Han, Micheline Kamber, Data Mining Concepts and Techniques, 2nd edtn. , Elsevier New Delhi 2010 
+
+2)	Alex Berson, Stephen J. Smith, Data Warehousing, Data Mining & OLAP Tata McGraw-Hill Publishing Company Limited, New Delhi, 2008 
+
+3)	Pieter Adriaans, Dolf Zantinge, Data Mining, Pearson Education Ltd., New Delhi, 2008 
+
+4)	Thomas W Miller, Data and Text Mining, A Business Applications Approach, Pearson Education Ltd., New Delhi, 2008 
+5)	Galit Shmueli, Nitin R. Patel, Peter C. Bruce, Data Mining for Business Intelligence, 
+Wiley India Pvt. Ltd.,New Delhi 2009.

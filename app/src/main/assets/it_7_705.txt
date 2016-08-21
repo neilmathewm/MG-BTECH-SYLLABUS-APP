@@ -1,0 +1,48 @@
+IT010 705 WEB APPLICATIONS DEVELOPMENT
+
+Teaching scheme Credits: 3 2 hours lecture and 1 hour tutorial per week
+
+
+Objective
+
+•	to familiarize with the technologies used for the devolepment of Web applications 
+
+
+Module 1	(9 hours)		
+Introduction  -  Web  architecture  -  web  application  lifecycle	-  XML	and  J2EE.
+Design	and	development   of a J2EE application   - J2EE	Layers,	Application
+Components,	J2EE  Architecture, Development methodology -	Task list for building
+J2EE Applications - database design - defining the  application - creating the interface,
+building pages, creating data access objects, validating the code..		
+Module 2	(10 hours)
+
+JDBC: Architecture - JDBC API, Retrieving and updating Data, SQL-to-Java Data
+Types, JDBC Execution Types, Metadata, Scrollable Resultsets, transaction support, Batch Statements. Servlets: Introduction to Servlets, Benefits of Servlets, use as controller in MVC, basic HTTP, servlet container, Servlets API, javax.servelet Package, Reading Servlet parameters, service method detail, HTML clients, servlet lifecycle, HTTP response header, session management, dispatching requests, Servlets with JDBC,
+web applications.
+
+Module 3	(10 hours)
+
+Java Server Pages:  Generating Dynamic Content, Using Scripting Elements, Implicit
+JSP Objects, Conditional Processing – Displaying Values, Setting attributes, Error
+Handling and Debugging, Using JavaBeans Components in JSP Pages, Sharing Data Between JSP pages -Passing Control and Data between Pages – Sharing Session and Application Data – Application Models - MVC Design.
+Module 4	(7 hours)	
+Enterprise JavaBeans : Overview,  distributed	programming, EJB framework, Session
+and entity beans, Stateless and tateful session	bean,  Bean attributes, Parts of a Bean,
+container-managed persistence (CMP) and bean managed - lifecycle of EJB
+
+Module 5	(9 hours)		
+java  message  service  (JMS)  and message  driven  beans	(MDB),	distributed
+programming  services,  CORBA  and  RMI  -  Transaction management, Security,
+deployment, personal  roles  for EJB  Development, building	session beans - creating
+session beans - Entity beans.		
+ 
+Reference Book
+
+1.	J2EE UNLEASHED – Joseph J. Bambara, Paul R.Allen, Mark Ashnault, Ziyad Dean, Thomas Garben, Sherry Smith – SAMS Techmedia 
+
+2.	Java Servlet Programming, Second Edition,Jason Hunter, William Crawford,O'Reilly Media 
+
+3.	Mastering EJB(2nd Edition ) – Ed Roman, Scott Ambler, Tyler Jewell – John Wiley Publications 2003. 
+4.	The J2EE Tutorial- Stepahnie Bodoff, Dale Green, Kim Hasse, Eric Jendrock, Monica Pawlan, Beth Stearns-Pearson Education –Asia. 
+
+5.	Java Server Pages –Hans Bergsten, SPD O’Reilly 

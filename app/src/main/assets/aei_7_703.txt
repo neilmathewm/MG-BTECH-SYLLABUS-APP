@@ -1,0 +1,65 @@
+AI 010703
+
+Biomedical Instrumentation
+(Common to EI010 703 and IC010 703)
+
+Teaching scheme Credits: 3 2 hours lecture and 1 hour tutorial per week
+
+
+
+Objectives:
+
+•	To help students learn the basics of instrumentation related to biomedical systems. 
+
+•	To help students get overall knowledge of the medical equipments for diagnosis and therapy. 
+
+•	To help students understand the relative electrical safety measures and standards. 
+
+•	To help students know general concepts of imaging system. 
+
+
+
+Module 1
+
+Introduction to BMI: general perspective including objectives– an overview of safety requirements, biometrics, biomedical instruments, parameters, man-machine interface and components.
+Bioelectric potentials: human cell- action potential, generation and propagation of bio electric action potential, resting potential- relative refractory period, absolute refractory period.
+Electrodes: electrode theory- types of electrodes- biopotential electrodes- polarizable and nonpolarizable electrodes- equivalent circuit of electrode-skin interface.
+Transducers: transducers for biological applications: pressure, flow, pulse, respiration; chemical sensor- implantable transducer.
+
+Module 2
+
+Cardio vascular system: electrical activity of heart- ECG- typical ECG and characteristics- ECG as a diagnostic tool- monitoring scheme- lead system- introduction to ECG machine.
+
+Phonocardiography- principle and clinical applications.
+Biopotential Recording- noise, motion artifacts and other considerations.
+
+Module 3
+
+Nervous system: EEG- typical EEG and characteristics- significance- lead system, clinical applications, evoked potentials, introduction to EEG machine.
+
+Respiratory system: respiratory measurements - lung volume and capacities- spirometer
+
+Module 4
+
+
+Electrical safety– physiological effects of electricity, micro and macro shock hazards, electrical safety codes and standards- patient safety considerations in power distribution and equipment design.
+
+Therapeutic Equipment: pacemaker, defibrillator, dialysis machine, ventilators. Operation theatre equipment: surgical diathermy equipment- diathermic equipment using microwaves, short waves and ultra sound.
+
+Module 5
+
+Medical Imaging: computed tomography- basic principle- data accumulation scanning motions– X ray tubes- collimators- detectors- image reconstruction algorithms- display. Nuclear Magnetic Resonance: nuclear structure and angular momentum- magnetic dipole moment- resonance- RF magnetic field- Larmor frequency- free induction decay- an overview of NMR instrumentation and imaging system.
+
+
+Text Books
+
+1.	Leslie Cromwell, Fred J. Weibell and Erich A Pferffer - Biomedical Instrumentation and Measurements - Prentice Hall of India, 1990 
+2.	R.S Khandpur - Handbook of Biomedical Instrumentation - Tata Mc Graw – Hill 
+
+References
+
+1.	John G. Webster - Medical Instrumentation - Application and Design - Houghton mifflin company, Boston 
+2.	John C. Cobbold - Tranducers for Biomedical measurements - John wiley & Sons 
+3.	Jacob Kline- Hand book of Biomedical Engineering - Academic Press INC 
+ 
+

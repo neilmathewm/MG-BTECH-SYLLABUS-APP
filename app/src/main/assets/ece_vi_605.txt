@@ -1,0 +1,41 @@
+EC010 605 MICROCONTROLLERS AND APPLICATIONS
+
+Teaching scheme	Credits: 4
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+•	To study the architecture of 8051, PIC18 microcontrollers 
+•	To understand the instruction set and programming of 8051. 
+•	To know the Interfacing methods and programming using 8051. 
+
+Module I (9hours)
+
+Introduction to Microcontrollers: Comparison with Microprocessors – Harvard and Von Neumann Architectures - 80C51 microcontroller – features - internal block schematic - pin descriptions, I/O ports.
+
+Module II (9 hours)
+
+Memory organization – Programming model - Program status word - register banks - Addressing modes - instruction set –Programming examples.
+
+Module III (9 hours)
+
+Interrupts - interrupt sources - interrupt handling – programming examples. Timers operation-different modes –waveform generation- programming examples - Serial communication-different modes - programming examples.
+
+Module IV (9 hours)
+
+Interfacing of DIP switch- LED -7 segment displays -alphanumeric LCD – relay interface – Stepper motor –ADC-DAC-interfacing programs using assembly language.
+
+Module V(9 hours)
+
+Overview of PIC 18, memory organisation, CPU, registers, pipelining, instruction format, addressing modes, instruction set, interrupts, interrupt operation, resets, parallel ports, timers, CCP.
+
+References
+
+1.	Muhammad Ali Mazidi, The 8051 Microcontroller and embedded sytems, Pearson Education 2nd edition, 2006 
+
+2.	Kenneth J Ayala, The 8051 Microcontroller, Penram International, 3rd edition 2007 
+
+3.	Myke Predko, “Programming and customizing the 8051 microcontroller” Tata Mc.Graw Hill, 2004 
+
+4.	Han Way Huang, “PIC microcontroller An introduction to software and hardware interfacing”, Cenage learning 2007 
+
+5.	Muhammad Ali Mazidi “PIC microcontroller and embedded systems using assembly and C for PIC 18” , Pearson 2009 

@@ -1,0 +1,63 @@
+EC010 805 G01 TEST ENGINEERING
+
+Teaching Schemes	Credits : 4
+
+2 hrs lecture and 2 hrs tutorial per week
+
+Objectives
+
+1.	To provide an insight into multi-disciplinary approach to test engineering including test economics and management. 
+
+2.	To understand practical, concise descriptions of the methods and technologies in modern mechanical, electronics and software testing. 
+
+3.	To provide an insight into the developing interface between modern design analysis methods and testing practice. 
+
+4.	To understand why products and systems fail, which testing methods are appropriate to each stage of the product life cycle and how testing can reduce failures. 
+5.	To provide an overview of international testing regulations and standards. 
+
+Module 1 (12 hrs)
+
+Introduction: need for test, analysis and simulation, good and bad testing, test economics, managing the test programme
+
+Stress, Strength and Failure of Materials: mechanical stress and fracture, temperature effects, wear corrosion, humidity and condensation, materials and component selection
+
+Electrical and Electronics Stress, Strength and Failure: stress effects, component types and failure mechanisms, circuit and system aspects
+
+Module 2 (12 hrs)
+
+Variation and Reliability: variation in engineering, load-strength interference, time-dependent variation, multiple variations and statistical experiments, discrete variations, confidence and significance, reliability
+
+Design Analysis: Quality Function Deployment, design analysis methods, analysis methods for reliability and safety, design analysis for processes, software for design analysis, limitations of design analysis, using analysis results for test planning
+
+Module 3 (12 hrs)
+
+Development Testing Principles: functional testing, testing for reliability and durability, testing for variation, process testing, ‘Beta’ testing
+
+Materials and Systems Testing: materials, assemblies and systems, system aspects, data collection and analysis, standard test methods, test centres
+
+Testing Electronics: circuit test principles, test equipment, test data acquisition, design for test, electronic component test, EMI / EMC testing
+
+Module 4 (12 hrs)
+
+Software: software in engineering systems, software errors, preventing errors, analysis of software system design, data reliability, managing software testing
+
+Manufacturing Test: manufacturing test principles, manufacturing test economics, inspection and measurement, test methods, stress screening, electronics manufacturing test options and economics, testing electronic components, statistical process control and acceptance sampling
+Testing in Service: in-service test economics, test schedules, mechanical and systems, electronic and electrical, sotaftware, reliability centred maintenance, stress screening of repaired items, calibration
+
+
+Module 5 (12 hrs)
+
+Data Collection and Analysis: FRACAS, acceptance sampling, probability and hazard plotting, time series analysis, software for data collection and analysis, reliability demonstration and growth measurement, sources of data
+
+Laws, Regulations and Standards: safety and product liability, main regulatory agencies in USA, Europe and Asia, International standards, BIS, ISO standards, industry / technology standards
+
+Management: organization and responsibilities, procedures for test, development test programme, project test plan, training and education for test, future of test.
+
+
+References:
+
+1.	Patrick D. T. O’connor, “A Concise Guide to Cost-effective Design, Development and Manufacture”, John Wiley & Sons, 2001 
+2.	Patrick D. T. O’connor, “Practical Reliability Engineering”, Wiley India, 2008 
+3.	Naikan V. N. A., “Reliabilty Engineering and Life Testing”, PHI Learning, 2008 
+4.	Kapur K. C., Lamberson L. R., “Reliability in Engineering Design”, Wiley India, 2009 
+5.	Srinath L. S., “Reliability Engineering”, East West Press, 2005 

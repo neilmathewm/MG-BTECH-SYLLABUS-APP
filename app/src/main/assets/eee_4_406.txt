@@ -1,0 +1,63 @@
+EE 010 406: Computer Programming
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the concepts of structured programming. 
+
+•	To develop programming skill in students 
+
+Module 1 (10 hours)
+
+Introduction to C: Steps in executing a C program – C Tokens- C character set – identifiers and keywords – data types – constants and variables – declarations – type casting - operators
+– expressions – statements – special operators: comma and sizeof operators- library input-output functions.
+
+Branching control statements: if, if-else, nested if-else, switch, goto statements – conditional operators.
+
+Module 2 (14 hours)
+
+Looping control statements : ‘while’, ‘do-while’, ‘for’ statements – nested loops, break and continue statements.
+Arrays: single dimensional arrays –– declaring and initializing arrays- searching & sorting in arrays.
+Strings: Declaration – initialization.
+Multidimensional arrays -declaration – initialization - matrix operations – addition, transpose and multiplication.
+
+Module 3 (13 hours)
+
+Functions: Declaration, definition and access – passing arguments to a function – pass by value and pass by reference – recursion- - passing arrays to a function –– string handling functions – comparison, concatenation and sorting of strings.
+
+Storage classes: automatic variables – external variables – register variables – scope and life time of variables.
+Pointers: Concept of pointers– pointer declaration – operations on pointers-pointers as function arguments.
+
+Module 4 (12 hours)
+
+Structures and union: definition – declaration of structure variables- initialization – accessing structure members – array of structures – passing structure to a function – sorting of structures –– union.
+
+Dynamic memory allocation – self referential structures – basic concepts of   linked lists.
+
+Module 5 (11 hours)
+
+Files: File pointers – data files: text mode & binary mode – file operations- opening and closing – reading and writing- file handling functions.
+Command line arguments – macros – C pre processor
+
+
+Text books:
+
+1.	Balagurusamy, Programming in ANSI C , TMH 
+
+2.	K.R. Venugopal and S.R. Prasad, Mastering C , TMH 
+
+Reference Books
+
+1.	Kernighannn & Ritchie, The C programming language, Pearson Education, Asia 
+
+2.	Mullish & Cooper, The Spirit of C, An Introduction to modern programming,, Jaico Publishing Co. 
+3.	Yashwant Kanetkar, Let us C, BPB publ. 
+4.	Byron S. Gottfried, Programming with C, Schaum Outlines –,McGraw Hill. 
+5.	Ashok Kamthane, Programming with ANSI & Turbo C-, Pearson Education Asia 
+ 
+
+
+

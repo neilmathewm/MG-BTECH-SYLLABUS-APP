@@ -1,0 +1,55 @@
+EE 010 703: Drives and Control
+
+Teaching scheme Credits: 3 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To understand the characteristics of important types of electrical machines used in industry and the loads they drive, the speed control using solid state drives for energy efficient operation and the power electronics converters and control schemes required for realizing the drive systems. 
+
+Module I (15 hours)
+
+Concept of Electric Drives –parts of electrical drives – dynamics of electric drive – torque equation –Four quadrant operation of electric drives– loads with rotational and translational motion – Steady state stability- components of load torques – nature and classification of load torques – load equalization.
+
+DC motor drive systems: Methods of speed control – single phase half wave controlled drive, half and fully controlled bridge rectifier drives-continuous and discontinuous conduction – speed torque characteristics-motoring and inverter modes of operation- commutation failure-source side power factor
+
+Module II (10 hours)
+
+3 Phase fully controlled and half controlled bridge rectifier drives-motoring and inverter modes of operation. Dual converter fed DC motor drives. Chopper fed drives –single, two and four quadrant operation- motoring and regenerative breaking.
+
+Module III (10 hours)
+
+Speed Control of three phase Induction motors: Stator voltage control – principle –controller configurations –speed reversal- operation and applications-VSI based induction motor drives
+– V/f control- Constant torque and constant power operation.
+
+Module IV (12 hours)
+
+Slip speed control: Slip power recovery scheme – principle – Static Kramer’s drive – Static Scherbius’ drive. CSI fed induction motor drives– operation under fixed frequency – operation under variable frequency – Dynamic and Regenerative Braking of CSI and VSI fed Drives. Basic principle of Vector control.
+
+Module V (13 hours)
+
+Speed control of synchronous motors : Adjustable frequency operation of synchronous motors
+
+– principles of synchronous motor control – Voltage Source Inverter Drive with open loop control – self controlled synchronous motor drive using load commutated thyristor inverter. 
+Electric Traction: Important features of traction drives-Conventional DC and AC traction drives 
+
+– DC & AC traction using PWM VSI SCIM drives 
+ 
+
+
+Text Books
+
+1.	G.K Dubey, Power Semiconductor controlled Drives, Prentice hall, 1989 
+2.	Mohammad A and E.L Sharkawi, Fundamentals of Electric Drives, Thomson Learning-2005 
+
+Reference Books
+
+1.	G.K. Dubey, Fundamentals of Electrical Drives, Narosa Publishing House, New Delhi, 2005. 
+
+2.	R.Krishnan, Electric Motor Drives – Modeling, Analysis and Control, Prentice-Hall of India 2003. 
+
+3.	W. Leonhard, Control of Electrical drives, Springer-Verlag, 2005 
+4.	P.C. Sen, Thyristor DC Drives, Wiley-Interscience Publication 1984 
+5.	Joseph Vithayathil, Power Electronics-Principles and applications, TMH, 2010 
+6.	B. K. Bose, Modern Power Electronics and A.C. Drives, PHI, 2002. 
+ 

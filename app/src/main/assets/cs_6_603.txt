@@ -1,0 +1,66 @@
+CS010 603 SYSTEM SOFTWARE
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives:-
+
+To introduce the techniques adopted in the design and implementation of System
+
+Software.
+
+Module I (12 Hrs) Introduction:-
+System Software Vs. Application Software, Different System Software–, Macro Processor, Assembler, Linker, Loader, Text Editor, Debugger, Device Driver, Compiler, Interpreter[1] Database Management System, Operating System,[2]
+
+Macro Preprocessor
+
+Macro Instruction Definition and Invocation. Types of Macros – Parameterised macros, Nested macros, Recursive macros. Basic functions of Macro Preprocessor – Macro expansion, Generation of unique labels. Macro preprocessor design and Algorithm - Handling conditional Macro calls, Nested Macro calls and Recursive Macro calls.[Reference (1)] Case Study : The C Preprocessor [Web- Reference (1) ]
+
+Module - II (15 Hrs) Assembler
+Assembly Language Concepts – Mnemonic Instructions, Assembler Directives and Literals. Instruction formats and Addressing modes. Program Blocks and Control Sections. Basic Functions of Assembler. Assembler output format – Header, Text and End Records. Assembler Design – 2 Pass Assembler – Necessity of two passes and Forward reference. Algorithm for the two passes. Single Pass Assembler – Algorithm for Single Pass assembler. Handling External references
+
+– usage of Define and Refer records. Multi pass Assembler, Macro Assembler.[Reference (1)] Case Study : Microsoft Macro Assembler for MS-DOS [Reference (1), (5)] - Microsoft OBJ file format (Basic Structure and Important Records Only) [ Reference(2)].
+
+Module - III (12 Hrs)
+
+Linker and Loader
+
+Need for Linking and Loading : The absolute loader, Program Relocation, Relocating Loader, Linking external symbols. Algorithms for the two passes of a Linking Loader.[References (2),(3)] Variants of the basic model – Automatic Library Search, Linkage Editor, Dynamic Linking. [Reference(1)] Case study : UNIX ELF and Microsoft DLL (basic structure only).
+
+Module - IV (11 Hrs)
+
+Text Editors : Overview of Editing, User Interface, Editor Structure. [Reference (1)] Case Study : VI Editor (Basic ideas only)[ Reference (1)]
+Debuggers : Debugging Functions and Capabilities, Relationship with other parts of the system, Debugging Methods- By Induction, Deduction and Backtracking, . [Reference (1) ,(8)] Case Study : gdb (Basic ideas only)
+ 
+Mahatma Gandhi University
+
+
+Module - V (10 Hrs)
+
+Device Driver : Device Characteristics ,Design and anatomy, Types of device driver, General Design – Character Devices and character device drivers, Block Devices and Block device drivers. Case Study: Device Driver for the PC Speaker [References(4), (6),(7)]
+
+
+REFERENCES:
+
+1.	System Software: An Introduction to Systems Programming – Leland L. Beck, Pearson Education Asia 3rd Edition. 
+
+2.	Systems Programming and Operating Systems – D.M. Dhamdhere, Tata McGraw Hill Second Revised Edition. 
+
+3.	Systems Programming – John J. Donovan, Tata McGraw Hill Edition 1991. 
+
+4.	Writing UNIX device drivers - George Pajari -Pearson Education Asia. 
+
+5.	IBM PC Assembly Language and Programming - Peter Abel Third Edition – Prentice Hall of India 
+
+6.	Linux Device Drivers - Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman – Third Edition - O.Reilly Books 
+
+7.	Linux Kernel Internals- M. Beck, H. Bohme, M .Dziadzka, et al – Second Edition – Addison Wesley 
+
+8.	System Software – J Nithyashri –Second Edition- Tata McGraw Hill 
+
+WEB REFERENCE:
+
+1.   http://gcc.gnu.org/onlinedocs/gcc-2.95.3/cpp_1.html The C Preprocessor
+
+Note: separate subjects are provided in the syllabus in the Seventh and Fifth Semesters for the detailed discussion of the subjects marked [1] and [2] respectively.

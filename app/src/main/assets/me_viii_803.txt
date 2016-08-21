@@ -1,0 +1,64 @@
+ME 010 803  Production Engineering
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Module 1 (12 hours)
+
+Theory of metal cutting: Scenario of manufacturing process – Deformation of metals, Schmid’s law (review only) – Performance and process parameters – single point cutting tool nomenclature - attributes of each tool nomenclature - attributes of feed and tool signature on surface roughness obtainable, role of surface roughness on crack initiation - Oblique and orthogonal cutting – Mechanism of metal removal - Primary and secondary deformation shear zones - Mechanism of chip formation, card model, types of chip, curling of chips, flow lines in a chip, BUE, chip breakers, chip thickness ratio – Mechanism of orthogonal cutting: Thin zone and thick zone, Merchant’s analysis – shear angle relationship, Lee and Shaffer`s relationship, simple problems – Friction process in metal cutting: nature of sliding friction, columb`s law, adhesion theory, ploughing, sub-layer flow – Empirical determination of force component.
+
+Module 2 (12 hours)
+
+Thermal aspects of machining: Source of heat, temperature distribution pattern in chip, shear plane and work piece, effect of speed, feed and depth of cut – tool temperature measurement - Tool materials: properties of tool material, Carbon steel, HSS ( classification, structure, composition, properties) - cemented Carbides (structure, properties), indexable inserts, coated WC, cermets – alumina (ceramic), sialon, cubic Boron Nitride (cBN), diamond, diamond coated tools – Tool wear: flank and crater wear – Tool wear mechanisms: adhesion, abrasion, diffusion and fatigue – Tool life, Taylor’s equation, applications - effect of rake angle, clearance angle, chip temperature and cutting time on tool life, simple problems - Tool wear criterion: allowable wear land etc - Economics of machining – machineability of Ti, Al, Cu alloys and machineability index – cutting force (quartz crystal dynamometer) - Cutting fluids: effect of specific heat on selection of fluids, functions, classifications, specific applications.
+
+
+Module 3 (12 hours)
+
+Powder Metallurgy: Need of P/M - Powder Production methods:- Atomization, electrolysis, Reduction of oxides, Carbonyls (Process parameters, characteristics of powder produced in each method) – Powder characteristics: properties of fine powder, size, size distribution, shape, compressibility, purity etc.- Mixing – Compaction:-techniques, pressure distribution, HIP & CIP, – Mechanism of sintering, driving force, solid and liquid phase sintering - Impregnation and Infiltration Advantages, disadvantages and specific applications of P/M.
+Micromachining: Diamond turn mechanism, material removal mechanism-Magnetorheological nano-finishing process: - polishing fluid, characteristics of MRP fluid, MRF and MRAFF process.
+ 
+Mahatma Gandhi University, Kottayam
+
+
+Module 4 (12 hours)
+
+Ceramic Structures and properties: - coordination number and radius rations - AX, AmXp, AmBmX p type crystal structures – imperfections in ceramics- phase diagrams of Al2O3 – Cr2O3 and MgO- Al2O3 only – mechanical properties – mechanisms of plastic deformation – ceramic application in heat engine, ceramic armor and electronic packaging.
+
+Fundamentals of Composites: - particle reinforced composites – large particle composites - fiber reinforced composites: influence of fiber length, orientation and concentration-fiber phase – matrix phase.
+
+Module 5 (12 hours)
+
+Advanced production methods: Nontraditional machining: EDM, ECM, USM, EBM, LBM, IBM, Abrasive water jet machining (principle, process parameters, material removal mechanism, MRR, surface roughness, HAZ and applications) – Material addition process:- stereo-lithography, selective laser sintering, fused deposition modeling, laminated object manufacturing, laser engineered net-shaping, laser welding, LIGA process.
+
+TEXT BOOKS:
+
+1.	Armarego and Brown, The Machining of Metals, Prentice – Hall. 
+
+2.	Bhattacharyya, Metal Cutting Theory and Practice, Central Publishers. Wiley 
+3.	Paul. H. Black, Theory of Metal Cutting, McGraw Hill. 
+
+REFERENCES BOOKS:
+
+1.	ASM hand book Volume 16, Machining, ASM international, 1989 
+
+2.	Boothroyd Geoffrey, Fundaments of Machining and Machine Tools, Marcel Dekker, 1990. 
+3.	Brophy, Rose and Wulf, the Structure and Properties of Metals Vol.2, Wiley Eastern. 
+
+4.	Dixon and Clayton, Powder Metallurgy for Engineers, Machinery Publishing Co. London. 
+
+5.	Jain V.K., Introduction to Micromachining, Narosa publishers. 
+
+6.	Juneja B.L. Fundamentals of metal cutting and machine tools, Wiley, 1987. 
+
+7.	Komanduri R, Tool materials in Kirk Othmer Encyclopedia of chemical technology, 4th edition, volume 24, 390, Wiley, 1997. 
+
+8.	Lal G.K., Introduction to Machining Science, New Age Publishers. 
+
+9.	Machining date hand book, Volume 1 and 2, Machinability date center, Cincinnati, 1990. 
+
+10.	Shaw Milton C, Metal Cutting Principles, CBS Publishers. 
+
+11.	Trent M. Edward, Metal Cutting, Butterworth. 
+
+12.	Venkatesh V.C. and H.Chandrasekaran, Experimental techniques in metal cutting, Prentice Hall, 1987. 

@@ -1,0 +1,51 @@
+IT010 804L01  SOFTWARE TESTING
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To determine software testing objectives and criteria 
+
+•	To develop and validate a test plan 
+
+•	To prepare testing policies and standards 
+
+•	To study and use testing aids and tools 
+
+•	To measure the success of testing efforts 
+
+
+Module 1	(12 Hours)
+
+Fundamentals of Software Testing: Definitions of Testing, Essentials of Software Testing, Workbench, Test planning, Test Team Approach, Cost Aspect of Testing, Defect, Testing Methodologies, Testing Process, Configuration Management Process, Baselining, Storage of Configurable Items in Library, Configuration Management Planning, Risk Analysis.
+
+Module 2	(12 Hours)
+
+Software Verification and Validation: Methods of Verification, Types of Review, Test Designing, Validation Process, Levels of Validation, Management of Verification and Validation, V Model for Software, VV Model.
+
+Defect Management: Defect classification, Defect Management Process, Defect Life Cycle, Defect Template, Defect Management Process, Estimate Expected Impact of a Defect.
+
+Module 3	(12 Hours)
+
+Testing Techniques and Tools: Levels of Testing, Requirement Testing, Design Testing, Code Review, Unit Testing, Module Testing, Integration Testing, System Testing, Sandwich Testing, Acceptance Testing Criteria, Alpha Testing, Beta Testing, Gamma Testing, Factors Affecting Criticality of the Requirement, Software Acceptance Plan, Testing Tools.
+
+Module 4	(12 Hours)
+
+Test Planning: Test Policy, Test Plan, Quality Plan, Test Estimation, Test standards, Test Scenario, Test Cases, Test Scripts, Test File, Building Test Data, Tools to Build Test Data, Roles and Responsibilities in Testing Life Cycle, Test Progress Monitoring.
+
+Module 5	(12 Hours)
+
+Test Metrics and Test Reports: Testing Related Data, Efficiency/Productivity Data, Categories of Product/Project Test Metrics, Effectiveness of Testing, Defect Density, Defect Life, Residual Defect Density, Test Team Efficiency, Test Case Efficiency, Implementing Measurement Reporting System in an organization, Test Reports, Test Status Report, Bench Marking, Qualitative and Quantitative Data.
+
+
+
+REFERENCES
+
+1.	M.G Limaye, ”Software Testing: Principles, Techniques and Tools”, Tata McGraw Hill, New Delhi, 2009. 
+2.	Srinivasan Desikan, Gopalaswamy Ramesh, "Software Testing: Principles and Practices, Pearson Education, 2006. 
+3.	Ilene Burnstein, “Practical Software Testing”, Springer International Edition, 2003. 
+4.	Edward Kit, “Software Testing in the Real World – Improving the Process”, Pearson Education, 1995. 
+5.	Elfriede Dustin, “Effective Software Testing”, First Edition, Pearson Education, 2003. 
+6.	Renu Rajani, Pradeep Oak, “Software Testing – Effective Methods, Tools and Techniques”, Tata McGraw Hill, 2004. 
+7.	Tanres, “Introducing Software Testing”, First Edition, Pearson Education, 2003. Volume 1 and 2, 2003 

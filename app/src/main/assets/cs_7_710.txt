@@ -1,0 +1,47 @@
+CS 010 710 Project Work
+
+Teaching scheme	credits: 1
+
+1 hour practical per week
+
+Project work, in general, means design and development of a system with clearly specified objectives. The project is intended to be a challenge to intellectual and innovative abilities and to give students the opportunity to synthesize and apply the knowledge and analytical skills learned in the different disciplines.
+
+The project shall be a prototype; backed by analysis and simulation etc. No project can be deemed to be complete without having an assessment of the extent to which the objectives are met. This is to be done through proper test and evaluation, in the case of developmental work, or through proper reviews in the case of experimental investigations.
+
+•	The project work has to be started in the seventh semester and to be continued on to eighth semester. 
+
+•	Project work is to be done by student groups. Maximum of four students only are permitted in any one group. 
+
+•	Projects are expected to be proposed by the students. They may also be proposed by faculty member (Guide) or jointly by student and faculty member. 
+
+•	Students are expected to finalise project themes/titles with the assistance of an identified faculty member as project guide during the first week of the seventh semester. 
+
+The progress from concept to final implementation and testing, through problem definition and the selection of alternative solutions is monitored. Students build self confidence, demonstrate independence, and develop professionalism by successfully completing the project.
+
+Each student shall maintain a project work book. At the beginning of the project, students are required to submit a project plan in the project book. The plan should not exceed 600 words but should cover the following matters.
+
+?	Relevance of the project proposed 
+
+?	Literature survey 
+
+?	Objectives 
+
+?	Statement of how the objectives are to be tackled 
+ 
+
+minimum of 3 faculty members
+?	Time schedule 
+
+?	Cost estimate 
+
+These proposals are to be screened by the evaluation committee (EC-
+
+including the guide) constituted by the head of department, which will include a Chairman and the EC will evaluates the suitability and feasibility of the project proposal. The EC can accept, accept with modification, request a resubmission, or reject a project proposal.
+
+Every activity done as part of project work is to be recorded in the project book, as and when it is done. Project guide shall go through these records periodically, and give suggestions/comments in writing in the same book.
+
+The students have to submit an interim report, along with project work book showing details of the work carried out by him/her and a power point presentation at the end of the 7th semester to EC. The EC can accept, accept with modification, request a resubmission, or extension of the project.
+
+The student’s internal marks for project will be out of 50, in which 30 marks will be based on day to day performance assessed by the guide. Balance 20 marks will be awarded based on the presentation of the project by the students before an evaluation committee consists of a minimum of 3 faculty members including the guide.
+
+For Project, the minimum for a pass shall be 50% of the total marks assigned to the Project work.

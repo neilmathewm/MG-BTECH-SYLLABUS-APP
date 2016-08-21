@@ -1,0 +1,29 @@
+CS010 608 Mini Project
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+Objectives
+
+?	To estimate the ability of the student in transforming the theoretical knowledge studied so far into application software. 
+
+?	For enabling the students to gain experience in organisation and implementation of a small project and thus acquire the necessary confidence to carry out main project in the final year. 
+
+?	To understand and gain the knowledge of software engineering practices, so as to participate and manage large software engineering projects in future. 
+
+In this practical course, each group consisting of two/three members (four in special cases) is expected to design and develop practical solutions to real life problems related to industry, institutions and computer science research. Software life cycle should be followed during the development. The theoretical knowledge, principles and practices gained from various subjects should be applied to develop effective solutions to various computing problems. The knowledge gained during various practical subjects to work with various software tools, Designing tools, programming languages, operating systems, etc. should be utilized in various stages of development. Structured/ Object Oriented design techniques may be used for the project. Software Requirements Specification (SRS), Modeling Techniques, Design and Testing strategies should be documented properly.
+
+A committee consisting of minimum three faculty members will perform the internal assessment of the mini project. A report on mini project should be submitted for evaluation and project work should be presented and demonstrated before the panel of examiners.
+
+Internal Continuous Assessment (50 marks)
+
+40% - Design and development (30% by guide and 10% by committee)
+30% - Final result and Demonstration   (15% by guide and 15% by committee)
+20% - Report (10% by guide and 10% by committee) 10% - Regularity in the class (by guide)
+
+End Semester Examination (Maximum Marks -100)
+
+20% -  Demonstration of mini project
+
+50% -  Practical test connected with mini project
+20% -  Viva voce
+10% -  Project report

@@ -1,0 +1,53 @@
+EE 010 504: Power Electronics
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+To understand the characteristics and operational features of important power electronic devices and circuit topologies that are useful in applications demanding high energy efficiency and compact power conversion stages
+
+Module 1 (17 hours)
+
+Static switches: Uncontrolled and controlled switches. Directional voltage and current properties. Loss calculation and selection of heat sink, Snubbers. Power diodes - reverse recovery characteristics and its effects, Current and Voltage ratings. Power Transistors, Power Darlingtons, Power MOSFETS, IGBTs- Principle of operation, Static and Dynamic Performance, Safe operating area, Drive circuits.
+
+SCRs- Static and dynamic characteristics, two transistor analogy, ratings and specifications, Device protection, Gate circuit requirements, timing control and firing of thyristors, amplification and isolation of SCR gate pulses, Timing and synchronization, R, RC, UJT based firing, Diac based triggering circuit for TRIAC, Firing circuits incorporating pulse transformers and opto couplers, Single pulse and multi pulse triggering.
+
+Module 2 (15 hours)
+
+Phase controlled rectifiers: single phase half wave controlled rectifier circuit – single phase full wave controlled rectifier circuit – R, RL Loads – free wheeling – half controlled and fully controlled bridge with continuous current – Expression for output voltage – wave forms – active and reactive power – Line current distortion, displacement power factor and distortion factor, THD, effect of source inductance – line commutated inverter . Generation of gate timing pulses for single phase controlled rectifiers. 3-phase half wave and full wave controlled rectifier – expression for output voltage.
+
+Module 3 (10 hours)
+
+Choppers and cyclo converters: Voltage step down chopper- Power circuit configuration and working principle, Voltage and current relationships. Choice of filter inductance and/frequency. Voltage step up chopper- Basic principle of operation, Two quadrant and four quadrant choppers (Analysis not required) . Generation of timing pulses for a single phase chopper. Voltage and current commutation.
+
+Basic Principle of Cyclo converters: single phase and three phase. (Analysis not required).
+
+Module 4 (10 hours)
+
+Inverters: Types of Inverters-Voltage source inverters, Current Source inverters - Half bridge inverter- analysis with inductive load. Full bridge inverter- adjustment of ac frequency and ac voltage, Harmonic analysis - Principle of Sinusoidal PWM- Unipolar and Bipolar schemes - Three phase VSI-circuit configuration and switching sequence, square wave mode of operation, phase and line voltage waveforms, Sine triangle PWM.
+
+Module 5 (8 hours)
+
+Switch Mode Power Supply Systems: Switch mode regulators- Buck, Boost and Buck boost topologies- voltage and current relationships- output voltage ripple. Isolated converters (Analysis not required) Forward, fly back, push pull, half bridge and full bridge converters-basic principle of operation.
+ 
+
+Text Books
+
+1.	Joseph Vithayathil, Power Electronics-Principles and applications, TMH, 2010 
+
+2.	M.H. Rashid , Power Electronics – Circuits, Devices and Applications, PHI/Pearson 2005 
+
+Reference Books
+
+1.	Mohan, Undeland, Robins, Power Electronics- Converters, Applications and Design, 3rd Edition, John Wiley India, 2003. 
+
+2.	M. S. Jamil Asghar, Power Electronics, PHI, 2009. 
+3.	M. D. Singh, K.B Kanchandani, Power Electronics, TMH-2007 
+4.	Philip T Krein, Elements of Power Electronics, Oxford University Press, 2008. 
+5.	Jai P. Agrawal , Power Electronic Systems – Theory and Design, Pearson Education Asia, LPE, 2002 
+
+6.	6. L. Umanand, Power Electronics- Essentials and Applications, Wiley India 2009 
+ 
+

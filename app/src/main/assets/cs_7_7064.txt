@@ -1,0 +1,51 @@
+CS010 706L04 :  Digital image processing
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To learn the image fundamentals and mathematical transforms necessary for image processing. 
+
+• To learn the image  enhancement  techniques and image restoration procedures.
+
+•	To learn the image  segmentation and representation techniques. 
+
+Module I (14 hours)
+
+Digital image representation : Elements of digital image processing systems - Image digitizers & scanners - Elements of visual perception - Brightness & contrast - colour perception & processing - pixel based transformation – geometric transformation – image file formats
+
+Image sampling & Quantization - Two dimensional Sampling theorem - Reconstruction of image from its samples – Aliasing
+
+Module II (14 hours)
+
+Image Transforms : Two dimensional DFT & its properties - Walsh Transform, Hadamard Transform, Discrete Cosine Transform, Haar, Slant, and Karhunen – Loeve transforms
+
+Module III (10 hours)
+
+Image Enhancement : Point processing - Histogram processing - Spatial Filtering – image subtraction - image averaging - Enhancement in the frequency domain - colour Image processing.
+
+Module IV (12 hours)
+
+Image Restoration : Degradation model – Diagonalization of circulant matrices - Inverse filtering - Wiener filter methods – Constrained least mean square filtering
+Image Coding & Compression- basic principles Image compression: Run length coding , predictive coding ,Basics of Image compression standards:
+
+Module V (10 hours)
+
+Image analysis : Segmentation – Thresholding – point, line and edge detection – Boundary detection - Region Based segmentation - image reconstruction – radon transform – projection theorem – convolution filter back projection - Fourier reconstruction method – applications of image processing.
+ 
+
+References
+
+1.	Rafael C. Gonzalez - Richard E. Woods, Digital Image Processing, Pearson Education 
+2.	Dutta Majumdar - Digital Image Processing and Applications, PHI 
+
+3.	Madhuri A. Joshi – Digital Image Processing,PHI, New Delhi,2010 
+
+4.	Anil K. Jain - Fundamentals of Digital Image processing," Prentice Hall India, 1989. 
+
+5.	William K. Pratt - Digital Image Processing, John Wiley and sons, New delhi, 2010. 
+
+6.	S.Jayaraman, S. Esakkiarajan. T. Veerakumar- Digital Image Processing,TMH,New Delhi, 2010. 
+
+7.	Rosenfield and A. C. Kak - Digital Picture Processing, 2nd edition, Vols. 1 & 2, a. Academic Press, New York, 1982. 

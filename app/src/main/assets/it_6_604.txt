@@ -1,0 +1,57 @@
+IT 010 604 SOFTWARE ENGINEERING
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objective:
+
+•	To help students to develop skills that will enable them to construct software of 
+
+high quality – software that is reliable, and that is reasonably easy to understand, modify and maintain. 
+
+•	To foster an understanding of why these skills are important 
+
+Module 1	(10 Hours)
+
+Introduction: The Nature of Software, Software Process, Software Engineering Practice, A Generic Process Model, Prescriptive Process Models, Specialized Process Models, The Unified Process, Personal and Team Process Models, Agile Process, Extreme Programming, Agile Process Models.
+
+Module 2	(14 Hours)
+
+
+Requirements Modelling: Requirement Engineering, Eliciting Requirements, Developing Use Cases, Building the Requirements Model, Requirements Analysis, Scenario-Based Modelling, UML Models, Data Modelling Concepts, Class Based Modelling, Flow Oriented Modelling, Behaviour Model, Patterns for Requirements Modelling, Requirements Modelling for Web Applications.
+
+Module 3	(12 Hours)
+
+
+Design: The Design Process, Design Concepts, The Design Model, Software Architecture, Architectural Styles, Architectural Design, Architectural Mapping, Designing Class-Based Components, Component-Level Design, Component Based Development, User Interface Analysis and Design.
+
+Module 4	(12 Hours)
+
+
+Testing and Quality Assurance: A Strategic Approach to Software Testing, Test Strategies for Conventional Software, Test Strategies for Object-Oriented Software, Test Strategies for Web Applications, Validation Testing, System Testing, Debugging, White-Box Testing, Control Structure Testing, Black-Box Testing, Model-Based Testing, Statistical Software Quality Assurance, Software Reliability.
+
+
+Module 5	(12 Hours)
+
+
+Managing Software Project: The Management Spectrum, Process Metrics and Product Metrics, Software Measurement, Software Quality Metric, Integration of Metrics, Project Planning Process, Decomposition Techniques, Empirical Estimation Models, Project Scheduling, Risk Management.
+
+
+Text Books:
+
+1.	Roger S. Pressman ,” Software Engineering- A Practitioner’s Approach”, Seventh Edition, Mc GrawHill Higher Education, 2010. 
+2.	Pankaj Jalote ,” Software Engineering”, Narosa Publications. 
+3.	Rajib Mall, “Fundamentals of Software Engineering”, PHI learning Private Limited New Delhi, 2009. 
+
+
+References:
+
+1.	Ian Somerville, “Software Engineering “, Pearson Education Asia, 2000. 
+2.	Richard Fairly,” Software Engineering Concepts”, Tata McGraw Hill. 
+3.	Waaman S Jawadekar,” Software Engineering- A Primer”, Tata McGraw Hill. 
+4.	Ali Behforooz and Frederick J. Hudson, “Software Engineering Fundamentals”, Oxford University Press, New Delhi, 1996. 
+5.	Edward Kit, “Software Testing in the Real World”, Addition Wesley, 2000. 
+
+6.	Shari Lawrence Pfleeger, “Software Engineering theory and practice”, Second edition, Pearson Education Asia, 2001. 

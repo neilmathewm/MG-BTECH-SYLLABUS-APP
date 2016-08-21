@@ -1,0 +1,40 @@
+IT010 503: DATA COMMUNICATION
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Module 1	(12 Hours)
+
+Introduction to Data Communication-Components, Data Representation, Data Flow. Networks, Network Topologies, Protocols and Standards, Network Models, OSI Model, Layers in OSI Model, IEEE Standards – Ethernet – Token Ring – FDDI – Token Bus – Wireless LAN
+
+Module 2	(13 Hours)
+Multiplexing  -  Frequency  Division  Multiplexing  (FDM)	–  Time  Division
+Multiplexing (TDM), Synchronous Time Division Multiplexing –Statistical time Division multiplexing – Key Techniques - ASK, FSK, PSK, DPSK - Channel capacity - Shannon`s Theorem.
+
+Module 3	(13 Hours)
+
+Digital data transmission – Serial, Parallel, Synchronous, Asynchronous and Isochronous transmission. Transmission mode- Simplex - Half duplex – Full duplex, Noise- different types of noise – Basic Principles of Switching (circuit, packet, message switching)
+
+Module 4	(10 Hours)
+
+Terminal handling – Point to point, Multidrop lines. Components of computer communication – Transmission media – Guided media – Twisted pair cable, coaxial cable, fiber optic cable. Digital Subscriber Line, Cable TV Networks.
+
+Module 5		(12 Hours)
+Media Access Control – SDMA, FDMA, TDMA, CDMA – GSM – Architecture,
+Protocols,	Connection  Establishment,	Frequency  Allocation  ,  Localization,
+Handover, Security – GPRS.
+
+
+
+References
+
+1.	Kennedy,Electronic communication system - Mc Graw Hill. 
+2.	Taub & Schilling Principles of Communication System - Mc Graw Hill. 
+3.	Behurouz & Forozan Introduction to Data Communications & Networking – Mc Graw Hill. 
+4.	Jochen Schiller, Mobile Communications, 2nd edition, Person Education 
+
+5.	Fred Halsall Data Communication, Computer Networks & Open Systems - Pearson Education Asia
+6.	Vijay K. Garg Principles & Application of GSM - Pearson Education Asia 
+7.	A.S. Tanenbaum, Computer Networks - PHI 
+8.	William Stallings,Data and Computer Communication - Pearson Education Asia 

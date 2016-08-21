@@ -1,0 +1,42 @@
+CE010 701 DESIGN OF HYDRAULIC STRUCTURES
+
+Teaching scheme:	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective: Students are expected to know the details of major and minor irrigation structures and their design. A student, who successfully completes the course, should be able to carry out design of various hydraulic structures in the given field conditions.
+
+Module 1 ( 13 hours)
+
+Dams: classifications - factors governing the selection of the type of dam and site of the dam- Gravity dam: forces acting - modes of failure and stability requirements - elementary profile and practical profile - principal and shear stress - base width of elementary profile by stress and stability criteria-stresses developed in the elementary profile - low and high gravity dam – design of gravity darn (introduction only) – galleries ,joints , keys ,water stops –foundation treatment - brief description on types of spill ways.
+
+Module 2 10 hours)
+Arch dams: types of arch dams –forces acting –design methods-design of arch dams on thin cylinder theory only– central angle for min. concrete- limitations -Introduction of other methods of design - thick cylinder theory, trial load analysis and elastic theory.
+Buttress dam - types - advantages and disadvantages.
+Earthen dam - types of earth dams - causes of failure - design criteria -- phreatic line in an earth dam with horizontal drainage filter - different dam sections to suit available materials and foundation.
+Rock fill dam –materials of construction-impervious membrane type and earth core type (brief description only)
+
+Module 3 ( 13 hours)
+Diversion head works: function and component parts of diversion head works -effect of construction of weir on the regime of river- causes of failure of weirs on permeable foundation. Bligh's creep theory and its limitations - Lane's weighted creep theory - Khosla's theory and design of impermeable foundation - design of vertical drop weir - silt control devices - silt excluder, silt ejector.
+
+Module 4 ( 13 hours)
+Canal regulation works-design of head regulator and cross regulator- Canal falls-necessity and location of falls-types-design of vertical drop fall- Sarda type only and siphon well drop . (Design emphasizing the hydraulic aspects only)
+
+Module 5 ( 11 hours)
+Cross drainage works –necessity-types-design of aqueduct and syphon aqueduct. Water power engineering: Classification of hydel plants- runoff river plants, storage plants and pumped storage plants - low, medium and high head schemes -investigation and planning - fore bay – intakes - surge tanks - penstocks -powerhouse – selection of turbine-Scroll casing - draft tube – tail race- definition of gross head - operating head - effective head - firm power –secondary power- load factor, capacity factor and utilization factor.
+ 
+
+Note:
+
+Only sketches are required for all designs.
+References
+.
+1.	S. K.Garg, Irrigation and hydraulic structures, S. K.Garg, Khanna publishers 
+2.	P. M. Modi, Irrigation-water resourses and water power, Standard book house. 
+3.	B C Punmia, Pande B B Lal, Irrigation and water power engineering, Laxmi Publications 
+4	R. K. Linsley, M. A. Kholer, L. H. Paulhur, Hydrology for Engineerers, Tata Mc Graw Hill 
+5.  V. B. Priyani, Irrigation and water power Engg. , Charotar Book stall.
+6	G.L. Asawa , Irrigation and water resources Engg. ,New Age International Limited Publishers. 
+7	Sathyanarayana Murthy , Water Resources Engineering , Wiley Eastern 
+8	R.S.Varshney, S.C.Guptha, R.L.Guptha, Theory and design of irrigation Structures, Vol II, Nemchand &brothers, Roorkee. 
+ 

@@ -1,0 +1,56 @@
+ME 010 406(EE) Electrical Technology
+
+(Common with PE010 406 (EE) and AU010 406 (EE))
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+Understanding the basic working principles of DC machines Ac machines and its drives
+
+Module I (8 hours)
+
+D.C. Generator - O.C.C. – Condition for self excitation – field critical resistance – critical speed - Load characteristics of generators- Losses- power flow diagram- efficiency- condition for maximum efficiency- Application.
+
+Module II (16 hours)
+
+D.C. Motors: Back emf – speed and torque equation- starting and speed control – testing of D.C. Motors – brake test – Swinburn’s test- Performance characteristics of Shunt, Series and Compound motors. - Applications
+
+Transformer – Emf equation: No load current – equivalent circuit – regulation - efficiency. Determination of regulation and efficiency from O.C. and S.C. tests – cooling of transformer. Basic principle of 3 phase transformer - Applications
+
+Module III (13 hours)
+
+Alternators - Construction details: Type – emf equation (winding factor need not be derived)
+– synchronous impedance – regulation by emf and mmf method. Synchronous Motors: Principle of operation – method of starting.
+
+Three phase induction motor: Production of rotating magnetic field - equivalent circuit – torque equation – torque slip characteristics – no load and blocked rotor tests – starting and speed control – Application
+
+Single Phase motor: Different types - Application.
+
+Module IV (13 hours)
+
+Industrial drives – electric drives – advantages – individual drive and group drive – factors affecting choice of motor – mechanical characteristics of a.C. and D.C. motors – motors for particular application like textile mill, steel mill, paper mill, mine, hoists, crane etc. – size and rating of motor . Electric traction – Different systems of traction – comparison – track electrification – different systems – traction motor characteristics – electric braking – plugging – Dynamic and regenerative braking.
+
+Module V (10 hours)
+
+Power semiconductor devices: power diodes – SCR’s - principle of operation of SCR’s – two transistor analogy of SCR – characteristics – SCR rating (basic principle only). High frequency heating – induction and dielectric heating – resistance heating resistance welding-block schematic of resistance welding scheme.
+ 
+Text Books
+
+1.	Dr. P S Bimbra, Electrical Machinery, Khanna Publishers 
+2.	J B Gupta, Electrical Machines , S K Kataria and Sons 
+
+3.	Dr. P S Bimbra, Power Electronics, Khanna Publishers 
+
+Reference Books
+
+1.	Alexander Langsdorf A S: Theory of AC Machinery, Mc-Graw Hill 
+2.	Say M G: Performance and design of AC Machines, ELBS 
+3.	Electrical machines, Drives and Power Systems: Thoedore Wildi, Pearson Ed. 
+4.	P.C. Sen, Thyristor DC Drives, Wiley-Interscience Publication 1984 
+5.	Joseph Vithayathil, Power Electronics-Principles and applications, TMH, 2010 
+6.	B. K. Bose, Modern Power Electronics and A.C. Drives, PHI, 2002. 
+7.	G.K. Dubey, Fundamentals of Electrical Drives, Narosa Publishing House, New Delhi,2005 
+ 

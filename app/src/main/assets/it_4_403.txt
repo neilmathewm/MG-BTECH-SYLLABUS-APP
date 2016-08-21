@@ -1,0 +1,50 @@
+IT010 403: Computer Organisation and Architecture
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To give an insight into the organisation of  functional units of a computer system
+
+•	Also to give a fair idea of the architecture of a computer system
+
+.
+
+
+Module I (9 hours)
+
+Introduction- Function and structure of a computer, Functional components of a computer, Interconnection of components Performance of a computer Representation of Instructions-Machine instructions, Operands, Addressing modes, Instruction formats, Instruction sets, Instruction set architectures – CISC and RISC architectures Programming- Concepts of machine level programming, assembly level programming and high level programming.
+
+Module II (12 hours)
+
+Processing Unit- Organisation of a processor- Registers, ALU and Control unit, Data path in a CPU, Instruction cycle Arithmetic and Logic Unit- Arithmetic algorithms, Design of arithmetic unit, logic unit, status register, and accumulator Control Unit- Operations of a control unit, Design of Hardwired control unit and Microprogrammed control unit
+
+Module III (12 hours)
+
+Memory Subsystem- Semiconductor memories, Memory cells – SRAM and DRAM cells, Internal Organization of a memory chip, Organization of a memory unit, Error correction memories, Interleaved memories, Cache memory unit – Concept of cache memory, Mapping methods, Organization of a cache memory unit, Fetch and write mechanisms, Memory management unit – Concept of virtual memory, Address translation, Hardware support for memory management.
+
+Module IV (12 hours)
+
+Input/Output Subsystem- Access of I/O devices, I/O ports, I/O control mechanisms – Program controlled I/O, Interrupt controlled I/O and DMA controlled I/O, I/O interfaces – Serial port, Parallel port, PCI bus, SCSI bus, USB bus, Firewall and Infiniband, I/O peripherals – Input devices, Output devices, Secondary storage devices.
+
+Module V ( 15 hours)
+
+Parallel Organisations- Introduction to pipelining and pipeline hazards, Design issues of pipeline architecture , Instruction level parallelism, Introduction to Interconnection Network-Practical issues, Examples Multiprocessors- Characteristics, Memory organisation, Synchronization, Models of memory consistency, Issues of deadlock and scheduling, Cache and related problems, Parallel Processing Concepts.
+
+
+
+Text Books
+
+1.	Hamacher, Vranesic & Zaky -Computer Organization, , McGraw Hill 
+2.	M. Morris Mano -Digital Logic and Computer Design PHI Edition 
+3.	William Stallings -Computer Organization and Architecture, Prentice Hall. 
+
+Reference Books
+
+1.	John P. Hayes, “Computer Architecture and Organization”, Third Edition, Tata McGraw Hill, 1998. 
+2.	V.P. Heuring, H.F. Jordan, “Computer Systems Design and Architecture”, Second Edition, Pearson Education, 2004 
+
+3.	P. Pal Chaudhuri, “Computer Organisation and Design”, Third Edition, PHI,India, 2009 
+4.	Linda Null and Julia Labour, ”Computer Organisation and Architecture”, 2nd edition, Jones and Bartlett Publishers,LLC, USA 

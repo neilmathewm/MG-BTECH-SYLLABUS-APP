@@ -1,0 +1,41 @@
+CE010 706L01 BUILDING AUTOMATION AND SMART STRUCTURES
+
+( Elective II )
+Teaching Scheme	Credit:4
+
+2 hours lecture and 2 hours tutorial per week.
+
+Objective:
+
+The course is designed to give an insight into the latest developments in construction field regarding the automated building services, smart materials and their use in structures.
+
+Module 1 (14 hours)
+
+Building Automation: Introduction, Building automation in residential buildings and commercial buildings, Difference between building automation and building control, Systems in building automation and building control, Structure of building automation and control networks, Energy management functions at management level, Room automation.
+
+Module 2 (12 hours)
+
+Building service control systems: Introduction, Building Management System (BMS)-control theory, benefits, Safety systems- life safety system, access control system, smoke detection system, fire sprinkler system, Comfort systems- occupancy sensors, temperature sensors, smart glass, light control system
+
+Module 3 (12hours)
+
+Eco friendly buildings – concepts of Green building, sustainable sites, brown field development, water conservation, energy conservation, ozone depletion, eco friendly building materials and resources, indoor environment quality maintenance, new innovative building designs for eco friendliness.
+
+Module 4 (11hours)
+
+Smart materials: Introduction, Piezoelectric materials, Piezoelectric properties, Vibration control, Embedded actuators, Fiber optics, Fiber characteristics, Fiber optic strain sensors, Applications of optical fibers, Electrorheological and Magnetorheological fluids, mechanism and properties, Applications.
+
+Module 5 (11 hours)
+
+Control of structures: Control strategies and limitations, Classification of control systems, Classical control, Modern control, Optimal control and Digital control.
+
+References;
+
+1.	Clements-Croome D.J., Intelligent Buildings: Design, management and operation, Thomas Telford, London, 2004. 
+2.	Craighead G., High-rise security & fire life safety, Butterworth-Heinemann, Boston, Amsterdam, 2003. 
+3.	Atkin B., Intelligent Buildings: Application of IT and Building Automation to High Technology Construction Projects, Kogan Page, Michigan, USA, 1988. 
+ 
+4.	Shengwei Wang, Intelligent Buildings and Building Automation, Taylor & Francis, New York, 2010. 
+5.	H. Merz, T. Hansemann, C. Hübner, Building automation: communication systems with EIB/KNX, LON and BACnet, Carl Hanser Verlag, Germany, 2009. 
+6.	IGBC, Leadership in Energy and Environmental Design (LEED-INDIA) Green Building Rating System. 
+ 

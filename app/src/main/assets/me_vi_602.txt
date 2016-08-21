@@ -1,0 +1,70 @@
+ME010602: Heat and Mass Transfer
+
+(Common with AU010 602)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To provide a useful foundation and basic knowledge of the subject required for innovative work and advanced studies. 
+•	To motivate the students and to develop interest in the subject by providing information along with practical application of different formulae from an engineering point of view. 
+
+Module I (12 hours)
+
+Scope and application of heat transfer principles in engineering practice. Introduction to basic modes of heat transfer
+Conduction: Fourier law-thermal conductivity of solids, liquids and gasses- factors affecting thermal conductivity-common conducting and insulating materials. General heat conduction equation in Cartesian, cylindrical and spherical co-ordinates- one dimensional steady state conduction with and without heat generation-conduction through homogeneous and composite surfaces-plane wall, cylinders and spheres-concept of thermal resistance-contact resistance-variable thermal conductivity-critical thickness of insulation-overall heat transfer coefficient-heat transfer through corners and edges-conduction shape factor.
+
+Module II (12 hours)
+
+Convection: Elementary ideas of hydrodynamic and thermal boundary layers-Newton’s law of cooling-factors affecting heat transfer coefficient in forced and natural (free) convection heat transfer-application of dimensional analysis to free and forced convection-significance of Prandtil number, Reynold’s number, Grashof number and Nusselt number. Forced convection: Laminar and turbulent flow heat transfer in a circular pipe- Laminar and turbulent flow heat transfer in flow over a flat plate-flow across a cylinder. Natural convection: Natural convection heat transfer from a plate kept vertical and horizontal- cylinder kept vertical and horizontal -description of natural convection heat transfer from enclosed spaces. (Problems limited to using important empirical relations available in data book)
+
+Module III (12 hours)
+
+Heat transfer from extended surfaces: Governing equation and boundary conditions-straight rectangular fin-pin fin of uniform cross sectional area-circumferential fin-fin effectiveness-fin efficiency-solving problems using data book.
+
+Heat exchangers: General classification of heat exchangers according to type of energy transfer, according to flow arrangement and according to area to volume ratio-Log Mean Temperature Difference (LMTD) for parallel flow, counter flow and cross flow arrangements-calculation of heat exchanger size and flow rates from known temperatures. Effectiveness_NTU method of evaluation-solving problems using data book.
+
+Module IV (12 hours)
+
+Radiation: Nature of thermal radiation-definitions and concepts-monochromatic and total emissive power-absorptivity, reflectivity and transmissivity-definition of black, grey and real surfaces-concept of a black body-Plank’s law, Kirchoff’s law, Wein’s displacement law and Stefan-Boltzmann law-geometric factor (shape factor or configuration factor) of simple geometries. Heat exchange by radiation between black surfaces of equal, parallel and opposite black squares and discs- black rectangles perpendicular to each other having a common edge-heat exchange between infinite parallel planes of different emissivity-radiation shield ( no derivation )-simple derivations and simple problems using data book.
+ 
+
+
+
+Syllabus - B.Tech. Mechanical Engineering.
+ 
+Mahatma Gandhi University
+
+
+Module V (12 hours)
+
+Mass Transfer: Introduction to mass transfer-Fick’s law of diffusion-steady state mass diffusion of gasses and liquids through solids-convective mass transfer (elementary concepts and definitions)-analogy between heat and mass transfer-elementary problems.
+
+Condensation and boiling: Laminar film condensation on a vertical plate and horizontal tubes. Pool boiling-different regimes of pool boiling-flow patterns in flow boiling in a vertical tube. Two dimensional steady state heat conduction-governing equation and boundary conditions-application of finite difference method in solving two dimensional steady state heat conduction through a rectangular slab (method of discretisation of nodal equations only)
+Data Book:
+
+1.	C. P. Kothandaraman, S. Subramanyan, Heat and Mass Transfer Data Book, 5th ed., New Age International Publishers. 
+
+2.	A. V. Domkundwar, Dr. V. M. Domkundwar, Heat and Mass Transfer Data Book, 3rd ed., Danapat Rai & Co. 
+
+References:
+
+
+Text Books
+1.	S. P. Sukhatme, A Text Book on Heat Transfer, 4th ed.,Universities Press, Hydrabad, 2005 
+2.	S. K. Som, Introduction to Heat Transfer, PHI Learning pvt.ltd,New Delhi, 2008 
+3.	P. K. Nag, Heat Transfer, 1st ed., Tata McGraw-Hill 
+
+Reference Books
+
+1.	Frank P. Incropera, David P. Dewitt, Fundementals of Heat and Mass Transfer, 5th ed., John Wiley & Sons 
+
+2.	J. P. Holman, Heat Transfer, 9th ed., Tata McGraw Hill Education pvt.ltd., New Delhi, 2010 
+
+3.	M. Necati Ozisick, Heat Transfer A Basic Approach, McGraw Hill Book Company 
+4.	Frank Kreith, Mark S. Bohn, Principles of Heat Transfer, 5th ed , PWS Publishing Company 
+5.	S. P. Venkateshan, A First Course in Heat Transfer, Ane Books, Chennai 
+ 
+

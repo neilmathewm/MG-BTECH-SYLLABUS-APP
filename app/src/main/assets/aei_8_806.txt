@@ -1,0 +1,54 @@
+AI010 806
+
+Process Control Lab
+
+Teaching Scheme:
+
+3 hours practical per week	Credits:2
+
+
+1.	Electronic PID controller and implementation of PID algorithm using high level language 
+
+2.	Performance Evaluation of Temperature process control station. 
+
+3.	Performance Evaluation of Pressure process control station 
+
+4.	Performance Evaluation of Flow process control station 
+
+5.	Performance Evaluation of Level process control station 
+
+6.	Characteristics of Differential Pressure Transmitter and Rotameter 
+
+7.	Characteristics of control valve, with and without positioner 
+
+8.	Characteristics of I/P and P/I converter 
+
+9.	Study of process control simulator 
+
+10.	Study of PLC 
+
+11.	PLC programming and implementation 
+
+12.	Control of bottle filling system using PLC 
+
+13.	Speed controller of a DC motor using PLC 
+
+14.	Liquid level control using PLC 
+
+15.	Study of Distributed Control System 
+
+MATLAB
+
+1)	Experiments using MATLAB SIMULINK package for level control in realtime. 
+
+2)	Experiments using MATLAB SIMULINK package for pressure control in realtime. 
+
+3)	Controller tuning for a process– using Ziegler-Nichols and Cohen – Coon rule 
+
+LABVIEW
+
+1)	LabVIEW Fundamentals I – Data types, Loops, Shift Registers, Case Structures, Sequence Structures, Formula Node. 
+2)	LabVIEW Fundamentals II – Arithmetic Operations, Arrays, Sub-VI, Boolean Operations, Comparison. 
+3)	Development of VI for temperature measurement-with display, and visual and sound alarms 
+4)	Development of VI for level measurement-with display, and visual and sound alarms 
+ 

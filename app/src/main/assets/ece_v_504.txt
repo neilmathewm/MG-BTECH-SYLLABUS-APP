@@ -1,0 +1,57 @@
+EC 010 504(EE) Electric Drives & Control
+
+Teaching Schedule
+
+2 hours Lecture and 2 hours tutorial /week	Credits -4
+
+Objectives:
+
+•	To understand the characteristics and operational features of important power electronic devices 
+•	Understanding the basic working principles of DC and AC machines 
+
+Module 1(10 Hours)
+
+D.C.Machines – DC Generator- Types, Open Circuit Characteristics and Load characteristics of d.c. shunt generator – Losses and efficiency. D C motor – starter – torque equation – speed torque characteristics of shunt, series and compound motors – Losses – efficiency – Brake test – Swinburne’s test.
+
+Module 2(12 Hours)
+
+A.C Machines – Transformers: transformer on no-load and load operation – phasor diagram – equivalent circuit – regulation – losses and efficiency – o.c. and s.c. tests. Three phase induction motors: types –Principle of operation-slip- torque equation – torque-slip characteristics–starters – single phase induction motors – types – working. Alternator –types- principle- emf equation – regulation by emf and mmf methods. Synchronous motor – Principle of operation.
+
+Module3(10 Hours)
+
+Power semiconductor Devices – SCR-Constructional features- Characteristics- rating and specification- Triggering circuits-protection and cooling. Construction and characteristics of power diodes, TRIAC, BJT, MOSFET and IGBT. .
+
+Module 4(14 Hours)
+
+Phase controlled Rectifiers - Operation and analysis of Single phase and multi-phase-controlled rectifiers with R, RL and back EMF load- free wheeling effect. Chopper-classification- Step down- step up- two and four quadrant operations.
+
+Inverters- Single phase and three phase bridge inverters- VSI and CSI- PWM Inverters. SMPS, UPS– principle of operation and block schematic only.
+
+Module 5(14 Hours)
+
+DC drives: Methods of Speed control of dc motors– single phase and three phase fully controlled bridge rectifier drives. Chopper fed drives: Single, Two and four quadrant chopper drives. Induction Motor drives: Stator voltage, stator frequency and V/f
+ 
+
+
+
+Control, Static rotor resistance control. Synchronous motor drives: Open loop and self controlled modes.
+
+Text Books:
+
+1	J B Gupta, Electrical Machines , S K Kataria and Sons 
+
+2	Vedam Subramaniam ,Power Semiconductor Drives –, TMH 
+
+3	Rashid Muhammad, Power Electronics: Pearson Edn. 
+
+References
+
+1.	Electrical & Electronic Technology: Hughes, Pearson Education 
+
+2.	Harish C Ray Power Electronics:, Galgotia Pub 
+
+3.	P S Bimbhra ,Power Electronics: Khanna Publishers 
+
+4.	M.D Singh and K.B Khanchandani, Power Electronics –, TMH, 1998 
+
+5.	Wildi - Electrical Machines, Drives and Power systems 6/ePearson Education 

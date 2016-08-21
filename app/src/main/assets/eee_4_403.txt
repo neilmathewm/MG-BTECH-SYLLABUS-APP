@@ -1,0 +1,61 @@
+
+EE 010 403: Linear System Analysis
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To Provide sound knowledge in the analysis of linear time invariant continuous systems 
+
+Module 1(12 Hrs)
+
+Review of system concepts –classification of systems- linear, non - linear, static, dynamic, time variant and time invariant, continuous time and discrete time, distributed and lumped parameter systems. Open loop and closed loop systems. Transfer function of linear systems. Mathematical modelling of electrical systems, operational amplifier circuits, Mechanical translational and rotational systems, electromechanical systems, linearization of nonlinear models.
+
+Module 2(12 Hrs)
+
+Block diagram representation of systems-Block diagram reduction. Signal flow graph-signal flow graph from equations. Maison’s gain formula. Construction of Signal flow graph from Block diagram and vice –versa. Modelling in State Space-state space- representation of dynamic systems.
+
+Module 3(12Hrs)
+
+Effect of parameter variation in open loop control systems, closed loop control systems, sensitivity, gain and stability.
+Time domain analysis for linear systems -response to standard inputs- type and order of a system-response of first order system to unit step, unit ramp and unit impulse signals-step response of second order systems-time domain specifications.
+
+Error analysis - steady state error and error constants- Dynamic error coefficients.
+
+Module 4(12Hrs)
+
+Concept of stability, BIBO stability. Effect of location of poles on stability. Routh- Hurwitz criterion. Relative stability analysis. Root locus- effect of addition of poles and zeros on root locus. Analysis of stability by Lyapunov’s Direct method – Concept of definiteness-Liapunov’s stability theorem, Sylvester’s theorem.
+
+Module 5(12Hrs)
+
+Network functions- network function for two port –pole and zeroes of network functions-restriction on poles and zeroes for driving point functions and transfer functions-characterization of two port networks in terms of impedance’ admittance-hybrid and transmission parameters –inter-relationship among parameter sets -inter connection of two port networks-series, parallel and cascade-ideal two port devices- ideal transformer –Gyrator-negative impedance converter.
+ 
+
+
+Text Books:
+
+1.	David .k. Cheng , Analysis of linear systems ,Oxford 
+
+2.	M. Gopal, Control Systems Principles and Design,-For Linear System Analysis & Control System, 3e,Tata McGraw Hill Education ,2008 
+
+3.	Samarajit Ghosh, Network Theory, Analysis and Synthesis, PHI, New Delhi 
+
+Reference Books
+
+1.	S. Hassan Saeed , Automatic Control Systems , Katson Books 
+
+2.	Katsuhiko Ogatta, Modern control engineering , Pearson Education 
+
+3.	Dr. S. Palani, Control Systems Engineering, 2e, Tata McGraw-Hill Education,2009 
+
+4.	Richard C. Dorf and Robert H. Bishop, Modern control systems, Pearson Education 
+
+5.	Franklin, Powell-Feedback controlof dynamic systems, Pearson Education 
+
+6.	C.T. Chen , Linear system theorey and design . 
+
+7.	D.Roy Choudhry , Modern Control Engineering-, PHI 
+
+8.	Burton T.P, Introduction to dynamic systems. 

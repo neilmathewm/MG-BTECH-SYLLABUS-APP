@@ -1,0 +1,41 @@
+CE010 708 TRANSPORTATION ENGINEERING LAB
+
+
+Teaching scheme:	Credits: 2
+
+3 hour practical per week
+
+Objective:
+
+To make the students aware of the properties of various materials used in road constructions.
+
+TEST ON SOIL
+
+1.Califormia bearing ratio method.
+TEST ON BITUMEN
+2.	Softeningpoint of Bitumen 
+3.	Ductility test on Bitumen 
+4.	Specific gravity of Bitumen 
+5.	Flash and fire point test 
+6.	Stripping value test 
+
+7.	Viscosity using Viscometer 
+
+TESTS ON ROAD AGGREGATES 
+
+8.	Aggregate crushing value test 
+9.	Impact value test 
+10.	Specific gravity test 
+11.	Shape tests - Flakiness index and elongation index 
+12.	Los angles abrasion test 
+13.	Bulk density, specific gravity, void ratio and porosity of coarse aggregate, water absorbtion. 
+TESTS ON MIXES 
+
+14.	Marshell stability value 
+15.	Determination of bitumen content by bitumen extractor. 
+
+References
+
+1.	S. K.Khanna, C. E. G. Justo, Highway engineering, Nem Chand Publications. 
+
+2.	L .R. Khadiyali, Principles and Practices of Highway Engineering, Khanna Publishers. 

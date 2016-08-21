@@ -1,0 +1,37 @@
+EC010 701 VLSI DESIGN
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 2 hours tutorial per week.
+
+Objective:	To cater the needs of students who want a comprehensive study of the principle and techniques of modern VLSI design and systems.
+
+Module 1(12 hrs)
+
+Process steps in IC fabrication: Silicon wafer preparation-Diffusion of impurities-physical mechanism-ion implantation- Annealing process- Oxidation process-lithography-Chemical Vapour Deposition -epitaxial growth –reactors-metallization-patterning-wire bonding -packaging
+
+Module 2 (12 hrs)
+
+Monolithic components: Isolation of components-junction isolation and dielectric isolation. Monolithic diodes- schottky diodes and transistors-buried layer-FET structures- JFET-MOSFET-PMOS and NMOS. Control of threshold voltage-silicon gate technology- monolithic resistors-resistor design-monolithic capacitors-design of capacitors- IC crossovers and vias.
+
+Module 3 (12 hrs)
+
+CMOS technology: CMOS structure-latch up in CMOS, CMOS circuits-combinational logic circuit-invertor- NAND-NOR-complex logic circuits, full adder circuit. CMOS transmission gate(TG)T-realization of Boolean functions using TG. Complementary Pass Transistor Logic (CPL)-CPL circuits: NAND, NOR-4 bit shifter. Basic principle of stick diagrams.
+
+Module 4 (12hrs)
+
+CMOS sequential logic circuits: SR flip flop, JK flip flop, D latch circuits. BiCMOS technology-structure-BiCMOS circuits: inverter, NAND, NOR-CMOS logic systems-scaling of MOS structures-scaling factors-effects of miniaturization.
+
+Module 5 (12hrs)
+
+Gallium Arsenide Technology: Crystal structure-doping process-channeling effect-MESFET fabrication-Comparison between Silicon and GaAs technologies. Introduction to PLA and FPGA
+
+References:
+
+1.	N Weste and Eshrangian, “Principles of CMOS VLSI Design: A system perspective”, Addison Wesley 
+2.	S M SZE, “VLSI Technology”, Mc Graw Hill 
+3.	Douglass Pucknell, “Basic VLSI design”, Prentice Hall of India. 
+4.	K R Botkar,” Integrated circuits”, Khanna Publishers 
+5.	Jan M Rabaey, Anantha Chandrakasan and Borivoje Nikolic, “Digital Integrated Circuits- a Design perspective”, Prentice Hall. 
+6.	S M Kang & Y Leblebici, “CMOS digital integrated circuits”, Mc Graw Hill. 
+ 
+

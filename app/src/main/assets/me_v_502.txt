@@ -1,0 +1,65 @@
+ME010 502 Computer Aided Design & Manufacturing
+
+(Common with PE010 604 and AU010 502)
+
+
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To provide a comprehensive concepts of the design aspects and its importance in computer assisted design and manufacture. 
+•	To examine technologies those have been developed to automate manufacturing operations. 
+Module 1 (12 hours)
+Evolution of CAD/CAM and CIM, computers and workstation, elements of interactive graphics, input/ out put display, storage devices in CAD, – networking of CAD systems - 2D Graphics: line drawing algorithms, DDA line algorithm – circle drawing, bressnham`s circle drawing algorithm– 2D Transformation: translation, rotation, scaling, reflection – clipping -3D Graphics (basic only).
+
+Module 2 (12 hours)
+
+Geometric modeling: Wire frame, surface and solid modeling - Engineering analysis; design review and evaluation, automated drafting.
+Numerical control: Need - advantages and disadvantages – classifications – Point to point, straight cut and contouring positioning - incremental and absolute systems – open loop and closed loop systems – DDA integrator and Interpolators – resolution – CNC and DNC.
+
+Programmable Logic Controllers (PLC): need – relays - logic ladder program – timers, simple problems only - Devices in N.C. systems: Driving devices - feed back devices: encoders, moire fringes, digitizer, resolver, inductosyn, and tachometer.
+
+Module 3 (12 hours)
+
+NC part programming: part programming fundamentals - manual programming – NC co-ordinate systems and axes – tape format – sequence number, preparatory functions, dimension words, speed word, feed world, tool world, miscellaneous functions – programming exercises.
+
+Computer aided part programming: concept and need of CAP – CNC languages – APT language structure: geometry commands, motion commands, postprocessor commands, compilation control commands – programming exercises – programming with interactive graphics.
+
+(At least one programming exercise should be included in the University examination)
+
+Module 4 (12 hours)
+
+Computer Aided Process Planning (CAPP): concepts; traditional and CAPP; automated process planning: process planning, general methodology of group technology, code
+ 
+
+
+
+
+Syllabus - B.Tech. Mechanical Engineering
+ 
+Mahatma Gandhi University
+
+
+structures of variant and generative process planning methods, AI in process planning, process planning software.
+
+Flexible Manufacturing Systems (FMS): Introduction, types, concepts, need and advantages of FMS - cellular and FMS - JIT and GT applied to FMS.
+
+
+Module 5 (12 hours)
+
+Robot Technology: overview, basic components - robot end effectors – sensors in robotics – control of actuators in robotic mechanisms (basic only) – control of robo joint, stepper motor, direct drive actuators – hydraulic and pneumatic systems (basic only) – robot arm kinematics, direct and inverse kinematics solution robot arm dynamics – robot applications: material transfer, machine loading and unloading, pre cutting operations, assembly, inspection and welding.
+
+TEXT BOOKS:
+
+1.	Newman and Sproull	-	Principles of interactive Graphics, McGraw – Hill.
+2.	Yoram Koren	-	Numerical control of machine tools, McGraw-Hill.
+
+REFERENCE BOOKS:
+
+1.	Craig John	-	Introduction to Robotics
+2.	Groover M.P.	-	CAD/CAM, PHI.
+3.	Hearn and Baker	-	Computer graphics (in C version), Prentice Hall.
+4.	Petruzella Frank.D.	-	Programmable logic controllers.
+5.	Jonn Craig	-	Introduction to Robotics

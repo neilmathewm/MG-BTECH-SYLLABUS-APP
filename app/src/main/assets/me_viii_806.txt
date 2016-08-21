@@ -1,0 +1,50 @@
+ME010 806 Mechanical Systems Laboratory
+
+
+List of experiments
+
+1.	Test on reciprocating air compressor 
+
+2.	Tests on blowers and rotary compressors 
+
+3.	Free vibration analysis 
+
+4.	Forced vibration analysis 
+
+5.	Balancing of reciprocating and revolving masses 
+
+6.	Assembling of mechanical systems 
+
+7.	Test on refrigeration equipment 
+
+8.	Test on air conditioning unit 
+
+9.	Determination of thermal conductivity of conducting and insulating materials 
+
+10.	Determination of emissivity of surfaces 
+
+11.	Heat flow through lagged pipes 
+
+12.	Heat flow through composite walls 
+
+13.	Determination of overall heat transfer coefficient of heat exchangers 
+
+14.	Free convection 
+
+15.	Forced convection 
+
+16.	Stefan-Boltzmann apparatus 
+
+17.	Universal governor apparatus 
+
+18.	Whirling of shafts 
+
+19.	Gyroscope 
+
+20.	Friction in hydrodynamic bearings 
+
+21.	Heat pipe 
+
+22.	Vortex tube 
+
+23.	Critical heat flux 

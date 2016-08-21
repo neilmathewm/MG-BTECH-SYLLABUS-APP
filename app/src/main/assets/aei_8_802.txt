@@ -1,0 +1,53 @@
+AI 010 802
+
+Instrumentation in Process Industries
+
+(common to EI010 802)
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives:
+
+•	To give a basic knowledge about unit operations. 
+
+•	To provide exposure to the process and instrumentation applications in different industries. 
+
+MODULE 1
+
+Basic concepts and principles of commonly used unit operations – Reactors – batch reactors – distillation towers – refrigeration units – steam boilers – furnaces – dryers – crystallizers – centrifuges – heat exchangers – pumps – compressors – evaporators – extruders.
+
+MODULE 2
+
+Instrumentaion in the Food industry : Description of the process – Measurment hardware in the food industries – Analyzers in the food industry – Valves and feeders in the food industry – Controllers and displays in the food industry – Computer applications in the food industry – Typical control systems in the food industry
+
+MODULE 3
+
+Instrumentation in the iron and steel industry: Description of the process – Measurment hardware
+
+– analyzers – valves - Controllers and displays in the iron and steel industry – Computer applications in the iron and steel industry – Typical control systems in the iron and steel industry
+
+MODULE 4
+
+Instrumentaion in the Paper industry : Description of the process – Measurment hardware in the Paper industry – Analyzers in the Paper industry – Valves and feeders in the Paper industry – Controllers and displays in the Paper industry – Computer applications in the Paper industry – Typical control systems in the Paper industry.
+
+Instrumentation in the Nuclear industy: Description of the process- Measurement hardware in the nuclear industry – Analysers in the nuclear industry – Valves and control rodes in the nuclear industry – Control panels and displays – Computer applications – Typical control system.
+
+MODULE 5
+
+Instrumentaion in the pharmaceutical industry : Description of the process – Measurment hardware in the pharmaceutical industry – Analyzers in the pharmaceutical industry – Valves and
+feeders in the pharmaceutical industry – Controllers and displays in the pharmaceutical industry – Computer applications in the pharmaceutical industry – Typical control systems in the pharmaceutical industry.
+
+Text Book:
+
+1.	Instrumentation in the Processing Industries , Bela G Liptak (ed.), Chilton Book Company 
+
+Reference Books:
+
+1.	Unit operation in chemical Engg. McCabe Smith 4/e Mcgrans Hill 
+
+2.	Outline Chemical Technology M Gopal Rao &M Sitting 3/E East West 1973 
+3.	Chemical Engineering Hand book Peiry,McGrans Hill 
+4.	Chemical reaction Engineering O leven spielJ.Wiley & sons 
+ 
+

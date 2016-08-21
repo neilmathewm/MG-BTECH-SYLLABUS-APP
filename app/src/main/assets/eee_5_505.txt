@@ -1,0 +1,61 @@
+EE 010 505: Linear Integrated Circuits
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of operational amplifiers and applications. 
+
+•	To develop the student’s ability to design and analyze a wide variety of Linear Integrated circuits. 
+
+Module 1 (14 hrs)
+
+Operational Amplifiers: Differential amplifier-current mirror - block diagram of a typical op amp- characteristics of an ideal op -amp-definitions of CMRR -slew rate - input offset voltage - differential input resistance-input voltage range - SVRR - large signal voltage gain - output voltage swing - output resistance – single voltage biasing - open loop configurations - disadvantages- closed loop configurations –offset compensation-offset minimizing resistor-non inverting amplifier - voltage follower-inverting amplifier - summing and scaling
+
+amplifier - integrator -differentiator- V to I and I to V converter-log and antilog amplifier .
+
+Module 2 (10 hrs)
+
+Basic comparator- Astable multivibrator – mono stable multivibrator – Triangular wave generator-schmitt trigger - zero crossing detector - precision rectifier - peak detector - sample and hold circuit-RC Phase Shift Oscillator- Pulse width controller , voltage limiter. Function generator 8038.
+
+Module 3 (12 hrs)
+
+Active Filters - low pass filter, high pass filter, band pass filter, band reject filter (first and second order). D/A converter-binary weighted resistor type -ladder type.-DAC 0808- A/D converter – simultaneous (flash) A/D converter - counter type - successive approximation converter – sigma delta converter - dual slope converter -Digital voltmeter–ADC 0800
+
+Module 4 (13 hrs)
+
+Phase locked loop - basic principles of PLL –VCO, NE 566- block diagram - transfer characteristics –PLL NE 565- applications of PLL as frequency multiplier, frequency translator, AM demodulator, FM demodulator, FSK demodulator.
+
+The 555 timer - functional block diagram. The 555 astable multivibrator and monostable multivibrator.
+
+Module 5 (11 hrs)
+
+Instrumentation Amplifier-LM 380 power amplifier-application of LM 380 as audio power amplifier-Intercom using LM 380.
+Regulated power supplies - Series op- amp regulator- General purpose IC Voltage regulator 723 –low voltage regulator using 723 – 780X series. Switching regulator-SMPS.
+ 
+
+
+Text Books
+
+1.	Ramakant A. Gayakwad, Op- Amp and Linear I.C., PHI 
+
+2.	Robert F Coughlin, Operational Amplifiers and Linear Integrated Circuits , PHI 
+
+Reference Books
+
+1.	Bali, Linear Integrated Circuits (Sigma Series), 1e, Tata McGraw –Hill Education, New Delhi 2008 
+
+2.	D.Roy Choudhury. Linear Integrated Circuits 
+
+3.	S Salivahanan, Linear Integrated Circuits,2e, Tata McGraw –Hill Education New 
+
+Delhi,2009
+
+4.  Botkar KR, Integrated circuits	-
+
+5.	U.A.Bakshi, Linear Integrated Circuits, Technical Publishers 
+
+6.	David L Terrell, Op-Amps, Design ,Application and Trouble shooting , Elsevier Publications 
+ 

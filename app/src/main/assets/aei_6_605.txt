@@ -1,0 +1,53 @@
+AI010 605
+
+Control Engineering II
+(Common to EI010 605)
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+1.	To study the modeling of the systems using State Space methods 
+
+2.	To learn State variable analysis and design of continuous time systems 
+
+3.	To get an exposure to digital control systems. 
+4.	To understand the basic concepts of nonlinear systems 
+
+Module 1 (12 Hours)
+
+System modeling using state variable approach -Limitation of Conventional Control Theory. Concepts of state variables and state model - State model for linear time invariant systems.-State space representation of dynamic systems – Nonuniqueness of state model- Block diagram representations- State diagrams- Lagrange’s equations .
+
+Module 2 (12 Hours)
+
+Transformation of state variables- State space representations of transfer functions-Solution of differential equations in state space form- Interpretation and properties of the state transition matrix - Solution by the Laplace transform - The resolvent - Transfer function from state model.
+
+Module 3 (12 Hours)
+
+State variable analysis - controllability and observability. Gilber test and Kalman’s tests. Design of regulators for single input single output systems, Bass- gura pole placement formula. Linear observers: Need of observers, Structure and properties of observers, Pole placement for single output systems.
+
+Module 4 (12 Hours)
+
+Discrete time systems - Introduction to digital control system –Review of Z-transform and properties.- inverse z transform- z transform method for solving difference equations-Impulse sampling and data hold circuits -Zero order and First order hold – signal reconstruction –Practical aspects of the choice of sampling rate-Pulse transfer function - The Z and S domain relationships -Stability analysis - Jury's test-Bilinear transformation .
+
+Module 5 (12 Hours)
+ 
+Nonlinear systems- Behaviour of nonlinear systems-Common physical nonlinearities-The phase plane method- basic concepts- Singular points- Describing function method – Basic concepts-- Describing functions of saturation and dead zone nonlinearities. – Stability of nonlinear systems- limit cycles.
+
+(Detailed analysis not required).
+
+
+
+Text Books
+
+1.	K. Ogata , Modern Control Engineering , Prentice Hall of India 
+
+2.	K. Ogata , Discrete Time Control Systems ,Prentice Hall Of India. 
+3.	M. Gopal , Digital Controls and State Variable Methods ,TMH Pub. Com. 
+4.	B. C. Kuo , Automatic Control Systems, Prentice Hall of India. 
+5.	J. Nagrath & M. Gopal ,Control System Engineering , New Age Int. (P) Ltd 
+6.	B.Friedland, Control System Design- An Introduction to state space methods- Mc 
+Graw Hill, Inc.N Y.

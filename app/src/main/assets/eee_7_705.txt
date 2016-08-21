@@ -1,0 +1,56 @@
+EE 010 05 : Communication Engineering
+
+
+Teaching Scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week.
+
+Objectives
+
+•	To develop student’s basic concepts in communication engineering. 
+
+•	To expose the students to modern communication systems. 
+
+
+Module 1 ( 6 Hours)
+
+Review of AM and FM.
+AM receiver- Superheterodyne AM receiver- RF amplifier, mixer, detector and AGC circuits.
+FM Transmitter-Reactance modulator (BJT, FET)-Block schematic of Armstrong FM Modulator.
+FM receiver-Block Schematic of Superheterodyne FM receiver-FM detector-Ratio detector.
+
+Module 2 ( 9 Hours)
+
+Television: Composite video signal – synchronizing pulse – blanking pulse-equalizing pulse, Video BW, Positive and negative modulation, Vestigial side band transmission, Television standards.
+Colour Television: Compatibility, characteristics of colour transmission and reception, luminance, hue & saturation, colour difference signal, I & Q signals, frequency interleaving, colour sub carrier-block schematic of NTSC,SECAM and PAL transmitters and receivers-comparison.
+
+Module 3 ( 6 Hours)
+
+Radar: Basic radar system, radar range equation – performance factors, Pulsed radar, Continuous wave radar – advantages-limitations-applications, CW radar, MTI radar system. Radio navigational aids – ILS – GCA-war & peace application.
+
+Module 4 ( 14 Hours)
+
+Satellite Communication: Satellite frequency band- orbits & inclination-Geostationary orbits-effects of solar eclipse-orbital height-Apogee and Perigee calculation-Satellite subsystem-Altitude & orbit control-Tracking ,Telemetry & command-Power System-Transponder-functions-up link/down link converters. HPA-Antenna subsystem-Satellite link Analysis-Path losses-Link budget calculation-C/N & G/T-up link down link modeling-Multiple access techniques-TDMA-FDMA-CDMA-DA FDMA-DA TDMA-SPADE-Earth Station Block Schematic.
+ 
+Module 5 ( 10 Hours)
+
+Digital Communication: Digital Coding of Analog Waves: PCM, Differential PCM, Delta Modulation, PAM, Adaptive Digital Coding.
+Modulation Techniques- Basic principles of Binary and M-Ary modulation. Basic Principles of Binary Amplitude Shift Keying-Binary Phase Shift Keying-Binary Frequency Shift Keying-M-Ary Amplitude Shift Keying- M-Ary Frequency Shift Keying- M-Ary Phase Shift Keying.
+
+
+Text Books
+
+1.	Electronic Communication Systems: Wayne Tomasi, Pearson Education, LPE 
+2.	Radio Engineering: M.L.Gupta, Dhanpat Rai Publishing Co (P) Ltd; 
+
+References 
+
+1  Electronic Communication Systems: George Kennedy, TMH
+
+2.	Monochrome and Colour Television: R.R Gulati, Wiley Eastern 
+3.	Satellite Communications: K.N. Raja Rao, PHI 
+4.	Satellite Communication: Manoj Mitra, Khanna Publishers 
+5.	Radio Engineering :Mithal,Khanna Publishers 
+6.	Digital Communications: V.K.Khanna S Chand Publishers. 
+7.	Digital and Analog Communication System: K Sam Shanmugam 
+ 

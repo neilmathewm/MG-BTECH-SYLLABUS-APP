@@ -1,0 +1,56 @@
+AI010 502
+
+INDUSTRIAL ELECTRONICS AND APPLICATIONS
+(Common to EI010 502, IC010 502)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+1)	To give the fundamental concept of Power semiconductor devices 
+
+2)	To get an adequate knowledge about converters and inverters. 
+3)	To get an exposure in control circuits for power electronics 
+
+
+
+Module 1
+
+Power semiconductor Devices-ratings and specification -Power diodes – power transistor
+
+– power MOSFET - characteristics of SCR, Triac–IGBT – MCT – LASCR – SCR turn on, turn off characteristics –– thyristor protection circuits – series and parallel operations of SCR- Thyristor trigger circuits – R ,RL,RC triggering.
+
+Module 2
+
+AC to DC converters – single phase – three phase – half controlled and fully controlled rectifiers – free wheeling diodes -free wheeling effect - effect of source and load inductance – power factor improvement methods for phase controlled rectifiers- PWM chips:SG3524 and TL 494- dual converters – cyclo converters.
+
+Module 3
+
+Inverters and voltage source inverters – series, parallel and bridge inverters – current source inverters – PWM inverters – D.C. chopper – step up and step down chopper – AC chopper: AC converters: – uninterrupted power supply (UPS) – ( circuit diagram approach), rectifier –– inverter – static transfer switch.
+
+DC to DC converters: choppers: SMPS, battery charger circuits
+
+Module 4
+
+D.C Motor control: phase control, Single phase SCR drive – Three phase SCR drive – speed control of dc series motor – Chopper controlled dc drives – PLL control of dc motor, A.C. Motor control : controlled – slip system – slip power recovery system - stepper motor drive - synchronous motor control.
+
+Module 5
+ 
+Control circuits for power electronics: basic schemes for pulse generation using analog and digital ICs. Single, double and four quadrant systems. Series and parallel operations of thyristor, cable firing, isolation etc.
+
+Text Books
+
+1.	P.S.Bimbhra, ‘Power Electronics’, Khanna Publishers, New Delhi, 2002 
+
+2	G.K.Dubey, Doradia, S.R. Joshi and R.M.Sinha, Thyristorised Power Controllers, New Age International Publishers, New Delhi, 1996. 
+
+
+References
+
+1.	M.H.Rashid, Power Electronics – circuits, devices and applications, PHI, New Delhi, 1995. 
+2.	Joseph Vithyathi, Power Electronics, McGraw Hill, USA, 1995. 
+3.	Mohan, Undeland and Robbins, Power Electronics, John Wiley and Sons, New York, 1995. 
+4.	P.C.Sen, Modern Power Electronics, Wheeler publishers, New Delhi, 1998 
+5.	M.D.Singh, K.B. Khanchandani: Power Electronics, TMH, 1998 

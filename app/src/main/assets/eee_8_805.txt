@@ -1,0 +1,79 @@
+EE 010 805 G01: Soft Computing Techniques
+
+(Global Elective)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To introduce the ideas of neural network, fuzzy logic,genetic algorithms and other random search procedures useful while seeking global optimum in self-learning situations. 
+•	To introduce the techniques of soft computing systems which differ from conventional AI and computing in terms of its tolerance to imprecision and uncertainty. 
+
+Module I (12 Hours)
+
+Fundamentals of ANN – Biological prototype – Neural Network Concepts, Definitions - Activation. Functions – single layer and multilayer networks. Training ANNs – Supervised and unsupervised network.
+
+Perceptrons – Exclusive OR problem – Linear seperability – perceptron learning - perceptron training algorithms.The back propagation Neural network – Architecture of the back propagation Network – Training algorithm –Network paralysis _ Local minima – temporal instability.
+
+Module II (12 Hours)
+
+Unsupervised learning-Competitive Network-Winner take all policy .Network initialization and weight adjustment.Geometric interpretation. Associative memory -ART NETWORKS – Bidirectional Associative memories- retreiving stored information.
+Neuro Control System-Classical controls-neuro control –Basic identification scheme using nn-Forward modelling: Series -parallel identification.Non linear system identification-Direct inverse neuro control scheme with ANNI and ANNC.Adaptive neuro control.
+
+Module III ( 12 Hours)
+
+Introduction to classical sets - properties, Operations and relations; Fuzzy sets, Membership, Uncertainty, Operations, properties, fuzzy relations, cardinalities, membership functions. Fuzzification, Membership value assignment, development of rule base and decision making system, Defuzzification to crisp sets, Defuzzification methods.
+
+Module IV (12 Hours)
+
+Introduction to Genetic Algorithm. Simple Genetic Algorithm and its major operators: Reproduction, Crossover, Mutation etc. Mathematical Construction of Genetic Operators. Tunning of membership function using genetic algorithm.
+
+Module V (12 Hours)
+
+Application of neural network for load forcasting, image enhancement, signal processing, pattern recognition.
+Fuzzy logic applications: Fuzzy logic control and Fuzzy classification.
+
+Application of GA to neural network Tuning of controllers, Electric drives and Power System.
+
+Introduction to MATLAB Neural network tool box, Fuzzy tool box and Genetic programming (Basic Treatment Only)
+ 
+Internal Continuous Assessment (Maximum Marks-50)
+
+60% -  Tests (minimum 2)
+
+20% - Assignments (minimum 2) , One assignment must be based on MATLAB Programming for any application of neural network, Fuzzy and GA tool.(Only Basic Treatment expected)
+
+20% -  Regularity in the class
+
+
+
+
+
+Text Books
+
+1 .  Philip D.Wasserman, Neural Computing(Theory and Practice )
+
+2 .  J.Zuradha,Introduction to Artificial Neural System
+
+3 .  S. Rajasekaran and G.A.V.Pai, Neural Networks, Fuzzy Logic and Genetic algorithms, PHI,
+
+2003.
+
+4 .  Kalyanmoyi Deb,Multi-Objective Optimization using Evolutionary Algorithms,Wiley,2001
+
+Reference Books
+
+1.	Timothy J. Ross, “ Fuzzy Logic With Engineering Applications”, McGraw-Hill Inc. 1997 
+
+2.	Linus Fe, Neural Network in Computer Intelligence , McGrawHill 
+
+3.	J.S.R.Jang, C.T.Sun and E.Mizutani, Neuro-Fuzzy and Soft Computing, PHI, 2007. 
+
+4.	Simon Haykin, “Neural Networks- A comprehensive foundation”, Pearson Education, 2001. 
+
+5.	T.Mitchel, Machine Learning,McGrawHill, 1997. 
+
+6.	Reeves, Colin R., Rowe, Jonathan E.Genetic Algorithms - Principles and Perspectives,Springer,2002 
+ 

@@ -1,0 +1,51 @@
+CE010 603 STRUCTURAL ANALYSIS II
+
+Teaching scheme	Credits: 4
+3 hour lecture and 1 hour tutorial per week
+
+Objective:
+
+To equip the students with the comprehensive methods of structural analysis of indeterminate structures
+To give an introduction to Theory of Elasticity and Structural Dynamics.
+
+Module 1 (10 hours)
+
+Plastic theory – ductility of steel- plastic bending of beams- evaluation of fully plastic moment – plastic hinge – load factor – method of limit analysis- basic theorems- collapse load for beams and portal frames.
+
+Module 2 (12 hours)
+
+Approximate methods of frame analysis: Frames under lateral loading-portal method – cantilever method. Frames under vertical loading –substitute frame method.
+Space frames – tension coefficients-tension coefficient method applied to space frames
+
+Module 3 (12 hours)
+
+Kani’s method-continuous beams & frames (without sway only).
+Influence line diagrams for statically indeterminate structures: Muller Breslau’ s principle-Influence lines for reactions-shear force-bending moment-propped cantilever& two span continuous beams.
+
+Module 4 (14 hours)
+
+Elementary theory of elasticity: State of stress at point- stress tensor-equilibrium
+Equations - stresses on arbitrary plane- principal stresses-strain components – strain tensor- compatibility equations- boundary condition equations Two dimensional problems- plane stresses - plane strain – compatibility equations in two dimensional cases- Airy’s stress functions
+
+Module 5 (12 hours)
+
+Introduction to Structural Dynamics-Dynamic systems and loads-Free or natural vibrations-Natural Frequency- Inertia force - -D’Alembert’s principle-Mathematical modeling of single degree of freedom systems- equivalent spring stiffness of combination of springs
+
+References
+
+1.	Timoshenko S.P., Theory of Elasticity, McGraw Hill. 
+
+2.	Sreenath L. S, Advanced Mechanics of Solids, Tata McGraw Hill Education P. Ltd. 
+3.	Sadhu Sindh, Strength of Materials, Khanna Publishers, 1988. 
+ 
+4.	Bhavikatti S.S , Structural Analysis Vol. II, Vikas Publishing House (P) Ltd. 
+
+5.	Seeli F.B.&Smith J.P., Advanced Mechanics of Materials, John Wiley & Sons, 1993. 
+6.	Vazirani & Ratwani, Analysis of Structures, Khanna Publishers, New Delhi. 
+7.	B.C. Punmia, Theory of Structures, Vol. II, Laxmi Publishers, New Delhi. 
+8.	Prakash Rao D.S., Structural Analysis, Universal Press Ltd, Hyderabad, 1997. 
+9.	Ameen A, Computational Elasticity, Narosa Publishers. 
+10.	Ray W Clough, Joseph Penzien, Dynamics of structures, Mc Graw Hill, Kogabusha Ltd. 
+11.	Madhujith Mukopathyay, Structural Dynamics, vibrations&systems, Ane Books Pvt. Ltd, 2008. 
+12.	V.K.Manicka Selvam, Elementary Structural Dynamics, Dhanpat Rai Publications Pvt.Ltd. 
+13.	Mario Paz, William Leigh, Structural Dynamics, Springler. 

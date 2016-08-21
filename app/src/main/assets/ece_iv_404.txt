@@ -1,0 +1,67 @@
+EC010 404: DIGITAL ELECTRONICS
+
+Teaching scheme	Credits: 4
+3hours lecture and 1 hour tutorial per week.
+
+Objectives
+
+•	To Work with a variety of number systems and numeric representations, including signed and unsigned binary, hexadecimal, 2’s complement. 
+
+•	To introduce basic postulates of Boolean algebra and show the correlation between Boolean expression. 
+•	To introduce the methods for simplifying Boolean expressions. 
+
+•	To outline the formal procedures for the analysis and design of combinational circuits and sequential circuits. 
+
+Module I (12hours)
+
+Positional Number System: Binary, Octal, Decimal, Hexadecimal number system, Number base conversions, complements - signed magnitude binary numbers - Binary Arithmetic- addition, subtraction - Binary codes- Weighted, BCD, 8421, Gray code, Excess 3 code, ASCII, Error detecting and correcting code, parity, hamming code.
+
+Boolean postulates and laws with proof, De-Morgan’s Theorems, Principle of Duality, Minimization of Boolean expressions, Sum of Products (SOP), Product of Sums (POS), Canonical forms, Karnaugh map Minimization, Don’t care conditions
+
+Module II (12 hours)
+
+Digital Circuits: Positive and Negative logic, Transistor transistor logic, TTL with totem pole, open collector and tri state output, Emitter coupled logic – basic ECL inverter, NMOS NOR gate, CMOS inverter, NAND and NOR, Gate performance parameters – fan in, fan out, propagation delay, noise margin, power dissipation for each logic, characteristics of TTL and CMOS, subfamilies of TTL and CMOS.
+
+Module III (12 hours)
+
+Introduction to Combinational Circuits: Basic logic gates, Universal gates, Realization of Boolean functions using universal gates, Realization of combinational functions: addition – half and full adder – n bit adder – carry look ahead adder, subtraction, comparison, code conversion, and decoder, encoder, multiplexer, demultiplexer, parity checkers, and parity generator.
+
+Introduction to Sequential Circuits: latches, timing, Flip Flops, types, characteristic equations, excitation tables, Realization of one flip flop using other flip flops.
+
+Module IV (12 hours)
+
+Application of flip flops as bounce elimination switch, register, counter and RAM, Binary ripple counter, synchronous binary counter, Design of modulo ‘n’ synchronous counter, up/down counters,
+
+Shift registers – SISO, SIPO, PISO, PIPO, bidirectional shift register and universal register, counters based on shift registers
+
+Module V (12 hours)
+
+Hazards in combinational circuits: Static hazard, dynamic hazard, essential hazards, hazard free combinational circuits.
+
+Introduction to programmable logic devices: PLA- block diagram, PAL – block diagram, registered PAL, Configurable PAL, GAL - architecture, CPLD –
+ 
+
+
+
+Syllabus - B.Tech. Electronics & Communication Engg.
+ 
+Mahatma Gandhi University
+
+
+classification internal architecture, FPGA - architecture, ASIC – categories , full custom and semi custom.
+
+
+Reference Books
+
+1.	Donald D Givone, Digital Principles and Design, Tata McGraw Hill, 2003. 
+2.	G K Kharate, Digital Electronics, Oxford university press, 2010 
+3.	Ronald J Tocci, Digital Systems, Pearson Education, 10th edition 2009. 
+4.	Thomas L Floyd, Digital Fundamentals, Pearson Education, 8th edition, 2003. 
+
+5.	Donald P Leach, Albert Paul Malvino, Digital Principles and Applications, Tata McGraw Hill 6th edition, 2006. 
+6.	Charles H.Roth, Fundamentals of Logic Design, Thomson Publication Company 5th edition, 2004. 
+
+7.	Milos Ercegovac, Introduction to Digital Systems, Wiley India, 2010 
+8.	Moris mano, Digital Design, Prentice Hall of India, 3rd edition, 2002. 
+9.	Anada kumar, Fundamentals of Digital Circuits, Prentice Hall of India, 2008. 
+10.	Brain Holdesworth, Digital Logic Design, Elsevier, 4th edition, 2002. 

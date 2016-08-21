@@ -1,0 +1,37 @@
+EE 010 507: Electrical Machines Lab I
+
+
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To conduct various tests on DC machines and transformers and to study their performance 
+
+1.	Study of 3-point and 4-point starters for D.C machines – mode of connection – Protective arrangements 
+
+2.	OCC of self and separately excited D.C machines – critical resistances of various speeds. Voltage built-up with a given field circuit resistance. Critical speed for a given field circuit resistance 
+
+3.	Load test on shunt and compound generator – deduce external, internal and armature reaction characteristics. Find load critical resistance. 
+4.	Characteristics of D.C series machine as motor and generator. 
+5.	Swinburne’s and retardation test on D.C machines. 
+6.	Brake test on D.C shunt, compound motors and determination of characteristics. 
+7.	Hopkinson’s test on a pair of D.C machines. 
+8.	Separation of losses in a D.C machine. 
+9.	Field’s test on D.C machine. 
+10.	Polarity, transformation ratio tests of single phase transformers 
+11.	O.C and S.C tests on single phase transformers – calculation of performance using equivalent circuit – efficiency, regulation at unity, lagging and leading power factors. Verification by direct loading. 
+
+12.	Sumpner’s test on single phase transformers. 
+13.	O.C and S.C tests on three-phase transformers. 
+14.	Scott connection – check for 2 phase – predetermination of primary current for balanced and unbalanced secondary currents – verification by actual loading. 
+15.	Parallel operation and load sharing of two single phase dissimilar transformers. 
+16.	Separation of losses of single phase transformer into hysteresis and eddy current losses. 
+
+References
+
+1.	Dr. P S Bimbra, Electrical Machinery, Khanna Publishers 
+
+2.	R K Rajput, A text book of Electrical Machines, Laxmi publishers 
+ 

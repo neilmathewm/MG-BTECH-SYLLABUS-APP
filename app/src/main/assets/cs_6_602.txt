@@ -1,0 +1,52 @@
+CS010 602: Internet Computing
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of Internet Computing and Java Programming 
+
+•	To develop understanding about Internet Computing with the help of Java Platform and establishing network connections using Socket Programming 
+
+
+
+Module I (10hours)
+
+Introduction to Java- Genesis of Java - Features of Java –Data Types-Variables and Arrays-Operators- Control Statements – Selection Statements – Iteration Statements-Jump Statements.
+
+Module II (12 hours)
+
+Creating & using classes in Java – Methods and Classes – Inheritance – Super Class – Method Overriding –Packages and Interfaces – Implementing Interfaces- Exception Handling – Exception Types, Threads-Multithreaded programs, Thread Priorities and Thread synchronization.
+
+Module III (14hours)
+
+I/O – I/O Basics – Byte Streams and Character Streams, Reading Console Input, Collections Framework, Applets & Applet Architecture-Applet Skelton- Passing Parameters to Applet, Event Handling-Event Model - Event Classes – Event Listener Interfaces, AWT – AWT Classes – AWT Controls – Layout Managers and Menus. Swing- JApplet – Jbuttons - JTables.
+
+Module IV (13 hours)
+
+Network Programming with Java – Socket Programming in Java-Client Sockets-Server Sockets- Secure Server Sockets- TCP/IP Programming with Java – Datagrams, IP multicasting, Remote Method Invocation.
+
+Module V (11 hours)
+
+Advanced Java Programming – Accessing Databases with JDBC, Servlets, Image processing using Java – Image Filter – Web Application development using Java Technolgies- Java Server Faces.
+ 
+Reference Books
+1)	Herbert Schildt, Java 2 Complete reference, 5th ed., Tata McGraw Hill, New Delhi, 2010 
+2)	Deitel & Deitel Java How To Program 7th ed., Pearson Education ,New Delhi, 2008 
+
+3)	Cay Horstmann Big Java 3rd ed., Wiley India Edition, New Delhi, 2009 
+
+4)	Y Daniel Liang Introduction to Java Programming 7th ed., Pearson Education ,New Delhi, 2010 
+
+5)	R Krishnamoorthy, S Prabhu Internet & Java Programming, New Age International Publishers, New Delhi, 2008 
+6)	Rajkumar Buyya, S Thamarai Selvi, Xingchen Chu, Object Oriented Programming with Java, McGraw Hill, New Delhi, 2009 
+7)	P Radha Krishna, Object Oriented Programming through Java Universities Press, Hyderabad2008 
+8)	Debasish Jana, Java and Object Oriented Programming Paradigm, Prentice Hall of India, New Delhi, 2005 
+9)	G Thomas Wu, An Introduction to Object Oriented Programming with Java,4th ed., Tata McGraw Hill, New Delhi, 2010 
+
+10)	E Balagurusamy, Programming with Java A Primer, 4th ed., McGraw Hill, New Delhi, 2010 
+
+11)	John R Hubbard, Programming with Java, 2nd ed., Schaum’s Outlines, Tata McGraw Hill, New Delhi, 2004 
+ 
+

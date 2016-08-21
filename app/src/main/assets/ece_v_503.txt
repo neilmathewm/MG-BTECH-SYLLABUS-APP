@@ -1,0 +1,52 @@
+EC010 503 DIGITAL SYSTEM DESIGN
+
+Teaching scheme	Credits: 4
+3 hours lecture and 1 hour tutorial per week.
+
+Objectives
+•	To design and implement combinational circuits using basic programmable blocks 
+•	To design and implement synchronous sequential circuits 
+•	To study the fundamentals of Verilog HDL 
+•	Ability to simulate and debug a digital system described in Verilog HDL 
+
+Module I (12hours)
+
+Introduction to Verilog HDL: Design units, Data objects, Signal drivers, Delays , Data types, language elements, operators, user defined primitives, modeling-data flow, behavioral, structural, Verilog implementation of simple combinational circuits: adder, code converter, decoder, encoder, multiplexer, demultiplexer.
+
+Module II (12 hours)
+
+Combinational circuit implementation using Quine–McCluskey algorithm, Decoders, Multiplexers, ROM and PLA, Implementation of multi output gate implementations
+
+Module III (12 hours)
+
+Finite State Machines: State diagram, State table, State assignments, State graphs, Capabilities and limitations of FSM, Meta stability, Clock skew, Mealy and Moore machines, Modelling of clocked synchronous circuits as mealy and Moore machines: serial binary adder, Sequence detector, design examples.
+
+Module IV (12 hours)
+
+Digital System Design Hierarchy: State assignments, Reduction of state tables, Equivalent states, Determination of state equivalence using implication table, Algorithmic State Machine, ASM charts, Design example.
+
+Module V (12 hours)
+
+Verilog HDL implementation of binary multiplier, divider, barrel shifter, FSM, Linear feedback shift register, Simple test bench for combinational circuits.
+
+
+Reference
+
+1.	Michael D.Ciletti, Advanced Digital design with Verilog HDL, Pearson Education, 2005. 
+
+2.	S. Brown & Z. Vranestic, Fundamentals of Digital Logic with Verilog HDL, Tata McGraw Hill, 2002. 
+
+3.	Samir Palitkar, Verilog HDL A Guide to Digital Design and Synthesis, Pearson, 2nd edition, 2003. 
+
+4.	Peter J Ashenden ,Digital Design, an embedded system approach using Verilog, Elsevier, 2008 
+
+5.	Frank Vahid, Digital Design, Wiley Publishers. 
+
+6.	T R Padmanabhan, Design through Verilog HDL, IEEE press, Wiley Inter science, 2002. 
+7.	Donald D Givone, Digital Principles and Design, Tata McGraw Hill, 2003. 
+
+8.	Wakerly J F, Digital Design Principles and Practices, Prentice hall of India, 2008. 
+
+9.	Nazeih M Botros, HDL programming VHDL and Verilog, Dreamtech press, 2009 
+
+10.	David J. Comer, Digital Logic and State Machine Design, Oxford university press, 3rd edition, 1995. 

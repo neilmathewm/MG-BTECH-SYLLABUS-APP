@@ -1,0 +1,45 @@
+IT010 805G01  SOFTWARE ARCHITECTURE
+
+(Common to CS010 805G04 Software Architecture)
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To understand the role of a software architecture in the development of an enterprise application system. 
+•	To develop the ability to understand the models that are used to document a software architecture. 
+
+Module I	(13 hours)
+
+Software Architecture —Software Architecture, Software Design Levels, The status of Software Engineering and Architecture
+
+Architecture Styles—Use of Patterns and Styles in Software Design, Common Architectural Styles -Pipes and Filters, Data Abstraction and Object Orientation, Event Based Implicit Invocation, Layered Systems, Repositories, Interpreters, Process Control Paradigms—Case Studies to Illustrate the use of Architectural Principles.
+
+Module II	(11 hours)
+
+Architectural Design—Guidelines for User Interface Architectures, Design Space and Rules, Applying Design Space with an Example, A Validation Experiment. The Quantified Design Space — Background, Quantified Design Space
+
+Module III    (11 hours)
+
+Formal models and Specifications— Formalizing the Architecture of a Specific System-Architectural Formalism and its Applications, Formalizing Various Architectural Styles, Filters, Pipes, Pipe-and-Filter System, Formalizing Architectural Design Space.
+
+Module IV    (14 hours)
+
+Architectural Description Languages—Requirements for Architectural Description Languages, The Linguistic Character of Architectural Description, Desiderata for Architecture Description Languages, Problems.
+
+First - Class Connectors — Current practice, Software System Composition, Adding Implicit Invocation to Traditional Programming Languages
+
+Module V	(11 hours)
+
+Architectural Design Tools— UniCon A Universal Connecting Language, Components, Abstraction and Encapsulation, Types and Type checking.
+
+Architectural Design - Exploiting Styles, Architectural Interconnection
+
+
+References
+
+1.	Mary Shaw & David Garlan,” Software Architecture”, Prentice Hall India Private Limited, Third Edition, New Delhi, 2000. 
+
+2.	Len Bass, Paul Clements, & Rick Kazman, “Software Architecture in Practice”, Pearson Education. 
+ 

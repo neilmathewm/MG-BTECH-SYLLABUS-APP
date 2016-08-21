@@ -1,0 +1,44 @@
+ME 010 706 L01: PLANT ENGINEERING AND MAINTENANCE
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	The course is designed to develop an understanding of maintenance tools and techniques in the new industrial world. 
+
+Module 1 (12 hours)
+
+Fundamentals of plant engineering - Plant facilities - Layout of facilities, basic amenities etc. Types of maintenance- breakdown, preventive, periodic or predictive, condition based maintenance- deterioration and failure analysis- planning, scheduling, and controlling of maintenance work- organization for maintenance.
+
+Module 2 (12 hours)
+
+Wear: Sliding wear tests – Archard wear equation – unlubricated wear of metals - wear regime maps for metals – mechanism of sliding wear of metals : plasticity dominated wear, Oxidative wear – lubricated wear of metals – fretting wear of metals – wear of ceramics and polymers.
+
+Module 3 (12 hours)
+
+Reliability: concept and definition-chance failure and wear out failure -application of stochastic model for reliability studies- reliability of series, parallel and stand by systems- estimation of parameters of failure distribution- maintainability and availability.
+Replacement: causes of deterioration and obsolescence - sudden and gradual obsolescence and deterioration- economic analysis- MAPI method- simple problems.
+
+Module 4 (12 hours)
+
+Condition based maintenance using Vibration Signature, SOAP, ferrography, hot ferrography, Infra Red Camera, fluorescent dye, Particle Analyzers and other diagnostic techniques. Reliability Centered Maintenance- Total Productive Maintenance- Tero-technology and its influence on plant engineering and maintenance. Overall equipment effectiveness (OEE) – Reliability Availability and Maintainability analysis (RAM).
+
+Module 5 (12 hours)
+
+Safety management: fire protection and prevention - safety against mechanical hazards, chemical hazards- accident prevention program- Industrial noise - Pollution control- Waste disposal - Recycling of waste - Energy conservation, management and audit - legal provisions for safety in industry.
+
+Text Books
+
+1.	Collacott R.A., Mechanical fault Diagnosis and Condition Monitoring, Chapman and Hall Ltd. 
+2.	Sushikumar Srivastava, Industrial Maintenance Management, S. Chand and Co. Ltd., New Delhi. 
+ 
+
+Reference Books
+
+1.	Rosaler R., Handbook of Plant Engineering, McGraw Hill. 
+2.	Mobley K., Higgins L.R., Handbook of Maintenance Engineering, McGraw Hill. 
+3.	Hutchings I. M., Trobology: friction and wear of engineering materials, Edward Arnold 
+4.	Robinowicz Ernest, Friction and wear of materials, John Wiley 

@@ -1,0 +1,42 @@
+AI010 607(P)
+
+Microprocessors & microcontrollers lab
+(Common to EI010 607)
+Teaching scheme	Credits: 2
+3 hours practical per week
+
+Objectives
+
+1.	To provide experience on programming and testing of few electronic circuits using 8086 
+2.	To provide experience on programming and testing of few electronic circuits using 8051simulator. 
+3.	To understand basic interfacing concepts between trainer kit and personal computers. 
+
+A. Programming experiments using 8086 (MASM)
+
+1.	Sum of N Numbers. 
+
+2.	Display message on screen using code and data segment. 
+3.	Sorting, factorial of a number 
+4.	Addition /Subtraction of 32 bit numbers. 
+5.	Concatenation of two strings. 
+6.	Square, Square root, & Fibonacci series. 
+
+B. Programming experiments using 8051 simulator (KEIL).
+
+1.	Addition and subtraction. 
+
+2.	Multiplication and division. 
+3.	Sorting, Factorial of a number. 
+4.	Multiplication by shift and add method. 
+5.	Matrix addition. 
+6.	Square, Square root, & Fibonacci series. 
+
+C. Interface experiments using Trainer kit / Direct down loading the programs from Personal computer.
+
+1.	ADC / DAC interface. 
+
+2.	Stepper motor interface. 
+3.	Display (LED, Seven segments, LCD) interface. 
+4.	Frequency measurement. 
+5.	Wave form generation. 
+6.	Relay interface. 

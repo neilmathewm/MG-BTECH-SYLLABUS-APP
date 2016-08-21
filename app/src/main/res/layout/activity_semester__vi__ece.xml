@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neil.user.mg_syllabus.Semester_VI_Ece">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 601 DIGITAL COMMUNICATION TECHNIQUES"
+        android:id="@+id/button13"
+        android:layout_marginTop="30dp"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="Ece_VI_601"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 602 DIGITAL SIGNAL PROCESSING"
+        android:id="@+id/button14"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_below="@+id/button13"
+        android:layout_centerHorizontal="true"
+        android:onClick="Ece_VI_602"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EC010 603   RADIATION AND PROPAGATION"
+        android:id="@+id/button15"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button14"
+        android:layout_centerHorizontal="true"
+        android:onClick="Ece_VI_603"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 604: COMPUTER ARCHITECTURE AND PARALLEL PROCESSING "
+        android:id="@+id/button16"
+        android:layout_below="@+id/button15"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VI_604"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 605 MICROCONTROLLERS AND APPLICATIONS"
+        android:id="@+id/button17"
+        android:layout_below="@+id/button16"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Ece_VI_605"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 606 L01: DATA STRUCTURES AND ALGORITHMS"
+        android:id="@+id/button18"
+        android:layout_below="@+id/button17"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VI_606"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 607 MICROPROCESSOR &amp; MICROCONTROLLER LAB"
+        android:id="@+id/button19"
+        android:layout_below="@+id/button18"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VI_607"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC 010 608 MINI PROJECT LAB"
+        android:id="@+id/button20"
+        android:layout_below="@+id/button19"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Ece_VI_608"
+        />
+</RelativeLayout>

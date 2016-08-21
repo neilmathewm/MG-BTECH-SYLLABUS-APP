@@ -1,0 +1,42 @@
+CE010 804L02 ENVIRONMENTAL GEOTECHNIQUES (Elective III) Teaching scheme: Credit: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective:
+
+Waste disposal is a major issue for which we need different effective and innovative methods. The objective is to familiarise the students, the different types of wastes generated , composition of the wastes, and the problems they pose on environment due to improper disposal. It also includes the different effective methods for the disposal for the different types of wastes.
+
+Module 1 (12 hours)
+
+Clay mineralogy and soil structure: Gravitational and surface forces-inter sheet and inter layer bonding in the clay minerals- Basic structural units of clay
+minerals - isomorphous substitution – kaolinite mineral- montmorillonite mineral -illite mineral- electric charges on clay minerals – base exchange capacity ,diffused
+double layer- adsorbed water- soil structure- methods for the identification of minerals (introduction only).
+
+Module 2 (15 hours)
+
+Effect of environment on Geotechnical properties of soils: Effect of drying on Atterberg limits.-Volume change behaviour- factors controlling resistance to volume change- general relationship between soil type, pressure and void ratio.-
+importance of mineralogical composition in soil expansion. Activity- sensitivity ,causes of sensitivity-Influence of exchangeable cations , pH and organic matter on
+properties of soils. Permeability of soils- hydraulic conductivity of different types of soils – Darcy’ s law and its validity- factors affecting permeability
+
+Module 3 (10hours)
+
+Wastes and Contaminants (introduction only): sources of wastes-types of wastes composition of different wastes- characteristics and classification of hazardous
+wastes- generation rates- ground water contamination- sources of ground water contamination - transport mechanisms-potential problems in soils due to contaminants.
+
+Module 4 (12 hours)
+
+Disposal and containment technics: Criteria for selection of sites for waste disposal- hydrological aspects of selection of waste disposal sites- disposal facilities- subsurface disposal technics-disposal systems for typical wastes (sketches only)
+
+Module 5 (12 hours)
+
+Containment control systems-Liners and covers for waste disposal- rigid liners, flexible liners. Ground modification technics in waste management – waste
+modification- ground modification- mechanical modification-hydraulic modification- chemical modification.
+ 
+References
+
+1.	Mitchell, J (1976), “ Fundamentals of soil behaviour”, John Wiley and sons, NewYork 
+2.	Lambe, T. W & Whitman, R. V (1979), “ Soil Mechanics “, John Wiley and Sons, New York. 
+3.	Gopal Ranjan & A.S.R Rao (1991), “ Basic and Applied Soil Mechanics, Wiley Eastern Ltd., New Delhi. 
+4.	Wilson, M. J (1987), “ A Hand book of Determinative methods in Clay Mineralogy”, Chapman and Hall, New York. 
+5.	Robert M. Koerner (1984), “Construction and Geotechnical methods in Foundation Engineering”, McGraw Hill Book Co., New York. 
+ 

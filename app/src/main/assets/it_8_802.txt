@@ -1,0 +1,45 @@
+
+IT010 802 CRYPTOGRAPHY AND NETWORK SECURITY
+
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To understand the mathematics behind Cryptography 
+
+•	To understand the standard algorithms used to provide confidentiality provide integrity and authenticity. 
+
+Module 1	(12 Hours)
+
+Basics of Algebra and Number Theory: Integer Arithmatic, Modular Arithmatic, Algebraic structures, GF(2n) Fields, Matrices, Prime Numbers, Fermat’s and Eulers’s Theorem, Primality Testing, Factorization, Chinese Remainder Theorem, Linear and Quadratic Congruence, Discrete Logarithms.
+
+Module 2	(13 Hours)
+
+Symmetric Ciphers: Classical Encryption Techniques, Symmetric Cipher Model, Substitution and Transposition Ciphers, Stream and Block Ciphers, Data Encryption Standard, Advanced Encryption Standard, Triple DES, Confidentiality Using Symmetric Encryption.
+
+Module 3	(13 Hours)
+
+Public-Key Encryption and Hash Functions : Public-Key Cryptography, RSA Algorithm, ElGamal Cryptosystem, Key Management, Diffie-Hellman Key Exchange, Elliptic Curve Cryptography, Message Authentication Codes, Hash Functions ,Secure Hash Algorithm, Digital Signature schemes.
+
+Module 4	(11 Hours)
+
+Network Security Practice Applications: Authentication Applications, Kerberos, X.509 Authentication Service, Electronic Mail Security, Pretty Good Privacy, S/MIME, IP Security Overview, IP Security Architecture, Authentication Header, Encapsulating Security Payload.
+
+Module 5	(11 Hours)
+
+System Security: Intruders, Intrusion Detection, Password Management, Viruses and Related Threats, Virus Countermeasures, Distributed Denial of Service attacks, Firewalls, Firewall Design Principles, Trusted Systems.
+
+References:
+
+1.	William Stallings, “Cryptography and Network Security – Principles and Practices”, Pearson Education, Fourth Edition, 2006. 
+
+2.	Behrouz A. Forouzan,Dedeep Mukhopadhyay “Cryptography & Network Security”, Second Edition,Tata McGraw Hill, New Delhi, 2010 
+
+3.	Atul Kahate, “Cryptography and Network Security”, 2nd Edition, Tata McGraw Hill, 2003. 
+
+4.	Wenbo Mao, “ Modern Cryptography- Theory & Practice”, Pearson 
+Education, 2006.
+
+5.  .Bruce Schneier, “Applied Cryptography”, John Wiley and Sons Inc, 2001.

@@ -1,0 +1,43 @@
+EC010 806	VLSI & EMBEDDED SYSTEM LAB
+
+Teaching Schemes	Credits : 2
+
+3 hour practical per week
+
+
+
+VLSI LAB
+
+1.	Verilog implementations of 
+a)	Multiplexer 
+b)	Demultiplexer 
+c)	Full adder & Full subtractor 
+d)	Decoder 
+Using data flow style of modelling.
+2.	Using Structural modelling implement 
+a)	4:1 multiplexer using 2:1 multiplexer. 
+b)	Four bit full adder using one bit full adder. 
+c)	4 bit counters. 
+3.	Using behavioural modelling implement 
+a)	D Flip Flop 
+b)	J K Flip Flop 
+4.	Using switch level modelling implement 
+a)	One bit Full adder 
+b)	Multiplexer – 2 channel 
+c)	CMOS AND gate 
+d)	CMOS OR gate 
+5.	Verilog implementation of Moore and Mealy FSM. 
+
+
+EMBEDDED LAB (PIC)
+
+1.	Four bit binary counter using LEDs. 
+2.	Interfacing 7 segment LED and a character LCD. 
+3.	Timers and counters. 
+4.	Analog to digital convertor. 
+5.	DC motor control using. 
+6.	Understanding interrupts. 
+7.	Asynchronous Serial Communication. 
+
+*Program the PIC microcontroller and realize the circuits in breadboard (Avoid use of readymade kits).
+

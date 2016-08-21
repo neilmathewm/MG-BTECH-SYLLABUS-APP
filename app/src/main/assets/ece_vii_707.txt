@@ -1,0 +1,48 @@
+EC010 707 ADVANCED COMMINCATION LAB
+
+Teaching Schemes	Credits : 2
+
+3 hour practical per week
+
+
+List of Experiments
+
+1.	Delta Modulation & Demodulation. 
+
+2.	Sigma delta modulation. 
+
+3.	PCM (using Op-amp and DAC). 
+
+4.	BASK (using analog switch) and demodulator. 
+
+5.	BPSK (using analog switch). 
+
+6.	BFSK (using analog switch). 
+
+7.	Error checking and correcting codes. 
+
+8.	4 Channel digital multiplexing (using PRBS signal and digital multiplexer). 
+
+9.	Microwave  experiments ( Experiments based on  subject EC010 703) 
+
+MATLAB or LABview Experiments:
+
+1.	Mean Square Error estimation of a signals. 
+
+2.	Huffman coding and decoding. 
+
+3.	Implementation of LMS algorithm. 
+
+4.	Time delay estimation using correlation function. 
+
+5.	Comparison of effect in a dispersive channel for BPSK, QPSK and MSK. 
+
+6.	Study of eye diagram of PAM transmission system. 
+
+7.	Generation of QAM signal and constellation graph. 
+
+8.	DTMF encoder/decoder using simulink. 
+
+9.	Phase shift method of SSB generation using Simulink. 
+
+10.	Post Detection SNR estimation in Additive white Gaussian environment using Simulink. 

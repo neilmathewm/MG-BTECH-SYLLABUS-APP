@@ -1,0 +1,45 @@
+CS010 804L02: GRID COMPUTING
+
+( Common to IT010 804L06:Grid Computing )
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+
+Objectives
+
+•	To impart an introduction to Grid Computing. 
+
+•	To develop basic knowledge about the Open Grid Service Architecture. 
+
+
+Module I (12 hours)
+
+Grid Computing – Introduction- Grid Activities- Overview of Grid Business Areas- Grid Applications- Grid Infrastructure.
+
+Module II	(12 hours)
+
+Grid Computing Organizations and their roles- Grid Computing Anatomy- Grid Problem-Concept of Virtual Organizations- Grid Architecture- Autonomic Computing- Business on Demand and Infrastructure Virtualization- Semantic Grids.
+Module III    (12 hours)
+Merging the Grid Services Architecture- Service Oriented Architecture- Web Service
+
+Architecture- XML relevance to Web Services- Service Message Description Mechanisms-Relationship between Web Service and Grid Service.
+
+.
+
+Module IV	(12 hours)
+
+Open Grid Services Architecture- OGSA Platform Components- Open Grid Services Infrastructure- Introduction to Service Data Concepts- Grid Service- OGSA Basic Services-Common Management Model- Policy Architecture- Security Architecture.
+
+Module V	(12 hours)
+
+Grid Computing Toolkits- GLOBAS GT3 Toolkit Architecture- GLOBAS GT3 Toolkit Programming Model- GLOBAS GT3 Toolkit High Level Services.
+
+.
+
+Reference Books
+
+1)	Joshy Joseph, Craig Fellenstein, Grid Computing, Pearson Education Inc, New Delhi 2004. 
+
+2)	D Janakiram, Grid Computing A research Monograph, Tata McGraw-Hill Publishing Company Limited New Delhi, 2005. 
+ 

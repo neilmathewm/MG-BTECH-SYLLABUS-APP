@@ -1,0 +1,41 @@
+IT 602:DIGITAL SIGNAL PROCESSING		
+Teaching scheme	Credits: 4	
+2hours lecture and 2 hour tutorial per week	2+2+0	
+		
+
+Objectives:
+
+•	To study the fundamentals of discrete-time signals and system analysis, digital filter design and the DFT 
+
+
+Module 1 (12 Hours) Introduction: Elements of a Digital Processing System - Advantages of Digital over Analog Signal Processing - Applications of DSP.
+
+Discrete-Time Signals and Systems: Basic Discrete-Time sequences and sequence operations: unit sample, unit step, exponential, sinusoidal – periodic and aperiodic discrete time sinusoids - Discrete time systems: Properties of Systems: Stability, Memory, Causality, Time invariance, Linearity
+
+Module 2 (12 Hours) LTI Systems: Representation of Signals in terms of impulses – Impulse response – Convolution sum– Cascade and Parallel interconnections – Memory, Causality and Stability of LTI systems – Systems described by linear constant coefficient difference equations
+
+Frequency Domain representation of discrete-time signals: Fourier transform of a sequence - Properties of Fourier Transforms – Frequency response of systems
+
+Module 3	(12 Hours)
+
+Z transform: Definition - ROC – Common Z transforms - Inverse z-transform by partial fraction expansion- Properties of z- transforms - Analysis and characterization of LTI systems using Z-Transform
+Sampling of continuous time signals: The sampling theorem - Aliasing
+
+Module 4 (12 Hours) Structures for discrete time systems – IIR and FIR systems – Block diagram representation of difference equations – Basic structures for IIR systems – Direct form - Cascade form - Parallel form – Structures for FIR systems – Direct and Cascade forms – Overview of finite precision numerical effects in implementing systems
+
+
+Module 5 (12 Hours) Digital filter design: Filter specification –Comparison of IIR and FIR filters – Design of low pass FIR filters by windowing
+
+The Discrete Fourier Transform: Relation with DTFT - Computation of the DFT – Decimation in time and decimation in frequency FFT - Reduction of computational complexity
+
+
+References
+
+1.	Alan V. Oppenheim and Ronald W. Schafer, Digital Signal Processing – Pearson Education Asia, LPE 
+2.	Sanjit K Mitra, Digital Signal Processing, 3e, Tata McGraw - Hill Education, New Delhi, 2007. 
+3.	John G. Proakis and Dimitris G. Manolakis, Digital Signal Processing - Pearson Education, 4th edition 
+
+4.	L C Ludeman ,Fundamentals of Digital Signal Processing –, Wiley 
+5.	Johny R. Johnson, An Introduction to Digital Signal Processing: Prentice Hall 
+6.	S.Salivahanan, A.Vallavaraj, C.Gnanapriya, Digital Signal Processing, 2e, Tata McGraw - Hill Education, New Delhi, 2009 
+7.	Emmanuel C. Ifeachor and Barrie W. Jervis,Digital Signal Processing: A Practical Approach –Pearson Education Asia, LPE 

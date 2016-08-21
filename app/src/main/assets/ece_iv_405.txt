@@ -1,0 +1,69 @@
+EC010 405 ANALOG COMMUNICATION
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives:
+
+•	Present an introduction to linear and non linear modulation and circuits. 
+
+•	Familiarize students with the basics of probability theory and noise in communication system. 
+
+•	Introduce students to telephone system 
+
+
+Module 1(12 hrs)
+
+Introduction:	Block diagram of communication system –need for modulation
+
+Linear Modulation: Mathematical representation of AM- frequency spectrum - Power relations, SSB, VSB and ISB (Basics only)
+
+Angle Modulation: FM and PM, Spectrum of FM signal, Power and Bandwidth of FM signals, Comparison of AM- FM- PM.
+
+Module 2 (12 hrs)
+
+Linear Modulators and Demodulators: Diode and Transistor Modulator, Square Law Detector Envelope Detector.
+
+Generation and Detection of DSB-SC signal :-Balanced Modulator, Ring Modulator, Synchronous Detection.
+
+SSB-SC generation:-Filter method, Phase shift method, Detection of SSB- Product demodulator
+
+Module 3 (12 hrs)
+
+Non Linear modulators and Demodulators:-FM Generation: Direct and Indirect methods, FM Detection:-Simple slope, balanced slope detection, Foster –Seeley detection, Ratio Detection Radio Transmitters and Receivers:- AM transmitters:-High level and Low level, Receivers:-characteristics of receivers, Super heterodyne receiver, Image frequency rejection, choice of intermediate frequency, mixer, AGC .
+
+FM Stereo Transmitter and Receiver.
+
+Module 4  (12 hrs)
+
+Probability and Random Variables: -Probability, Sample Space, Events, Conditional Probability and Statistical Independence, Bayes’ Theorem, Discrete And Continuous Random Variables, CDF and PDF Joint and Conditional PDF, Statistical Averages: Means, Moments, Expectation Probability models: Binomial Distribution, Gaussian Distribution, Rayleigh Distribution
+
+
+Module 5   (12 hrs)
+
+Noise:- Sources of noise, shot noise, resistor noise, white noise, additive noise, noise bandwidth, noise temperature, noise figure, signal to noise ratio, noise for cascaded stages
+ 
+
+
+
+Telephone Systems - Telephone subscribers loop system, switching and transmission plan, Transmission system, Signalling techniques, Interchannel signalling, common channel signalling, standard telephone set, telephone call procedures, call progress.
+
+
+
+References
+
+1.	LE Frenzel, Principles of Electronic Communication System 3rd Edition, Tata Mc.GrawHill. 
+
+2.	Kennedy,Davis  , Electronic Communication systems 4th   Edition ,Tata Mc.GrawHill. 
+3.	D Roddy and J Coolen: Electronic Communications, Prentice Hall of India. 
+
+4.	RP Singh ,S D Sapre ,Communication System, Analog &Digital, Tata Mc.Graw Hill 
+
+5.	AB Carlson,PB Crilly,JC Rutledge, Communication Systems 4th  Edition, Mc.GrawHill 
+6.	Wayne Tomasi ,Electronic communication Systems 5th  Edition, Pearson Edn 
+
+7.	RJ Shoenbeck ,Electronic communication ,Modulation & Transmission. Prentice Hall of India. 
+
+8.	ThiagarajanViswanathan, Telecommunication Switching systems and Networks, Prentice Hall of India. 
+
+9.	Simon Haykin ,Communication System,Wiley 

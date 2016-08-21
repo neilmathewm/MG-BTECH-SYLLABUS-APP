@@ -1,0 +1,21 @@
+IT010 708 COMPUTER AIDED SOFTWARE ENGINEERING LAB
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+
+1.	Study of case tools such as rational rose or equivalent tools 
+
+2.	Requirements 
+Implementation of requirements engineering activities such as elicitation, validation, management using case tools
+3.  Analysis and design
+Implementation of analysis and design using case tools.
+4.	Study and usage of software project management tools such cost estimates and scheduling 
+
+5.	Documentation generators - Study and practice of Documentation generators. 
+6.	Data modeling using automated tools. 
+7.	Practice reverse engineering and re engineering using tools. 
+8.	Exposure towards test plan generators, test case generators, test coverage and software metrics. 
+
+9.	Meta modeling and software life cycle management. 
+ 

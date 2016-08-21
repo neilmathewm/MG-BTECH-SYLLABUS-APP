@@ -1,0 +1,9 @@
+AI010 608(P)
+
+	Mini Project	
+	(Common to EI010 608,IC 010 608)	
+Teaching Scheme	2 credits	
+3 hours practical per week		
+
+
+The mini project will involve the design, construction, and debugging of an electronic system product approved by the department. The schematic and PCB design should be done using any of the standard schematic capture & PCB design software. Each student may choose to buy, for his convenience, his own components and accessories. Each student must keep a project notebook. The notebooks will be checked periodically throughout the semester, as part of the project grade. The student should submit the report at the end of the semester. A demonstration and oral examination on the mini project also should be done at the end of the semester.

@@ -1,0 +1,40 @@
+CE010 601 DESIGN OF STEEL STRUCTURES
+
+Teaching scheme:	Credits: 4
+2 hour lecture and 2 hour tutorial per week
+
+Objective:
+
+To familiarize the fundamental aspects of structural behaviour and design of steel structures satisfying the requirements such as safety,feasibility and economy of steel structures.
+
+Module 1 (12 hours)
+
+Loading standards - I.S structural sections - I.S specifications –Design Philosophies-Working stress method and Limit state method - design of tension members –bolted and and welded connections - design of simple and compound beams - laterally supported and unsupported.(Design examples based on Limit state method only. )
+
+Module 2 (12 hours)
+
+Compression members - design of columns - short and long columns - axial and eccentric loading - built up columns- moment resisting connections - lacing and battening - column base - slab base - gusseted base.
+
+Module 3 (15 hours)
+
+Water tanks – rectangular and circular steel tanks – connections - analysis and design of supporting towers.
+
+Module 4 (10 hours)
+
+Light gauge steel structures - introduction - type of sections - local buckling - stiffened and multiple stiffened elements – Design of beams with lateral supports only.
+
+Module 5 (11 hours)
+
+Chimneys- types - self supporting and guyed – stresses in chimneys – design of chimney stack, breech opening, base plate, connections and foundations.( Design of self supporting chimney only.)
+
+Note: Only Sketches required. Detailed drawing in drawing sheets not required
+
+References
+
+1.	Relevant IS Codes. (IS 800-2007 , IS 875, IS 805, IS 801, IS 811,IS 6533 Part 1, Part 2,Steel Tables) 
+2.	Subramanian N, Design of steel structures,Oxford University Press 
+3.S.S Bhavikatti, Design of steel structures, I.K.International Publishing house Pvt.Ltd.
+4.	Ramchandra, Design of steel structures Vol. I & II, Standard book house, Delhi. 
+
+5.	S.K. Duggal, Design of steel structures ,Tata Mc Graw-Hill 
+6.	B.C.Punmia, Design of steel structures, Laxmi publications. 

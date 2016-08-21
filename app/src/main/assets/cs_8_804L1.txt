@@ -1,0 +1,43 @@
+CS010 804L01: E-COMMERCE
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To impart an introduction to Elecronic Commerce. 
+
+•	To develop basic knowledge of Business in Internet and Electronic Payment. 
+
+
+Module I (12 hours)
+
+Introduction to Electronic Commerce:- E-Commerce Framework, Anatomy of E-Commerce Applications, E-Commerce Consumer & Organization Applications. E-Commerce and World Wide Web – Internet Service Providers, Architectural Framework for Electronic Commerce, WWW as the Architecture, Hypertext publishing.
+
+Module II	(14 hours)
+
+Network Security:- Client-Server Network Security, CS Security Threats, Firewalls, Data & Message Security, Encrypted Documents, Security on the Web.
+
+Consumer Oriented Electronic Commerce:- Consumer Oriented Applications, Mercantile Process Models, Mercantile Models from the Consumer’s Perspective, Mercantile Models from the Merchant’s Perspective
+
+Module III    (10 hours)
+
+Electronic Payment Systems :- Types of Electronic Payment Systems, Digital Token Based Electronic Payment System, Smart Cards, Credit Cards, Risk in Electronic Payment Systems, Designing Electronic Payment Systems.
+
+Module IV	(12 hours)
+
+Electronic Data Interchange:- EDI Application in Business, EDI-Legal, Security and Privacy Issues, EDI standardization, EDI Envelope for Message Transport, Internet based EDI, Internal Information System, Work-flow Automation and Coordination, Supply Chain Management, Document Library, Types of Digital Documents, Corporate Data Warehouses.
+
+Module V	(12 hours)
+
+Recent Trends in E-Commerce :- Multimedia in E-Commerce, Video Conferencing with Digital Videos, Broad Band Telecommunication, Frame & Cell Relays, Switched Multimegabit Data Service (SMDS), Asynchronous Transfer Mode, Mobile Computing and Wireless Computing.
+
+Reference Books
+
+1)	Ravi Kalakota, Andrew B Whinston, Frontiers of Electronic Commerce, Pearson Education Inc., New Delhi, 2009 
+
+2)	Ravi Kalakota, Andrew B. Whinston, Electronic Commerce A Manager’s Guide, Pearson Education Inc., New Delhi, 2007 
+
+3)	P. T. Joseph, E-Commerce An Indian Perspective, PHI Learning Private Limited, New Delhi, 2009 
+ 

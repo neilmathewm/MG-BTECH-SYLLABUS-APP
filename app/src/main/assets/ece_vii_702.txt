@@ -1,0 +1,43 @@
+EC010 702 INFROMATION THEORY AND CODING
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 2 hour tutorial per week.
+
+Objectives
+
+•	To give a basic idea about the information theory. 
+
+•	To get a knowledge about various coding schemes. 
+
+Module 1(12 hrs)
+
+Concept of amount of information-Entropy-Joint and Conditional Entropy-Relative Entropy-Mutual information-Relationship between Entropy and Mutual information-Rate of information-Channel capacity-Redundancy and efficiency of channels.
+
+Module 2 (12 hrs)
+
+Data compression:-Examples of codes- Krafts inequality, optimal codes-Bounds on optimal code length-Huffman codes-Shannon-Fanno Elias coding-Arithmetic coding-ZIP coding.
+
+Module 3 (12 hrs)
+
+Channel capacity:-Noiseless binary channel, BSC, BEC-Symmetric channels-Shannons Channel capacity theorem, Properties of channel capacity-Trade off between SNR and Bandwidth-Channel coding theorem-Zero Error Codes.
+
+The Gaussian Channel:-Band limited channel-Gaussian multiple user channels
+
+Module 4 (12 hrs)
+
+Channel coding:-Concepts of group and fields-Binary field arithmetic-Construction of Galois field-Vector spaces-Matrices
+
+Linear Block Codes:-Encoding-Decoding-Syndrome and error detection-Minimum distance of a block code-Error detection and correction-Capabilities of a linear block code-Standard array and syndrome decoding.
+
+Module (12 hrs)
+
+Important Linear block code:-Hamming codes-Cyclic code-BCH code-Convolution codes-Systematic and non systematic codes –Encoding-Decoding-Viterbi algorithm-Stack (ZJ) decoding algorithm-Turbo codes-LDP codes.
+
+
+References:
+
+1.	T M.Cover,J A.Thomas-“Elements of Information Theory”-Wiley Inter Science. 
+2.	Lin,Costello-“Error Control Coding”-Pearson Education. 
+3.	Singh,Sapre-“Communication systems”-Tata McGraw Hill. 
+
+4.	T K.Moon-“Error correction coding”-Wiley Inter science. 

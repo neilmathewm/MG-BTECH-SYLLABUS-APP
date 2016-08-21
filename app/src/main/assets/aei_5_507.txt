@@ -1,0 +1,30 @@
+AI010 507(P)
+
+Industrial Electronics Lab
+0+0+3
+Credit : 2
+
+Objectives:
+
+1.	To familiarise different power semiconductor devices. 
+2.	To design the circuit for the devices. 
+3.	To introduce power converters. 
+
+
+1.	Study of V-I characteristic of SCRS, TRIAC. 
+
+2.	Study of BJT, IGBT, GTO & MOSFET. 
+3.	R, RC and UJT firing circuits for the control of SCRs. 
+4.	Design and implementation of Ramp-Comparator and digital firing scheme for simple SCR circuits. 
+5.	Automatic lighting control with SCRs and optoelectronic components. 
+6.	AC phase control using SCR and TRIAC. 
+7.	Speed control of DC motor using choppers and converters. 
+8.	Generation and study the PWM control signal for Single phase dc to ac inverter. 
+9.	Study and use of the single phase half controlled & fully controlled AC to DC Converter and effect of firing angle control on load voltage & wave Forms. 
+10.	Study and use of back to back connected SCR/ TRIAC Controlled AC Voltage controller and its wave forms with Variation of firing angle. 
+11.	Study & use chopper circuit for the control of DC Voltage using (1) Pulse width control (2) Frequency Control. 
+
+12.	Study of Single Phase inverter and its wave form. 
+13.	Study of Three Phase firing circuit with synchronisation, and testing with three phase AC to DC bridge converter. Testing of wave forms of digital firing modules. 
+14.	Study and Testing of a Three Phase bridge inverter with different types of loads. 
+15.	Simulation of gating circuits and simple converter circuits. 

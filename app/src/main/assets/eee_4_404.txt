@@ -1,0 +1,66 @@
+EE 010 404: Electromagnetic Theory
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+To impart knowledge on
+
+•	basic concepts and principles of electromagnetic fields 
+
+•	practical significance of the theory to develop a clear perspective for appreciating engineering applications . 
+
+Module I (15 hours)
+
+Review of Vector Analysis - Cartesian coordinate system - The Vector field- dot and cross products - introduction to cylindrical and spherical coordinate systems.
+
+Static Electric Field: Coulomb’s law - electric field intensity -field intensity due to point charge, line charge and volume charge distributions- electric flux- electric flux density-Gauss’s law and its applications- divergence of a vector –curl of a vector - Maxwell’s first equation- the Del operator- Divergence theorem
+
+Module II (12 hours)
+
+Energy and potential - Energy expended in moving a point charge in an electric field - Electric Potential between two points – potential at any point due to a point charge - potential at any point due to discrete as well as distributed charges- Electrical field lines and equipotential contours –electric dipoles - dipole moment - potential gradient- conservative nature of a field- Laplace and Poisson equations (Derivation only and not solution) – Maxwell’s Curl equation for electrostatic fields.
+
+Module III (11 hours)
+
+Conductors and Dielectrics– current and current density- continuity equation - -point form of Ohm’s law- conductor properties – polarization - dielectric strength and break down - dielectric boundary conditions
+
+Capacitance - parallel plate capacitor - capacitance of isolated sphere, spherical shell, coaxial cylinders and parallel wires - effect of earth on capacitance - method of images – capacitors in series and parallel – energy stored in static electric field
+
+Module IV (12 hours)
+
+The steady Magnetic Field - Biot-Savart’s law - Ampere’s circuital law – H due to a long wire - H due to a long solenoid - H due to an infinite current sheet - H due to a circular wire loop - Stoke’s theorem - magnetic flux and flux density – Maxwell’s equations for magnetostatic fields - the scalar and vector magnetic potentials - magnetic force on a moving charge - force on a current element - force between current carrying wires - torque on closed circuits - magnetic boundary conditions, energy stored in a magnetic field, skin effect.
+Self and mutual inductances –Inductance of solenoids, torroids and two wire transmission lines– inductances in series and parallel.
+
+Module V (10 hours)
+
+Time varying fields- Faraday’s laws of electromagnetic induction- Motional emf - concept of displacement current- Maxwell’s equation in point form and integral form.
+ 
+
+Wave equation in free space – applications in transmission lines - power flow and Poynting vector - Poynting theorem- interpretations- instantaneous, average and complex pointing vector- power loss in conductors.
+
+Numerical methods in electromagnetics (overview only).
+
+
+
+Text Books
+
+1.	Mathew N O Sadiku, Principles of Electromagnetics, Oxford University Press 
+
+2.	T V S Arun Murthy, Electromagnetic Fields, S. Chand 
+
+Reference Books
+
+1.	W H Hayt, J A Buck, Engineering Electromagnetics, Mc Graw Hill 
+
+2.	John D Kraus, Electromagnetic., Mc Graw Hill 
+
+3.	Guru and Hiziroglu, Electromagnetic Field Theory Fundamentals, Cambridge University Press 
+4.	Fawwaz T Ulaby, Electromagnetics for Engineers, Pearson education 
+
+5.	Gangadhar KA, Field Theory, Khanna Publishers 
+
+6.	David K Cheng, Field and Wave Electromagnetics, Pearson education 
+ 

@@ -1,0 +1,39 @@
+CS010 504(EC) DIGITAL SIGNAL PROCESSING
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives:- To introduce the principles and core areas of Signal Processing, in a programmatic approach and explore the basic ideas on the applications of DSP in various fields of Science and Technology.
+
+Module 1: (12 Hrs)
+
+Introduction to Signals & Systems:- Continuous Time Signals and Discrete Time Signals-Generation of Discrete Time Signals – Sampling, Elementary Discrete Time Signals- Operations on Discrete Time Signals- Convolution- Discrete Time Systems -Properties of Discrete Time Systems-Linearity, Time invariance-Causality-Stability- Linear Time Invariant (LTI) Systems Difference Equation representation of LTI Systems -The Z transform-Properties of Z transform-Inverse Z transform-System Transfer function.
+
+Module 2: (12 Hrs)
+
+Frequency Domain Representation of Discrete Time Signals:- Discrete Time Fourier Transform (DTFT) properties, Discrete Fourier Transform(DFT) properties& Fast Fourier Transform( FFT) Decimation in Time &Decimation in Frequency algorithms.
+
+Module 3(13Hrs)
+
+Finite Impulse Response Filter:- FIR Filters with Linear Phase, Need of Linear Phase, FIR Filter Design Methods- Fourier Series Method – Window Method- Design of FIR Filters using Rectangular, Triangular,Hamming, Hanning, Blackmann and Kaiser Windows. Realization of FIR Filter- Direct, Linear Phase and Cascade Realizations.
+
+Module 4: (13 Hrs)
+
+Infinite Impulse Response Filters:- Steps in IIR Filter Design, Conversion of Analog Filter to Digital Filter- Impulse Invariant and Bilinear Transformations, Analog Filter Design Approximations-Butterworth and Chebyshev Approximations., Realization of IIR Filter- Direct, Cascade and Parallel Realizations.
+
+Module 5(10 Hrs)
+
+Introduction to DSP Chips: - Basic Architecture of a DSP chip, Case Study: TMS 320, TigerSHARC Processors (Overview of Architecture and Features)
+
+Applications of DSP:- Audio Signal Processing and Compression, Image Processing- JPEG Compression, Video Compression, Speech Processing and Recognition, Weather Forecasting, RADAR, (Brief idea only)
+
+Text Books
+
+1.	Oppenheim A. V., Schafer R. W., Discrete-Time Signal Processing- PrenticeHall/Pearson. 
+2.	Andreas Antoniou Digital Signal Processing Tata McGrawHill 
+
+Reference Books
+
+1.	S.K. Mithra Digital Signal Processing , A Computer Based Approach TataMcGraw Hill 
+2.	John G. Proakis, Dimitris G. Manolakis, Digital Signal Processing: Principles, Algorithms and Applications, Prentice Hall of India Pvt. Ltd., 1997 

@@ -1,0 +1,48 @@
+IT010 701 FINANCIAL MANAGEMENT AND E-BANKING
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objective
+
+•	To understand the basic concepts of Accounting, book keeping, costing, fund flow and e- banking 
+
+MODULE I	(12 hours)
+The basic concepts of Accounting: The separation of ownership and control, The users of
+accounts, Computers and users of accounts, Accounting concepts and conventions,
+Accounting equation, Balance sheet, Classifying items, The processing function.
+
+MODULE II	(12 hours)
+Book-Keeping: The double-entry system, Double-entry of expenses, Asset of stock,
+Capital and revenue expenditure, Balancing accounts on computers, The trial balance,
+The final accounts, Depreciation, Bad debts and provision for bad debts, Division of the
+ledger, Books of original entry, Source documents, Accounting systems, Interpretation of
+accounts.
+
+MODULE III	(12 hours)
+	Costing: Cost Accounting, Classifying costs, The implications for programming,
+The operating statement, the cost of raw materials, the cost of direct labour, the cost of overheads, job costing, Break-even analysis, Break-even graphs, Budgeting, Standard costing, Variance analysis, Marginal costing. Ratio Analysis: Ratio meaning, profitability ratios, profit in relation to sales, profit in relation to investments, Liquid ratios, Solvency ratios, other ratios, Activity ratios, Eps, DuPont Financial analysis, ratios for predicating bankruptcy, Inter-fim comparison, ratios limitations.
+
+MODULE IV	(12 hours)
+Fund Flow Statement: Meaning, Importance, Definition of terms, Funds and Flow,
+Sources and use of funds, Changes in working capital, Preparation of funds flow
+statements, cash flow statements, Sources and uses, preparation. Cost Reduction:
+Difference between cost control and cost reduction, Prequisites for an effective cost
+reduction, Concept of value analysis- crux of the cost reduction, steps involved in
+introducing a cost reduction program, some examples of cost reduction, Common
+limitations.	
+
+MODULE V	(12 hours)
+E-Banking: Changing Dynamics in the Banking Industry, Changing Consumer Needs, Cost Reduction, Demographic Trends, Regulatory Reform, Technology Based Financial services products. Home Banking Implementation Approaches, Home Banking Using Bank’s Proprietary Software, Banking via the PC Using Dial-Up Software, Banking via Online Services, Banking via the Web: Security First Network Bank. Open versus Closed Models, Management Issues in Online Banking, Differentiating Products and Services, Managing Financial Supply Chains, Pricing Issues in Online Banking, Marketing Issues:
+Attracting Customers, Keeping Customers, Back-Office Support for Online Banking, Integrating Telephone Call Centers with the Web.
+
+
+Reference Book
+
+1.	R K Sharma and Shasi K Gupta ”Management Accounting Principles And Practice”, Kalyani Publishers. 
+2.	Khan and Jain, ” Theory and Problems in Financial Management”, Tata Mc Graw Hill 
+3.	Eugene .F. Brigham & Joel F Houston,” Fundamentals of Financial Management”, Thomson Learning. 
+4.	P.H. Basset,t ” Computerised Accounting”, NCC Blackwell Ltd. , Oxford, 1994 
+5.	M.C Shukla & T.S.Grewal,” Advanced Accounts”, S.Chand & Co. , New Delhi 
+6.	Ravi Kalkota,Andrew B. Whinston,”Electronic Commerc A Manager’s Guide”, Pearson Education 2006. 
+7.	Nand Dharmeja & K.S. Sastry, “Finance & Accounting for ,Managerial Competiveness”, Weeler Publishing, Allahabad 

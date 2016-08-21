@@ -1,0 +1,45 @@
+CS010 805G06 :Pattern Recognition
+
+
+Teaching Schemes	Credits:4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives:
+
+• To impart a basic knowledge on pattern recognition and to give a sound idea on the topics of parameter estimation and supervised learning, linear discriminant functions and syntactic approach to PR.
+
+•	To provide a strong foundation to students to understand and design pattern recognition systems. 
+
+Module I (12 hours)
+
+Introduction: introduction to statistical, syntactic and descriptive approaches, features and feature extraction, learning and adaptation. Bayes Decision theory, introduction, continuous case, 2-categoryclassification, minimum error rate classification, classifiers. Discriminant functions and decision surfaces.
+
+Module 2(12 hours)
+
+Introuction- Maximum likelihood estimation - General principle,Gaussian case ; bias. Bayesian estimation – class conditioned density, parameterdistribution, Bayesian Parameter estimation – General Theory,Gibb’s Algorithm – Comparison of Bayes Method with Maximum likelihood.
+
+Module 3(12 hours)
+
+Introduction,Density Estimation. Parzen Windows – Convergence of mean, variance,Kn – Nearest Neighbourestimation,Nearest neighbor rule,Converge error rate, error bound , partial distance.
+
+Module 4(12 hours)
+
+Linear discriminate functions and decision surfaces:-Introduction, training error, Threshold weight, discriminate function – two category case, multicategory case. Generalized discriminant function, Quadratic discriminant functions, Polynomial discriminant, PHI functions. Augmented vector.Two category linearly separable case: weight space, solution region, margin, learning rate ,algorithm(Gradient descent – newton)Relaxation procedures.
+
+Module 5(12 hours)
+
+Syntactic approach to PR : Introduction to pattern grammars and languages ,higher dimensional grammars, tree, graph, web, plex, and shape grammars, stochastic grammars , attribute grammars, Parsing techniques, grammatical inference.
+ 
+
+
+References
+
+1.	R.O Duda, Hart P.E, “Pattern Classification And Scene Analysis”, John Wiley 
+2.	Gonzalez R.C. & Thomson M.G., “Syntactic Pattern Recognition - An Introduction”, Addison 
+
+Wesley. 
+3.	J. T. Tou and R. C. Gonzalez, “Pattern Recognition Principles”, Wiley, 1974 
+4.	Fu K.S., “Syntactic Pattern Recognition And Applications”, Prentice Hall, 
+5.	Rajjan Shinghal, “Pattern Recognition: Techniques and Applications”, Oxford 
+University Press,	2008.

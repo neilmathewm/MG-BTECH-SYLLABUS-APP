@@ -1,0 +1,43 @@
+	CS010 702: COMPILER CONSTRUCTION
+Teaching scheme	Credits: 4
+2 hours lecture and 2 hours tutorial per week	
+1.)	• To introduce the various techniques involved in the translation of source programs into
+	object  programs by a compiler.	
+2.)	• To understand the inner working of a compiler using the various data structures used in the
+	translation process.	
+
+
+Module 1 (12Hrs)
+
+Introduction to compilers: -Phases of a compiler-Analysis and synthesis phases-Lexical analysis and its role-Review of finite automation and Regular Expressions-Specification of tokens using regular expressions-Implementing lexical analyzer using finite automation-Design of lexical analyzer using LEX
+
+
+Module 2 (12 Hrs)
+
+Syntax analyzer-Role of syntax analyzer-Review of context free grammar-derivation and parse trees-Basic parsing approaches-Top down parsing-Recursive Descent parsing –LL(1) parsing-Bottom up parsing-Shift reduce parsing-Operator precedence parsing -LR parsing-Simple LR, Canonical LR and LALR parsers- Design of syntax analyzer using YACC
+
+Module 3 (12 Hrs)
+
+Semantic analysis-Need for semantic analysis-Syntax directed definitions-S attributed definitions- L- attributed definitions-Translation schemes-Type system and Type checking-Design of a simple type checker
+
+Storage Management:-Memory allocation strategies (static, stack and heap allocations)-Memory allocation in block structured languages-Accessing local and non local data-Array allocation and access-Procedure calls-Parameter passing methods-Runtime stack and storage management
+
+
+Module 4(12 Hrs)
+
+Synthesis phase:-Intermediate Code Generation (ICG)-Need for ICG-IC Formats-3 Address code-Triples and quadruples
+
+Code optimization:-Need for code optimizer-Basic blocks and program flow graph-Machne dependent and machine independent optimizations-Optimization transformations-Local and global optimizations
+
+Module 5(12 Hrs)
+
+Code Generation-Basic issues in code generation-Data descriptors-Expression trees-Generating target code from expression trees-Symbol table handling-Symbol table requirements and organization. Error handling-Types of errors-Compile time errors and recovery-Runtime errors-Runtime Error Handling ,Cross Compilers and Incremental Compilers(Brief idea only)
+ 
+
+Reference Books
+
+1.) .Aho A Ravi Sethi and J D Ullman, Compilers Principles Techniques and Tools,Addison Wesley 2.) Kenneth C Louden, “Compiler Construction Principles and Practice”, Cenage Learning
+Indian Edition
+3.) D M Dhamdhare, System programming and operating system, Tata McGraw Hill & Company
+
+4.) Tremblay and Sorenson, The Theory and Practice of Compiler Writing - Tata McGraw Hill & Company

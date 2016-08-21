@@ -1,0 +1,55 @@
+CE010 403: MECHANICS OF SOLIDS- II
+
+Teaching scheme:	Credits: 4
+2 hour lecture and 2 hour tutorial per week
+
+Objectives:
+
+•	To understand the basic strength and energy theorems of Structural Mechanics and its applications 
+•	To study deformations of bodies caused by externally applied forces and the internal effects produced due to moving loads. 
+
+. 
+
+Module 1 (12 hours) 
+
+Deflection of determinate beams: Differential equation of the elastic curve- slope 
+& deflection of beams by Double integration method (concept only)-Macaulay’s method - Conjugate beam method 
+Deflection due to shear (concept only). 
+
+Module 2 (12 hours)
+
+Energy Theorems: Strain energy due to axial load( gradual, sudden & impact), bending, shear and torsion- principle of super position- Betti’ s theorem -Maxwell’ s reciprocal theorem-principle of virtual work(deformable bodies)-Castigliano’ s first theorem-deflection of statically determinate beams & pin jointed frames by strain energy, virtual work and unit load methods
+
+Module 3 (12 hours)
+
+Moving loads and influence lines: effect of moving loads-influence lines for reaction, shear force and bending moment for determinate beams
+Absolute maximum bending moment (basic concept only).
+
+Module 4 (12 hours)
+
+Arches: Theoretical arch-Eddy’ s theorem- analysis of three hinged arches –support reactions-normal thrust-radial shear
+Cables and suspension bridges: General cable theorem-analysis of cables under concentrated and uniformly distributed loads-anchor cables
+Suspension bridges with stiffening girders(basic concepts only).
+
+Module 5 (12 hours)
+
+Theories of Elastic Failure: Maximum principal stress theory-maximum shear stress theory - maximum principal strain theory – Mohr’s theory. Principle of stationary and minimum potential energy, Castigliano’s theorems (theory only)
+Unsymmetrical bending: Product of inertia-principal axes (basic concepts only)
+
+References:
+
+1.Devdas Menon, Structural Analysis, Vol.1, Narosa, Chennai.
+2.	Bhavikatti S.S , Structural Analysis Vol. I, Vikas Publishing House (P) Ltd. 
+3.	Reddy C.S., Basic Structural Analysis, Tata McGraw Hill Publishing Co.1996. 
+4.	C. K. Wang, Intermediate Structural Analysis, Tata McGraw Hill Education Private Ltd. 
+5.	Smith J.C. Structural Analysis, Macmillian Pub.Co.1985. 
+ 
+6.	Rajesekharan &Sankarasubramanian,G., Computational Structural Mechanics, Prentice Hall of India, 2001. 
+7.	Wang C.K.& Solomon C.G., Introductory Structural Analysis, McGraw Hill.1968. 
+8.	Sadhu Sindh, Strength of Materials, Khanna Publishers, 1988. 
+9.	Seeli F.B.& Smith J.P., Advanced Mechanics of Materials, John Wiley &Sons, 1993. 
+10.	Norris & Wilbur, Elementary Structural Analysis, McGraw Hill. 
+11.	Junarker S.R., Mechanics of Structures, Vol. II, Charorbar Book Stall. 
+12.	Timoshenko S.P, Young D.H., Theory of structures, McGraw Hill 
+13.	Thadani B.N, Desai J.P, Structural mechanics, Weinall Book Corporation. 
+14.	Punmia B.C., Strength of materials and theory of structures, Vol.II, Laxmi publications. 

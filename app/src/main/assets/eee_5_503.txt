@@ -1,0 +1,56 @@
+
+EE 010 503 Signals and Systems
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	To understand different types of signals and systems 
+
+•	To provide sound knowledge in different transforms in the analysis of signals and systems 
+
+Module 1 (12hrs)
+
+Signals- Classification of signals Basic operations on signals. Representation of a wave as sum of elementary functions. - Systems-Classification of systems.
+Fourier series analysis of continuous time periodic signals-Fourier coefficients, exponential Fourier series, properties of continuous time Fourier series, power representation using Fourier series, Fourier spectrum. Steady state solution of electric circuits with non- sinusoidal non periodic input by Fourier series.
+
+Module 2 (12hrs)
+
+Fourier Transform- Fourier transform of standard signals, properties of Fourier transform, Amplitude and phase spectrum, Fourier Transform of periodic signals. . Inverse Fourier transform for a given spectra. System analysis with Fourier Transform-Transfer function of LTI system. Signal transmission through linear system-signal distortion- Signal band width and system bandwidth-band width and rise time, band width requirement for signal transmission.
+
+Module 3 (12hrs)
+
+Convolution and correlation of signals- Convolution theorems, Power spectral density and energy spectral density. Comparison of ESD and PSD, cross correlation of energy and power signals. Auto correlation-Auto correlation for energy signals, periodic signals, auto correlation and spectral density, relationship between convolution and correlation, Detection of periodic signals in presence of noise by correlation.
+
+Module 4 (12hrs)
+
+Sampling theory- Sampling theorem, nyquist rate, reconstruction of signal, effects of under sampling, sampling of band pass signals, sampling techniques, comparison of various sampling methods. Time domain analysis of discrete time system- solution of difference equation, natural and forced response. Impulse response and convolution-convolution of two sequences, Causality ,FIR and IIR systems, Stability, Step response, Correlation of two sequences. Inverse system and Deconvolution.
+
+Module 5 (12hrs)
+
+Symmetrical two port network -image impedance –characteristics impedance-and propagation constant of a symmetrical two port network-properties of symmetrical two port network - symmetrical two port network as a filter- filter fundamentals -pass and stop bands-behaviour of iterative impedance- constant –k, low pass, high pass and band pass filters- m derived T and ? sections and their applications for finite attenuation at filter terminals – band pass and band elimination filters
+ 
+Text Books:
+
+1.	Alan V Openhein and Schafer, Signals and Systems, Pearson. 
+
+2.	Ravikumar , Signals and Systems ,PHI 
+
+3.	Dr. S. Palani, Signals and Systems, Ane Books Pvt. Ltd. First Edition, 2009 
+
+References
+
+1.	Luis F Chapparo, Signals and systems; Elsevier Publications,2011 
+2.	Roberts, Fundamentals of Signals and Systems (SIE), 2e, Tata McGraw –Hill Education New Delhi,2010 
+3.	D.C. Dhubkarya , Networks and Systems, University Press, New Delhi,2008. 
+
+4.	P.Ramesh Babu and R. Ananda Natarajan, ,Signals and systems, SCITECH 
+
+5.	Simon Haykin and Barry Van Veen , Signals and Systems, Second Edn,John Wiley,India ,2010. 
+6.	Robert A. Gabel and Richard A. Robert, Signals and Systems, Wiley, India 
+
+7.	D.Ganesh Rao, R.V. Srinivasa Murthy, Network Analysis, A Simplied Approach 
+
+Sanguine Technical Publishers. 

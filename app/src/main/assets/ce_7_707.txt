@@ -1,0 +1,49 @@
+CE010 707  COMPUTER APPLICATIONS LAB
+
+Teaching scheme:	Credits: 2
+
+3 hour practical per week
+
+Objective:
+
+To familiarize the students on the software packages for analysis , design and project management
+Module I & II
+
+• INTRODUCTION
+
+Overview and the Environment of STAAD pro Package.
+• GENERAL DESCRIPTION
+
+Type of structure, Unit systems, structure geometry and Co-ordinate systems, global co- ordinate system, Local co-ordinate systems
+
+•	STAAD III -Commands- Using Edit Input-Command Formats-Text Input. 
+
+•	STAAD PRE- Graphical Input Generation-“Concurrent” Verifications-Library- Geometry Generation – Dimensioning. 
+
+•	STAAD POST – Graphical Post Processing – Animation – Icons – Isometric View – Zooming-Results of Analysis & Design – Query reports. 
+
+•	LOAD – Member Load, Element Load, Joint Load, Floor Load, Self weight Command, Load case no, Load Combination .Load Generation for Wind Load, Seismic Load and Moving Load 
+
+•	FINITE ELEMENT ANALYSIS & Dynamic Analysis. 
+
+•	DESIGN for Concrete and Steel Structures using IS: 456 and IS 800 respectively. 
+Note 
+
+The student has to practice the above topics by working out problems in 
+1. Analysis and design of beams and trusses, Steel and RCC framed structures. 2. Analysis and design of multi-storied framed structures. 
+Module III & IV 
+
+Project management using CPM/PERT Software (Microsoft Project /PRIMAVERA software) 
+1. Practice on the GUI of the software and Input of Date 2. Practice on Creating Bar Charts/Ghant charts 
+3. Practice on creating CPM/PERT charts and finding out critical path. 4. Practice on resource allocation and leveling of resources. 
+5. Practice on Project Monitoring (Cost &Time) 
+6. Plotting and printing of various charts and project 
+
+Note 
+
+The student has to practice the above topics by doing Project Management for Turn key projects related to Civil Engineering applications. 
+References 
+
+1. STAAD III Reference Manual 
+
+2. MS Project/PRIMAVERA Reference Manual 

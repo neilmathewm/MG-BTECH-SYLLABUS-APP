@@ -1,0 +1,60 @@
+AI010 701	VLSI
+
+
+
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives:
+
+•	To impart knowledge of the VLSI Design and , scaling of devices 
+
+•	To make an awareness on the various processes involved in the fabrication of different devices 
+
+
+Module 1
+
+Processes in IC fabrication: Overview of the VLSI fabrication process – Elemental semiconductors and compound semiconductors –Crystal growth: –Czochralski process – Wafer preparation – wafer cleaning – Epitaxial growth: – Chemical vapour deposition(CVD) – Molecular beam epitaxi(MBE) - Sputtering – Oxidation :– dry oxidation and wet oxidation -Lithography:- photolithography – fine line lithography – X-Ray lithography – electron beam lithography –photo mask fabrication –Etching:- wet etching and reactive plasma etching –Doping:- diffusion – mechanism - Fick’s laws - impurity profiles – ion implantation and annealing – metallization: – physical vapour deposition –patterning –wire bonding and packaging
+
+Module 2
+
+VLSI Design: Circuit design – scaling of device structure – scaling factors - effects of miniaturization – VLSI Design cycle: –system specification – architectural design functional design – logic design – circuit design - physical design – fabrication –packaging testing and debugging new trends in design cycle – physical design cycle: - partitioning floor planning and placement – routing – compaction extraction and verification –
+
+design styles:–full custom- standard cell - gate arrays - field programmable gate array – sea of gates-Stick diagram – Mask lay out –design rules - Design of simple logic circuits: inverter, NAND gate, NOR gate, CMOS logic system, BiCMOS Circuits – Sub system design process : design of a 4 bit shift register – Basics of Hard ware description languages : VHDL and Verilog
+
+Module 3
+
+VLSI process integration :Silicon Technology: Monolithic component fabrication – BJT fabrication – buried layer – impurity profile – parasitic effects – diodes – Schottky diode and transistor – FET –JFET– monolithic resistors sheet resistance and design – resistors in diffused region –– Monolithic capacitor – junction capacitor– Isolation of components – junction isolation - dielectric isolation – IC crossovers - vias
+ 
+
+
+Module 4
+
+Silicon MOS Technology: MOSFET fabrication – NMOS – PMOS –Si gate technology - control of threshold voltage- Metal gate CMOS – Sillicon Gate CMOS – Twin well process – Latch up –BiCMOS technology - MOS resistance- MOS capacitor
+
+Module 5
+
+Compound semiconductor technology: GaAs Technology – Crystal structure – doping process – Channeling effect – MESFET –Fabrication - device modeling - Strained Si technology, Si-Ge,
+
+
+
+References
+
+1.	VLSI Technology : S M Sze ,Tata McGraw Hill pub 
+
+2.	VLSI Fabrication Principles: Sorab K Gandhi, John Wiley & sons 
+
+3.	Basic VLSI Design : Douglas Pucknel, PHI 
+
+4.	Integrated Circuits K R Botkar, Khanna pub 
+
+5.	Algorithms for VLSI Physical design Automation : NaveedSherwani ,Springer 
+
+6.	ULSI Technology :Chang, SM Sze,Tata McGraw Hill pub, 
+
+7.	Principles of CMOS VLSI design :H E Weste , Pearson Edn 
+
+8.	Modern VLSI Design : Wayne Wolf, Pearson Edn 
+
+9.	VHDL primer, J Bhaskar 

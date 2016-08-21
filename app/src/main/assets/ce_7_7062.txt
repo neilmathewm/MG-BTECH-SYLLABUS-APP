@@ -1,0 +1,43 @@
+CE010 706L02   GROUND IMPROVEMENT TECHNIQUES (Elective -II)
+
+Teaching Scheme	Credit: 4
+
+2 hours lecture and 2 hours tutorial per week.
+
+Objective:
+
+The rapid urban and industrial development pose an increasing demand for land reclamation and utilization of unstable and environmentally affected ground.
+The objective of the course is to provide an opportunity to the students to familiarize with the recent developments and techniques in geo technical Engineering to improve the properties of such problematic /difficult soils.
+
+Module 1 ( 15 Hrs)
+
+Necessity of soil improvement-selection of improvement method- mechanical stabilization-effect on engineering properties-dewatering-well-point system electro osmosis-pre-loading- sand drains- methods of installation-vibroflotation and stone columns.
+
+Module 2 ( 11 Hrs)
+
+Chemical stabilization- cement stabilization- factors affecting soil cement mixing-admixtures- lime stabilization-effect of lime on soil properties -construction of cement / lime stabilized bases-bituminous stabilization- thermal
+stabilization- electrical stabilization.
+
+Module 3 ( 11 Hrs)
+
+Introduction to grouts and grouting- basic functions –classification of grouts-suspension grout and solution grout- groutability ratio –-properties of grouts- fluidity and viscosity, bleeding and stability,, rigidity and thixotropy, strength and permeance- grouting applications-seepage control in soil and rock under dams and for cut off walls-stabilization grouting for underpinning.and other applications
+
+Module 4 ( 12 Hrs)
+
+Earth Reinforcement - mechanism and concept- advantages-factors affecting-uses -design theories and stability analysis of retaining wall -external and internal stability-tie back analysis-coherent gravity analysis- application areas of earth reinforcement
+
+Module 5 ( 11 Hrs)
+
+Geotextiles: Soil improvement with geotextiles- classification- concepts-geotextiles as reinforcement, separators, filters, and drainage media-damage and durability of geotextiles
+
+References
+
+1.Purushotama Raj,P. Ground Improvement Techniques, Laxmi Publications 2.Koerner, R.M.,Construction and Geotechnical Methods in Foundation Engineering.
+
+Prentice Hall
+3. Koerner, R.M.,Designing with Geosynthetics,Prentice Hall
+ 
+4.Swami Saran., Reinforced soil and its Engineering applications, I K International Publishing house
+
+5.Sivakumar Babu., An Introduction to Soil reinforcement and Geosynthetics.,University Press.
+6.Shroff A.V. and Shah D.L.,Grouting Technology in Tunelling and Dam construction. Oxford and IBH Publishing Co

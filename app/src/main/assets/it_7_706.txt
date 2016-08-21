@@ -1,0 +1,42 @@
+IT010 706L01 SOFTWARE PROJECT MANAGEMENT
+
+Teaching scheme	Credits: 4
+2 hours lecture and 2 hour tutorial per week
+2
+Objectives
+
+Pre-requisites: IT 010 604 Software Engineering
+
+
+Module 1	(12 hours)
+
+Software Project, Contract Management and Technical Project Management, Activities of Software Project Management, Categorizing Software Projects, Problems with Software Projects, Management Control, Step Wise Project Planning, Programme Management, Managing the Allocation of Resources within Programmes, Strategic Programme Management, Aids to Programme Management, Benefits Management, Cost-Benefit Analysis, Cash Flow forecasting, Cost-Benefit Evaluation Techniques, Risk Evaluation.
+
+Module 2	(12 hours)
+
+Technical Plan Contents List, Structure Versus Speed of Delivery, The Waterfall Model, The V-Process Model, The Spiral Model, Software Prototyping, Incremental Delivery, Dynamic Systems Development Method, Extreme Programming, Software Effort Estimation Techniques, Estimating by Analogy, Albrecht Function Point Analysis, Function Points Mark II, COSMIC Full Function Points, COCOMO.
+
+
+Module 3	(12 hours)
+
+Objectives of Activity Planning, Project Schedules, Sequencing ad Scheduling Activities, Network Planning Models, The Forward Pass, The Backward Pass, Identifying the Critical Path, Activity Float, Activity-on-arrow Networks, Categories of Risk, Risk Identification, Risk Assessment, Risk Planning, Risk Management, PERT, Monte Carlo Simulation, Critical Chain Concepts.
+
+Module 4	(12 hours)
+
+Resource Requirements, Scheduling Resources, Creating Critical Paths, Resource Schedule, Cost Schedules, The Scheduling Sequence, Project Control Cycle, Visualizing Progress, Cost Monitoring, Earned Value Analysis, Prioritizing Monitoring, Change Control.
+
+Module 5	(12 hours)
+
+ISO 12207, The Supply Process, Types of Contract, Stages in Contract Placement, Contract Management, Organizational Behaviour, Motivation, The Oldham-Hackman Job Characteristics Model, Decision Making, Leadership, Organizational structures, Dispersed and Virtual Teams, Software Quality, ISO 9126, Software Quality Measures, Product Versus Process Quality Management, Quality Pans.
+
+
+Reference Books
+
+1.	Bob Hughes and Mike Cotterell, “Software Project Management”, Fourth Edition, Tata McGraw-Hill, New Delhi, 2006. 
+
+2.	Richard H Thayer, “Software Engineering Project Management”, Second Edition, Wiley India, 2004. 
+
+3.	Cleland D.L & King W.R, “System Analysis And Project Management”, Tata Mcgraw Hill 
+4.	Meredith J.R, “Project Management-A Management Approach”, Wiley-NY. 
+5.	Charles.S.Parker, “Management Information Systems – Strategy and Action”, Tata Mcgraw Hill 
+ 

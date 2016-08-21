@@ -1,0 +1,49 @@
+ME010 601 Mechanics of Machines
+
+(Common with AU010 601)
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To understand the method of static force analysis and dynamic force analysis of mechanisms 
+•	To understand the principles of governors and gyroscopes. 
+•	To understand the design of flywheel 
+•	To understand the working of different types of brakes and dynamometers 
+
+Module I (14 hours)
+
+Force analysis of machinery - static and dynamic force analysis of plane motion mechanisms - graphical method - principle of superposition –matrix methods - method of virtual work.
+
+Module II (12 hours)
+
+Governors: - terminology; Watt, Porter, Proel, Hartnell, Hartung, Wilson-Hartnell, and Pickering governors-spring controlled governors of gravity type-effort and power-controlling force diagram-quality of governors-effect of friction-insensitiveness-stability-inertia governors- governor speed, torque characteristics of an engine-governor and flywheel.
+
+Module III (12 hours)
+
+Turning moment diagram and Flywheel: - coefficient of fluctuation of energy and speed- energy saved in a flywheel-punching press-dynamically equivalent two mass system-centre of percussion-kinetic equivalence-reversed effective force analysis-piston effort-crankpin effort- crank effort-turning moment diagrams for I.C. engines.
+
+Module IV (10 hours)
+
+Gyroscope: - Principle-Angular acceleration-Effect of gyroscopic couple on bearings, airplanes, and ships-stability of automobile and two wheel vehicles-Gyroscopic stabilization of sea vessels and grinding mills-Rigid disc at an angle fixed to a rotating shaft
+
+Module V (12 hours)
+
+Brakes and clutches: Shoe, double block, long shoe, internally expanding shoe, band, band & block, hydraulic, mechanical, air and power brakes-braking of a vehicle-cone, single plate, multiple, centrifugal clutches.
+
+Dynamometers: Pony brake. rope brake, epicyclic train, belt transmission and torsion dynamometers-effort and power.
+
+Reference Books
+
+1 . R L Norton, Kinematics and Dynamics of Machinery, 1st ed., Tata McGraw Hill Education Private Limited, Delhi, 2009
+2 .  J. E. Shigley, J. J. Uicker, Theory of Machines and Mechanisms, McGraw Hill
+3	S .S Rattan Theory of Machines, 3rd ed., Tata McGraw Hill Education Private Limited, Delhi, 2009 
+
+4	A. Ghosh, A. K. Malik, Theory of Mechanisms and Machines, Affiliated East West 
+Press
+
+5 . C. E. Wilson, P. Sadler, Kinematics and Dynamics of Machinery, 3rd edition, Pearson Education. 6 . Holowenko, Dynamics of Machinery, John Wiley
+ 

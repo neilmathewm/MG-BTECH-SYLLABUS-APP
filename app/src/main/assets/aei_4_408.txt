@@ -1,0 +1,30 @@
+AI010 408(P)
+
+DIGITAL IC LAB
+(Common to IC010 408(P))
+
+Credits 2 0+0+3
+Objectives:
+
+To familiarize the application of Digital IC’s
+To equip the students with the design of digital circuits. To introduce the basic concept of digital system design.
+
+
+
+1.	TTL and CMOS characteristics. 
+
+2.	Interfacing of TTL and electromagnetic relay using transistor, optocoupler (4N33) and Darlington Arrays ULN 2803 
+3.	Logic family Inter connection [TTL to CMOS and CMOS to TTL] 
+4.	Design of Half Adder and Full Adder using Gates. 
+5.	Design and testing of ripple and synchronous counter. 
+6.	Johnson and Ring Counter using Shift registers. 
+7.	Study of counter using (a) flip-flop (b) IC’s[7490,7493,74910] 
+8.	Design of Astable and Monostable Multivibrators using (a) Gates (b) 555 
+9.	Study of ADC [at least one] 
+10.	Study of Multiplexer, Demultiplexer, Decoder and Encoder. 
+11.	Study of Adders/ Subtractors using IC’s. 
+12.	Study of 7 segment display circuit static/dynamic.[7447, FND542] 
+13.	Static RAM 
+
+14.	Sequence Detector circuit.[ Mealy, Moore] 
+15.	Simulation using VHDL [Internal Valuation Only].-Logic Gates, Decoders, Encoders, Half Adders, Full Adders, Flip flops, counters. 

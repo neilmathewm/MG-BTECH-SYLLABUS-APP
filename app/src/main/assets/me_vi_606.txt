@@ -1,0 +1,44 @@
+ME010 606L01 Computational Fluid Dynamics
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To introduce the primary components of learning and practicing CFD 
+
+•	To develop an understanding of solution methods for fluid motion and energy transfer equations 
+
+Module 1 (15 hours)
+
+Basic concepts: conservation principles – derivation of transport equations: control volume – Langangian and Eulerian approach - mass conservation equation-momentum conservation equations-stress laws- mass transfer equation-energy equation-rate change-convection and conduction-volumetric generation-work done by surface and body forces- dimensionless form of Navier-Stokes equations- introduction to numerical methods, advantages and limitations.
+Module 2 (10 hours)
+One dimenensional conduction: The governing equation- grid layout-discretisation-stability and convergence-explicit, implicit and semi-implicit procedures-methods to handle non-linearities- Solution methods-Gauss-Siedel method and TDMA-Simple problems.
+Module 3 (10 hours)
+
+One dimensional conduction-convection: exact solution-discretisation- central difference scheme-upwind difference schemes- numerical false diffusion-stability of unsteady equation-exact solution-explicit finite difference form-implicit finite difference form.
+
+Module 4 (10 hours)
+
+Two dimensional boundary layers: governing equations- descretisation method- symmetry, wall and free stream boundary conditions- dealing with source terms –defining initial conditions-choice of grid size and iterations-applications (excluding turbulence)
+Module 5 (15 hours)
+
+Two dimensional Convection-Cartesian Grids: simple mathematical models for incompressible, in viscid, potential and creeping flows-approximations of hyperbolic, parabolic, elliptic, and mixed flows. Solution strategies for 2D convection problems- SIMPLE algorithm-descretisation- pressure correction equation- solution procedure- Solution methods: iterative solvers-evaluation of residuals-under relaxation-boundary conditions - simple description on treatment of turbulent flows - applications (laminar flows only).
+
+
+
+
+Text Books
+
+1.	Anderson J.D., Computational Fluid Dynamics, McGraw- Hill Co. 
+
+2.	Joel H. Ferzigerand Peric M., Computational methods for Fluid Dynamics, Springer Werlag Publishers 
+
+Reference Books
+
+1.	Patankar S.V., Numerical Fluid Flow and Heat Transfer , Hemisphere, New York 
+2.	Anil W. Date, Introduction to Computational Fluid Dynamics, Cambridge University Press 
+
+3.	Hiderbrand F.B., Introduction to Numerical Analysis , Tata McGraw- Hill 
+ 
+

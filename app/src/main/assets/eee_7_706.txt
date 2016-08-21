@@ -1,0 +1,50 @@
+
+EE 010 706 L01: HVDC Transmission
+
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of HVDC Transmission systems and components 
+
+Pre-requisites: Fundamentals of Power Electronics
+
+
+Module I (13 hours)
+
+Introduction: Comparison of AC, DC transmission – Description of DC transmission systems – Planning for HVDC transmission – Thyristor device characteristics and protection
+– Pulse number of converters – choice of converter configuration – Review of Graetz circuit – Valve rating – Transformer rating – Simplified analysis of Graetz circuit(without overlap and with overlap) – Converter bridge characteristics.
+
+Module II (10 hours)
+
+HVDC System Control: principles of DC link control – converter control characteristics – system control hierarchy – firing angle control – Current and extinction angle control – Higher level controllers – starting and stopping of DC link – power control
+
+Module III (10 hours)
+
+Converter faults and protection: types of faults – commutation failure – arc through, misfire and current extinction – protection against over currents – over voltages – surge arresters – protection against over voltages – smoothing reactors – DC line – transient over voltages in DC line – Protection of DC line – DC breakers
+
+Module IV (12 hours)
+
+Reactive power control: Steady state reactive power requirements – sources of reactive power – static VAR systems – Thyristor Controlled Reactor – Thyristor switched capacitor – Reactive power control during transients
+
+Harmonics and filters: Generation of harmonics in HVDC systems – criteria of design for AC filters – types of AC filters – DC filters – Carrier frequency and radio interference noise
+
+Module V (15 hours)
+
+Multi-terminal DC systems: applications of MTDC systems – types – comparison – Control and protection
+
+Modeling: Converter model – modelling of DC and AC networks
+
+
+Text Books
+
+1.	HVDC Power Transmission Systems-Technology and System Interactions: K.R Padiyar, New Age Int’l. 
+
+Reference Books
+
+1.	Direct Current Transmission Vol 1: E.W Kimbark, Wiley 
+2.	HVDC and FACTS controllers – Vijay K Sood – Kluwer Academic Publishers 
+ 
+

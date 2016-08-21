@@ -1,0 +1,53 @@
+CE010 705	TRANSPORTATION ENGINEERING - II
+
+
+Teaching scheme:	Credits :3
+
+2 hour lecture and 1 hour tutorial per week
+
+Objective: To understand the principles and design of highway, traffic and airport engineering
+
+Module 1 (8 hours)
+
+Classification, alignment and surveys -classification of highways - typical cross section of roads in urban and rural areas - requirements and factors controlling alignment of roads, engineering surveys for highway location.
+
+Geometric Elements of highways: Highway cross sectional elements - pavement surface characteristics, camber and width requirements, median, kerbs, road margins – right of way, Sight distances - over taking zone requirements and related problems.
+
+
+Module 2 (14 hours)
+
+Geometric Design of Highways
+Design of horizontal alignment - speed – horizontal curves, super elevation - methods of attainment of super elevation - related problems, radius - extra widening - transition curves Design of vertical alignment - gradient and grade compensation – Vertical curves - sight distance requirements on summit and valley curves - simple problems on design of vertical alignment.
+
+Module 3 (8 hours)
+
+Traffic Engineering: Traffic characteristics - traffic studies and their applications Traffic control devices- Traffic signs, traffic signals, road markings and traffic islands. Types of road intersection - kerb parking (Design of traffic signals not expected).
+
+
+Module 4 (8hours)
+
+Highway materials: Aggregates - desirable properties and tests - Bituminous materials - properties and tests - sub grade soil - desirable properties.
+
+Pavement design: Basic difference between flexible and rigid pavements -factors affecting their design – design of flexible pavements-CBR & IRC Introduction to performance grading and superpave. Types and causes of failures in flexible and rigid pavements, highway drainage.
+Highway construction and maintenance: Bituminous surface dressing, bituminous macadam.
+ 
+Module 5 (10 hours)
+
+Airport Engineering: Classification of airports - Aircraft characteristics-planning, selection of site for airport - factors to be considered. Runway orientation and layout of runways: use of wind rose diagrams, basic runway length and corrections required - Imaginary surfaces - approach zone and turning zone, obstructions and zoning laws - Stop way, clearway.
+
+Aprons: factors controlling size and number of gate positions - holding apron aircraft parking systems – passenger terminal building- typical airport layout - airport markings - marking of runways, taxiways etc. Airport lighting: lighting of runways approaches, taxiways and aprons. Air traffic control - airways, navigational aids and landing aids.
+
+References
+
+1.	S. K. Khanna, C. E. G. Justo, Highway engineering, Nem Chand Publications. 
+
+2.	L .R. Kadiyali, Traffic Engineering and Transport Planning, Khanna Publishers. 
+3.	L.R. Kadiyali, Principles and Practices of Highway Engineering, Khanna Publishers. 
+4.	S.K. Khanna, M. G. Arora, S.S. Jain, Airport Planning & Design, Nem Chand 
+Publishers
+4.	S. C. Rangwala, Airport Engg., Charotar Publishing Co. 
+5.	Horenjeft, Robert & Francise Mc Kelvy, Planning and design of airports, Mc Graw Hill 
+6.	G.V. Rao, Principles of transportation and High way Engineering, Tata Mc Graw Hill, New Delhi. 
+
+7.	Robert. G. Hennes, Martin Ekse, Fundamentals of Transportation engineering, Tata Mc Graw Hill. 
+8.	Theodore M Matson, Wilbur. S. Smith, Frederick.W.Hurd, Traffic Engineering, Mc Graw Hill. 

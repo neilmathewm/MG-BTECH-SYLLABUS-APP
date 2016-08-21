@@ -1,0 +1,49 @@
+EN010 501A ENGINEERING MATHEMATICS IV (Common to all branches except CS & IT)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives: Use basic numerical techniques to solve problems and provide scientific techniques to decision making problems.
+
+Module 1 (12 hours)
+
+Function of Complex variable : Analytic functions – Derivation of C.R. equations in cartision co-ordinates – harmonic and orthogonal properties – construction of analytic function given real or imaginary parts – complex potential – conformal mapping of z2 ,   - Bilinear transformation– cross ratio – invariant property (no proof) – simple problems.
+
+Module 2 (12 hours)
+
+Complex integration: Line integral – Cauchy’s integral theorem – Cauchy’s integral formula – Taylor’s series- Laurent’s series – Zeros and singularities – types of singularities – Residues – Residue theorem – evaluation of real integrals in unit circle – contour integral in semi circle when poles lie on imaginary axis.
+
+Module 3  (10 hours)
+
+Numerical solution of algebraic and transcendental equations: Successive bisection method
+– Regula –falsi method – Newton –Raphson method - Secant method – solution of system of linear equation by Gauss – Seidel method.
+ 
+
+Module 4 ( 10 hours)
+
+Numerical solution of Ordinary differential method – modified Euler’s method – Runge – corrector method.
+ equations: Taylor’s series method – Euler’s Kutta method (IV order) - Milnes predictor –
+ 
+
+Module 5 (16 hours)
+
+Linear programming problem: Definition of L.P.P., solution, optimal solution, degenerate solution – graphical solution –solution using simplex method (non degenerate case only) Big -M method – Duality in L.P.P. – Transportation problem –Balanced T.P. – initial solution using Vogel’s approximation method - modi method (non degenerate case only)
+
+References
+
+1.	B.V. Ramana – Higher Engg. Mathematics – Mc Graw Hill 
+
+2.	M.R.Spicgel , S.Lipschutz , John J. Schiller, D.Spellman – Complex variables, schanm’s outline series - Mc Graw Hill 
+3.	S.Bathul – text book of Engg.Mathematics – Special functions and complex variables – PHI 
+4.	B.S. Grewal – Numerical methods in Engg. and science - Khanna Publishers 
+ 
+5.	Dr.M.K Venkataraman- Numerical methods in science and Engg -National publishing co 
+
+6.	S.S Sastry - Introductory methods of Numerical Analysis -PHI 
+
+7.	P.K.Gupta and D.S. Hira – Operations Research – S.Chand 
+
+8.	Panneer Selvam– Operations Research – PHI 
+
+9.	H.C.Taneja – Advanced Engg. Mathematics Vol II – I.K.International 

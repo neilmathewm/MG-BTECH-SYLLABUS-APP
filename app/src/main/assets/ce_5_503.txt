@@ -1,0 +1,48 @@
+CE010 503  DESIGN OF CONCRETE STRUCTURES – I
+
+Teaching Scheme	Credit: 4
+
+2 hours lecture and 2 hours tutorial per week.
+
+Objective
+
+•	To provide the students with the knowledge of behaviour of reinforced concrete structural elements in flexure, shear, compression and tension and to enable them to design such elements. 
+
+Module 1 (12 hours)
+
+Working stress method: Introduction- permissible stresses-factor of safety – behaviour of R.C.C beams –assumptions-under reinforced –over reinforced and balanced sections. Theory of singly and doubly reinforced beams.
+
+Module 2  (12 hours)
+
+Limit state method: Concepts -assumptions –characteristic strength and load partial safety factors-limit states-limit state of collapse –limit state of
+
+serviceability. Theory of singly and doubly reinforced rectangular sections in flexure-design of simply supported and flanged beams.
+
+Module 3  (15 hours)
+
+Behaviour and design of one way and two way slabs-Continuous slabs-analysis using method recommended by BIS -arrangements of reinforcement in slabs. Design of flat slab (Concept only).
+
+Module 4   (8 hours)
+
+Design of columns: Limit state method- I S specifications-design of columns with lateral and helical reinforcement-members subjected to combined axial load and bending.
+
+Module 5   (13 hours)
+
+Design of footings-Isolated footing with axial and eccentric loading-combined footing. Stair cases-introduction to different types-design of simply supported flights-cantilever steps.
+
+Note: Sketches only required for reinforcement details. Detailed drawing in drawing sheets not required.
+
+References
+
+1.	Relevant IS codes. (I.S 456, I.S 875,SP 16) 
+
+2.	Park R and Pauloy T, Reinforced concrete structures, John Wiely & sons Inc. 
+3.	Purushothaman P, Reinforced concrete structural elements-Behaviour, Analysis and Design, Tata McGraw Hill publishing company Ltd. 
+4.	Unnikrishna Pillai S. & D.Menon, Reinforced concrete design, Tata McGraw Hill 
+ 
+Publishing company Ltd.
+
+5.	Mallick S.K., Reinforced concrete, Oxford & IBH Publishing company. 
+6.	Varghese P.C., Limit state design of Reinforced concrete, Printice Hall of India Pvt Ltd. 
+7.	Ashok .K. Jain, Reinforced concrete- Limit state design, New Chand & Bose. 
+8.	S.S Bhavikatti, Design of Reinforced concrete structures, I.K.International Publishing house Pvt.Ltd 

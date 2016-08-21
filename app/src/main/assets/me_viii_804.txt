@@ -1,0 +1,47 @@
+Electives - III
+
+ME010 804 L01 Aerospace Engineering
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+
+Module 1 (12 hours)
+
+The atmosphere: Characteristics of Troposphere, Stratosphere, Mesosphere and Ionosphere - International Standard Atmosphere – Pressure, Temperature and Density variations in the International Standard Atmosphere – Review of basic fluid dynamics – continuity, momentum and energy for incompressible and compressible flows – static, dynamic and stagnation pressures
+
+– phenomena in supersonic flows
+
+Module 2 (12 hours)
+
+Application of dimensional analysis to 2D viscous flow over bodies – Reynolds number – Mach number similarity – Aerofoil characteristics – Pressure distribution – Centre of Pressure and Aerodynamic Center – Horse shoe vortex
+
+Module 3 (12 hours)
+
+Momentum and Blade Element Theories – Propeller co-efficients and charts – Aircraft engines – Turbo jet, Turbo fan and Ram Jet engines – Bypass and After Burners
+
+Module 4 (12 hours)
+
+Straight and Level Flight – Stalling Speed – Minimum Drag and Minimum Power conditions – Performance Curves – Gliding – Gliding angle and speed of flattest glide – Climbing – Rate of Climb – Service and Absolute Ceilings – Take off and Landing Performance – Length of Runway Required – Circling Flight – Banked Flight – High Lift Devices – Range and Endurance of Air planes.
+
+Module 5 (12 hours)
+
+Air speed indicators – Calculation of True Air Speed – Altimeters – Rate of Climb meter – Gyro Compass – Principles of Wind Tunnel Testing – Open and Closed type Wind Tunnels – Pressure and Velocity Measurements – Supersonic Wind Tunnels (description only) – Rocket Motors – Solid and Liquid Propellant Rockets – Calculation of Earth Orbiting and Escape Velocities Ignoring Air Resistance and assuming Circular Orbit.
+
+References
+
+1.  Mechanics of Flight - Kermode A. C.
+ 
+2.	Aerodynamics for Engineering Students - Houghton and Brock 
+
+3.	Airplane Aerodynamic – Dommasch 
+
+4.	Anderson J.D. Jr., (2007), Fundamentals of Aerodynamics, Tata McGraw-Hill, New Delhi. 
+5.	Karamcheti K., (1966), Principles of Ideal-Fluid Aerodynamics, John Wiley & Sons Inc. 
+
+6.	Bertin J.J., (2002), Aerodynamics for Engineers, 4th Ed. Prentice-Hall Inc. 
+
+7.	Kuethe A. M. and Chow C.-Y., (1986), Foundations of Aerodynamics, John Wiley & Sons Inc. 
+
+8.	Kundu P.K. & Cohen I.M., (2008), Fluid Mechanics, Elsevier Inc. 

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neil.user.mg_syllabus.Semester_VIII_Cse">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 801 : HIGH PERFORMANCE COMPUTING"
+        android:id="@+id/button13"
+        android:layout_marginTop="10dp"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="Cse_VIII_801"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 802: ARTIFICIAL  INTELLIGENCE"
+        android:id="@+id/button14"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_below="@+id/button13"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_802"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 803: Security in Computing"
+        android:id="@+id/button15"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button14"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_803"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 804L01: E-COMMERCE"
+        android:id="@+id/button16"
+        android:layout_below="@+id/button15"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Cse_VIII_804L1"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 804L02: GRID COMPUTING"
+        android:id="@+id/button17"
+        android:layout_below="@+id/button16"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Cse_VIII_804L2"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 804L03: Bioinformatics"
+        android:id="@+id/button18"
+        android:layout_below="@+id/button17"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Cse_VIII_804L3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 804L04 :Optimization Techniques"
+        android:id="@+id/button19"
+        android:layout_below="@+id/button18"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Cse_VIII_804L4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 805G03 : Advanced Mathematics"
+        android:id="@+id/button20"
+        android:layout_below="@+id/button19"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Cse_VIII_805G3"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 805G04: Software Architecture"
+        android:id="@+id/button21"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button20"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_805G4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 805G06 :Pattern Recognition"
+        android:id="@+id/button22"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button21"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_805G6"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:id="@+id/button23"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button22"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_806"
+        android:text="CS010 806: Computer Graphics Lab" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 807 Project Work"
+        android:id="@+id/button24"
+        android:layout_below="@+id/button23"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_807"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="CS010 808	Viva -Voce"
+        android:id="@+id/button25"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button24"
+        android:layout_centerHorizontal="true"
+        android:onClick="Cse_VIII_808"/>
+
+</RelativeLayout>

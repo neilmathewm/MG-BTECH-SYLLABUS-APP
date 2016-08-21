@@ -1,0 +1,34 @@
+EC010 708 SIGNAL PROCESSING LAB
+
+Teaching Schemes	Credits : 2
+
+3 hour practical per week
+
+
+List of Experiments
+
+Experiments based on MATLAB
+
+1.	Generation of Waveforms (Continuous and Discrete) 
+
+2.	Verification of Sampling Theorem. 
+
+3.	Time and Frequency Response of LTI systems. 
+
+4.	Implement Linear Convolution of two sequences. 
+
+5.	Implement Circular convolution of two sequences. 
+
+6.	To find the DFT and IDFT for the given input sequence. 
+
+7.	To find the DCT and IDCT for the given input sequence. 
+
+8.	To find FFT and IFFT for the given input sequence. 
+
+9.	FIR and IIR filter design using Filter Design Toolbox. 
+
+10.	FIR Filter Design (Window method). 
+
+11.	IIR Filter Design (Butterworth and Chebychev). 
+
+Mini Project based on digital signal processing or control systems or communication applications.

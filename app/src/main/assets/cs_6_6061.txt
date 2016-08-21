@@ -1,0 +1,44 @@
+CS010 606L01: DISTRIBUTED SYSTEMS
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart an introduction to distributed systems and distributed computing. 
+
+•	To develop basic knowledge on distribution of data and file systems in distributed environment. 
+•	To provide exposure to distributed database concepts. 
+
+
+Module I	(10 hours)
+
+Introduction to Distributed Systems, evolution, characteristics, design issues, user requirements, Distributed computing models-workstation model, workstation-server model, processor–pool model. Protocols for distributed systems -VMTP and FLIP.
+
+Module II	(12 hours)
+
+Client server communication, Group communication, IPC - Message passing – features.
+RPC – model, implementation, stub generation, RPC messages, communication protocols marshalling.
+Distributed shared memory – Architecture, design issues, thrashing, replacement strategy. Synchronization – clock synchronization, event ordering, mutual exclusion.
+
+Module III	(14 hours)
+
+Distributed file system: Components of DFS, design issues, interfaces, implementation, File Caching and Replication. Sun Network File System – architecture and implementation, Google File System. Naming- Namespace and contexts and name resolution.
+
+Module IV	(12 hours)
+
+Distributed system management: Features of scheduling algorithms, Task assignment approach, load balancing, load sharing, Process migration mechanisms, Threads – design issues, Fault tolerance – failures, Byzantine failures.
+
+Module V	(12 hours)
+
+Distributed Databases: Distributed DBMS architecture, distributed query processing, transactions, concurrency control, deadlock management and Distributed Database Recovery protocols-2PC, Network Partitioning.
+
+Reference Books
+
+1. Sunita Mahajan, Seema shah, Distributed Computing ,Oxford University Press, first edition, 2010
+
+2. George Coulouris, Jean Dellimore and Tim Kindberg, Distributed Systems – Concepts and designing, Pearson Education Asia, fourth Edition 2006, New Delhi.
+
+3.	Pradeep. K, Sinha, Distributed Operating Systems ,PHI Edition, first Edition,1997. 
+
+4.	Andrew S Tenenbaum, Distributed Operating Systems, Pearson Education Asia 

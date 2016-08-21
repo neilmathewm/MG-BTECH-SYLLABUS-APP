@@ -1,0 +1,43 @@
+CS010 606L06: Advanced Software Environments
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of Windows programming.. 
+•	To develop understanding about the new software environment and develop of software to meet the growing demand of the industry.
+
+Pre-requisites: Knowledge required to study this subject (OOP concepts))
+
+Module I (10 hours)
+
+Windows Programming – Components of Windows API- Distinction with ordinary programs
+– Event Driven Programming – WinMain Function – Creating Windows – Message loop – Window procedures - Menus & Buttons – Drawing on Windows, Advanced User Interface concepts, Developing application issues and solutions.
+Module II (10 hours)
+
+MFC Features & Advantages – MFC Classes – Life cycle of an MFC application – The CWinApp Classes – Creating windows – Message maps and event handling – Menus & Buttons - Drawing on MFC windows – Handling mouse & Keyboard events.
+
+Module III (13 hours)
+
+X-Windows – Clients & Servers - Basic Architecture of X-Windows systems – Layers in XWindows Architecture – XWindows Programming – Simple Hello World Application in X. Command line options and resources – connecting to X-Display – creating windows and graphics context – Handling events – creating child windows.
+
+Module IV (13 hours)
+
+CORBA – Introduction – Features – Fundamental concepts in Distributed objects – CORBA IDL – stub & Skeleton - implementing a simple CORBA server and CORBA client with C++.
+
+Module V (14 hours)
+
+CORBA object reference – Managing references at server – CORBA factories – CORBA object creation in C++ & JAVA – CORBA Exceptions – Destroying CORBA objects - comparison of CORBA & DCOM Architectures.
+
+
+Reference Books
+
+1.	Yashwanth Kanetkar , Visual C++ Programming ,BPB Publications ,New Delhi, 2005. 
+
+2.	Mike Blaszczals, Professional MFC with Visual C++ 6, 4th Edition, Shroff publishers & Distributors Private Limited, New Delhi, 2003. 
+
+3.	Nabajyoti Bakakati, X Window System programming , 2nd Edition, Prentice-Hall of India Private Limited,New Delhi, 2001. 
+
+4.	Jason Pritchard ,COM & CORBA side by side , Pearson Edition New Delhi, 2000. 

@@ -1,0 +1,38 @@
+CS010 706L01 : Real Time Systems
+
+( Common to IT010 706L04 Real Time Systems)
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	to learn , real-time operating systems, task scheduling, communication, fault tolerant techniques and , programming languages 
+
+
+Module 1 (12 hours)
+
+Introduction to Real Time Systems: Structure of real time systems, real time computer, task classes – Periodic, Aperiodic, critical, Non-critical, definition of real time systems – real time systems, embedded systems - Hard real time systems, soft real time systems, real time design issues.
+
+Module 2 (12 hours)
+
+Task Assignment and Scheduling: Uniprocessor scheduling algorithms –Rate monotonic Scheduling, Preemptive Earliest Deadline First (EDF), IRIS Tasks. Scheduling Aperiodic and Sporadic jobs in Priority Driven Sytems, Task Assignment-Utilization Balancing algorithm, Next Fit Algorithm for RM scheduling, Bin Packing for EDF, Myopic Offline Scheduling(MOS), Focused Addressing and Bidding, Buddy strategy. Fault Tolerant scheduling.
+
+Module 3 (12 hours)
+
+Communication – Communication Media and message sending topologies, network architecture issues, protocols – contention – based, token - based, stop and go multi loop, polled bus, hierarchal round robin, fault tolerant routing – clocks and synchronization– fault tolerant synchronization in hardware, synchronization in software.
+
+Module 4 (12 hours)
+
+Fault tolerance – definition, cause of failure, fault types, fault detection and containment, redundancy – hardware, software, time, information, integrated failure handling. Reliability Evaluation techniques- Obtaining parameter values, Reliability models for Hardware redundancy, software error models.
+
+Module 5 (12 hours)
+
+Programming Languages and Real Time databases – Desired language characteristics, Data Typing, Control Structures. Real time databases, characteristics, main memory databases, Transaction, Disk schedule algorithms, Databases for hard real time systems, maintaining serialization constituency.
+
+
+References
+
+1.	Real Time Systems - C.M Krishna, Kang G. Shini (Tata McGraw Hill) 
+
+2.	Real Time Systems- Jane W.S. Liu(Pearson) 

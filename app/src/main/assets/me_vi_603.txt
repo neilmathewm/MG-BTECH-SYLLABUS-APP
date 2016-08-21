@@ -1,0 +1,39 @@
+ME010 603 Thermal Systems and Applications
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of different types of engines 
+
+•	To develop an idea about various thermal systems.. 
+
+Module I (12 hours)Steam Engineering: Properties of steam - wet, dry and superheated steam - dryness fraction - enthalpy and internal energy - entropy of steam - temperature entropy diagram - process - Mollier chart - Rankine cycle for wet, dry and superheated steam. Steam Generators - classification - modern steam generators - boiler mountings and accessories.
+
+Module II (12 hours) Steam nozzles - Mass flow rate - throat pressure for maximum discharge - throat area - effect of friction - super saturated flow.
+
+Steam turbines: velocity triangles, work done, governing, and efficiencies.
+
+Module III (12 hours) Gas turbine Plants - Open and closed cycles - thermodynamics cycles - regeneration, re heating - inter cooling - efficiency and performance of gas turbines. Rotary Compressors - Analysis of rotary compressors - centrifugal and axial compressors and reciprocating compressors. Combustion - combustion chambers of gas turbines - cylindrical, annular and industrial type combustion chamber - combustion intensity - combustion chambers efficiency - pressure loss combustion process and stability loop.
+
+Module IV (12 hours) Introduction to solar energy - solar collectors - Liquid flat plate collectors - principle - thermal losses and efficiency - characteristics - overall loss coefficient - thermal analysis - useful heat gained by fluid - mean plate temperature - performance - focussing type solar collectors - solar concentrators and receivers - sun tracking system - characteristics - optical losses - thermal performance - solar pond - solar water heating - solar thermal power generation (Description Only)
+
+Module V (12 hours) Thermal power plants: layout and operation of steam and diesel power plants - coal burners - stockers - cooling ponds & towers - chimneys - draught - dust collectors - precipitators - feed water heaters - evaporators - steam condensers - coal handling - ash handling.
+
+Text Books
+
+1.	E. L. Wahid , Power plant technology 
+2.	Mathur and Mehta, Thermodynamic and heat power engineering, Jain Brothers. 
+3.	P. L. Ballaney , Thermal Engineering, Khanna publishers 
+
+
+Reference Books
+
+1.	Cohen & Rogers, Gas Turbine Theory 
+2.	G. D. Rai, Solar Energy Utilization 
+
+3.	R.K. Rajput, Thermal engineering, Lakshmi publications 
+ 

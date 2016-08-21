@@ -1,0 +1,58 @@
+CE010 602 GEOTECHNICAL ENGINEERING – II
+
+Teaching scheme:	Credits: 4
+
+2 hour lecture and 2 hour tutorial per week
+
+Objective:
+
+Civil Engineer has many diverse and important encounters with soil. The knowledge of soil Mechanics is helpful in the design of foundations, earth retaining structures ,pavements ,excavations, embankments and dams.
+The objective of the course is to make the students aware of various soil investigation methods, theoretical and practical approach to calculate the bearing capacities of different foundations and the design of various sub structural elements.
+
+Module 1 (12 Hours)
+
+Site investigation and Soil exploration: Objectives - Planning – Stages of Explorations-- Depth and spacing of borings-Methods of explorations- test pits, borings (auger boring and wash boring)- sub surface soundings ( standard penetration and cone penetration ) - geophysical methods (seismic refraction and electrical resistivity methods) –Samples-disturbed and undisturbed samples -sampling tools- - Bore log - Soil profile - Location of water table.
+Stress Distribution: Boussinesque's equations for vertical
+pressure due to point loads, line load and uniformly loaded circular area. - assumptions and limitations - Pressure bulb- Newmark charts and their use.Wetergaard’s equation for point loads-appriximate methods of stress distribution.
+
+Module 2 (12 Hours)
+
+Earth Pressure: General & local State of plastic equilibrium. Earth pressure at rest , active and passive. Rankine's and Coulomb's theories of cohesion less and
+
+cohesive soils - Iinfluence of surcharge and water table.Rehban’s and Culman’s graphical methods. Sheeting and bracings in excavations.
+Sheet Piles: Common types of sheet Piles – Uses of sheet pile walls
+
+Module 3 (12 Hours)
+
+Bearing capacity: Definitions - ultimate and allowable - plate load test - - Terzaghi’s and Skempton’s analysis - bearing capacity factors and
+charts - effect of water table - bearing capacity from building codes and SPT values-Methods of improving bearing capacity - vibroflotation and sand drains. Settlement analysis: Distribution of contact pressure- estimation of immediate
+and consolidation settlement - causes of settlement - permissible, total and differential settlement - methods of reducing differential settlement.
+
+Module 4 (12 Hours)
+
+Foundation: General consideration - Functions of foundation - shallow and deep foundation - different types of foundation -Selection of type of foundation-steps involved.
+
+Footings: Design of individual, continuous and combined footings - footings
+ 
+subjected to eccentric loading - proportioning footings for equal settlement.
+
+Module 5 (12 Hours)
+
+Raft foundation: Types of rafts- bearing capacity equations - design procedure – floating foundation.
+Pile foundation: Uses of piles - Classification of piles - Determination of load carrying capacity of axially loaded single vertical pile (static & dynamic formulae) -Pile load tests - Negative skin friction - Group action & pile spacings - Settlement of pile group.
+Caissons: Open, box, and pneumatic caissons, construction details of well foundation - problems of well sinking.
+
+Note: Structural design of foundations is not contemplated in this course.
+
+References
+
+1.	Arora K. R, Soil Mechanics & Foundation Engineering, Standard Publishers , Distributors. 
+2.	Joseph E.Bowles, Foundation Analysis and Design, McGraw Hills Publishing Company. 
+3.	Ninan P. Kurian, Modern Foundations, Tata McGraw Hills Publishing Company. 
+4.	Peck, Hansen & Thornburn, Foundation Engineering.Wiley Eastern Limited 
+5.	W.C. Teng, Foundation Design.Prentice Hall of India 
+6.	Hans. F. Winterkorn & Hsai Yang Fang, Foundation Engineering Hand Book, Van Nostrand Reinhold Company. 
+7.	B. C Punmia,Soli Mechanics and Foundation Engineering,Laxmi Publications. 
+
+8.	V.N.S. Murthy,Text book of Soil Mechanics and Foundation Engineering,CBS Publishers 
+ 

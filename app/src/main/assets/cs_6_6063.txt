@@ -1,0 +1,39 @@
+CS010 606L03: User Interface Design
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of User Interface Design. 
+•	To develop understanding about human computer interaction methods that utilize more general, widespread and easier-to-learn capabilities. 
+
+
+Module I (8 hours)
+
+Introduction: Importance of user interface – definition, importance of good design, brief history – Graphical User Interface – Web User Interface – Theories, Principles and Guidelines of User interface design
+
+Module II (10 hours)
+
+Design Process: Obstacles in development path deigning for people -Understanding Human Interaction with computers, Importance of Human Characteristics, Human consideration, Human Interaction speeds – Understanding Business function
+
+Module III (15 hours)
+
+Screen Designing: Design goals - screen meaning and purpose, organizing screen elements-ordering of screen data and content – screen navigation and flow – visually pleasing composition – amount of information – focus and emphasis – presenting information simply and meaningfully – information retrieval on web – Statistical graphics – Technological considerations in Interface Design.
+
+Module IV (15 hours)
+
+Menus and navigation schemes-structures of menus-functions of menus- contents of menus - formatting of menus – phrasing the menu- selecting menu choices-navigating menus-kinds of graphical menus- Selection of windows-Window characteristics-components of window-window presentation styles-types of windows -window management-organising window functions-window operations -Selection of device based and screen based controls - text and messages – icons and images – Multimedia – colours- uses, problems, choosing colours.
+
+Module V (12 hours)
+
+Distributed and Collaborative Interaction-Device consistency-distribution of the user interface-event distribution-graphical package layer-programmable API-Model semantics distribution-data layer distribution- asynchronous collaboration-Software tools-specification methods- interface building tools –evaluation and critiquing tools-Interaction devices-keyboard and function keys - pointing devices- speech recognition, digitization and generation – image and video displays – printers.
+
+
+Reference Books	Guide  to  User  Interface  Design,  2nd   Edn.,  Wiley	
+
+1.  Wilbert  O.  Galitz,The  Essential Dreamtech,Delhi,2002		
+2.	Ben Shneiderman, Designing the User Interface ,3rd Edn., Pearson Education Asia,Delhi,2002 
+3.	Dan R. Olsen, Human Computer Interaction,Cengage,New Delhi,2009 
+4.	John M. Carroll,Human Computer Interaction, Pearson Education Asia, Delhi,2002 
+5.	Alan Cooper, The Essentials of User Interface Design , Wiley Dreamtech, Delhi,2002 

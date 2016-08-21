@@ -1,0 +1,45 @@
+ME010 805G01 Industrial Safety
+
+Teaching scheme	Credits: 4
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To develop an understanding of the principles of safety,terminolgies in accident prevention and its theories.. 
+•	To understand the theory and practice of occupational health,ergonomics and hygiene,principle of fire engineering and fire fighting. 
+
+Module-I (12 Hours)
+
+Development of safety movement: - Need for safety-safety and productivity-planning for safety-planning procedure-safety policy-formulation of safety policy-safety budget-role and qualification of safety professional-safety committees-need, types and functions of committees-safety organizations.
+
+Module II (12 Hours)
+
+Accident prevention: - Basic philosophy of accident prevention-nature and causes of accidents-accident proneness-cost of accidents-accident prevention methods-Domino theory-safety education and training-training methods-motivation and communicating safety-personal protective equipments.
+
+Module III (12 Hours)
+
+Safety management techniques: - Safety inspection-Safety sampling technique-Safety audit-Safety survey-Incident recall technique-Job safety analysis-Damage control-Risk management. Involvement in safety: - Role of management-role of supervisors-role of workmen- role of unions-role of government
+
+Module IV (12 Hours)
+
+Occupational health and hygiene: - Functional units and activities of occupational health and hygiene-types of industrial hazards-physical, chemical, mechanical, electrical, social, biological, ergonomic and environmental hazards-factors impeding safety-house keeping-hearing conservation programme
+
+Module V (12 Hours)
+
+Industrial fire protection: - Fire chemistry-classification of fires-fire prevention activities-fire risks-fire load -contributing factors to industrial fires-fire detection-industrial fire protection systems.
+
+Text Books:-
+
+1.	Heinrich H.W, ‘Industrial accident prevention’, McGraw Hill Company, New York, 1980. 
+ 
+Mahatma Gandhi University, Kottayam
+
+
+2.	Frank P Lees, ‘Loss prevention in process industries’, Vol I, II, III, Butterworth, London, 1980. 
+3.	R.P.Blake, “Industrial Safety”, Prentice Hall of India, New Delhi 
+
+Reference books:-
+
+1.	“Accident prevention manual for Industrial Operations”, National Safety Council, Chicago, 1989. 
+2.	Brown D.B, “System Analysis and Design for safety”, Prentice Hall, New Jercy. 
+ 

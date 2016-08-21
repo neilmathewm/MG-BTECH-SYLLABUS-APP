@@ -1,0 +1,67 @@
+EC010 604: COMPUTER ARCHITECTURE AND PARALLEL
+PROCESSING
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+•	To impart the basic concepts of architecture and organisation of computers 
+•	To develop understanding about pipelining and parallel processing techniques. 
+•	To impart knowledge about the current PC hardware 
+
+Pre-requisites:  Digital Electronics and Microprocessors
+
+Module I (12 hours)
+
+Introduction : Difference between Architecture, Organisation and Hardware, Review of basic operational concepts – Stored program concept, Instruction sequencing, bus structure, Software support- translating and executing a program- assembler, linker, loader, OS, Instruction types and Addressing modes.
+
+CPU Performance and its factors, Performance evaluation, The Power wall, Switch from uniprocessors to multiprocessors, Basic concepts of pipelining, superscalar architecture and multithreading, Instruction level parallelism (basic idea only).
+
+Module II (12 hours)
+
+Processor Organisation: Control Unit design: Execution of a complete instruction, Single bus and multibus organisation, Sequencing of control signals, Hardwired control unit, Microprogrammed control unit.
+
+Arithmetic and logic design – review of signed and unsigned binary arithmetic, fast adders, Array multiplier, sequential multiplier, Booth’s algorithm, fast multiplication methods, integer division – restoring and non restoring methods, floating point numbers.
+
+Module III (12 hours)
+
+Memory and I/O Organisation Memory hierarchy, Memory characteristics, Internal organization of semiconductor RAM memories, Static and Dynamic RAM memories, flash memory, Cache memory – mapping function, replacement algorithm, measurement and improvement of cache performance, Virtual memory and address translation, MMU.
+
+Secondary memories – magnetic and optical disks, I/O accessing – Programmed, Interrupt driven and DMA , Buses- synchronous and asynchronous, bus standards.
+
+Module IV (12 hours)
+
+Parallel Processing :Enhancing performance with pipelining-overview, Designing instruction set for pipelining, pipelined datapath, Hazards in pipelining.
+
+Flynn’s classification, Multicore processors and Multithreading, Multiprocessor systems-Interconnection networks, Multicomputer systems, Clusters and other message passing architecture.
+ 
+
+Module V (12 hours)
+
+PC Hardware: Today’s PC architecture – block diagram, Familiarisation of PC hardware components.
+
+Processor - Pentium series to higher processors - single core, hyperthreading, dual core, multi core and many core processors (brief idea about evolution and improvements in performance)
+
+Motherboard – Typical architecture , Essential Chipsets, Sockets, Slots and ports – serial, parallel, USB, RAM , Brief idea about buses, Subsystems (Network, Sound and Graphics, Ethernet port),
+
+Storage devices : Hard Disks-Types and Classification based on interface- Optical Storage – CD, DVD, BLURAY
+
+SMPS – Functions, power connectors. Typical specifications for a computer
+
+Reference Books
+
+1.	Carl Hamacher  : “Computer Organization ”, Fifth Edition, Mc Graw Hill. 
+
+2.	David A. Patterson and John L.Hennessey, “Computer Organisation and Design”, Fourth Edition, Morgan Kaufmann. 
+
+3.	William Stallings : “Computer Organisation and Architecture”, Pearson Education. 
+
+4.	John P Hayes : “Computer Architecture and Organisation”, Mc Graw Hill. 
+
+5.	Andrew S Tanenbaum : “Structured Computer Organisation”, Pearson Education. 
+
+6.	Craig Zacker : “PC Hardware : The Complete Reference”, TMH. 
+7.	Nicholas P Carter : “Computer Architecture and Organization”, Mc Graw Hill. 
+
+8.	Pal Chaudhari: “Computer Organisation and Design”, Prentice hall of India. 
+ 

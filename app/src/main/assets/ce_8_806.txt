@@ -1,0 +1,37 @@
+CE010 806   ENVIRONMENTAL ENGINEERING LAB
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objective:
+
+To make students familiar with laboratory tests for water and waste water quality assessment.
+
+List of Experiments
+
+1.	Determination of alkalinity of water. 
+
+2.	Determination of hardness of water. 
+3.	Determination of acidity of water. 
+4.	Determination of iron. 
+5.	Determination of sulphates. 
+6.	Determination of Chlorine demand and residual chlorine. 
+
+7.	Determination of chlorides in water. 
+8.	M. P. N. of Fecal coliforms using A-l medium 
+9.	D.O. and Biochemical Oxygen Demand. 
+10.	Chemical oxygen demand. 
+11.	Determination of solids - total, suspended, dissolved, fixed, volatile, settleable and SVI. 
+12.	Determination of Turbidity and estimation of optimum coagulant dosage by jar test. 
+
+13.	Determination of pH 
+
+Reference:
+
+1.	“Standard methods for the examination of water and wastewater” 1995, ALPHA, AWWA, WPCF Publication. 
+2.	“Chemistry for Environmental Engineering”- Sawer and McCarty, McGraw Hill. 
+3.	“Manual of standards of quality for Drinking Water Supplies”- Indian Council of Medical Research, New Delhi. 
+4.	“International Standards of Drinking Water” – W.H.O. 
+5.	“IS 2490-1981, IS 3306- 1974, IS 3307-1977, IS 7968-1976, IS 2296-1974, IS 10500-1991” Bureau of Indian Standards, New Delhi, Effluent Standard KSPCB. 
+ 

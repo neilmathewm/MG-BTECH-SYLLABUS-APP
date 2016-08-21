@@ -1,0 +1,56 @@
+
+EC010 601 DIGITAL COMMUNICATION TECHNIQUES
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+
+
+Objectives: To develop ability to analyze communication engineering problems and also to design and develop different communication and electronics systems for processing signals and data.
+
+
+MODULE I    (12 hrs)
+
+Random Signal Theory: Random process: stationarity,ergodicity, mean, auto correlation, cross correlation, covariance, random process transmission through linear filters, power spectral density, cross correlation functions, cross spectral densities, Gaussian process, Discrete Time Random Process, White Process
+
+Signal Space Representation of Waveforms: Vector Space Concept, Signal Space Concepts, Orthogonal Expansion, Gram- Schmidt Orthogonalization Procedure
+
+MODULE II   (12 hrs)
+
+Detection and Estimation: Model of digital communication system, response of bank of correlators to noisy input. Detection of known signals in noise:-ML Receiver. Probability of error calculation, erf, Correlation Receiver, Matched Filter Receiver, properties, detection of signals with unknown phase in noise, Estimation concepts: ML Estimate.
+
+MODULE III  (12 hrs)
+
+Pulse Modulation Techniques: Sampling and pulse modulation: Sampling theorem, Ideal sampling and reconstruction, practical sampling and Aliasing, PAM, PWM, PPM, Quantizing, Quantization Noise, Companding, PCM generation and reconstruction, DPCM, Delta Modulation, Adaptive Delta Modulation, digital multiplexing
+
+MODULE IV (12 hrs)
+
+Baseband shaping for Data Transmission: Binary signaling format, Inter Symbol Interference, Nyquist criterion for distortion less base band binary transmission: Ideal solution, practical solution, correlative coding: Duobinary signaling, modified duobinary, generalized form of correlative coding, eye pattern, equalization ,adaptive equalization, synchronization techniques: bit synchronization, frame synchronization
+ 
+
+
+
+
+
+MODULE V  (12 hrs)
+
+Bandpass Digital Transmission: Digital CW Modulation: ASK, BFSK, BPSK, MSK, Coherent binary system, timing and synchronization, Non coherent binary system, Differentially coherent PSK, Quadrature carrier and M-ary systems: quadrature carrier system, MPSK, M-ary QAM, Trellis coded modulation
+
+
+
+References:
+
+1.	Simon Haykin , Introduction To Analog And Digital Communications, Wiley India Edition 
+
+2.	Proakis& Salehi, Digital Communications, Mc Graw Hill International Edition. 
+
+3.	Herbert Taub, Schilling Donald L.,“Principles of Communication Systems,3rd e/d, Tata Mc Graw Hill,2007. 
+
+4.	Carlson, Crilly, Rutledge, “Communication Systems” 4th  Edition, McGraw Hill 
+
+5.	Simon Haykin , Digital Communications, Wiley India Edition 
+
+6.	Sklar,Kumar Ray, Digital Communications, Pearson Education 
+
+7.	Glover,Grant, Digital Communications, Pearson Education 

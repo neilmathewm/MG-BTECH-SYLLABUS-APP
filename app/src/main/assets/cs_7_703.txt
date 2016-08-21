@@ -1,0 +1,44 @@
+CS010 703: COMPUTER GRAPHICS
+
+Teaching scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week
+
+Objectives:-
+
+To understand the basic concepts of Computer Graphics & display techniques.
+
+Module I ( 3 Hrs)
+
+Introduction: Applications of Computer Graphics, Raster scan and Random scan displays [1]– Video Display Devices, Display files – graphical input & output devices-Flat panel displays, Hardcopy Output Devices, Physical Interactive Devices , Data generation devices.[2]
+
+Module II ( 10 Hrs)
+
+2D Graphics: Output primitives-Line drawing algorithms – DDA, Bresenham’s – Bresenham’s Circle drawing algorithm – Other curves,polynomials and spline curves-2D viewing transformation-clipping-Cohen-Sutherland line clipping –polygon clipping-2D Transformations[1]
+
+Module III ( 12 Hrs)
+
+3D Graphics: 3D Transformations, 3D display methods, 3D Object Representation – Polygon Surfaces – Curved lines and surfaces-Quadric surfaces – Spline Representations – Cubic Spline Interpolation Methods-Bezier Curves and Surfaces – B-Spline Curves and Surfaces, Sweep representation,Octrees.[1]
+
+
+
+Module IV ( 10 Hrs)
+
+3D Rendering: Three-Dimensional Viewing – Projections [3], Visible Surface Detection – Classification of Visible surface detection algorithms – Back-face Detection, Depth- Buffer Method, Scan-line Method. [1,3]
+
+
+
+Module V ( 10 Hrs)
+
+Rendering: Surface Rendering Methods- Basic illumination Models – Polygon–rendering Methods,Interpolative shading methods-Constant shading, Gouraud shading,Phong shading, Texture Mapping.[3]
+
+Fractal Geometry Methods – Classification of Fractals – Self-Squaring Fractals, Ray Tracing and Ray Casting.[1]
+ 
+
+REFERENCES:
+
+1.	Computer Graphics (C version) - Donald Hearn & Pauline Baker (Pearson Education 
+
+Asia) 
+2.	Procedural Elements for Computer Graphics –David F. Rogers, TATA McGraw Hill edition-second edition. 
+3.	Computer Graphics - Zhigang Xiang & Roy A Plastack, Schaum’s Series McGraw Hill edition. 

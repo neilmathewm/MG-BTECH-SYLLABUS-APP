@@ -1,0 +1,36 @@
+EC010 407 ANALOG CIRCUITS-II LAB
+
+Teaching Schemes
+
+3 hours practical per week.	Credits: 2
+
+Objectives
+•	To provide experience on design, testing, and analysis of few electronic circuits. 
+•	To provide experience on design ,testing and analysis of op-amp circuits . 
+
+LIST OF EXPERIMENTS
+
+1.	Differential amplifiers (using BJT and MOSFETs) - Measurement of CMRR 
+
+2.	Cascade amplifiers - Frequency response. 
+
+3.	Cascode amplifiers (using BJT and MOSFETs) - Frequency response. 
+
+4.	Familiarization of Operational amplifiers- Inverting and Non inverting amplifiers, frequency response, Adder, Integrator, comparator and voltage level detector. 
+
+5.	Measurement of Op-Amp. parameters. 
+
+6.	Difference Amplifier and Instrumentation amplifier. 
+
+7.	Astable, Monostable and Schmitt trigger circuit using Op -Amps. 
+
+8.	Triangular and square wave generators using Op- Amplifier. 
+
+9.	Wien bridge oscillator using op-amplifier with amplitude stabilization and amplitude control, RC Phase shift Oscillator. 
+
+10.	Study of 555  and Astable, Monostable multivibrator using 555. 
+
+11.	Active second order filters using Op-Amp (LPF, HPF, BPF and BSF) 
+
+12. . A/D converters- counter ramp and flash type. 13. D/A Converters- ladder circuit.
+ 

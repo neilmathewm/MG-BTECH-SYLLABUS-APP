@@ -1,0 +1,46 @@
+CS010 804L03: Bioinformatics
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	To understand the science of storing, extracting, organizing, analysing and interpreting biological data. 
+
+
+Module 1 (12 hours)
+
+Basic Concepts of Molecular Biology: Cells - Chromosomes, DNA, RNA, Proteins, Central dogma of molecular biology, RNA classification – coding and non coding RNA-mRNA, tRNA, miRNAand sRNA , Genomes and Genes - Genetic code, ORFs,Slice varients,Transcription ,Translation and Protein synthesis.
+
+Module 2 (12 hours)
+
+Sequence alignments – - local/global, pairwise/multiple Sequence alignment- Smith-Waterman algorithm, NeedlemanWunch algorithm, Multiple sequence alignment –Sum-of-Pairs measure - Star and tree alignments ,Scoring matrices: basic concept of a scoring matrix, Matrices for nucleic acid and proteins sequences, PAM and BLOSUM ,Phylogenetic Trees
+
+Module 3 (12 hours)
+
+Informational view of Genomic data, Gene expression, Microarrays-cDNA arrays,Oligo Arrays, Data analysis methodologies-Normalization,Principal Componenet Analysis,Clustering-Hierarchical,K-meana,FCM,Application of Microarrays.
+
+Gene regulation, Gene Ontology, metabolic pathways, and gene set enrichment analysis.
+
+Module 4 ( 12 hours)
+
+Evolution of Protein Structures, Classification of Protein Structures- primary,secondary,ternary and quatenary,Protein Structure prediction and modeling, Assignment of protein structures to genomes, Prediction of protein function, Protein folding problem, Protein Threading, Drug discovery and development
+
+Module 5 (12 hours)
+
+Biological data bases: Pubmed,Swissport,EMBL,DDBJ,Genbank,
+
+Software Tools: Use of Tools for basic and specialized sequence processing such as: BLAST, FASTA, RasMol, Phylip, ClustalW
+
+
+
+References
+
+1.	Setubal & Meidanis, “Introduction to Computational Molecular Biology”, Brooks/Cole Cengage Learning 2009. 
+2.	Arthur M Lesk, “Introduction to Bioinformatics”, Oxford University Press, India, 2004 3.Vittal R. Srinivas “Bioinformatics a mordern Approach”,PHI Learning 2009 . 
+4.Shuba Gopal,Rhys Price Jones,Paul Thymann,Anne Haake,”Bioinformatics with fundamentals of Genomics and proteomics, Tata McGraw Hill 
+
+3.Zoe Lacroix,Terence Critchlow “Bioinformtics managing scientific Data”,Morgan Koufmann Publishers 
+4.B.G Curran,R J walker,SC Bhattia”Bioinformatics”,CBS Publishers,2010 5.Harshawardhana P. Bal “Bioinformatics Principles and Applications”,Tata MacGraw Hill 

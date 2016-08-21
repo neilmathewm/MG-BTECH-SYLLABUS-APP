@@ -1,0 +1,32 @@
+CS010 806: Computer Graphics Lab
+
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To acquaint the students with the implementation of fundamental algorithms in Computer Graphics. 
+
+I.	Experiments to implement the following: ( first 3 weeks) 
+
+1.	DDA Algorithm 
+
+2.	Bresenham's Line drawing Algorithm for any slope. 
+3.	Mid-point Circle Algorithm. 
+4.	2D Transformations 
+
+
+II. Experiments to implement the following:
+
+
+1.	3D Rotations on a cube (about any axis, any general line) controlled by keyboard navigation keys. 
+2.	3D Rotations on a cube with hidden surface elimination.(keyboard controlled) 
+3.	Composite transformations 
+4.	Bezier cubic splines like screen saver 
+5.	Any Fractal Construction (Koch curve ) 
+6.	Animations using the above experiments.(eg.moving along curved path) 
+
+Any experiment according to the syllabus of CS010 702 Computer Graphics can be substituted subjected to permission from competent authority.
+ 

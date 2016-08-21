@@ -1,0 +1,81 @@
+IT010 506: Database Management Systems
+
+(Common with CS010 503)
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart an introduction to the theory and practice of database systems. 
+
+•	To develop basic knowledge on data modelling and design of efficient relations. 
+•	To provide exposure to oracle database programming. 
+
+
+Module I	(10 hours)
+
+Basic Concepts - Purpose of Database Systems- 3 Schema Architecture and Data Independence- Components of DBMS –Data Models, Schemas and Instances-Data Modeling using the Entity Relationship Model-Entity types, Relationship Types, Weak Entity Types .
+
+Module II	(14 hours)
+
+Relational  Model  Concepts  –Constraints  –  Entity  Integrity  and  Referential  Integrity,
+Relational Algebra -Select, Project, Operations from Set Theory, Join, OuterJoin and Division - Tuple Relational Calculus.
+
+SQL- Data Definition with SQL - Insert, Delete and Update Statements in SQL, Defining Domains, Schemas and Constraints, Constraint Violations - Basic Queries in SQL - Select Statement, Use of Aggregate functions and Group Retrieval, Nested Queries, Correlated Queries – Views.
+
+Module III	(12 hours)
+
+Oracle Case Study : The Basic Structure of the Oracle System – Database Structure and its Manipulation in Oracle - Storage Organization in Oracle.- Programming in PL/SQL- Cursor in PL/SQL - Assertions – Triggers.
+
+Indexing and Hashing Concepts -: Ordered Indices, Hash Indices, Dense and Sparse Indices, Multi Level Indices, Cluster Index, Dynamic Hashing.
+
+Module IV	(11 hours)
+
+Database Design– Design Guidelines– Relational Database Design – Functional Dependency- Determination of Candidate Keys, Super Key, Foreign Key, Normalization using Functional Dependencies, Normal Forms based on Primary keys- General Definitions of First, Second and Third Normal Forms. Boyce Codd Normal Form– Multi -valued Dependencies and Forth Normal Form – Join Dependencies and Fifth Normal Form – Pitfalls in Relational Database Design.
+
+Module V	(13 hours)
+
+Introduction to Transaction Processing- Transactions- ACID Properties of Transactions-Schedules- Serializability of Schedules- Precedence Graph- Concurrency Control – Locks and Timestamps-Database Recovery
+
+Query processing and Optimization- Translating SQL Queries into a Relational Algebra Computing Select, Project and Join
+
+Object Relational Databases-Distributed Databases-Different Types-Fragmentation and Replication Techniques-Functions of DDBMS.
+ 
+
+Reference Books
+
+1.	Elmsari and Navathe, Fundamentals of Database System, Pearson Education Asia, 5th Edition, New Delhi, 2008. 
+
+2.	Henry F Korth, Abraham Silbershatz , Database System Concepts, Mc Graw Hill 
+
+6td Edition, Singapore, 2011. 
+
+3.	Elmsari and Navathe, Fundamentals of Database System, Pearson Education Asia, 3rd Edition, New Delhi- for oracle 
+4.	Alexis Leon and Mathews Leon, Database Management Systems, Leon vikas Publishers, New Delhi. 
+
+5.	Narayanan S, Umanath and Richard W.Scamell, Data Modelling and Database Design,Cengage Learning, New Delhi, 2009. 
+
+6.	S.K Singh,Database Systems Concepts,Design and Applications, Pearson Education 
+
+Asia, New Delhi, 2006.
+
+7. Pranab Kumar Das Gupta, Datbase management System Oracle SQL And PL/SQL, Easter Economy Edition, New Delhi, 2009
+
+8. C.J.Date , An Introduction to Database Systems, Pearson Education Asia, 7th Edition, New Delhi.
+
+9.	Rajesh Narang, Database Management Systems, Asoke K ghosh , PHI Learning, New Delhi, 2009. 
+
+10.	Ramakrishnan and Gehrke, Database Management Systems, Mc Graw Hill, 3rd Edition , 2003. 
+
+11.	Peter Rob and Carlos Coronel, Database Systems, Thomson Course Technology, 
+
+7th Edition, 2007.
+
+12.	Satinder Bal Guptha and Adithya Mittal, Introduction to Database Management System, University Science Publishers, New Delhi, 2010. 
+
+13.	Patrick O’Neil and Elizabeth O’Neil, Database Principles, Programming and Performance, Morgan Kaufmann, 2nd Edition, New Delhi,2010 . 
+
+14.	Ramon A Mata-Toledo and Pauline K Cushman, Schaum’s OUTlines Database Management Systems, Tata Mc Graw Hill , New Delhi, 2007. 
+
+15.	Michel Kifer, Philip M. Lewis, Prabin K .Panigrahi and Arthur Bernstein, Database Systems An Application Oriented Approach, Pearson Education Asia, 2nd Edition, New Delhi, 2008. 

@@ -1,0 +1,41 @@
+EC010 408 ANALOG COMMUNICATION LAB
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To provide experience on design, testing, and analysis of few electronic circuits used for communication engineering. 
+
+To understand basic transmission concepts and to develop  strong concepts in fundamentals.
+
+List of Experiments Using discrete components only:
+
+1.	Amplitude Modulator-Measurement of Modulation index. 
+
+2.	Amplitude Demodulator 
+
+3.	Study of PLL and VCO ICs 
+
+4.	Frequency Modulator using VCO 
+
+5.	Frequency Demodulator 
+
+6.	DSB-SC Modulator 
+
+7.	DSB-SC Demodulator 
+
+8.	Tuned Amplifier 
+
+9.	Mixer 
+
+10.	AGC 
+
+11.	Study of 8038 
+
+12.	Spectral Analysis of AM and FM . 
+
+13.	Multiplexing using analog multiplexer ICs 
+
+Note:Any other relevant experiments related to EC 010 405

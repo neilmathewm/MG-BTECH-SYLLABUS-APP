@@ -1,0 +1,61 @@
+EE 010 601: Power Generation and Distribution
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart introductory knowledge of power systems 
+
+•	To develop understanding of power generation systems and power distribution systems. 
+
+Module I (12 hours)
+
+Steam power plants: Rankine cycle (ideal, actual and reheat) – layout – components – alternators – excitation system – governing system.
+
+Hydroelectric power plants: selection of site – mass curve – flow duration curve – hydrograph – classification of hydro plants – layout – components – classification of hydro turbines.
+
+Nuclear power plants: layout – components – pressurized water reactor – boiling water reactor – heavy water reactor – gas cooled reactor – fast breeder reactor.
+Gas power plants: gas turbine cycle – layout – open cycle, closed cycle and combined cycle gas power plants.
+
+Diesel power plants: Thermal cycle – diesel plant equipment
+
+Module II (8 hours)
+
+Economic Aspects: Load Curve – Load duration curve – Energy load curve - Maximum demand – demand factor – Diversity factor – coincidence factor – contribution factor – load factor – Plant capacity factor – Plant use factor – Utilisation factor – power factor and economics of power factor correction.
+
+Tariffs: Flat rate tariff – Two part tariff – Block rate tariff – maximum demand tariff – power factor tariff
+
+Module III (10 hours)
+
+Distribution Feeders: Primary and secondary distribution – Feeder loading – voltage drop in feeder lines with different loadings – Ring and radial distribution – Transformer Application factor – Design considerations of distribution Feeder – Kelvin’s law
+
+Module IV (15 hours)
+
+Voltage drop in DC 2 wire system, DC 3 wire system, AC single phase 2 wire system, AC three phase 3 wire and 4 wire systems – voltage drop computation based on load density – voltage drop with underground cable system – power loss estimation in distribution systems – power factor improvement using capacitors – sub harmonic oscillations and ferro resonance due to capacitor banks – optimum power factor for distribution systems
+
+Module V (15 hours)
+
+Energy Management & Auditing: The need for energy management. – Demand side energy management – auditing the use of energy – types of energy audit – electrical load management and maximum demand control – distribution and transformer losses – energy savings in motors and lighting systems
+ 
+
+
+Text Books
+
+1.	D P Kothari and I J Nagrath , Power System Engineering:, Tata McGraw Hill 
+
+2.	S N Singh, Electric Power Generation, Transmission and Distribution, PHI 
+
+Reference Books
+
+1.	V Kamaraju, Electrical Power Distribution Systems, Tata McGraw Hill 
+
+2.	M V Deshpande, Elements of Electrical Power Station Design, PHI 
+3.	A Chakrabarthi, M L Sony, P V Gupta, U S Bhatnagar, A Text Book on Power System Engg. , Dhanpat Rai & Co. 
+
+4.	Lucas M. Faulkenberry, Walter Coffer, Electrical power Distribution and Transmission, Pearson Education 
+5.	P.S. Pabla, Electric Power Distribution, Tata Mcgraw Hill 
+6.	Course material for energy managers – Beaureau of energy efficiency, Government of India http://www.bee.gov.in 
+ 
+
+

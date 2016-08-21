@@ -1,0 +1,56 @@
+EE 010 405: Digital Systems and Computer Organisation
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To provide insight into design of Digital systems and Digital computer system components and their organizational aspects. 
+•	To provide a foundation for the advanced courses like Microprocessor Systems, Microcontrollers & Embedded systems and Computer related elective courses. 
+
+Module 1 (12 hours)
+
+Combinational Digital Circuits: Logic operations and Gates - De Morgan’s Theorem - Realization of combinational circuits using SOP and POS forms - K-map up to 4 variables. Decoders: BCD to decimal, BCD to 7-segment - Encoders- Multiplexer- Demultiplexer. Logic Families: TTL and CMOS families- TTL NAND gate internal circuit- TTL characteristics- sinking and sourcing- fan-in and fan-out – CMOS characteristics – CMOS NAND and NOR gates.
+
+Module 2 (11 hours)
+
+Sequential Circuits: Flip-Flops - SR, JK, T and D flip-flops- JK master-slave FF. Truth table and excitation table- conversion of flip-flops from one type to another.
+Asynchronous counters: Ripple counter- disadvantages- Decoding errors– modulo N ripple counter using CLEAR and PRESET inputs. Asynchronous UP - DOWN counter.
+
+Module 3 (13 hours)
+
+Synchronous Counters: Synchronous counter design – modulo N counter design for completely specified count sequence – lockout- design without lockout – Synchronous UP/DOWN counters..
+
+Shift Registers: SISO, SIPO, PISO, PIPO types -Universal shift register. Counters using Shift Registers: Ring counter – twisted ring counter.
+
+Module 4 (13 hours) Computer Organisation
+
+Processor Organization –Block diagram of a processor - typical operation cycle: fetch, decode and execute –– processor bus structures.
+
+Arithmetic and Logic unit : Adders- Half adder, full adder circuits. half subtraction and full subtraction circuits. serial and parallel adders- fast adders- carry look ahead adder- 2’s complement adder / subtractor- design of Logic unit- one stage ALU.
+
+Module 5 (11 hours)
+
+Memory Organisation: Memory hierarchy- Semiconductor RAM – typical static RAM cell – Dynamic RAM cell- Internal organization of memory chips -ROM – PROM – EPROM – E2PROM – Flash Memory. Cache memory – Hit and miss – cache mapping functions –– memory interleaving –– virtual memory organization – Address translation.
+
+Input/Output Organisation: Buses- Single bus structure-I/O interfacing- Standard I/O interfaces: PCI, SCSI and USB (block diagram description only)
+ 
+
+
+Text Books:
+
+1.	Anandkumar, Fundamentals of digital circuits, PHI 
+
+2.	V. Hamacher, Computer Organisation, Mc Graw Hill 
+
+References:
+
+1.	Thomas L. Floyd , Digital Fundamentals, Pearson Education 
+
+2.	Malvino & Leach, Digital Principles and Applications, TMH 
+3.	Taub & Schilling, Digital Integrated Electronics, McGraw Hill Intl. 
+4.	Salivahanan, Digital circuits & design, Vikas 
+5.	M.Morris Mano, Logic and Computer Design Fundamentals:, 2/e Pearson 
+6.	P. Pal Chaudhari , Computer Organisation and Design, PHI 
+ 

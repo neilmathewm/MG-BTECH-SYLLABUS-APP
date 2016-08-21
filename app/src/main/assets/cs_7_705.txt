@@ -1,0 +1,51 @@
+CS010 705: PRINCIPLES OF PROGRAMMING LANGUAGES
+
+Teaching scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week.
+
+Objectives
+
+•	To provide an overview of the key paradigms used in developing modern programming languages. 
+
+•	To explore the implementation details of languages to provide an understanding of the source program and its execution behavior. 
+
+
+Module I (9 Hours)
+
+Introduction – Role of programming languages - Programming domains - Language evaluation criteria - Influence on language design - Implementation methods - Virtual computers - Bindings - Concept of binding.
+
+Module II (9 Hours)
+
+Data types - Implementation of data types - Primitive, User defined – Names –Variables - Type checking - Strong Typing - Type compatibility -Scope – Lifetime - Referencing environments - Named constants – Virtualization - Heap management.
+
+Module III (8 Hours)
+
+Expressions , Assignments and Control Structures – Arithmetic expressions – Assignment statements -Compound statements - Selection statements - Iterative statements – Unconditional branching – Guarded commands.
+
+Module IV (10 Hours)
+
+Subprograms-Fundamentals-Design issues-Local Referencing Environment-Parameter passing methods –Subprogram names as parameters – Overloaded Subprograms – Generic Subprograms – Separate & independent compilation – Design issues for functions – Accessing non-local environments – User defined overloaded operators – Co-routines.
+
+Module V (9 Hours)
+
+Implementation of Subprograms – General semantics of calls & returns- Activation Records – Blocks – Recursion
+
+Exceptions and Programming Paradigms - Exception handling in C++, Java, PL/I, Ada , Fundamentals of Functional programming language – Examples – LISP Interpreter -Overview of Logic programming - Basic elements of Prolog.
+ 
+
+References
+
+1.	Robert W. Sebesta , “Concepts of Programming Languages” 4th Ed,2001. 
+
+2.	Ravi Sethi ”Programming Languages-concepts and constructs”, Addison Wesley, 2nd Ed,1996. 
+
+3.	Terrence W. Pratt , “Programming Languages” , Prentice Hall, 9th Ed,1996. 
+
+4.	Michael L. Scott, “Programming Language Pragmatics” ,Elsevier, New Delhi,2009. 
+
+5.	Thomson Learning, Kenneth .C. Louden, “Programming Languages: Principles And Practices” , 2nd Ed,2011. 
+
+6.	Bjarne StroutStrup ,”Design and Evolution of C++”, Addison Wesley,1991. 
+
+7.	James Gosling, “Java Programming Language “, Addison Wesley,2000. 

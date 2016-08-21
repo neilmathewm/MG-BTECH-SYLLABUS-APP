@@ -1,0 +1,52 @@
+
+EE 010 508: Integrated Circuits Lab
+
+
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To expose the students to a variety of practical circuits using various ICs to prove the theories behind them. 
+
+Digital IC
+
+1.	Study of TTL gates 
+
+2.	Characteristics of TTL gates 
+3.	Realisation of sequential circuits –Adder and Subtractor Circuits. 
+4.	Study of SR, JK, D, T and JK Master-Slave Flip Flops 
+5.	Interfacing of seven segment display. 
+6.	Testing of different shift registers. 
+7.	Design and Testing of decoders and encoders. 
+8.	Design and testing of asynchronous counters and modulo N counter. 
+9.	Design and testing of synchronous counters and specified sequence counter. 
+10.	Design and testing of counters using shift registers 
+
+Linear IC
+
+11.	Design and Testing of Summer, Integrator and Differentiator Circuits. 
+
+12.	Design and Testing of Inverting and Non-Inverting Amplifiers. 
+13.	Design and testing of astable and mono-stable multi vibrator using IC 741 
+14.	Realisation of ADC and DAC. 
+15.	Design and testing of astable and mono-stable multi vibrator using 555 
+16.	Study of IC Power Amplifier LM 380 
+17.	Study of IC Voltage Regulator 723. 
+18.	PLL as free running oscillator and frequency multiplier. 
+
+Optional
+
+.
+
+Any experiment relevant to EE 010 405 and EE 010 505 may be added.
+
+References
+
+1.	Digital Principles	- Malvino & Leach.
+2.	Fundamentals of Digital Circuits - A.Anandakumar.
+3.	Op- Amps and Linear ICs	- Ramakant Gayakwad
+4.	Linear IC	- D.Roy Choudhury.
+ 
+

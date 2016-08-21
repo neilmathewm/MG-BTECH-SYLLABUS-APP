@@ -1,0 +1,81 @@
+ME 010 707 Mechanical Measurements Laboratory
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To provide an exposure to the fundamentals of metrology 
+
+•	To understand the need of precision measurement and measuring instruments 
+
+1.	Study and use of laser interferometer for calibration of linear measurements. 
+
+2.	Study of slip gauges – wringing – surface roughness - standards. 
+
+3.	Study of surface plates, straight edges, angle plate, V-block etc and applications. 
+
+4.	Measurement of out of roundness using roundness measuring instrument, V block and dial indicator etc. - reasons for out of roundness etc. 
+
+5.	Measurements of straightness using sprit level and auto collimator. 
+
+6.	Measurement of thread parameters using three wire method. 
+
+7.	Measurement of tool angles of single point tool using tool maker’s microscope. 
+
+8.	Measurement of gear parameters using profile projector. 
+
+9.	Evaluation of straightness error using autocollimator, sprit level, straight edge etc. 
+
+10.	Calibration and determination of uncertainties of the following; 
+
+a.	Strain gauge load cells 
+
+b.	Bourdon tube pressure gauge 
+
+c.	LVDT 
+
+d.	Thermocouples 
+
+e.	Tachometers and stroboscopes, etc. 
+
+11.	Study and measurement of surface roughness using surface roughness instrument. 
+
+12.	Study and measurements with coordinate measuring machines. 
+
+13.	Experiments on limits and fits. 
+
+14.	Study and use of ultrasonic flaw detector. 
+
+15.	Study of different types of dial indicators - stands and holders for dial gauges. 
+
+16.	Study and use of different types of comparators. 
+
+17.	Exercises on measurement system analysis 
+
+18.	Study and making measurements with precision vernier calipers, dial calipers, spline micrometer, point micrometer, wire groove micrometer, depth micrometer, V- anvil micrometers, depth gear tooth micrometer, thread micrometer, disc micrometer, thread pitch gauge, vernier height gauge, slip gauges, optical flat, three pin micrometer, 
+ pyrometer, RTD, bore dial gauge, depth gauge, pitch gauge, thickness gauge, radius gauge, hole test, bench center etc.
+
+19.	Angular measurements using bevel protractor, sine bar, clinometers etc. 
+
+20.	Measurement of vibration. 
+
+21.	Analysis of automobile exhaust gas and flue gas. 
+
+22.	Study and determination of area using planimeter. 
+
+23.	Polishing, etching and determination of grain size and microstructure studies using optical microscope. 
+
+TEXT BOOKS:
+
+1.	Sharp K.W.B., Practical Engineering Metrology, Sir Isaac Pitman and sons Ltd, London, 1958. 
+
+2.	Shotbolt C.R. and Gayler J.F.W, Metrology for Engineers, 5th edition, ELBS, London. 
+
+REFERENCE BOOKS:
+
+1.	Figliola, Richard S, and Beasley, Donald E, “Theory and Design for Mechanical Measurements”, Third edition, John Wiley and Sons Inc. 
+
+2.	Collett, C.V. and Hope, A.D, “Engineering Measurements”, Second edition, ELBS/Longman. 
+3.	Tarasevigh Y. and Yavosih E., Fits, Tolerances and Engineering Measurements, Foreign language publishing house, Moscow. 

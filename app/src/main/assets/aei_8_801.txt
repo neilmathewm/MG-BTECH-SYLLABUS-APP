@@ -1,0 +1,68 @@
+AI 010 801
+
+Instrumentation System Design
+(common to EI010 801 and IC 010 801)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 2 hours tutorial per week
+
+Objective
+
+To help the students get basic understanding of the following:
+
+•	Design of instrumentation systems for various applications. 
+
+•	Design of electronic and pneumatic controllers. 
+
+•	Piping and instrumentation diagrams. 
+
+•	Procedures for the preparation of an instrumentation project. 
+
+•	Noise and noise reduction techniques in measurement. 
+
+Module 1
+
+Sensing element : Elastic sensing elements - Cantilever and torque elements, Pillar load cell, Strain gauge accelerometer- Inductive push pull displacement sensor -Capacitive level sensor .
+
+Signal conditioning element :Design of resistive and reactive bridges for sensors. Design of the bridge Circuit for RTD- Design of reference junction compensation for thermocouple.- Linearising techniques for thermocouple and thermistor- Design of charge amplifier-Instrumentation amplifier. A.C. carrier systems.- Lock in amplifier.
+
+Module 2
+
+Current transmitters-Concept of 2 and 4 wire transmitters with 4-20mA output- Open loop and closed loop current transmitters. Smart transmitters- Future trends in intelligent devices- Design of pneumatic and electronic PID controllers-Design of ON-OFF controllers with neutral zone -Design of instrumentation servo mechanism- Design of annunciators - Low level and high level annunciators.- Enunciators
+
+Module 3
+
+Orifice meter- Design of orifice for a given flow condition for compressible and incompressible fluids -Design of rotameter- Design of venturi meter- Bourdon gauges-Factors affecting sensitivity- Design of bourdon tubes- Design of square root extractors for variable head flow meters.
+
+Module 4
+
+Piping and instrumentation diagrams – ISA symbols – Process and instrumentation (PI)diagram of typical process plant – Preparation of instrumentation project – Documents to be produced- Process flow sheet – mechanical flow sheets- Instrument index sheet – Instrument specification sheet – Process information required - process information – Bid documents – project procedures – Project schedule – Vendor drawings
+
+– Work coordination – Project manager – process engineer – Equipment engineer – Job execution – planning hints- scheduling - Project checklist – equipment delivery - Conclusion Instrument specification sheet for pressure – Choice of temperature – flow – level – analytical instruments and control panels.
+
+
+Module 5
+
+Signals and noise in instrument systems – Statistical representation – pdf – psd – Auto correlation function – Effects of noise and interference – Series and common mode – Noise sources and coupling mechanisms – Multiple earths – Methods of reduction of noise – Shielding – Screening – Filtering – Modulation – Averaging – Auto correlation .
+
+
+
+
+Text Books
+
+1.	John P. Bentley : Principles of measurement systems, Longman 1983 
+
+2.	Johnson C.D: Process control instrumentation technology, 4/e, PHI, 1995 
+3.	D.Patranabis : Principles of Industrial Instrumentation, Tata McGraw Hill Publishing Ltd. New Delhi, 1999 
+
+4.	Sheingold D. H.: Transducer interfacing hand book – a guide to analog signal conditioning, analog devices Inc masschusetts, 1980. 
+5.	Anderson N A : Instrumentation for process measurement and control :Chilton book company 1980. 
+
+6.	Andrew w: Applied Instrumentation in process Industries; Vol. II. Gulf publications, 1990. 
+7.	Doebelin.E.O. Measurement systems applications and design, McGraw Hill, 1975. 
+8.	Tattamangalam R. Padmanabhan : Industrial Instrumentation Principles and Design, Springer International 
+9.	E. Radhakrishnan : Instrumentation, measurements and Experiments in Fluids, 
+Boca Raton, FL : CRC Press
+ 
+

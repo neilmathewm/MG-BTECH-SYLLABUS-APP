@@ -1,0 +1,48 @@
+EC010 803 LIGHT WAVE COMMUNICATION
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+•	To understand the  behaviour of light wave 
+
+?	To know principle of light wave communication and the characteristics of optical devices.
+
+Module 1 (12hrs)
+
+Recollection of basic principles of optics: ray theory- critical angle- total internal reflection - Optical wave guides - Propagation in fibre- expression for acceptance angle-numerical aperture- V number – modes, mode coupling - SI fibre and GI fibre - single mode fibers
+
+Module 2 (12 hrs)
+
+Transmission characteristics – Attenuation – absorption losses – scattering losses – bend losss –Dispersion- chromatic dispersion – intermodal dispersion –Optical fiber cables – cable design -- Optic fibre connections– fibre alignment and joint loss - splicing techniques- optical fibre connectors – fiber couplers
+
+Module 3 (12 hrs)
+
+Optical sources- LEDs – LED structures – LED characteristics –semiconductor injection LASER- LASER structures- LASER characteristics – Optical detectors - principles of photo detection –quantum efficiency, responsivity - PIN diode – APD – operating principles – source to fibre power launching – lens coupling to fiber.
+
+Module 4 (12 hrs)
+
+Optical amplifiers- Semiconductor optical amplifiers – Erbium doped fiber amplifiers-comparison between semiconductor and fiber amplifiers - wavelength conversion – Optical modulation – Mach Zender interferometer – MZ optical modulator – operating requirements.
+
+Module 5 (12 hrs)
+
+Optical networks – wavelength routing networks – wavelength switching networks – network protection and survivability - Optical fiber link design – long haul systems, power budget, time budget, maximum link length calculation.
+
+References
+
+1.	John M Senior, “Optical fiber Communications Principles and Practice:”, Pearson Education 
+
+2.	Djafer K Mynbaev, “Fibre optic communication technology:”, Pearson Education. 
+3.	Franz and Jain , “Optical Communications Components and Systems”,: Narosa 
+4.	Harold Kolimbiris, “Fiber Optics Communications”, Pearson Education 
+5.	John Gower , “Optical communication system”, Prentice Hall of India 
+6.	Sharma, “Fibre optics in telecommunication”, Mc Graw Hill 
+
+7.	Subir Kumar Sarkar, “Optical fibre and fibre optic communication”, S Chand & co. Ltd 
+ 
+8.	M Mukund Rao , “Optical communication”, Universities press. 
+9.	Palais, “Fiber Optic Communication”, Pearson Education. 
+
+10.	Black, “Optical Networks - 3rd Generation Transport systems”, Pearson Education. 
+ 
+

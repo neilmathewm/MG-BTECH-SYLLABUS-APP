@@ -1,0 +1,59 @@
+ME 010 702: Dynamics of Machines
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	To understand the basic principles involved in the balancing of rotating and reciprocating masses 
+•	To understand the basic concepts of vibration of single degree of freedom systems 
+•	To understand the methods of analysis of two degree and multi degree of freedom systems. 
+•	To understand the concepts in transient and non linear vibration 
+
+•	To understand the methods of noise control 
+
+Module I (14 hours)
+
+Balancing: - Balancing of rotating masses, static balancing and dynamic balancing, Balancing of several masses rotates in same plane, balancing of several masses rotating in several planes, Balancing machines.
+
+Balancing of reciprocating masses: - The effect of inertia force of the reciprocating mass on the engine. Partial primary balance. Balancing of multi cylinder inline engines, v-engines, Radial engines, Direct and Reverse cranks
+
+Module II (16 hours)
+
+Vibrations: - Definitions, simple harmonic motion. Single degree freedom systems: - Undamped free vibrations: - Equations of motion Natural frequency, Energy method, Equilibrium methods, Rayleigh’s methods, Equivalent stiffness of spring combinations. Damped free vibrations: - Viscous damping, Free vibrations with viscous damping, Over damped system, Critically damped system, Under-damped system, Logarithmic decrement, viscous dampers, Energy dissipated by damping,
+Forced Vibrations: - Forced harmonic excitation, Base Excitation, Vibration isolation and Transmissibility. Vibration measuring instruments.
+
+Module III (14 hours)
+
+Two degree freedom systems: - Principal modes of vibration, Rectilinear and angular modes, systems with damping, vibration absorbers, Centrifugal pendulum damper, Dry friction damper, untuned viscous damper.
+Multi-degree of freedom system: - Free vibrations, equations of motion, Influence
+Coefficients method, lumped mass systems, distributed mass systems (basics only), Stodola method, Dunkerly’s method.
+Torsional Vibrations: - Torsionally equivalent shaft, torsional vibration of two rotor, three-rotor, and geared systems
+ 
+Mahatma Gandhi University, Kottayam
+
+
+Module IV (14 hours)
+
+Critical speeds of shafts: - Critical speed of a light shaft is having a single disc without damping.
+Transient vibration: - Laplace transformation, response to an impulsive input, response to a step input, phase plane method, shock spectrum.
+Non -linear vibrations: - Phase plane, undamped free vibration with non-linear spring forces, hard spring, soft spring, Forced vibration with nonlinear forces, Duffings equation, self excited vibrations - problems.
+
+Module V (12 hours)
+
+Acoustics: - Sound propagation, decibels, acceptance noise levels, Air columns, acoustical measurements, Doppler Effect, microphones and loud Speakers. Recording and reproduction of sound, Fourier’s theorem and musical scale, Acoustic impedence filters.
+Environmental noise control: Industrial noise control strategies Noise ratings, human ear. human tolerance levels, equivalent sound level and loudness contours - Noise control through barriers and enclosures and absorbent linings - problems.
+
+References
+
+1. Theory of Machines - Thomas Bevan
+2.	Theory of Machines - P.L. Ballaney 
+3.	Mechanical Vibrations, V edition - G.K. Groover 
+4.	Theory of Vibrations with applications, III Edn - W.T. Thomson 
+5.	Mechanical Vibrations - S. Graham Kelly, Schaum’s outlines 
+6.	Fundamentals of Vibrations - Leonard Meirovitch, Mac Graw Hill 
+7.	A text book of sound - L.P. Sharma & H.C. Saxena 
+8.	Engineering Noise Control - D.A. Bies & C.H. Hausen. 
+
+9.	Noise & Vibration Control - Leo N. Beraneck 

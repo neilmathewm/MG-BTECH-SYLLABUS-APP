@@ -1,0 +1,47 @@
+AI010 606 L01
+
+MECHATRONICS (ELECTIVE-1)
+
+3+1+0 Credits: 4
+
+Objectives:
+
+1.	To introduce the concept of integration of mechanical, electronic and computer system to achieve high precision and quality. 
+2.	To help the students develop knowledge and skills that allow them to adopt interdisciplinary and integrated approach to engineering design. 
+3.	To help the students understand modern integrated approach to development of precision mechanisms and machineries. 
+
+Module 1
+
+Introduction to mechatronics: What is mechatronics – advantage of integrating electronics to mechanical devices;
+Introduction to basic elements of mechatronics: mechanical systems, control systems, electronics systems and computer systems; generalised block schematic of mechatronics.
+
+Module 2
+
+Signal conditioning: requirements – basic approach – filters – multiplexing – data acquisition – role of micro processors and micro controllers
+
+Module 3
+
+Actuation systems: pneumatic and hydraulic systems - directional control valves - pressure control valves - process control valves - rotary actuators - electro-mechanical actuators - electrical switches - mechanical Switches - solid-state switches - dc motors - stepper motors - piezoelectric actuators.
+
+Module 4
+
+Introduction to MEMS: what are MEMS – microsystems and nano technology; Typical MEMS applications: pressure sensors – accelerometers - micro pumps - ink jet printers.
+
+Module 5
+
+Modeling Electromechanical Systems- Mathematical models of mechanical system building blocks, Electrical system building blocks, Thermal system building blocks, Fluid Power systems.
+
+Text Books:
+
+1.	Mechatronics - Electronic Control systems in Mechanical and Electrical Engineerng, -W. Bolton, 2 Ed. Addison Wesley Longman, Pub, 1999 (Delhi) 
+2.	“Introduction to Mechatronics and Measurement systems”,David G. Alciatore and Michael B.Histand, 2nd edition Tata McGraw-Hill, 2003. 
+ 
+3.	Mechatronics: Integrated Mechanical Electronic Systems With Cd by K.P. Ramachandran, G.K. Vijayaraghavan, M.S.Balasundaram : ISBN 9788126518371 
+
+Reference Books:
+
+4.	Mechatronics - Dan S. Necsulescu, Prentice Hall, 2002, (311 p.). ISBN: 0-201-44491-7 
+5.	Mechatronics: Electronics in Products and Processes, Dawson, D et.al, Nelson Thornes, ISBN: 0-7487-5742-2,
+6.	Mechatronics , Shanmugam, Anuradha Agencies, 2001, ISBN 81-87721-21-9 
+7.	Analytical Robotics and Mechatronics - Wolfram Stadler, McGraw-Hill ISBN 0-07-060608-0. 
+ 

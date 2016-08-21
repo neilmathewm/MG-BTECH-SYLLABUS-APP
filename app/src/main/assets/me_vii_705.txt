@@ -1,0 +1,56 @@
+ME 010 705: Industrial Engineering
+
+(Common with AU010 705)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To provide an exposure to the fundamental tools and techniques in Industrial Engineering for integration and improvement of inter related work activities and productivity management. 
+
+Module I (9 hours)
+
+Introduction: Evolution of industrial Engineering, Branches and Fields of application of Industrial Engineering, Functions of Industrial Engineer. Types of production- Productivity-Productivity index- factors affecting productivity-techniques for productivity improvement.
+
+Product development and design: Requirements of a good product design- product development process- product analysis. Value Engineering: Fundamental Concepts- reasons for poor values- types of values- Applications and benefits of Value Engineering.
+
+Module II (9 hours)
+
+Facility planning: Plant location-Procedure for site selection- Plant layout-Objectives and principles of plant layout- types of layout- Factors influencing layout- introduction to layouts based on group technology, just-in-time and cellular manufacturing systems.
+
+Material Handling: Functions and Principles of material handling, Selection of material handling equipments-types of material handling equipments.
+
+Module III (9 hours)
+
+Materials Management: Objectives, functions and scope of materials management. Purchasing - Objectives and functions-purchasing procedure- buying techniques- Vendor development and rating system- Stores management.
+
+Inventory Control: Objectives of inventory control-inventory costs-Determining inventory level- EOQ model-Models with shortages-Continuous and Periodic Review systems-ABC analysis- Make or buy decision-Vendor Managed Inventory.
+
+Module IV (9 hours)
+
+Methods engineering: Work study-Procedure for motion study- Recording Techniques- Micro motion study- Work measurement techniques- Time study.
+ 
+Mahatma Gandhi University, Kottayam
+
+
+Industrial Ergonomics: Introduction to Ergonomics-Objectives of Human Engineering- Aspects of Man- Machine System- Workplace design.
+
+Job Evaluation and Merit Rating: Objectives of Job evaluation, methods of job evaluation, merit rating, Types of merit rating.
+
+Module V (9 hours)
+
+Inspection and Quality Control: Objectives and kinds of inspection-methods of inspection-Objectives of quality control- Statistical quality control-control charts, problems- Acceptance sampling-Total quality management- ISO systems-QFD- Benchmarking.
+
+Text Books
+
+1.	Verma A.P., Industrial Engineering, S. K. Kataria & Sons. 
+2.	Sharma S. C. & Banga T. R., Industrial Organization and Engineering Economics, Khanna Publishers. 
+
+Reference Books
+
+1.	Tompkins J.A and White J.A. , Facilities Planning, John Wiley, N.Y.,1984. 
+2.	Tony Arnold, J.R, Introduction to materials management, Prentice hall inc, N.J,1998. 
+3.	Tayyari and Smith J.L., Occupational Ergonomics; principles and Applications, Chapman and Hall publication, U.K., 1997 
+ 

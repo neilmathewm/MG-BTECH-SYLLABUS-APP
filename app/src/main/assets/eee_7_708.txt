@@ -1,0 +1,65 @@
+EE 010 708:  Control And Simulation Laboratory
+
+
+
+
+
+Teaching Scheme	Credits: 2
+
+3 hours lab per week
+
+Objectives
+
+1.	To impart knowledge in various aspects of control systems through experiments 
+
+2.	To impart knowledge in the simulation of different systems 
+
+PART A
+
+
+1.	Transfer function of armature controlled D.C. motor b) Field controlled D.C. motor. 
+2.	Transfer function and characteristics of amplidyne. 
+
+3.	Load characteristics of amplidyne under different levels of compensation. 
+
+4.	Closed loop voltage regulation of separately excited D.C generator using amplidyne. 
+
+5.	Characteristics of synchro pair and its transfer function 
+
+6.	Closed loop feedback control system for D.C. servo motor with velocity feedback. 
+
+7.	Level process control/ Temperature process control using PI, PD and PID control. 
+
+8.	Transfer function and characteristics of A.C. servomotor. 
+
+9.	Closed loop performance of inverted pendulum. 
+
+10.	Open loop control of stepper motor using microprocessor. 
+
+PART B
+
+1.	Step response and computation of time-domain specifications of typical second order systems using MATLAB. 
+2.	Frequency response and computation of frequency -domain specifications of typical second order systems using MATLAB. 
+3.	Design of lag compensator using MATLAB. Verification of the frequency response characteristics of the designed compensator using passive elements. 
+
+4.	Design of lead compensator using MATLAB. Verification of the   frequency 
+
+response characteristics of the designed compensator using passive elements.
+
+5.	Design of PD,PI and PID controllers for conceptual systems using MATLAB/LabView.
+6.	State variable analysis of inverted pendulum using MATLAB. 
+
+7.	Simulation of models(Transfer function and state –space) of conceptual systems using SIMULINK/Lab View. 
+8.	Simulation and analysis of non-linear and discrete time systems using SIMULINK. 
+ 
+9.	Analysis of D.C and A.C circuits using PSpice(for independent sources and dependent sources). 
+10.	Analysis BJT/MOSFET circuits using PSice. 
+
+References:
+
+1.	Richard C. Dorf and Robert H. Bishop, Modern Control Systems,Eleventh Edition, Pearson Educatio,n2009. 
+2.	Katsuhiko Ogatta, Modern Contro Engineering,Fourth Edition, Pearson Education,2002. 
+3.	Muhammad H. Rashid, Introduction to PSpice Using Orcad for Circuits and Electronics, Third Edition,PHI2009. 
+
+4.	R.K. Bansal,A.K. Goel,M.K Sharma,MATLAB and Its Application in Engimneering, Second edition, Pearson,2010. 
+ 

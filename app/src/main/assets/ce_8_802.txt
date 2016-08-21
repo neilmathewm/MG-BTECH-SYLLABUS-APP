@@ -1,0 +1,47 @@
+CE010 802  BUILDING TECHNOLOGY AND MANAGEMENT
+	
+Teaching scheme:	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective: To impart theoretical knowledge as well as awareness to practical concepts in project implementation giving emphasis on three essentials of project management; (1) avoiding time over-run, (2) avoiding cost over-run, (3) maintaining total quality management
+
+Module 1 ( 12 Hrs )
+
+Concrete Mix Design: General concepts. BIS method of mix design, American standards of mix design, IS-method of mix design, Durability concepts in mix design - Requirements and tests of materials required for mix design.-Fibre reinforced concrete- High performance concrete.
+Form work. General arrangements – general requirements – common faults – materials for form work – form work arrangements – form work design – loads on forms – design procedure – form work vibration for compaction of concrete – stripping time and shoring.
+
+Module 2 ( 12 Hrs )
+
+Prefabricated construction: Advantages, foundation units, wall panels, frames for opening, walls–units for roofs and floors – low cost roof systems. Hollow concrete blocks, Ferro cement – use and application – modular co-ordination – method of production – flow line method – station method – manufacturing process for structural units.
+
+Codification and Standerdisation- Value analysis: Various methods and techniques. Cost time analysis in Network Planning.
+
+Module 3 ( 12 Hrs )
+
+Construction company organization: Different types of organizational set up – construction team – objectives of civil engineering management – duties and responsibilities of a civil engineer – functions of construction management. Technical planning.
+Site organization: Organization of labour, resources, materials, method of execution of the project – inspection and quality control- safety in construction.
+
+Module 4 ( 12 Hrs )
+
+Materials Management: Functions of materials management – inventory control techniques.
+Construction contracts: Item rate contract – Lump-sum contract –Labour contract – Negotiated contract – Global contract – Percentage contract – Cost plus percentage contract- Cost plus fixed fee contract- Cost plus fluctuating fee contract – Target contract – All in contract.
+ 
+Module 5 ( 12 Hrs )
+
+Claims manual for a construction organization: Law of contract - Extra work and deviation order – claims – owner’ s claim – sub contractor’ s claim – disputes and arbitration – consequences of mistake in contracts – terms and conditions of contract – contract documents – earnest money – security deposit – warranty period – contract signed under coercion – contract signed by minors, insane or drunken persons – authority to agree and find, validity of an oral agreement – conditions and warranties – express terms and implied terms – voidable contracts and their performance – illegal and voidable contracts – liability for tort in contract- litigation – breach of contract and remedies – discharge of contract – equity, privity of contract – transfer of contractual rights and obligations.
+
+References
+
+1.	Gambhir. M. L, Concrete Technology, Mcgrawhill 
+2.	M .S Shetty, concrete technology, S. Chand & Co. 
+3.	A.R Santhkumar-Concrete Technology-Oxford University Press 
+4.	S. P Arora, Building constructions, Dhanpat Rai & sons, New Delhi. 
+5.	B. L Gupta, Amit Gupta, Construction Management and accounts, standard publishers and Distributions. 
+6.	Construction Management and accounts – V .N Vazirani. 
+7.	Construction Engineering & Management, S. Seetharaman, Umesh Publications, Delhi. 
+8.	Donald S Barrie & Boyd C Paulson - Professional Construction Management, Mc Graw Hill 
+9.	P.S. Gahlot & B.M.Dhir , Construction Planning and Management, New agw International 
+
+10.	Knatson, Conctruction Management fundamentals, McGraw Hill. 
+ 

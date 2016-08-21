@@ -1,0 +1,55 @@
+EE010 607 Power Electronics Lab
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To provide experience on design and analysis of power electronic circuits used for power electronic applications. 
+
+Experiments
+
+1.	Study of VI characteristics of SCR and TRIAC. 
+
+2.	Study of BJT, IGBT, GTO & MOSFET. 
+
+3.	R, RC and UJT firing circuit for control of SCRs. 
+
+4.	Design and Implementation of Ramp-Comparator and digital firing scheme for simple SCR circuits. 
+
+5.	Automatic lighting control with SCRs and optoelectronic components. 
+
+6.	AC phase control using SCR and TRIAC. 
+
+7.	Speed control of DC motor using choppers and converters. 
+
+8.	Generation and study the PWM control signal for single phase dc to ac inverter. 
+
+9.	Study and use of single phase half controlled and fully controlled AC to DC converter and effect of firing angle control on load voltage waveforms. 
+10.	Study and use of back to back connected SCR/TRIAC controlled AC voltage controller and its waveforms with variations of firing angle. 
+
+11.	Study and use of chopper circuit for the control of DC voltage using 
+
+(i)	Pulse width control 
+
+(ii)	Frequency control 
+
+12.	Study of single phase inverter and its waveforms. 
+
+13.	Study of 3 phase firing circuit with synchronization and testing with 3 phase AC to DC bridge converter. Testing waveforms of digital firing modules. 
+14.	Study and testing of 3 phase bridge inverter with different types of loads. 
+
+15.	Simulation of gating circuits and simple converter circuits. 
+
+16.	Harmonic Analysis of Power Electronic devices. 
+
+17.	Simulation of firing circuits using Pspice. 
+
+18.	Microprocessor based 3 phase fully controlled converter. 
+
+References:
+
+1.	Joseph Vithayathil , Power Electronics-Principles and applications, TMH, 2010 
+
+2.	M.H. Rashid , Power Electronics – Circuits, Devices and Applications, PHI/Pearson 2005 
+ 

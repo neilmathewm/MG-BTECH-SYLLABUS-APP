@@ -1,0 +1,60 @@
+AI010 804L01
+NEURAL NETWORKS
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives:
+
+•	to present an overview of the theory and applications of artificial neural networks to engineering applications. 
+
+•	to create an understanding of various neural network system models and the applications of these models to solve engineering problems 
+
+Module 1
+
+Fundamentals of Neural Networks – Human Brain – Model of an artificial neuron - activation functions – Typical architectures – Training and learning methods – Perceptron - Linear separability – XOR problem- Perceptron convergence theorem - Adaline and Madaline Network – Applications of ANNs.
+
+
+Module 2
+
+Back Propagation – The Single layer ANNs – Multi layered feed forward ANNs – Back propagation network architecture and algorithm – Method of steepest descent – local and global minima - Effect of learning rate – Adding a momentum term - Applications.
+
+Module 3
+
+Associative Memory – Auto associative memory – Storage capacity- Hetero associative memory – Kosko’s discrete BAM –- Recurrent networks – Discrete Hopfield network stability - Adaptive resonance theory – Vector quantization – ART1 and ART2 architecture.
+
+Module 4
+
+Competitive Networks – Kohonen’s self organizing maps – architecture and algorithm – LVQ – architecture and algorithm - Counter Propagation networks: - Full CPN – Forward only CPN.
+
+Module 5
+
+Simulated Annealing - Boltzmann’s Machine - Applications to traveling salesman problem.
+
+Simulating ANN using Matlab/Labview – Simple neuron model using hardware, Neural network hardware and VLSI implementation.
+
+
+Text Books
+
+1.	Neural Networks, Fuzzy Logic and Genetic Algorithms: Synthesis and Applications - S. Rajasekaran, G. A. Vijayalakshmi Pai, PHI Learning Pvt. Ltd. 
+
+2.	Fundamentals of Neural Networks: Architectures, Algorithms and Applications 
+
+- Laurene Fausett, Pearson Education Inc. 
+
+3.	Neural Networks: A Classroom Approach – Satish Kumar, TMH Education Pvt. Ltd. 
+
+References
+
+1.	Neural Networks: A Comprehensive Foundation - Simon Haykins, Prentice Hall 
+
+2.	Introduction to Artificial Neural Systems - J.M. Zurada, Jaico Publishing House. 
+
+3.	Artificial Neural Networks - Robert J. Schalkoff, McGraw Hill 
+
+4.	Artificial Neural Networks - B.Yegnanarayana, Prentice Hall India 
+
+5.	Neural Computing: Theory & Practice - Philip D. Wasserman. 
+ 
+

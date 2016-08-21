@@ -1,0 +1,49 @@
+CS 010 406: Theory of Computation
+(Common with IT010 404)
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of theory of automata ,languages and computation. 
+•	To develop understanding about machines for sequential computation, formal languages and grammars , and classification of feasible and intractable problems. 
+
+
+Module I (10 hours)
+
+Proving techniques-Mathematical induction -Diagonalization principle –Pigeonhole principle-Functions – Primitive recursive and partial recursive functions – Computable and non computable functions—-Formal representation of languages – Chomsky Classification.
+
+Module II (13 hours)
+
+Introduction to Automata theory – Definition of Automation – Finite Automata –Language acceptability by Finite Automata –Deterministic and Nondeterministic finite automation-Regular Expressions – Finite Automation with ?-Transitions –Conversion of NFA to DFA - Minimisation of DFA-DFA to Regular Expressions conversion-pumping lemma for regular languages – Applications of finite automata-NFA with o/p ( moore /mealy)
+
+Module III (12 hours)
+
+Context Free Grammar –Simplification of CFG-Normal forms-Chomsky Normal form and Greibach Normal form- pumping lemma for Context free languages- Applications of PDA - Pushdown Automata – Formal definition – Language acceptability by PDA through empty stack and final state – Deterministic and nondeterministic PDA – designing of PDA-
+
+Module IV (13 hours)
+
+Turing Machines – Formal definition – Language acceptability by TM –TM as acceptors, Transducers - designing of TM- Two way infinite TM- Multi tape TM - Universal Turing Machines- Church’s Thesis-Godelization.- - Time complexity of TM - Halting Problem -
+
+Rice theorem - Post correspondence problem-Linear Bounded Automata.
+
+Module V (12 hours)
+
+Complexity classes- Tractable problems– Class P –P Complete-Reduction problem-Context grammar nonempty-Intractable problems- Class NP – NP Complete- Cooks theorem-Reduction problems-SAT-Clique-Hamiltonian-TSP-Vertex Cover-NP Hard problems.
+.
+
+Reference Books
+
+1.	K.L.P. Mishra, N. Chandrashekharan , Theory of Computer Science , Prentice Hall of India 
+2.	Michael Sipser, Introduction to the Theory of Computation, Cengage Learning,New Delhi,2007 
+3.	Harry R Lewis, Christos H Papadimitriou, Elements of the theory of computation, Pearson Education Asia, 
+4.	Rajendra Kumar,Theory of Automata Language & Computation,Tata McGraw Hill,New Delhi,2010 
+5.	Wayne Goddard, Introducing Theory of Computation, Jones & Bartlett India,New Delhi2010 
+6.	Bernard M Moret: The Theory of Computation, Pearson Education 
+7.	John Hopcroft, Rajeev Motwani & Jeffry Ullman: Introduction to Automata Theory Languages & Computation , Pearson Edn 
+8.	Raymond Greenlaw,H. James Hoover, Fundamentals of Theory of Computation,Elsevier,Gurgaon,Haryana,2009 
+9.	John C Martin, Introducing to languages and The Theory of Computation, 3rd Edition, Tata McGraw Hill,New Delhi,2010 
+10.	Kamala Krithivasan, Rama R, Introduction to Formal Languages,Automata Theory and Computation, Pearson Education Asia,2009 
+11.	Rajesh K. Shukla, Theory of Computation, Cengage Learning, New Delhi,2009 
+12.	K V N Sunitha, N Kalyani: Formal Languages and Automata Theory, Tata McGraw Hill,New Delhi,2010 
+13.	S. P. Eugene Xavier, Theory of Automata Formal Language & Computation,New Age International, New Delhi ,2004 

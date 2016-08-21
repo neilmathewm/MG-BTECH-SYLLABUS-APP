@@ -1,0 +1,56 @@
+EE 010 801: Power System Analysis
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	To develop understanding about the techniques for analysing power systems 
+
+
+Module I (15 Hours)
+
+Power System Representation: Single phase solution of balanced three phase networks – single line diagram – impedance diagram – per unit system – transformer model – synchronous machine representation – representation of loads
+Load flow studies: Network model formulation – formation of Y Bus by singular transformation – Load flow problem – Gauss Siedel Method – Newton Raphson method – Decoupled load flow methods – control of voltage profile by generators and transformers
+
+Module II (11 Hours)
+
+Economic Load Dispatch: System constraints – Economic dispatch neglecting losses – optimal load dispatch including transmission losses – physical interpretation of co ordination equations – exact transmission loss formulae – modified co ordination equation – automatic load dispatching – unit commitment.
+
+Module III (10 Hours)
+
+Automatic generation and voltage control: Single area Load frequency control – model of speed governing system – turbine model – generator model – load model – block diagram of load frequency control – steady state analysis – dynamic response – proportional plus integral control – two area load frequency control – area control error – automatic voltage control – load frequency control with generation rate constraints – speed governor dead band and its effect on automatic generation control.
+
+Module IV (12 Hours)
+
+Short circuit analysis: Transient on a transmission line – short circuit of a synchronous machines without and with load – selection of circuit breakers – algorithm for short circuit studies – Z Bus formulation – symmetrical components – phase shift in star delta transformers
+
+– sequence impedances of transmission lines, transformers and synchronous machines – sequence networks of a power system
+
+Unsymmetrical faults – analysis of single line to ground, line to line and double line to ground faults in power system – analysis of unsymmetrical fault using Z bus.
+
+Module V (12 Hours)
+
+Stability: Dynamics of synchronous machine – power angle equation – node elimination technique – steady state stability – transient stability – equal area criterion – numerical solution of swing equation – multi machines stability – factors affecting transient stability
+ 
+
+
+Text Books
+
+1.	Modern Power system Analysis: D P Kothari and I J Nagrath, Tata McGraw Hill 
+
+2.	Electrical Power Systems: C. L. Wadhwa, New Age Int’l 
+
+Reference Books
+
+1.	Advanced Power System Analysis and Dynamics – L P Singh – New Age Intl. 
+
+2.	Computer Techniques in Power System Analysis – M A Pai – Tata McGraw Hill 
+
+3.	Power System Operation and Control: S Sivanagaraju, G Sreenivasan, Pearson Ed. 
+4.	Power System Analysis: Bergen, Pearson Ed. 
+5.	Power System Analysis: William D Stevenson Jr, John J Grainger, Tata McGraw Hill 
+
+6.	Power System Analysis: Hadi Saadat, Tata McGraw Hill 

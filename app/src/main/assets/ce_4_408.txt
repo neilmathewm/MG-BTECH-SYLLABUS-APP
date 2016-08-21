@@ -1,0 +1,50 @@
+CE010 408(ME)  HYDRAULICS LABORATORY
+
+
+Teaching  scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+To impart practical knowledge in heat engines and hydraulics laboratories
+
+PART-A (FLOW)
+
+1.	Study of taps, valves, pipe fittings, gauges, pitot tubes, watermeters and current meters. 
+
+2.	Determination of metacentric height and radius of gyration of floating bodies. 
+
+3.	Hydraulic coefficients of orifices and mouthpieces under constant head method and time of emptying method. 
+
+4.	Calibration of venturimeter, orifice meter and watermeter. 
+
+5.	Calibration of rectangular and triangular notches. 
+
+6.	Determination of Darcy s and Chezy s constant for pipe flow. 
+
+7.	Determination of Chezy s constant and Mannings number for open channel flow. 
+
+8.	Determination of discharge coefficient for plug-sluices. 
+
+PART –B (MACHINERY)
+
+1.	Study of reciprocating pump and components-single cylinder and multicylinder, self priming pumps and centrifugal pumps. 
+
+2.	Study of impulse and reaction turbines. 
+
+3.	Performance characteristics of self priming pump. 
+
+4.	Performance characteristics of centrifugal pump. 
+
+5.	Performance characteristics of reciprocating pump 
+
+6.	Performance characteristics of Pelton wheel. 
+
+7.	Performance characteristics of Francis Turbine. 
+
+8.	Performance characteristics of Kaplan Turbine. 
+
+References
+
+1. Hydraulic Machines-Jagadishlal

@@ -1,0 +1,44 @@
+CE010 604  TRANSPORTATION ENGINEERING - I
+
+Teaching scheme:	Credits: 4
+
+3 hour lecture and 1 hour tutorial per week
+
+Objective: To gain an in-depth knowledge on operating characteristics of facilities such as railways and water transportation
+
+Module 1(15 hours)
+
+Introduction: Transportation modes - comparison and characteristics of highway and railway. Modern developments – Surface, elevated and tube railways, light rail transit, high speed tracks - technologies
+Railway track: Alignment- basic requirements and factors affecting selection, Component parts of a railway track - requirements and functions - Typical cross section - Rails – functions and requirements, Type of rail sections, rail fastenings, wear and creep of rails - coning of wheels, Train resistances and evaluation of hauling capacity and tractive effort of locomotive.
+Geometric design of railway track: Horizontal curves, radius – super elevation - cant deficiency - transition curves - gradients - different types - Compensation of gradients.
+
+Module 2 (10 hours)
+
+Railway operation and control: Points and Crossings – Design features of a turn out – Details of station yards and marshalling yards – Signaling, interlocking of signals and points - Principles of track circuiting - Control systems of train movements – ATC, CTC – track circuiting
+
+Module 3 (10 hours)
+
+Tunnel Engineering: Tunnel - sections - classification - tunnel surveying - alignment, transferring centre, grade into tunnel – tunnel driving procedure - shield method of tunneling, compressed air method, tunnel boring machine, Tunnel lining, ventilation - lighting and drainage of tunnels.
+
+Module 4 (15 hours)
+
+Harbour Engineering: Harbours – classification, features, requirements, winds and waves in the location and design of harbours.
+Break waters - necessity and functions, classification, alignment, design principles, forces acting on break water – construction, general study of quays,
+piers,	wharves,	jetties,	transit	sheds	and
+warehouses	- navigational	aids - light	houses, signals	- types -	Moorings
+.					
+Module 5 (10 hours)
+
+Dock Engineering: Docks - Functions and types - dry docks, wet docks – form and arrangement of basins and docks – design and construction – dock entrances - floating dry docks, slip ways, dock entrances and caissons. Dredging – functions -
+ 
+general study of dipper dredger, grapple dredger, ladder dredger and hydraulic dredger.
+
+References
+
+1.	Rao G. V, Principles of Transportation and Highway Engineering, Tata McGraw Hill 
+2.	Mundrey J. S, Railway Track Engineering, Tata McGraw Hill 
+3.	S.C. Rangawala, Railway Engineering, Charotor Publishing House 
+4.	S. C Saxena and S. P Arora., Railway Engineering, Dhanpat rai & Sons 
+5.	Subhash C. Saxena, Railway Engineering, Dhanpat rai & Sons 
+6.	R. Srinivasan, Harbour, Dock & Tunnel Engineering, Charotor Publishing House 
+7.	S.P.Bindra, A course in docks and Harbour Engineering, Dhanpat rai & Sons 

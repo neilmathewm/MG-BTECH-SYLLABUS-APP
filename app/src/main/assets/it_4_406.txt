@@ -1,0 +1,51 @@
+IT 010 406: OBJECT ORIENTED TECHNIQUES
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hours tutorial per week
+
+
+Objectives:
+
+•	To present the concept of object oriented programming and discuss the important elements of C++ and Java. 
+•	Write simple applications using C++ and Java. 
+
+Module I	10
+
+Object-oriented paradigm, elements of object oriented programming – Merits and demerits of OO methodology – C++ fundamentals – data types, operators and expressions, control flow, arrays, strings, pointers and functions.
+
+Module II	14
+
+Classes and objects – constructors and destructors, operator overloading – inheritance, virtual functions and polymorphism, namespaces, Templates, Standard Template Library
+
+Module III	12
+
+An overview of Java, data types, variables and arrays, operators, control statements, classes, objects, methods – Inheritance. Inner Classes, Anonymous inner classes.
+
+Module IV	12
+
+Packages and Interfaces, Exception handling, Multithreaded programming, Strings and collections, Streams and I/O programming
+
+Module V	12
+
+JAVA applets-life cycle, devolepment and execution, applet tag. AWT- components, containers, layout, event handling, Event listeners, Adapter classes.
+Comparison of C++ and Java
+
+
+References :
+
+1.	K.R.Venugopal, Rajkumar Buyya, T.Ravishankar, “Mastering C++”, TMH, 2003 
+
+2.	Herbert Schildt, “The Java 2 : Complete Reference”, Fourth edition, TMH, 2002 
+
+3.	Rajkumar Buyya,Selvi,Chu. “Object oriented programming with JAVA essentials and applications” Mc Graw Hill 
+4.	Ira Pohl, “ Object oriented programming using C++”, Pearson Education Asia, 2003 
+
+5.	Bjarne Stroustrup, "The C++ programming language" Addison Wesley, 2000 
+
+6.	John R.Hubbard, "Progranning with C++", Schaums outline series, TMH, 2003 
+
+7.	H.M.Deitel, P.J.Deitel, "Java : how to program", Fifthe edition, Prentice Hall of India private limited. 
+
+8.	E.Balagurusamy “ Object Oriented Programming with C++”, TMH 2/e 
+

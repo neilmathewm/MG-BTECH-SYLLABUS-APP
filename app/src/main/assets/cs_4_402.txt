@@ -1,0 +1,48 @@
+CS010 402: Object Oriented Programming
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of object oriented programming in C++. 
+
+•	To provide sufficient knowledge about developing real world projects with object oriented concepts. 
+
+Module I (8 hours)
+
+Introduction to OOP - Evolution of object oriented languages - Need of Objects - Definition of Object-Oriented Language – Classes and Objects – Creating and Using Classes and objects
+– Member functions and variables – Constructors –multiple and parameterized constructors-copy constructors –constructors with default arguments- Destructors.
+
+Module II (13 hours)
+
+Inheritance and Access Control - Member access control in classes – Friend functions and classes – Extending classes - Public Private and Protected Inheritance – Classification of Inheritance – Single – Multiple – Multilevel – Hierarchical – Hybrid.
+
+Module III (14 hours)
+
+Polymorphism – Runtime and compile time polymorphism – overloading functions and operators – selecting friend member function for operator overloading - Virtual methods – pure virtual methods – Abstract classes - applications of abstract classes.
+
+Module IV (13 hours)
+
+Virtual Destructors – Virtual Base Classes - Template- class templates and function templates- Creating and using templates – Namespaces-Dynamic Objects - Dynamic object allocation - Inline functions. Exception Handling-basics of exception handling-exception handling mechanism- Throwing and Catching Mechanism-Rethrowing and Specifying exceptions.
+
+Module V (12 hours)
+
+Data file operations –opening and closing files- reading and writing from file-Classes and file operations-Other object oriented languages – Java – Object oriented features in Java – Comparison with C++-Object oriented system development-object oriented notations and graphs-object oriented analysis-object oriented design.
+ 
+
+Reference Books
+
+1.. Robert Lafore :Object Oriented Programming in C ++, 3rd  Edition, Galgotia Pub, New  Delhi
+2.  E. Balaguruswamy : Object oriented Programming with C++,2nd  Edition, Tata McGraw  Hill,New  Delhi, 2004
+3.Dilkeshwar Pandey,Upendra K Tiwari, Object Oriented Programming with Java, Acme Learning (Module V), New Delhi ,2010 
+4.D Ravichandran: Programming with C++ , 3rd  Edition ,Tata McGraw Hill, New Delhi 
+5.Bjarne Stroustrup , The C++ Programming Language, 3rd  Edition.., 
+6.Randal Albert, Todd Breedlove: C++ ,An Active Learning Approach, Jones And Bartlett Publishers, New Delhi ,2010 
+7.Deitel & Deitel, C++ How To Program, Introducing Object-Oriented Design with the UML, 3rd Edition Pearson 
+8.Matt Weisfeld: The Object Oriented Thought Process ,3rd Edition,Pearson Education, New Delhi ,2009 
+9.Jyoti Singh: Object Oriented Systems & Concepts of C++; Acme Learning, New Delhi,2010 
+10.Poornachandra Sarang: Object Oriented Programming with C++, 2nd Edition, PHI, New Delhi,2009 
+11.R. Rajaram, Object Oriented Programming and C++,2nd Edition,,New Age International Publishers, New Delhi,2007 
+12.E. Balaguruswamy, Programming with Java, 2nd  Edition, Tata McGraw  Hill, New  Delhi 
+13.Bhushan Trivedi, Programming with Ansi C++ ,Oxford Higher Education, New Delhi,2007 

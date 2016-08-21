@@ -1,0 +1,39 @@
+CS010 707: Systems Programming Lab
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To familiarize the design of all phases of compilers up to a stage of intermediate code generation. 
+
+•	To enable the students to design and implement modern compilers for any environment. 
+
+
+Section 1 (Compiler Design)
+
+1.Design of a Lexical Analyzer using Finite Automation (including Symbol table) (The program should be designed for a specific number of keywords, identifiers, numbers, 
+   operators, punctuators etc. Finite automata should be designed for each type of token) 
+2.Design of lexical analyzer using LEX 
+3.Design of recursive descent and LL (1) parsers (including syntax tree)  (The programme should be designed for a subset of PL features (For example Arithmetic                      expressions with operators +, -, *, /, ? etc)
+4.Implementation of Operator precedence Parsing (including syntax tree) 
+5.Design of parser for arithmetic expressions using YACC 
+6.Design of a simple type checker (For eg for the primitive types of C) 
+7.Generation of IC for arithmetic expressions 
+8.Simple code optimization strategies (For example Constant folding, Loop invariant elimination, common sub expression elimination etc) 
+9.Design of a code generator for arithmetic expressions using Expression tree  (The program should take a set of IC as the input and produce the target code for some
+      machine such as Intel 8086 Microprocessor)
+10. Writing a simple Compiler for a subset of Language features
+
+Section 2:-
+
+1.Design of 2-Pass Assembler(The Program should be designed for the generation for machine code of any simple processor such as Intel 8005)
+2.Design of Absolute Loader
+3.Design of Macro Pre-processor(The program should be designed for a simple preprocessor such as the # define in C)
+4 Design of Device Drivers (Implementation of Simple Device Drivers such as one for the PC Speaker.)
+
+Remark:
+
+At Least 8 experiments from Section 1 and 2 experiments from section
+ 
+

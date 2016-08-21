@@ -1,0 +1,59 @@
+EN010401	ENGINEERING MATHEMATICS III
+
+(Common to all branches)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+
+Objectives: Apply standard methods of mathematical &statistical analysis
+
+
+
+MODULE 1	Fourier series	( 12 hours)
+
+Dirichlet conditions – Fourier series with period 2 p and 2l – Half range sine and cosine series – Harmonic Analysis – r.m.s Value
+
+MODULE 2	Fourier Transform	( 12 hours)
+
+Statement of Fourier integral theorem – Fourier transforms – derivative of transforms- convolution theorem (no proof) – Parsevals identity
+
+MODULE 3    Partial differential equations	( 12 hours)
+
+Formation by eliminating arbitrary constants and arbitrary functions – solution of Lagrange’s equation – Charpits method –solution of Homogeneous partical differential equations with constant coefficients
+
+MODULE 4    Probability distribution	( 12 hours)
+
+Concept of random variable , probability distribution – Bernoulli’s trial – Discrete distribution – Binomial distribution – its mean and variance- fitting of Binominal distribution – Poisson distribution as a limiting case of Binominal distribution – its mean and variance – fitting of Poisson distribution – continuous distribution- Uniform distribution – exponential distribution – its mean and variance – Normal distribution – Standard normal curve- its properties
+
+MODULE 5    Testing of hypothesis	( 12 hours)
+
+Populations and Samples – Hypothesis – level of significance – type I and type II error – Large samples tests – test of significance for single proportion, difference of proportion, single mean, difference of mean
+
+– chi –square test for variance-  F test for equality of variances for small samples
+
+References
+
+1.	Bali& Iyengar – A text books of Engg. Mathematics – Laxmi Publications Ltd. 
+
+2.	M.K. Venkataraman – Engg. Mathematics vol II 3rd year part A & B – National Publishing Co. 
+
+3.	I.N. Sneddon – Elements of partial differential equations – Mc Graw Hill 
+
+4.	B.V. Ramana – Higher Engg. Mathematics – Mc Graw Hill 
+
+5.	Richard A Johnson – Miller Fread’s probability & Statistics for Engineers- Pearson/ PHI 
+ 
+
+
+
+6.	T. Veerarajan – Engg. Mathematics – Mc Graw Hill 
+
+7.	G. Haribaskaran – Probability, Queueing theory and reliability Engg. – Laxmi Publications 
+
+8.	V. Sundarapandian - probability ,Statistics and Queueing theory – PHI 
+
+9.	H.C.Taneja – Advanced Engg. Mathematics Vol II – I.K.International 
+
+10.	A.K.Mukhopadhyay-Mathematical  Methods For Engineers and Physicists-I.K.International 

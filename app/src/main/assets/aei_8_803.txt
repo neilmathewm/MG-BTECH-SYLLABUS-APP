@@ -1,0 +1,40 @@
+AI010 803
+
+Computer Networks
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives:
+
+•	To develop basic knowledge on the mode of operation of different types of computer networks that are used to interconnect a distributed community of computers and various interfacing standards and protocols. 
+
+Module I
+
+Network requirements, Network Architecture –layering and protocol, OSI Architecture, Internet Architecture, Performance-bandwidth and latency , Delay x bandwidth product, high speed networks .
+
+Module 2
+
+Direct Link Network, Hardware Building Block, Framing-Byte Oriented Protocol, Bit Oriented Protocol , Clock Based Framing, Reliable Transmission-Stop and Wait, Sliding Window, Ethernet(802.3)-Physical properties, Access protocol, Wireless-Bluetooth, WiFi, Wimax
+
+Module 3
+
+Packet Switching-Switching and Forwarding- Datagram, virtual circuit switching, Source routing Bridges and LAN Switches-Learning Bridges, Spanning tree Algorithms ,Broadcast and Multicast, Limitations of bridges, Simple Internetworking-Service Model, Global Address, Datagram Forwarding in IP, address translation, Routing-network as graph, distance vector, link state, matrix
+
+Module 4
+
+End to End Protocol, Simple de-multiplexer, Reliable Byte stream, TCP-Issues, segment format, connection establishment and termination sliding window revisited, triggering transmission, adaptive retransmission, RPC-fundamentals ,TCP Congestion control – additive increase, slow start, fast retransmit and fast recovery, congestion avoidance mechanism, DEC bit, Random Early Detection bit, Source Based Congestion avoidance
+
+Module 5
+
+Applications -WWW, E-mail, Name Service, Network Management, Web Services Custom Application protocol, Generic Application Protocol ,Overlay Networks-Peer to Peer Networks.
+
+Reference Books
+
+1.	Computer  Networks  A  Systems  Approach-Larry  L.Peterson  and  Bruce
+	S.Davie,4th   Edition .Morgan Kaufman
+2.	Introduction to data communication and networking Behrouz Forozan TMH.
+
+3.	Computer networks ,Andrew S Tanenbaum ,PHI 
+
+4.	Data communication, computer networks and open systems, Halsall F ,Addison Wesley. 

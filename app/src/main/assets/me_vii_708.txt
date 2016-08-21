@@ -1,0 +1,43 @@
+ME 010 708 Advanced Machine Tools Laboratory
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To understand the different process parameters involved in shaping, slotting, milling, grinding machines. 
+
+•	To analysis the causes for the variation on surface roughness obtainable in different machining process. 
+
+PART – A
+
+1. Experiment on shaping machine: - flat surfaces, dovetail cutting – grooving, keyway cutting etc. - 2 practices. 2. Experiment on slotting machine: - flat surfaces, dovetail cutting – grooving, keyway cutting etc. - making hexagonal hole using slotting machine. - 2 practices. 3. Study of milling machines – nomenclature of milling cutters – different types of milling cutters – attachments for milling: - vertical milling and universal milling attachment, high speed milling attachment, rack milling and slot attachments, parking bracket, rotary table, universal dividing head, vices, arbors, adaptors and collet chucks. - 1 practice.
+
+4.	Experiment on milling machine: - 1 - plane milling, keyway cutting, cutting of splines. 
+-	1 practice. 
+5.	Experiment on milling machine: - 2 – cutting of spur, helical and bevel gears – study of different methods of indexing - multi slot cutting on milling machine by indexing. 
+-	3 practices. 
+6.	Study of surface grinding machine and demonstration of grinding of plane surface - study of cylindrical grinding machine and demonstration of plane cylindrical grinding – study and demonstration of planing machine – study and demonstration of broaching machine. 
+-	2 practices. 
+PART – B
+Preparation of control charts - preparation of laboratory layout - facilities layout analysis– materials requirement planning – inventory analysis –preparation of process plan and cost estimation for the manufacture of various products – study of a jig and a fixture for drilling and milling operation - fabrication of simple bending dies – Preparation of process plans using CAPP software. - 3 practices.
+
+Besides to the skill development in performing the work, oral examination should be conducted.
+
+A detailed report on the work carried out on part – B is also to be prepared. Observation and record books are to be maintained for both part A and B.
+
+The student’s assessment, continuous evaluation, awarding of sessional marks, record bonafides, oral examination etc and University examination shall be carried out by the faculty members (Assistant professor and above).
+
+TEXT BOOKS:
+
+1.  Acharkan. N., Machine Tool Design Vol. 1 to 4, MIR Publication.
+ 
+
+
+REFERENCE BOOKS:
+
+1.	Chapman, Workshop Technology, Vol II, ELBS. 
+2.	HMT, Production Technology, Tata McGraw Hill. 
+3.	Yoram Koren, Numerical Control of Machine Tools, McGraw-Hill. 
+ 

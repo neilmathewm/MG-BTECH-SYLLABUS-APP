@@ -1,0 +1,61 @@
+AI010 702
+
+Computerised Process Control (Common to EI010 702)
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objective:
+
+•	To provide a detailed view of the implementation of SCADA in process industry. 
+
+•	To give an insight about Instrumented Safety Systems and Programmable Logic controllers with applications using ladder programming. 
+•	To teach about different digital controllers using z transforms. 
+
+•	To impart knowledge about Distributed Control System and its architecture. 
+
+•	To have an insight into Electrical Safety and Process Safety Management. 
+
+Module 1
+
+Introduction to computer control of process- need for computers in control system –block diagram of a computer control system- multi channel data acquisition system(DAS)
+
+Supervisory Control and Data Acquisition System (SCADA) :Concepts- SCADA development from Telemetry, SCADA System Hardware, Remote Terminal Units (RTUs), Master Terminal Units, Communication philosophies, Communication Interface and Communication Protocols, Configuring Simple applications, Operator Interfacing and Applications of SCADA.
+
+Module 2
+
+Programmable Logic Controllers: Introduction to Instrumented Safety Systems and Safety Integrity Levels, Sequential and Combinational Control, Microprocessor Based Programmable Logic Controllers - Architecture, I/O Modules, Isolators, PLC Programming Languages, PLC ladder programming : Programming On-Off inputs to produce on – off outputs, Concept of Redundancy and Triple Modular Redundant PLCs, PLC Installation and Testing.
+
+Module 3
+
+Digital controllers: Design of Control algorithms using Z transforms – Dead beat algorithm – Dahlin’s method –Ringing – Kalman’s approach – Digital PID algorithms – Position and velocity form . Modified Z transforms to system with dead time –Smith predictor algorithm. Internal model control using Z transform.
+
+Module 4
+
+DCS Basic Packages: Introduction to Centralized & De-centralized Control, Direct Digital Control and Distributed Process Control, DCS Architecture, Local Control Units, DCS Configuration with associated accessories, I/O Hardware, Multiplexers, A/D and D/A Converters, Set Point Stations, DCS Flow sheet Symbols. Redundancy Concepts, Data Highways,Field Buses, CRT Displays, Man Machine Interface, Operator Stations, Engineer’ Stations, System Integration with PLC, SCADA and Computers, OPC Connectivity.
+
+Module 5
+ 
+Electrical safety: NEMA standards, grounding and shielding – standards , power grounding, concept of shielding, electro static instrument shielding . Process safety management: elements of process safety management- process safety information – process hazard analysis .
+
+
+
+Reference Books
+
+1.	Stuart A.Boyer “Supervisory Control and Data Acquisition 
+
+2.	Jeff Weigunt. “Creating HMI/ SCADA Industrial Applications using Microsoft Access”, ISA. 
+3.	RJ.Willam, “Hand book of SCADA System for the Oil and Gas Industry”, Mold Clwyd. 
+4.	Considine, Applications of Computers in Process Control 
+5.	Krishnakanth, Computerised Based Industrial Controls 
+6.	B.G Liptak - Handbook of Process Control - 1996 
+7.	Jon Stenerson “Fundamentals of Programmable Logic Controllers, Sensors and Communications”, Prentice Hall of India. 
+8.	John webb: Programmable logic controllers, PHI 
+9.	Deshpande, P.B. and Ash R.H., Elements of Computer Process Control, Instruments Society of America, 1981 
+10.	C.L.Smith, Digital Computer Process Control, Intext Educational Publications 1972 
+11.	M.P.Lukas, Distributed Control System, Van Nostrand Rainhold Compony 1986. 
+12. Frank D Petruzella,  Programmable Logic Controllers (Mc Graw Hill)
+13.	Dobrivoje Popovic and Vijay P. Bhatkar - Distributed Computer Control for Industrial Automation - Marcel Dekker, INC, 1990. 
+
+14.	LIPTAK, Instrument engineers hand book: Process software and digital networks , third edition. 
+15.	LIPTAK, Instrument engineers hand book: Process measurement and analysis, fourth edition. 

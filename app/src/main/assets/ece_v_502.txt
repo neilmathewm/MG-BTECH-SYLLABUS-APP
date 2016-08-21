@@ -1,0 +1,68 @@
+
+EC010  502 CONTROL SYSTEMS
+
+Teaching Scheme
+
+2 hours lecture and 2 hours tutorial per week.	Credit :4
+
+Objectives
+
+•	To develop the basic understanding of control system theory and its role in engineering design. 
+
+•	To familiarize the inputs, outputs, and building blocks of a control system; to differentiate between open-loop and closed-loop control systems. 
+
+•	To understand the utility of Laplace transforms and transfer functions for modeling complex interconnected systems. 
+
+•	To understand the concept of poles and zeros of a transfer function and how they affect the physical behavior of a system. 
+
+•	To understand the concept of Time Domain and Frequency Domain analysis and to determine the physical behavior of systems using these analysis. 
+
+•	To understand state variable analysis of systems and the relationship with state variable representation and transfer functions. 
+
+Module 1 (14 hours)
+
+Introduction to Control Systems – Basic building blocks of a Control System – Open-Loop and Closed-Loop Control Systems – Feedback and effects of feedback – Types of feedback Control Systems – LTI Systems.
+
+Impulse Response and Transfer Functions of LTI Systems – Properties of Transfer Functions – SISO and MIMO Systems – Mathematical modeling of electrical and mechanical systems (simple systems only) – Analogy between mechanical and electrical systems.
+
+Block Diagrams – Reduction of Block Diagrams – Signal Flow Graph – Mason’s Gain Formula – Conversion of Block Diagrams to Signal Flow Graphs.
+
+Module 2 (14 hours)
+
+Stability of Linear Control Systems – BIBO Stability and Asymptotic Stability – Relationship between characteristic equation roots and stability – Method of determining stability – Routh-Hurwitz Criterion.
+
+Time-Domain Analysis of Control Systems – Transient Response and Steady-State Response – Typical test signals – Unit-Step response and Time-Domain specifications of first-order and prototype second-order systems – Steady-State Error – Static and Dynamic Error Constants.
+
+Effects of adding poles and zeros to the Transfer Function – Dominant Poles and Insignificant Poles of Transfer Functions.
+
+Module 3 (10 hours)
+
+Root-Locus Technique – Basic properties of the Root Loci – Angle and Magnitude conditions – Rules for the construction of approximate Root Loci.
+
+Control System Design by the Root-Locus Method – Preliminary design considerations – Lead Compensation – Lag Compensation – Lead-Lag Compensation – Parallel Compensation.
+
+Module 4 (12 hours)
+
+Frequency-Domain Analysis of Control Systems – Frequency-Domain specifications of prototype second order system – Effects of adding zeros and poles to the Forward-Path Transfer Function.
+ 
+Nyquist Stability Criterion: Fundamentals – Relationship between the Root Loci and the Nyquist Plot.
+
+Relative Stability – Gain Margin and Phase Margin – Stability analysis with Bode Plot and Polar Plot
+
+– Introduction to Nichols Plot, Constant-M & Constant-N circles and Nichols Chart (no analysis required).
+
+Module 5 (10 hours)
+
+State-Variable Analysis of Control Systems – Vector-Matrix representation of State Equations – State-Transition Matrix – State-Transition Equation – Relationship between State Equations and Higher-Order differential equations – Relationship between State Equations and Transfer Functions - Characteristic Equation, Eigen values and Eigen vectors.
+
+References
+
+1.	B. C. Kuo, Automatic Control Systems, 7th ed., PHI Learning Pvt. Ltd., New Delhi, 2009. 
+
+2.	K. Ogata, Modern Control Engineering, 5th ed., PHI Learning Pvt. Ltd., New Delhi, 2010. 
+
+3.	R. C. Dorf, R. H. Bishop, Modern Control Systems, 11th ed., Pearson Education, New Delhi, 2008. 
+
+4.	N. S. Nise, Control Systems Engineering, 5th ed., Wiley India Pvt. Ltd., New Delhi, 2009. 
+
+5.	M. Gopal, Control Systems: Principles and Design, 3rd ed., Tata McGraw Hill Education Pvt. Ltd., New Delhi, 2008. 

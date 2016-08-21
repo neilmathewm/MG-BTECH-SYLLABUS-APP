@@ -1,0 +1,29 @@
+CS010 708: Networking Lab
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To provide experience on design, testing, and analysis of Java Programs. 
+
+•	To acquaint the students with the Networking Protocols and Communication using ports and sockets. 
+
+1)	Basic Java Programming 
+
+2)	Programs to create Applets 
+3)	Programs to create Graphic User Interfaces 
+4)	Programs to implement Client and Server Sockets 
+5)	Programs for Chatting using TCP and UDP 
+6)	Programs for Remote Procedure Call 
+7)	Programs for Remote Method Invocation 
+8)	Programs to interface with XML 
+9)	Programs to implement Sliding Window Protocols 
+10)	Programs for Multicasting 
+11)	Programs to interface with Databases 
+12)	Programs for Image Processing 
+13)	Programs in Perl and PHP 
+14)	Programs to create Dynamic Web Pages 
+
+
+Any experiment according to the syllabus of CS010 602 Internet Computing, CS010604 Computer Networks, CS010701 Web Technologies may be substituted subjected to permission from competent authority.

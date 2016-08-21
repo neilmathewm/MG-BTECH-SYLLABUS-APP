@@ -1,0 +1,52 @@
+ME 010 703: Gas Dynamics and Jet Propulsion
+
+Teaching scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of dynamics and thermodynamics of gas flow. 
+
+Module I (7 hours)
+
+Introduction: Continuum- Control Volume and System approaches- Continuity and Momentum equations for control volume- Mach number- Velocity of sound- Classification of flow based on Mach number- Physical difference between incompressible, subsonic and supersonic flow- Mach angle- Karman's rule of supersonic flow- Effect of Mach number on compressibility- General features of one dimensional flow of compressible fluid.
+
+Module II (10 hours)
+
+Isentropic flow of an ideal gas: General features and governing equations- stagnation properties and state- Reference velocities- Dimensionless velocity- Crocco number- Bernoulli equation-Isentropic flow through variable area- Comparison of isentropic and adiabatic flow- Mach number variations- Area ratio- Impulse function- Mass flow rate, Chocking in Isentropic flow-Variation of flow parameters in isentropic flow- Performance of convergent and De lavel nozzle-Performance of real nozzles- Applications of Isentropic flow.
+
+Module III (10 hours)
+
+Simple frictional flow: Governing equations- Fanno curves- Limiting conditions- Fanno flow equations- Variation of flow properties- Variation of Mach number with duct length- Choking due to friction. Isothermal flow with friction: Basic equations- Limiting conditions- Variation of flow properties. Flow with heat transfer: Governing equations- Rayleigh curves- Limiting condition- Rayleigh flow relations- Variation of flow properties- Maximum heat transfer-Thermal choking.
+
+Module IV (9 hours)
+
+Normal shock: Development of a shock wave- Governing equations- Intersection of Fanno and Rayleigh lines- Prandtl-Meyer relation- Properties of flow across normal shock- Thickness of shock waves- Shock strength- Determination of Mach number of supersonic flow- Variation of flow parameters through normal shock.
+
+Module V (9 hours)
+
+Air craft propulsion: Types of gas turbine engines- Components of a gas turbine engine- Energy flow through jet engines- Propeller and jet Thrust- propulsive and overall efficiency- Ramjet, Pulsejet and Scramjet engine. Rocket Propulsion: Types of rocket engines- Liquid propellant
+ 
+Mahatma Gandhi University, Kottayam
+
+
+rockets and propellant feed system- Solid propellant rocket motors- Restricted and unrestricted burning- Rocket propulsion theory- Applications.
+
+
+Text Books
+
+1.	S M Yahya, Fundamentals of compressible flow with aircraft and rocket propulsion, New Age International. 
+2.	P Balachandran, Fundamentals of compressible fluid dynamics, Prentice Hall of India. 
+3.	V Babu, Fundamentals of gas dynamics, Ane Books India. 
+
+Reference Books
+
+1.	A. H. Shapiro, Dynamics and thermodynamics of compressible fluid flow (Vol-1), The Ronald Press Company. 
+2.	Anderson, Modern compressible flow with historical perspective, Mc Graw Hill 
+
+3.	James John & Theo Keith, Gas Dynamics, Pearson International. 
+4.	Liepmann and Roshko, Elements of gas dynamics, Dover publications. 
+5.	Zucrow M. J. & Jeo D Holfman ,Gas dynamics (Vol 1), John Wiley 
+ 

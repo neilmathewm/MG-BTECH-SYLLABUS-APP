@@ -1,0 +1,45 @@
+CE010 405  SURVEYING - II
+
+Teaching Scheme	Credits : 4
+
+3 hour lecture and 1hour tutorial per week
+
+Objective
+
+To impart knowledge in triangulation, aerial photogrammetry and modern Electro Magnetic Distance Measurement instruments.
+
+Module 1 (12 hours)
+
+Triangulation: triangulation figures – classification of triangulation systems – selection of triangulation stations – intervisibility and heights of stations – station marks – signals and towers – base line – choice – measurement of base lines – instrument- extension of base- satellite stations – need, reduction to centre.
+
+Module 2 (12 hours)
+
+Theory of errors and triangulation Adjustments: Kinds of error – laws of weights
+– principles of least squares – determination of most probable value of quantities – probable error – distribution of error to the field measurements – normal equation – Method of correlatives – Adjustment of simple triangulation figures.
+
+Module 3 (10 hours)
+
+Hydrographic surveying –Equipment – Methods of locating soundings – reduction and plotting of soundings – use of sextants and station pointer.
+
+Electro Magnetic Distance Measurement (EDM): - Principle of EDM – Types of EDM instruments – Distomat – Total Station – principles – procedure and surveying using Total Station – data retrieval and processing.
+
+Module 4 (12 hours)
+
+Terrestrial photogrammetry – General principles – photo theodolite – horizontal position of a point from photogrammetric measurements – elevation of a point – determination of focal length of lens. Aerial photogrammetry – aerial camera – scale of vertical photograph – relief displacement on a vertical photograph – principle of parallax – stereoscopic pairs – flight planning – radial line method – flying height and overlaps – remote sensing – concepts of remote sensing – ideal remote sensing system.
+
+Module 5 (14 hours)
+
+Geodesy – shape of earth – effects of curvature – spherical excess – convergence of meridians.
+
+Field Astronomy: - Definitions – celestial sphere – astronomical triangle - co-ordinate systems. Determination of time, azimuth, latitude and longitude.
+
+References:
+
+1.	T. P. Kanetkar and Kulkarni, Surveying and leveling Vol. II, A.V.G. Publications, Pune. 
+ 
+2.	B. C. Punmia, Surveying and leveling Vol. II, Laxmi Publications (P) LTD, New Delhi. 
+3.	Thoms M. Lillerand, Remote sensing and image interpretation, John Wiley & Sons, Inc. New York. 
+4.	Dr. K.R. Arora, Surveying Vol. II, Standard Book House, New Delhi. 
+5.	Alak De, Plane Surveying, S.Chand &Co. 
+6.	S. K. Duggal – Surveying Vol I & II Tata Mc Graw Hill Ltd, 2006. 
+7.	R. Sathikumar, Satheesh Gopi and N. Madhu, Advanced Surveying: Total Station, GIS and remote Sensing, Pearson Education, India 

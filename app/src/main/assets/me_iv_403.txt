@@ -1,0 +1,55 @@
+ME010 403: Hydraulic Machines
+
+(Common with PE010 403)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart knowledge regarding principles and operations of various hydraulic machines. 
+
+Module I (12 hours)
+
+Dynamic Action of Fluid: Impulse Momentum equation- applications– impact of jet – flow of an incompressible fluid over fixed and moving vanes – workdone and efficiency – reaction principle – propulsion of ships. Basic equation of energy transfer in rotodynamic machines-components of energy transfer-Classification-Axial flow, radial flow, impulse and reaction machines.
+
+Module II (12 hours)
+
+Hydraulic turbines: Classification-– impulse and reaction turbines – Euler`s turbine equation-velocity triangles - Pelton wheel, Francis turbine Kaplan turbine – construction features and performance characteristics – theory of draft tube – speed regulation of turbines – run away speed- selection, type and speed of turbines
+
+Module III (12 hours)
+
+Pumping machinery: General classification –Rotodynamic pumps - construction features-classification of impellers, impeller shapes – types of casings -working of centrifugal pumps, priming, Euler`s head equation – velocity triangles – losses, head and efficiencies– performance pump characteristics: main, operating characteristics curves- selection of pumps
+
+from performance curves – NPSHrequired– NPSHavailable– multistage pumps – pumps in parallel & series operation- propeller pumps.
+
+Module IV (12 hours)
+
+Dimensional analysis – Rayleigh’ s method – Buckingham’s Pi theorem – non diamesional parameters in fluid mechanics and fluid machinery – principle of similitude, geometric, kinematic and dynamic similarity – model studies. Non dimensional numbers (Reynold’s number, Froude’s number, Euler’s number, Weber’s number and Mach’s number) Non dimensional parameters for incompressible flow machines –Capacity coefficient, Head coefficient, Power coefficient, Reynolds number, shape number, specific speed – Non dimensional performance curves for pumps- effect of change of outlet vane angle, impeller diameters and speed–Principle of similitude- Non dimensional parameters for comparative study of turbine performance – unit speed, unit power, unit quantity, geometric similarity – model laws – effect of specific speed on runner speed, runner size, flow type etc. Cavitation in fluid machines – installations susceptible to cavitation – collapse of bubble theory – Thoma`s prameter – factors affecting cavitation in pumps and turbines –prevention of cavitation damage.
+
+Module V (12 hours)
+
+Positive displacement pumps: reciprocating pump, effect of vapour pressure on lifting of liquid – indicator diagram – acceleration head – effect of friction – use of air vessels – work saved – Slip - efficiency – pump characteristics – applications.
+Theory & application of self-priming pump, jet pump, airlift or compressor pump, slurry pump, hydraulic ram - Positive displacement Rotary pumps: Gear, screw, vane pumps.
+Hydraulic accumulator, intensifier, fluid coupling & lift – principle of operation- hydraulic cranes, hydraulic press- Hydraulic symbols (Description only, no problems).
+
+
+
+
+Text Books
+
+1.  Jagadishlal, Hydraulic Machines, Metropolitan Publishers.
+
+Reference Books
+
+1.	Abdulla Sheriff ,Hydraulic machines, standard publishers. 
+2.	Govinda Rao N. S, Fluid flows machines, TMH. 
+3.	Pippinger, Industrial hydraulics. 
+4.	Stepanoff John A. J, Centrifugal and axial flow pumps, iley & sons 
+5.	Lewitt E. H, Hydraulic & Fluid Mechanics 
+6.	Som S K and Biswas G, Introduction to fluid mechanics and fluid machines, TMH. 
+7.	Yahya S M, Turbines fans and compressors, TMH. 
+8.	R.K.Rajput, Hydraulic Machines, S.Chand & Company. 
+9.	Modi & Seth, Hydraulic Machines, Laxmi Publications, New Delhi 
+ 

@@ -1,0 +1,56 @@
+CE010 805G02 ENVIRONMENTAL POLLUTION CONTROL TECHNIQUES
+
+(ELECTIVE IV)
+Teaching scheme:	Credit: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective:
+
+o To understand the basic concept of various forms of Environmental Pollution o To develop knowledge in control techniques for Environmental Pollution
+
+Module 1 (12hrs)
+
+Introduction to environmental pollution
+
+Air pollution – Sources – Criteria pollutants – Control of gaseous pollutants (adsorption, absorption, reaction and other methods) – Control of particulate pollutants (settling chambers, cyclone separation, Wet collectors, fabric filters, electrostatic precipitators)– Automobile pollution control
+
+Module 2 (12hrs)
+
+Water pollution – Sources – Various Pollutants – Treatment and control methods – Physico-chemical and Biological Treatments – Screening, skimming, sedimentation, coagulation, Filtration, Trickling Filters, Activated sludge process, Oxidation ponds, high rate anaerobic methods (design not needed)
+
+Module 3 (12hrs)
+
+Industrial Pollution - Characteristics of industrial wastes: physical, chemical and biological. Pretreatment of industrial wastes: waste volume reduction, waste strength reduction - neutralization, equalization and proportioning.
+
+Theories of treatments processes: sedimentation flotation coagulation - evaporation & ion exchange – lagooning - activated sludge treatment - High rate anaerobic treatment.
+
+Module 4 (12hrs)
+
+Solid waste management: Type and source of solid waste, characteristics, collection, transportation and processing- Waste minimization strategies – Reduction - Recycling – Reuse – Disposal - composting, sanitary landfill, incineration, .
+
+Module 5 (12hrs)
+
+Noise pollution: Sources, effects of noise pollution, control measures.
+
+Administrative and Legislative control of environmental pollution. Important Environmental rules and regulations, environmental protection laws and acts.
+
+References
+
+1.	Peavy, Rowe, Tchobanoglous, Environmental Engineering, Mc Graw Hill International Editions. 
+
+2.	M.N. Rao & H.V.N. Rao, Air Pollution, Tata Mc Graw Hill Pvt. Ltd., New Delhi. 
+3.	S. K. Garg, Environmental Engineering Vol. l & ll, Khanna Publishers, New Delhi. 
+4.	B.C. Punmia, Water supply Engineering, Arihant Publications, Jodpur. 
+5.	B.C. Punmia, Waste water Engineering, Arihant Publications, Jodpur. 
+6.	Nelson Leonard Nemerow, Theories and practices of industrial waste treatment, Addison-Wesley Publishing Co., Inc. 
+ 
+7.	W Wesley Eckenfelder Jr., Industrial water pollution control, International Edition, Mc Graw Hill Inc, New Delhi. 
+
+8.	M Narayana Rao, Waste water treatment, Rational methods of design and Industrial practice, Oxford & IBH Publishing Co. Pvt. Ltd, Bombay. 
+
+9.	C.S. Rao, Environmental Pollution Control Engineering, New Age International (P)Ltd, New Delhi. 
+10.	Warren Viessman and mark J Hammer, Water Supply and Pollution Control, Pearson Education, Inc. 
+11.	Gilbert M.Masters, Kurian Joseph and R. Nagendran, Introduction to Environmental Engineering and Science. 
+
+12.	Ruth F. Weiner and Robin Matthews, Environmental Engineering, Butterworth-Heinemann, Elsevier. 

@@ -1,0 +1,36 @@
+
+IT 010 407 LOGIC DESIGN LAB
+
+Teaching scheme	Credits: 2
+
+3 hours Practical per week
+
+Objectives:-
+
+•	To provide an introduction to Logic Systems Design thereby giving a hands on experience on working with digital ICS ,which enable the study Computer System Architecture. 
+
+
+
+1.	Familiarization of Logic Gates and Realization of Logic Circuits using basic Gates. 
+
+2.	Design and implementation of Arithmetic Circuits:- Half Adder, Full Adder, n bit Ripple Carry Adder, Carry Look ahead Adder, BCD Adder 
+
+3.	Study of Flip Flops:- implementation of RS, JK, D, T and MS Flip Flops 
+
+4.	Design and implementation of Synchronous and Asynchronous Counters, UP/DOWN Counters 
+
+5.	Design and Implementation of Shift Registers, Counters using Shift Registers – Ring Counter and Johnson Counter 
+
+6.	Study of Multiplexers , Demultiplexers, Encoder and Decoder 
+
+7.	Design of Comparators and Parity Generators. 
+
+
+
+Reference Books:-
+
+1.	Morris Mano - Digital Logic and Computer Design ,Prentice Hall of India 
+
+
+2.	Floyd T. L. – Digital Fundamentals- Universal Book Stall 
+

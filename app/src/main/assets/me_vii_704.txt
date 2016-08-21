@@ -1,0 +1,52 @@
+ME010 704: Refrigeration and Air Conditioning
+
+(Common with AU010 704)
+
+
+Teaching scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of Refrigeration and Air Conditioning 
+
+•	To develop a sound physical understanding of the subject so that the learner will demonstrate the ability to design a refrigeration or air-conditioning equipment that meets the required specifications 
+Module 1 (8 hours)
+
+Principles of refrigeration: Thermodynamics of refrigeration – Carnot, reversed carrot cycle, heat pump, and refrigerating machine- coefficient of performance -unit of refrigeration-refrigeration methods - conventional refrigeration systems. Air refrigeration system -Bell Coleman cycle -C.O.P –capacity, work and refrigerant flow requirements in Bell Coleman cycle.
+
+Module 2 (10 hours)
+
+Vapor compression system: simple cycle -comparison with Carnot cycle, theoretical and actual cycles- COP- effect of operating parameters on COP- wet, dry and superheated compression- sub cooling - actual cycle representation on TS and PH diagrams- simple problems. Advanced vapor compression systems – multistage vapor compression systems- flash chamber- multiple compression and evaporation systems- cascading -simple problems.
+
+Module 3 (10 hours)
+
+Vapor absorption systems: simple cycles-actual cycle- ammonia water and lithium bromide water systems – COP -Electrolux system. Refrigerant and their properties: Nomenclature-suitability of refrigerants for various applications -unconventional refrigeration methods- vortex tube, steam jet, magnetic (Cryogenics) refrigeration and thermoelectric refrigeration- applied refrigeration: house hold refrigerator –unit air conditioners and water coolers- ice plant -cold storage
+
+Module 4 (7 hours)
+
+Refrigeration system components (Theory Only): water and air cooled condensers- evaporative condensers- expansion devises -capillary tube -constant pressure expansion valve- thermostatic expansion valve- float valve and solenoid valve. Evaporators: natural convection coils -flooded evaporators -direct expansion coils. Reciprocating compressors: single stage and multistage compressors- work done -optimum pressure ratio -effect of intercooling- volumetric efficiency -
+ 
+Mahatma Gandhi University, Kottayam
+
+
+effect of clearance- isothermal and adiabatic efficiency. Rotodynamic compresors: Screw and vane type compressors- principle of operation- hermetic, semi hermetic and open type refrigeration compressors.
+
+Module 5 (10 hours)
+
+Principles of air conditioning: Psychrometry and psychrometric chart - human comfort- effective temperature- comfort chart. Applied psychrometry: sensible heat factor- psychometric process – problems. Winter air conditioning- heating load calculations- humidifiers and humidistat. Summer air conditioning- cooling load calculations- year round air conditioning -unitary and central systems -principles of air distribution -design of air duct systems.
+
+Text Books
+
+1.	Stoecker W.F. and Jones J.W, Refrigeration and Air-Conditioning, McGraw- Hill 
+
+2.	Jordan and Prister, Refrigeration and Air-Conditioning, Prentice Hall of India. 
+
+Reference Books
+
+1.	Dossat., Principles of Refrigeration, John Wiley and Sons 
+2.	Robert H. Enerick, Basic Refrigeration and Air-Conditioning, Prentice Hall. 
+
+3.	Arora C.P., Refrigeration and Air-Conditioning, Tata McGraw- Hill 

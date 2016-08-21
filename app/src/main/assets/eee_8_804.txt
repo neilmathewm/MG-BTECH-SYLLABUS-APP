@@ -1,0 +1,47 @@
+
+EE 010 804 L01 : ADVANCED POWER SYSTEM
+
+Teaching Scheme	Credits:4
+
+2 hours lecture & 2 hours tutorial per week
+
+Objectives
+
+*	To introduce a number of engineering and economic matters involved in planning, operating and controlling power generation and transmission systems in electric utilities. 
+*	To introduce students to the important “terminal” characteristics for thermal and hydro electric power generation systems. 
+
+Module 1 ( 12 Hours)
+
+Load frequency control-Necessity of maintaining frequency constant- Basic Generator control Loops-Load Frequency Control (Single Area Case)-Turbine Speed Governing System-Model of Speed Governing System-Turbine Model-Generator-Load Model-Block Diagram model of LFC-Steady State Analysis-Dynamic Response-Control Area Concept-Proportional Plus Integral Control-Two area Load Frequency Control-ACE
+
+Module 2 ( 10 Hours)
+
+Unit Commitment- Constraints in Unit Commitment - Spinning Reserve-Thermal Unit Constraints- Other Constraints- Unit Commitment Solution Methods-Priority List Methods-Dynamic Programming Solution.
+
+Module 3 ( 14 Hours)
+
+Hydrothermal Coordination-Long Range and Short Range Hydro-Scheduling-Hydro-Electric Plant Models-Scheduling Problems-Scheduling Energy-The short-term Hydro-thermal Scheduling Problem-Short Term Hydro-Scheduling: A Gradient Approach-Hydro –units in series-Pumped Storage Hydro plants- Pumped Storage Hydro-Scheduling by ?-? iteration and gradient method-Dynamic Programming solution to the Hydrothermal scheduling Problem-Dynamic –Programming solution to Multiple Hydroplant problem.
+
+Module 4 ( 12 Hours)
+
+Interchange of Power and Energy-Advantages of interconnected system-Economy interchange between interconnected utilities-Inter utility-Economy Energy Evaluation-Interchange Evaluation with Unit Commitment-Multiple-Utility Interchange Transactions-Wheeling-Other Types of Interchange-Power Pools-The Energy –Broker System-Centralized Economic Dispatch of a Power Pool-Allocating Pool savings
+
+Module 5 ( 12 Hours)
+
+Power system Security-Functions of System Security-SCADA-Factors affecting Power System Security-Contingency Analysis: Detection of Network Problems-An overview of Security
+ 
+Analysis-Linear Sensitivity Factors-Calculation of Network Sensitivity Factors-AC Power Flow Methods-Contingency Solution-Concentric Relaxation-Bounding
+
+Text Books
+
+1.	Power Generation Operation and Control –Allen J Wood & Bruce F Wollenberg 
+
+2.	Power System Engineering –I.J.Nagrath &D.P.Kothari 
+
+Reference Books
+
+1.	Power System Analysis –Arthur R Bergen &Vijay Vittal 
+
+2.	Elements of Power System Analysis- William D Stevenson 
+
+3.	Power System Operation and Control- S.Sivanagaraju & G.Sreenivasan 

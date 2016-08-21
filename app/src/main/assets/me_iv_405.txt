@@ -1,0 +1,68 @@
+ME010 405: Machine Drawing
+
+(Common with PE010 405 and AU010 405)
+Teaching scheme	Credits:4
+3 hours practical and 1 hour theory per week
+
+Objectives :
+
+•	To impart the fundamental concepts of machine drawing. 
+
+•	To develop primary knowledge of working drawings. 
+
+•	To produce orthographic drawing of different machine parts. 
+
+•	To develop skill to produce assembly drawings. 
+
+•	To develop skill to produce detailed drawingsof machines parts from assembly drawing. 
+
+Module-1(15hrs) 
+Conversion of pictorial views into orthographic views-dimensioning techniques-preparation of drawing- - Limits and tolerances of machine parts - Hole system and shaft system of tolerances - Designation of fundamental deviation - Types of fits and their selection - Indication of dimensional tolerances and fits on simple machine parts - Geometrical tolerances – Recommended symbols - Indication of geometrical tolerances on simple machine parts - Surface roughness – Indication of surface finish on drawings - Preparation of shop floor drawings of simple machine parts. 
+Types of screw threads-different forms-conventional representation-sketching  orthographic  views  of 
+hexagonal	bolts	and  nuts -dimensional	drawing-square headed  bolts  and nuts –sketching	of  different
+types	of	lock nuts  and locking  devices-  foundation bolts.	
+Forms	of	rivet	heads – riveted joints-lap	and butt joints with single and multiple riveting in	chain and
+
+zig – zag arrangements –dimensional drawing. Sketching of conventional representation of welded joint.
+
+Module-2 (20 hrs)
+
+Fully dimensioned and sectional drawing of the following Joints-knuckle joint-jib and cotter
+
+shaft couplings-types of keys- protected types of flanged couplings-bushed pin type flexible coupling-Oldham’s coupling
+Pipe joints-spigot and socket joint-flanged joint-
+
+Shaft bearings and support-Plummer block  IC engine parts-piston-connecting rod
+
+Module-3(25hrs)
+
+Assembly and working drawings of the followingValves
+
+-stop valve-spring loaded safety valve –dead weight safety valve-feed check valve-feed check valve Machine elements-screw jack –lathe tool post-spindle-tailstock
+
+Note:
+
+•	Drawing practical classes have to be conducted by using any standard CAD software and using drawing instruments in alternate weeks (3Hours) preferably for each half of the student. 
+
+Semester End examination (3Hours) shall be conducted by using drawing instruments only 
+
+•	All drawing exercises mentioned above are for class work. Additional exercises wherever necessary may be given as homework 
+•	
+
+References:
+
+1.	N.D.Bhatt and Panchal, Machine Drawing, Charator Publishing House 
+
+2.	P I.Varghese, Machine Drawing, VIP Publishers, Thrissur 
+
+3.	Ajeet Singh, Machine Drawing, Tata McGraw Hill Education Private Ltd 
+
+4.	P.S.Gill , Machine Drawing, S.K.Kataria &Sons 
+ 
+
+University examination pattern
+
+Question I: One questions of 10 marks from module-1
+Question II: One questions of 30 marks out of 2 questions from module-2. Question III:One question of 60 marks from module-3
+.
+ 

@@ -1,0 +1,55 @@
+ME010 604: Metrology and Machine Tools
+
+(Common with AU010 604)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	Understand and appreciate the importance of basic principles of traditional material removal processes. 
+
+•	Understand the application of those principles in practice. 
+•	To understand the principles of metrology and measurements, methods of measurement and its application in manufacturing industries. 
+
+
+Module I (12 hours)
+
+Conventional Machining Processes Turning machines:- Types - method of holding work and tool, accessories, attachments-operations and types of tools for each operation - tool room lathe - duplicating lathe - Capstan and Turret lathe – knurling - Drilling:- types of drilling machines - types of drills - nomenclature of drill point - drill wear - types of chip breakers - cutting forces in drilling - Boring:- types of boring machines, tool geometry - counterboring, spot facing, countersinking, trepanning – Reaming:- types of reamers - tool nomenclature - cutting forces - tool materials and surface roughness obtainable in each operations.
+Shaping, planing and slotting machines:- Types and specifications - quick return motion - hydraulic feed and its advantages - automatic feed-speed, feed and depth of cut -work holding devices - types of operation and examples of work done - shaping of V -blocks, planing of guide gibs, slotting of keyways – Broaching:- - basic process - different cutting elements – force required for broaching and strength of broach – tool materials and surface roughness obtainable in each operations.
+
+Module II (12 hours)
+
+Milling operations:- different types milling machines - Different methods of milling - nomenclature of milling cutters – cutting forces in milling – different types of milling cutters
+– attachments for milling:-vertical milling and universal milling attachment, high speed milling attachment, rack milling and slot attachments, parking bracket, rotary table, universal dividing head, vices, arbors, adaptors and collet chucks – tool materials and surface roughness obtainable in milling – machining centers: applications and advantages - Grinding: - types of machines - Grinding mechanisms:- grinding debris, grinding force power, specific energy - Grinding wheels: - different types of abrasives, grain size, different types of bond, grade, structure – marking system of grinding wheels - Grinding fluids – Truing and dressing of grinding wheels - Grinding temperature, thermal damage and surface roughness obtainable. Horning: Types of machines, methods of honing – types honing stones – honing conditions - cutting fluids - surface roughness obtainable - Lapping: - types of hand lapping - types of lapping machines - surface roughness obtainable – Burnishing:- processes and surface roughness obtainable.
+
+Module III (12 hours)
+
+Gear cutting process: - Gear milling: - gear milling machines and different gear milling operations - Gear hobbing: - principle of the hobbing process and hobbing machines, basic types of hobbing machines, different hobbing techniques, nomenclature of hob, hob wear, spur gear hobbing, helical gear hobbing - gear shaping: - principle of gear shaping process - gear finishing - gear errors - Thread production process: - different thread production processes: screw cutting on lathe, thread milling, thread whirling, die threading, tapping, thread rolling, and thread grinding.
+ 
+
+Module IV (12 hours) Engineering Metrology
+
+General measurements concepts:- Principles for achieving accuracy; methods for estimating accuracy and precision, precision Vs accuracy, systematic and constant errors; progressive, random, erratic, drunken errors - Fits and tolerances: - types of fits: hole and shaft basis system – limit gauges:- gauge tolerance, presentation of gauge tolerances – Taylor’s theory of gauging – limit gauges for screw threads - Design and operation of linear measurements:-Principle of alignment (Abbe’s), accuracy and precision etc. – Principle of kinematics: complete constraints, one degree of freedom – Gauge blocks:- gauge materials, accuracy and standards, effect of temperature, surface roughness and manufacturing of gauge blocks – Comparators:- mechanical, mechanical -optical, pneumatic and horizontal length comparator – Angle measurements:- three disc, sine bar and dial gauge – measurement of taper plug ring gauges and taper bores – Precision levels, clinometer – Optical instruments for angle measurements:- optical principles of projector, microscope, telescope, collimator, auto collimator - optical flat and optical parallel applications – auto collimator, angle dekkor, combination of angle gauges, optical flat.
+
+Module V (12 hours)
+
+Tool makers microscope – profile projector – optical microscope, SEM and TEM - straight edge – surface plate – measurement of squareness:- squareness testing with dial gauge, tilting bar, optical square, checking an internal right angle - Measurement of surface roughness: meaning of surface texture and causes – stylus probe instrument, RMS, CLA, peak to valley, Ra, Rt, Rz etc. – stylus, skid, effect of sampling length, magnification, cut-off, evaluation length etc. – comparison of surface roughness of different machining process – concept of apparent to real area of contact of mating surfaces, applications in clutch plate surface, brake liner, inner race of a bearing, cylinder liner, machine tool guide way, significance of surface roughness in crack initiation – assessment of roundness errors: - least square reference circle, minimum circumscribed circle, minimum zone reference circle and maximum inscribed circle
+
+– roundness parameters:- eccentricity, concentricity and runout – three wire system of thread pitch diameter measurement - gear tooth measurement by vernier caliper, pin method of measuring gear teeth – Alignment tests for machine tools:- test for level installation of a lathe bed – spindle tests of concentricity and alignment with guide ways – tests for straightness and flatness of a lathe bed guide ways – test for squreness of a drilling machine spindle with table 
+
+– CMM, laser interferomerty and applications. 
+
+
+Text Books
+
+1.  S. Haykin and B. V. Veen, Signals and Systems, John Wiley & Sons, N. Y., 2002
+
+2. A. V. Oppenheim, A. S. Willsky and S. H. Nawab, Signals & Systems, 2nd ed., Prentice Hall of India, New Delhi, 1997
+
+Reference Books
+
+1. C. L. Philips, J. M. Parr, E. A Riskin, Signals, Systems and Transforms, 3rd ed., Pearson Education, Delhi, 2002
+2. R. E. Zeimer, W. H. Tranter, and D. R. Fannin, Signals and Systems: Continuous and Discrete, 4th ed., Pearson Education, Delhi, 1998
+3. M. J. Roberts, Signals and Systems: Analysis using Transform methods and MATLAB, Tata McGraw Hill, New Delhi, 2003

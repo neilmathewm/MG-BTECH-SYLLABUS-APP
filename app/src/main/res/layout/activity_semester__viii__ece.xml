@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neil.user.mg_syllabus.Semester_VIII_Ece">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 801 WIRELESS COMMUNICATION"
+        android:id="@+id/button13"
+        android:layout_marginTop="30dp"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="Ece_VIII_801"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 802 COMMUNICATION NETWORK"
+        android:id="@+id/button14"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_below="@+id/button13"
+        android:layout_centerHorizontal="true"
+        android:onClick="Ece_VIII_802"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EC010 803 LIGHT WAVE COMMUNICATION"
+        android:id="@+id/button15"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button14"
+        android:layout_centerHorizontal="true"
+        android:onClick="Ece_VIII_803"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 804L01 NANO ELETCRONICS"
+        android:id="@+id/button16"
+        android:layout_below="@+id/button15"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VIII_804"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 805 G01 TEST ENGINEERING"
+        android:id="@+id/button17"
+        android:layout_below="@+id/button16"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Ece_VIII_805"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 806	VLSI &amp; EMBEDDED SYSTEM LAB"
+        android:id="@+id/button18"
+        android:layout_below="@+id/button17"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VIII_806"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 807 Project Work"
+        android:id="@+id/button19"
+        android:layout_below="@+id/button18"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Ece_VIII_807"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EC010 808 Viva -Voce"
+        android:id="@+id/button20"
+        android:layout_below="@+id/button19"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Ece_VIII_808"
+        />
+</RelativeLayout>

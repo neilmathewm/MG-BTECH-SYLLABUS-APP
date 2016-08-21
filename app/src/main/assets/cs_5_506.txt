@@ -1,0 +1,49 @@
+CS010 506: Advanced Microprocessors & Peripherals
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To understand the concepts related to advanced microprocessors. 
+
+•	To study the basic technology of various peripherals. 
+•	To have an overview of different types of communication buses and ports. 
+
+Module I (15 hours)
+
+8086 Architecture, Block diagram – Addressing modes – Instructions set of 8086 – data transfer – arithmetic – branch – loop – flag manipulation – shift & rotate – string instructions
+– writing simple program in 8086.
+
+Module II (9 hours)
+
+Additional features of 80286 – protected mode memory addressing – Additional features of 80386 – Paging mechanism (Flat memory model) – Additional features of Pentium Processors – Brief study of latest processors of Intel & AMD – Dual core processor(Brief idea only) .
+
+Note: Architecture not required for the processors discussed in this module.
+
+Module III: Peripherals (11 hours)
+
+Study of motherboards – Different types of ports, slots and connectors – Processor Bus, AGP, PCI – Add-on cards – USB – Hard Disk Interfaces – IDE, ATA, Power supply – SMPS – function & operations.
+
+Module IV: Storage Devices (15 hours)
+
+Magnetic data storage: Principles – Hard disks – Cylinders – Clusters – Tracks and Sectors – Disk formatting – Partitioning – Hard disk drive operation – Data Transfer rates – Data addressing – CHS addressing – Logical Block Addressing.
+
+Optical storage: CD Technology, CD ROM, CD-R, CD-RW, Interface – Magneto optical drives – DVD – RAID – Blu-ray disc.
+
+Module V (10 hours)
+
+Memory: Parity – ECC – Memory Addressing – 640 KB barrier – Extended and Expanded memory – HMA – Video memory – Flash Memory – Pen drive – Advanced memory technologies.
+ 
+
+Reference Books
+
+1.	A K Ray, K M Bhurchandi, “Advanced Microprocessors and Peripherals”, Tata McGraw Hill, New Delhi, 2nd Edition, 2010. 
+2.	Craig Zacker & John Rourke, “PC Hardware: The Complete Reference”, Tata McGraw Hill, New Delhi, First Edition, 2001. 
+3.	Barry B.Brey, “The Intel Microprocessors”, PHI, New Delhi, Sixth Edition, 2004. 
+4.	Nilesh B. Bahadure, “Microprocessors”, PHI, New Delhi, First Edition, 2010. 
+5.	K.K Tripathi, Rajesh K Gangwar, “Microprocessor and Its Application”, Acme Learning,2010 
+6.	Douglas V Hall, “Microprocessors and Interfacing”, Tata McGraw Hill, New Delhi, 2nd Edition, 2006 
+7.	Scott Mueller, “Upgrading and Repairing PC’s”, Pearson Education, 17th Edition, 2006 
+8.	Stephen J.Bigelow, “Troubleshooting, Maintaining and Repairing PC’s”, Tata McGraw Hill, New Delhi, 5th Edition, 2001 

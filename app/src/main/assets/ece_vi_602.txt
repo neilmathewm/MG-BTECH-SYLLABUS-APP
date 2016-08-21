@@ -1,0 +1,50 @@
+EC010 602 DIGITAL SIGNAL PROCESSING
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To study the fundamentals of discrete-time system analysis, digital filter design and the DFT 
+
+Module I (12 hrs)
+
+Advantages of DSP – Review of discrete time signals and systems – Discrete time LTI systems – Review of DTFT – Existence – Symmetry properties – DTFT theorems – Frequency response-Review of Z transform – ROC – Properties
+
+Sampling of Continuous time signals – Frequency domain representation of sampling – Aliasing - Reconstruction of the analog signal from its samples – Discrete time processing of continuous time signals – Impulse invariance – Changing the sampling rate using discrete time processing – Sampling rate reduction by an integer factor – Compressor – Time and frequency domain relations – Sampling rate increase by an integer factor – Expander – Time and frequency domain relations – Changing the sampling rate by a rational factor.
+
+Module II (12 hrs)
+
+Transform analysis of LTI systems – Phase and group delay – Frequency response for rational system functions – Frequency response of a single zero and pole – Multiple poles and zeros - Relationship between magnitude and phase – All pass systems – Minimum phase systems – Linear phase systems – Generalised linear phase – 4 types – Location of zeros.
+
+Module III (12 hrs)
+
+Structures for discrete time systems – IIR and FIR systems – Block diagram and SFG representation of difference equations – Basic structures for IIR systems – Direct form - Cascade form - Parallel form - Transposed forms – Structures for FIR systems – Direct and Cascade forms - Structures for Linear phase systems – Overview of finite precision numerical effects in implementing systems
+
+Analog filter design: Filter specification – Butterworth approximation – Pole locations – Design of analog low pass Butterworth filters – Chebyshev Type 1 approximation – pole locations – Analog to analog transformations for designing high pass, band pass and band stop filters.
+
+Module IV (12 hrs)
+
+Digital filter design: Filter specification – Low pass IIR filter design – Impulse invariant and Bilinear transformation methods – Butterworth and Chebyshev – Design of high pass, band pass and band stop IIR digital filters – Design of FIR filters by windowing – Properties of commonly used windows – Rectangular, Bartlett, Hanning, Hamming and Kaiser.
+ 
+
+
+
+
+
+Module V (12 hrs)
+
+The Discrete Fourier Transform - Relation with DTFT – Properties of DFT – Linearity – Circular shift – Duality – Symmetry properties – Circular convolution – Linear convolution using the DFT – Linear convolution of two finite length sequences – Linear convolution of a finite length sequence with an infinite length sequence – Overlap add and overlap save – Computation of the DFT – Decimation in time and decimation in frequency FFT – Fourier analysis of signals using the DFT – Effect of windowing – Resolution and leakage – Effect of spectral sampling.
+
+
+References
+
+1.	A V Oppenheim, R W Schaffer, Discrete Time Signal Processing , 2nd Edition Pearson Education. 
+
+2.	S K Mitra, Digital Signal Processing: A Computer Based Approach ,Tata Mc.Graw Hill. 
+
+3.	J G Proakis, D G Manolakis, Digital Signal Processing: Principles, Algorithms and Applications, Prentice Hall of India.. 
+
+4.	L C Ludeman, Fundamentals of Digital Signal Processing, Wiley 
+
+5.	J R Johnson, Introduction to Digital Signal Processing, Prentice Hall of India. 

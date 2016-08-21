@@ -1,0 +1,65 @@
+AI 010 704
+
+Analytical Instrumentation
+(Common to EI010 704 and IC010 704)
+
+Teaching scheme Credits: 3 2 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart a basic knowledge about analytical instruments, its concepts, and its technique. 
+
+•	To give a vast knowledge about different types of spectroscopic analysis. 
+
+•	To study about different types of chromatographic analysis. 
+
+
+
+Module 1
+
+Introduction to Analytical Instrumentation: Fundamentals of analytical instruments: Elements of an analytical instrument – PC based analytical instruments –Classification of instrumental techniques . Electro magnetic radiation- Electromagnetic spectrum- Laws relating to absorption of radiation. Absorption spectroscopy: Absorption instruments – Radiation sources- Optical filters- Monochromators- Detectors.
+
+Ultra violet and visible absorption spectroscopy- Colorimeters/ photometers: Single beam and double beam filter photometer – Spectro photometers: Single beam and double beam spectro photo meters- Infra red spectroscopy: Basic components- Radiation sources- Monochromators-Detectors.
+
+Module 2
+
+Flame Photometry: Principle and constructional details of flame photometer- Emission system – Optical system – Detectors . Atomic absorption spectrophotometers: Theoretical concepts, Instrumentation: Radiation sources - Burners and flames - Plasma excitation sources - Optical and electronic system .
+
+Fluorescence spectroscopy: Principle of fluorescence – Measurement of fluorescence – Single beam and double beam filter fluorimeter- Ratio fluorimeter. Spectro fluorimeters.
+Raman spectrometer- Basic theory-Photo acoustic spectroscopy- Photo thermal spectroscopy .
+
+Module 3
+
+Mass  spectrometer:  Principle   of  operation-  Magnetic  deflection  mass  spectrometers-
+
+Components of a mass spectrometer – Inductively coupled plasma mass spectrometer.
+Nuclear Magnetic Resonance spectroscopy: Basic principle – Constructional details of NMR spectrometer – Nuclear radiation detectors .
+Electron Spin Resonance spectrometer: Basic ESR spectrometer – Electron spectroscopy: Instrumentation for electron spectroscopy.. X- Ray spectrometers: X – ray spectrum – Instrumentation for x –ray spectrometry. X-ray diffractometers- X-ray absorption meters- X- ray fluorescence spectrometry.
+ 
+
+Module 4
+
+Industrial Gas analyzers- pH meters- Conductivity meters - Dissolved oxygen meters- Sodium analyser – Gas analysers- Paramagnetic oxygen analyser – CO analysers – Flue gas analysers-Blood PH measurement – Thin film technology for gas sensors - Basic concepts. Measurement techniques and application of gas sensors. Thermal Sensors:- Radiation Sensors, Mechanical Sensors and Bio-Chemical Sensors.
+
+Module 5
+
+Chromatography: Chromatographic process – Classification- Terms in chromatography- Gas chromatography: Block diagram- Principle - Constructional details – Column details- GC detectors.
+
+Liquid Chromatography: Types of liquid chromatography- High pressure Liquid Chromatography (HPLC): Principle- Constructional details.
+
+Textbooks:
+
+1.	Instrumental Methods of Analysis, Willard, Merritt, Dean, Settle, CBS Publishers & Distributors, New Delhi, Seventh edition. 
+
+2.	Handbook of Analytical Instruments, R. S. Khandpur, Tata McGraw–Hill Publications, 3rd edition 
+
+3.	Principles of Instrumental Analysis, Skoog, Holler, Nieman, Thomson books-cole publications, 5th edition. 
+
+Reference books:
+
+1.	Instrumental Methods of Chemical Analysis, Galen W. Ewing, McGraw-Hill Book Company, Fifth edition. 
+2.	Introduction to Instrumental Analysis, Robert D. Braun, McGraw-Hill Book Company 
+ 
+
+

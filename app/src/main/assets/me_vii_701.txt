@@ -1,0 +1,51 @@
+ME 010 701 Design of Machine Elements
+
+(Common with AU010 701)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture, 1 hour tutorial and 1 hour drawing per week
+
+Objectives
+
+To provide basic knowledge on the design considerations and methodology of various machine elements.
+
+Module I (15 Hrs)
+
+System design cycle - Different phases in design process - design factors and considerations - tolerances and fits - Hole basis & Shaft basis system - standardization - selection of materials - stress concentration - Methods to reduce stress concentration - theoretical stress concentration factor - theories of failure - Guest’s theory - Rankine’s theory - St. Venant’s theory - Haigh’s theory - Von Mises & Hencky theory - shock and impact loads - fatigue loading - endurance limit stress- Factors affecting endurance limit - Factor of safety - creep and thermal stresses.
+
+Module II (15 Hrs)
+
+Design of riveted joints- Failure of riveted joints and efficiency of joint -boiler and tank joints-structural joints, Cotter and Knuckle joints
+
+Threaded joints - thread standards- thread nomenclature - stresses in screw threads- bolted joints preloading of bolts- eccentric loading- fatigue loading of bolts - Power screws.
+
+Module III (15 Hrs)
+
+Design of welded joints- Representation of welds - stresses in fillet and butt welds- design for static loads - bending and torsion in welded joints- eccentrically loaded welds - design of welds for variable loads.
+
+Springs- stresses and deflection of helical springs with axial loading - curvature effect - resilience - design of spring for static and fatigue loading- surging- critical frequency- stress analysis and design of leaf springs..
+
+Module IV (15 Hrs)
+
+Shafts and axles design- stresses- causes of failure in shafts - design based on strength, rigidity and critical speed- design for static and fatigue loads- repeated loading- reversed bending-
+
+Design of couplings - Rigid and flexible couplings - design of keys and pins.
+
+Note: Any one of the following data book is only permitted for reference in the University examination
+
+1.	Machine Design Data hand book by K. Lingaiah, Suma Publishers, Bangalore/ Tata Mc Graw Hill
+2.	PSG Design Data,  DPV Printers, Coimbatore.
+ 
+
+Text Books
+
+1.  C.S, Sarma, Kamlesh Purohit, Design of Machine Elements, Prentice Hall of India Ltd , New Delhi
+
+2.	M. F. Spotts, T. E. Shoup, Design of Machine Elements, Pearson Education. 
+3.	V.B. Bhandari, Design of Machine Elements, McGraw Hill Book Company 
+
+Reference Books
+
+1.  J. E. Shigley, Mechanical Engineering Design, McGraw Hill Book Company
+ 

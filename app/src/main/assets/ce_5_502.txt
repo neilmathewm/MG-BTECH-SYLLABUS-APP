@@ -1,0 +1,48 @@
+CE010 502 COMPUTER PROGRAMMING
+
+Teaching Scheme	Credit: 4
+
+3 hours lecture and 1hour tutorial per week.
+
+Objective:
+
+To provide a strong foundation in the basics of C-Programming so that  students can
+develop the ability to design software’s.
+
+Module I (15 Hours)
+
+Introduction to C: The C character set- identifiers and keywords- data types-user defined data types-constants and variables-declarations- operators-expressions-statements-library input-output functions
+Control statements: if, if-else, switch, -conditional and comma operators.
+
+Module II (15 Hours)
+
+Iterative statements: ’while’, ’do-while’, for ‘statements-nested loops, break and continue statements.
+Functions: Declarations, definition and access-passing arguments to a function – pass by value and pass by reference-recursion.
+Storage classes: automatic variables-external variables-register variables-scope and lifetime of variables-macros
+
+Module III (12 Hours)
+
+Arrays: Single dimensional arrays-multidimensional arrays-definition-initializing arrays-passing arrays to a function- matrix operations-addition, transpose and multiplication. Pointers-declaration-operations.
+Strings: definition –string handling function-comparison, concatenation and sorting of strings
+
+Module IV (10 Hours)
+
+Structures and union: definition –initialization-accessing structure members-array of structures-passing structure to a function –sorting of structures –binary files-reading and writing of data blocks-union.
+Dynamic memory allocation - self referential structures - basic concepts of linked lists.
+
+Module V (8 Hours)
+
+Files :File pointers-data files-opening and closing-reading and writing-appending-error handling function-handling data in blocks-command line arguments.
+
+References
+
+1.B.S. Gotterfield Theory and Problems of Programming with C.TMH
+2.	Balaguruswamy, Programming in C, Tata Mc Graw Hill. 
+3.	Kern Ingham , Ritchie, The C programming language, Prentice Hall. 
+4.	Byron S Gottfried, Programming with C, Tata Mc Graw Hill. 
+ 
+5.	Y. Kenetker, Let us C, BPB Publications. 
+
+6.	V. Rajaraman, Programming with C. 
+7.	Y. Kenetker, Exploring C, BPB Publications. 
+ 

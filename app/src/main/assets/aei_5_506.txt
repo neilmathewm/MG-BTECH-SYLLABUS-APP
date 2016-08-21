@@ -1,0 +1,60 @@
+AI010 506
+
+Microprocessors and microcontrollers
+(Common to EI010 506, IC010 506)
+
+
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+1.	To Create an exposure to basic microprocessors, peripherals and its programming. 
+2.	To impart the basic concepts of advanced microprocessors. 
+3.	To have an adequate knowledge in 8-bit microcontrollers. 
+4.	To provide the basic concepts of programming in 8051. 
+5.	To provide basic knowledge in RISC. 
+
+Module 1
+
+Introduction to microprocessors and microcomputers: Function of microprocessors-architecture of 8085. Intel 8086 Microprocessor - Internal architecture – Block diagram –8086 memory organization – even and odd memory banks – segment registers – logical and physical address.
+
+Minimum and maximum mode operation – Interrupt and Interrupt applications – peripherals–programmable DMA controller-8257 – 8087 math coprocessor-Programmable interrupt controller-8259
+
+Module 2
+
+Addressing modes used in 80x86 family - Data addressing modes, Program memory addressing modes, Stack memory addressing modes. Instruction sets of 8086-programming. Architectures of Intel 80286 Microprocessor, 80386 Microprocessor Advanced Intel Microprocessors – 80486 Pentium.
+
+Module 3
+
+Atmel AT89C51 microcontroller – features - pin configurations - internal block Schematic. Port structures .Idle & power down mode - power control register - program protection modes – flash programming & verification.
+
+Memory organization - program memory - data memory .Program status word - registers banks. External program & data memory timing diagrams- I/O port timings
+– and operation –Direct & indirect addressing area - Addressing modes.
+
+Module 4
+
+8051 Programming-Machine cycle-Instruction set – arithmetic - logical and data transfer instructions – Boolean instructions - program branching instructions - Programming examples Timer0 & Timer1 - TMOD SFR - mode0, mode1, mode2, mode3 – TCON-Programming examples.
+ 
+Module 5
+
+Serial interface - SCON SFR - mode0, mode1, mode2, mode3- block schematics baud rates- power on reset circuit- ONCE mode- on chip oscillator interrupts - interrupt sources - interrupt enable register -interrupt priority - interrupt control system - interrupt handling ,single step operation. Programming examples
+
+Introduction to RISC processors-Microchip PIC16 family – PIC16F873 processor – features – architecture
+
+References:
+
+1.	The 8051 Microcontroller: Muhammad Ali Mazidi, Pearson Education. 
+
+2.	The 8051 Microcontroller: Kenneth J Ayala, Penram International 
+3.	Microprocessors and Architecture: Ramesh S Goankar 
+4.	Microcomputers and Microprocessors: John Uffenbeck, PHI 
+5.	Web site of Atmel -  www.atmel.com 
+6.	The Microprocessors 6th Edition Barry B. Brey Pearson Edu. 
+7.	Microprocessor and Interfacing 2nd Edition Douglous V. Hall TMH 
+
+8.	The 80x 86 families John Uffenbeck 
+9.	Microchip semiconductor web site –  www.microchip.com 
+10.	Design with PIC micro-controllers: John B Peatman, Pearson Education. 
+ 

@@ -1,0 +1,50 @@
+IT 010 IT 502:MICROPROCESSORS AND MICROCONTROLLERS
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objective:
+
+•	To have an in depth knowledge of the architecture and programming of 8-bit and 16-bit Microprocessors, Microcontrollers and to study how to interface various  peripheral devices with them 
+
+Module 1: (10 hrs)
+
+Intel 8086 Microprocessor:- Architecture, Pin Diagram, Register Organization, Memory Organization- Memory Banks- Concept of Segmentation and Physical Address Calculation, Operating Modes- Minimum and Maximum Modes, Timing Diagram- Concepts of T-State, Machine Cycle and Instruction Cycle- Memory Read/ Write Cycles, I/O Read/ Write Cycles.
+
+Module 2: (10 Hrs)
+
+Programming with 8086 Microprocessor:- Instruction Set, Assembler Directives, Addressing Modes, Programming Examples, 8086 Interrupts- Hardware and Software Interrupts.
+
+Module 3: (14 Hrs)
+
+Microprocessor Interfacing:- Memory and I/O Addressing- Memory and I/O Mapped I/O, USART 8251A, Programmable Peripheral Interface 8255, Programmable Interval Timer 8254, Programmable Keyboard./ Display Interface 8279, Programmable Interrupt Controller 8259, Programmable DMA Controller 8257, Hard-disk Interface- SCSI, IDE.
+
+Module 4:(13 Hrs)
+
+Introduction to Microcontrollers:- Comparison of Microcontroller with Microprocessor, Features of 8051 Microcontroller, Architecture, Pin Diagram, I/O Ports, Addressing Modes, Instruction Set, Programming Examples.
+
+Module 5:( 13 Hrs)
+
+Memory Organization- External Memory Interfacing, Interrupts and Timers/ Counters-Applications- Interfacing 8051 with Switches, LEDs, Matrix Keyboards, Seven Segment Display, LCDs, Stepper Motor
+
+
+Text Books:-
+
+1.	Douglas V.Hall Microprocessors and Interfacing Tata MCGraw Hill 
+2.	Muhammad Ali Mazidi, The 8051 Microcontroller Pearson Education. 
+
+
+
+
+
+Reference:
+
+1.	Brey B.B., The Intel Microprocessors - Architecture, Programming & Interfacing, Prentice Hall 
+
+2.	Badri RAM Advanced Microprocessors and Interfacing Tata MCGraw hill 
+3.	V Udayashankar and M.S. Mallikarajunaswamy 8051 Microcontroller Hardware Software and Applications- Tata McGraw Hill 
+4.	Ajay Deshmukh Microcontrollers( theory and Applications) Tata McGraw Hill. 
+5.	Kenneth J Ayala, The 8051 Microcontroller Penram International 
+

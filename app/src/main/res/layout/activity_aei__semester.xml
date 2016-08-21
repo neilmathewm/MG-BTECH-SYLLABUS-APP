@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neil.user.mg_syllabus.Aei_Semester">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEMESTER IV"
+        android:id="@+id/button8"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+
+        android:ems="10"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="90dp"
+        android:onClick="semester_IV_Aei"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEMESTER V"
+        android:id="@+id/button9"
+        android:layout_below="@+id/button8"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:onClick="semester_V_Aei"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEMESTER VI"
+        android:id="@+id/button10"
+        android:layout_below="@+id/button9"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:onClick="semester_VI_Aei"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEMESTER VII"
+        android:id="@+id/button11"
+        android:layout_below="@+id/button10"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:onClick="semester_VII_Aei"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEMESTER VIII"
+        android:id="@+id/button12"
+        android:layout_below="@+id/button11"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        android:onClick="semester_VIII_Aei"/>
+
+</RelativeLayout>

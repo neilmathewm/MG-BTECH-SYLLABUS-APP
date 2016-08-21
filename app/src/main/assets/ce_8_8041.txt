@@ -1,0 +1,53 @@
+CE010 804L01 ADVANCED FOUNDATION DESIGN (Elective III)
+
+Teaching scheme:	Credit: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective:
+
+After acquiring the basic knowledge in soil mechanics and foundation engineering, this course is offered as an elective with the objective of giving in depth knowledge in the design of foundations for different structures and in difficult soils.
+
+Module 1 (12 hrs)
+
+Well foundations: Introduction- Applications-Different shapes of wells-grip length- scour depth-design depth-forces acting on well foundation-Terzaghi’s method of analysis (only general case)-bearing capacity based on N value(only IS recommendation)-design of individual components of well-sinking of wells-measures for rectification of tilts and shifts. Features of Box(floating) caisson and pneumatic caisson
+
+Module 2 (12 hrs)
+
+Soil dynamics and Machine foundations: Introduction- Soil behavior under dynamic loads and application-Difference between static and dynamic load behavior-soil properties relevant for dynamic loading- free vibrations and forced vibrations- determination of dynamic soil
+
+constants in laboratory and field based on IS code provisions Types of machines-Types of machine foundations - vibration analysis of a machine foundation-general design criteria for machine foundations- Design criteria for foundation for reciprocating machines(only IS specifications) -vibration isolation and control
+
+Module 3 (12 hrs)
+
+Sheet Pile walls and Cofferdams: types and uses of sheet piles-design of cantilever sheet pile walls in granular and cohesive soils-anchored bulkhead-free earth support and fixed earth support method-coffer dams-uses- braced and cellular cofferdams
+.
+Module 4 ( 12 hrs)
+Special Foundations: Foundation for special structures such as water tanks, silos, cooling towers, guyed structures, ground storage tanks, chimneys, telecommunication towers, transmission line towers-foundation for under ground conduits- foundation for coastal and offshore structures-pre-stressed foundations. Shell Foundations-structural form and efficiency-different types.
+
+Module 5 (12 hrs)
+
+Foundations in Special soils: Foundation in expansive soil, soft and compressible soils, problems associated with foundation installation- ground water lowering and drainage- shoring and underpinning-different methods-damage and vibrations due to constructional operations
+ 
+References
+
+1.	Bowles.J.E, Foundation Analysis and DesignMc Graw Hill Publishing Company. 
+
+2.	N.P.Kurian, Modern foundations Tata Mc Graw Hill Publishing company 
+3.	Srinivasulu P, Vaidyanathan C.V Handbook of Machine foundations 
+4.	11Teng W.C., Foundation Design, PHI 
+
+5 . P.C.Varghese, Foundation Engineering,Prentice-Hall of India Private Ltd, New Delhi 6 . Shashi K. Gulhati and Manoj Dutta, Geotechnical Engineering, Tata McGraw-Hill
+P ublishing Compay Limited,New Delhi.
+
+7.  Leonards G.A., Foundation Engineering, McGraw Hill
+8	Arora K.R., Soil Mechanics & Foundation Engg., Standard Publications 
+9	Punmia B. C., Soil Mechanics & Foundations, Laxmi Publications 
+10. Venkatramiah, Geotechnical Engineering, New Age International Publishers
+
+11  Teng W.C., Foundation Design, PHI
+12. Tomlinson M.J., Foundation Design & Construction, Pitman
+13 .Coduto, Geotechnical Engineering Principles and Practices, Pearson Education
+
+University of Calicut
+ 

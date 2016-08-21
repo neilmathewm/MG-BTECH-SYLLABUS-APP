@@ -1,0 +1,57 @@
+
+IT010 606 L01 SIMULATION AND MODELLING
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+
+Objectives:
+
+•	To build knowledge on system modelling and system study on various applications. 
+
+•	To design simulation models for various case studies like inventory, Telephone system, etc. 
+
+•	To practice on simulation tools and impart knowledge on building simulation systems. 
+
+Module 1	(10 Hours)
+
+
+The Concepts of a System, Continuous and Discrete Systems, System Modeling, Types of Models, Physical Models, Mathematical Models, Principal Used in Modeling, Corporate Model, Environment Segment, Production Segment, Management Segment, The Full Corporate Model, System Analysis, System Design, System Postulation.
+
+Module 2	(13 Hours)
+
+
+The Monte Carlo Method, Types of System Simulation, Numerical Computation Technique for Continuous Models, Numerical Computation Technique for Discrete Models, Distributed Lag Models, Cobweb Models. Continuous System Models, Differential Equations, Analog Computers, Hybrid Computers, Digital-Analog Simulators, Continuous System Simulation Lanuages, CSMP III, Hybrid Simulation, Feedback Systems, Interactive Systems, Real- Time Simulation.
+
+Module 3	(13 Hours)
+
+
+Exponential Growth and Decay Models, Modified Exponential Growth Models, Logic Curves, System Dynamics Diagrams, Multi-Segment Models, Representation of Time Models, The DYNAMO Language. Stochastic Variables, Discrete and Continuous Probability Functions, Continuous Uniformly Distributed Random Numbers, Uniform Random Number Generator, Non-Uniform Continuously Distributed Random Numbers, Rejection Method.
+
+
+Module 4	(12 Hours)
+
+
+Congestion in Systems, Arrival Patterns, Exponential Distribution, Erlang Distribution, Hyper-Exponential Distribution, Normal Distributions, Queing Disciplines, Simulation of a Telephone System, Simulation Programming Tasks, Discrete Simulation Languages. GPSS Programs, Succession of Events, Simulation of a Manufacturing Shop, Facilities and Storages, Gathering Statistics, Conditional Transfers, Program Control statements, GPSS Examples.
+
+Module 5	(12 Hours)
+
+
+SIMSCRIPT Programs, SIMSCRIPT System Concepts, Organization of SIMSCRIPT Programs, SIMSCRIPT Statements, Management of Sets in SIMSCRIPT, Telephone System Model, Simulation Programming Techniques.
+
+
+
+Text Books
+
+1. Geofferry Gordan, “ System Simulation”, Prentice Hall of India, New  Delhi,2004.
+
+Reference Books
+
+1.	H. James Harrington and Kerim Tumay, ”Simulation Modeling Methods”, Tata McGraw Hill New Delhi. 
+
+2.	Averill M. Law , “Simulation Modeling and Analysis”, 4th Ed., Tata McGraw Hill New Delhi. 
+3.	Greenlaw, simulation modeling and analysis, Tata McGraw-Hill Education 
+
+

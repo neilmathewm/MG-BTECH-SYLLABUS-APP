@@ -1,0 +1,41 @@
+IT010 703 COMPUTER GRAPHICS & MULTIMEDIA SYSTEMS
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objective
+
+•	To understand the basic concepts of Computer Graphics & multimedia techniques. 
+
+
+Module 1:   (13 hours)
+
+Introduction to Computer Graphics : Uses of Computer Graphics, Display Devices, Input Devices, Output Devices, Computer Graphics Software, Graphical User Interface, Line Drawing Algorithms – DDA, Bresenham’s Line Algorithm, Bresenham’s Circle Algorithm. Polygon Filling Algorithm – Scan Conversion, Seed Filling Algorithm
+
+Module 2:   (13 hours)
+
+Geometrical Transformations: Transformation of Points, Straight Lines, Midpoint, Parallel Lines, Rotation, Reflection and Scaling of Straight Lines, Homogeneous Coordinates, Cohen Sutherland Line Clipping.
+
+Module 3:   (12 hours)
+
+Rendering : Hidden surface Removal Algorithm- Z Buffer Algorithm, A - Buffer Algorithm, Hidden Line Removal Algorithm, Colour Models, Z-Flat Shading, Gouraud Shading.
+
+Module 4:   (11 hours)
+
+Multimedia: Media and Data Streams, Properties of Multimedia, Traditional Data Stream Characteristics, Music, Speech, Images and Graphics, Computer Image Processing
+
+Module 5:   (11 hours)
+
+Data Compression: Storage space, Coding Requirement, JPEG, H.261, MPEG, DVI, Multimedia Operating Systems – Real Time, Resource Management, Process Management
+
+
+Reference Book
+
+1.	Amarendra N’ Sinha and Arun D Udai, “Computer Graphics”,The McGraw-Hill Companies. 
+
+2.	Ralf Steinmetz and Klara Nahrstedt, “Multimedia: Computing, Communications & Applications”, Person Education Asia. 
+3.	Donald Hearn & Pauline Baker, “Computer Graphics”, Prentice Hall India. 
+4.	Foley, VanDam, Feiner, Hughes, “Computer Graphics Principles & Practice”, Second Edition, Addison Wesley. 
+
+5.	Ranjan Parekh, “Principles of Multimedia”, The McGraw-Hill Companies. 

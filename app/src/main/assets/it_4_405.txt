@@ -1,0 +1,63 @@
+IT010 405: DATA STRUCTURES AND ALGORITHMS
+
+(Common with CS010 403)
+
+
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+
+Objectives
+
+•	To impart the basic concepts of data structures and algorithms 
+
+•	To develop understanding about writing algorithms and step by step approach in solving problems with the help of fundamental data structures. 
+
+Module I (10 hours)
+
+Principles of programming – System Life Cycle - Performance Analysis and Measurements- Time and Space complexity-Complexity calculation of simple algorithms. Hashing:- Static Hashing-Hash Tables-Different Hash Functions-Mid Square-Division-Folding-Digit Analysis, Collision-Collision Resolution Techniques.
+
+Module II (12hours)
+
+Study of basic data structures – Arrays- Structures-Sparse matrix – Stacks – Queues-Circular queues- Priority queues - Dqueues. Evaluation of expressions – Polynomial representation using arrays.
+
+Module III (12hours)
+
+Linked Lists - Linked stacks and queues - Doubly linked lists – Polynomial representation using linked lists, Garbage collection and Compaction.
+
+Module IV (14 hours)
+
+Trees - Binary Trees – Tree Traversal – Inorder - Preorder and Postorder,
+Search trees - AVL Trees, height balanced trees, Multiway search Trees- B Trees-B+ Trees.
+Graphs – Depth first and breadth first search.
+
+Module V (12 hours)
+
+Sorting methods: Selection sort, Bubble sort, Insertion sort, Merge sort, Quick sort, Heap sort, Radix sort, External sorting methods.
+ 
+
+
+Reference Books
+
+1.	Sahni Sartaj, Data Structures, Algorithms and Applications in C++ (Second Edition), Universities Press, Hyderabad, 2009 
+2.	Rajesh K Shukla, Data Structures Using C & C++ ,Wiley India, New Delhi, 2009 
+3.	Yedidyah Langsam, Moshe J Augenstein, Aron M Tenenbaum, Data Stuctures using C and C++, 2nd ed., PHI Learning Private Limited, New Delhi, 1996 
+
+4.	G. A. V Pai, Data Structures and Algorithms Concepts, Techniques and Applications, Tata McGraw Hill , New Delhi, 2008 
+5.	Sartaj Sahni , Data Structures, Algorithms and Applications in JAVA , 2nd ed., Universities Press, Hyderabad, 2009 
+
+6.	Michael T Goodrich, Roberto Tamassia, David Mount, Data Structures and Algorithms in C++, Wiley India Edition, New Delhi, 2009 
+7.	B.M. Harwani, Data Structures and Algorithms in C++, Dreamtech Press, New Delhi, 2010 
+8.	Brijendra Kumar Joshi, Data Structures and Algorithms in C, McGraw Hill , New Delhi, 2010 
+9.	K R Venugopal, K G Srinivasa, P M Krishnaraj, File Structures using C++, McGraw Hill , New Delhi, 2009 
+
+10.	ISRD Group, Data Structures using C, McGraw Hill , New Delhi, 2010 
+11.	Sudipta Mukherjee, , Data Structures using C 1000 Problems and Solutions, Tata McGraw Hill , New Delhi, 2010 
+12.	Seymour Lipschutz, Data Structures with C, Schaum’s Outlines, McGraw Hill , New Delhi, 2010 
+
+13.	R Krishnamoorthy & G Indirani Kumaravel, Data Structures using C, McGraw Hill , New Delhi, 2008 
+14.	John R Hubbard, Data Structures with C++, Schaum’s Outlines, Tata McGraw Hill , New Delhi, 2010 
+15.	Jean Paul Tremblay & Paul G Sorenson, An Introduction to Data Structures with Applications, 2nd ed., Tata McGraw Hill , New Delhi, 2010 
+
+16.	Seymour Lipschutz, Data Structures , Schaum’s Outlines, Tata McGraw Hill , New Delhi, 2006 

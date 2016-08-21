@@ -1,0 +1,45 @@
+ME010 608 Machine Tool Laboratory
+
+(Common with AU010 608)
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+List of Experiments
+
+1.	Study of precision tools used in machine tool laboratory: – Vernier caliper, micrometers, surface plates, surface gauges, gauge block, straight edges, dial gauge, plug and ring gauges, slip gauges, sine bar, care of tools and gauges. 
+– 2 practices. 
+2.	Study of lathe tools and accessories: - Selection of tool for different operations - tool materials: high carbon steel, HSS, cemented carbides, coated WC, indexable inserts, alumina, cBN, diamond etc. - tool nomenclature and attributes of each tool angles on cutting processes – effect of nose radius, side cutting edge angle, end cutting edge angle and feed on surface roughness – tool grinding and safe 
+	working practices.	- 1 practice.
+3.	Selection of speeds, feeds and depth of cut – selection of cutting fluids – different
+	methods of holding work.	- 1 practice.
+4.	Experiment on arc and gas welding: - butt welding and lap welding of M.S.
+	sheets.	- 1 practice.
+5.	(a) Measurement of cutting forces	in turning process using dynamometers.
+	(b) Experiment on lathe:- Facing, plain turning, step turning and parting - groove
+	cutting, knurling and chamfering - form turning and taper turning - eccentric
+	turning.	
+	(c) Measurement of flank wear in turning process using tool makers microscope.
+		- 3 practices.
+6.	Experiment on thread cutting: - single and multistart external and internal threads,
+	square and V-threads.	- 1 practice.
+7.	Disassembly and assembly of small assemblies such as tail stock, bench vice,
+	screw jack etc.	- 1 practice.
+8.	Experiment on drilling machine: - drilling, boring, reaming and counter sinking –
+	taping – study of reamers and taping.	- 1 practice.
+9.	Study and demonstration of N.C. machines:- CNC machines components - Point to point, straight cut and contouring positioning - incremental and absolute systems – open loop and closed loop systems – DDA integrator and interpolators - part programming fundamentals - manual programming – tape format – sequence number, preparatory functions, dimension words, speed word, feed world, tool world, miscellaneous functions – Computer aided part programming:- APT language structure: geometry commands, motion commands, postprocessor commands, compilation control commands – programming, simulation and demonstration exercises involving plane taper and form turning etc. 
+-	3 practices. 
+Besides to the skill development in performing the work, prepare the control charts and oral examination should also be carried out. Observation and record books are to be maintained.
+ 
+The student’s assessment, continuous evaluation, awarding of sessional marks, record bonafides, oral examination etc and University examination shall be carried out by the faculty members (lecturer and above).
+
+TEXT BOOKS:
+
+1.  Acharkan. N., Machine Tool Design Vol. 1 to 4, MIR Publication.
+
+REFERENCE BOOKS:
+
+1.	Chapman, Workshop Technology, Vol II, ELBS. 
+
+2.	HMT, Production Technology, Tata McGraw Hill. 
+3.	Yoram Koren, Numerical Control of Machine Tools, McGraw-Hill. 

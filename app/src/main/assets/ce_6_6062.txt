@@ -1,0 +1,46 @@
+CE010 606L02 OPEN CHANNEL AND COASTAL HYDRAULICS (ELECTIVE - 1)
+
+Teaching Scheme	Credit:4
+
+2 hours lecture and 2 hours tutorial per week.
+
+Objective:
+
+To develop theoretical and practical knowledge on open channel flow and to acquire basic knowledge on Ocean Engineering and related applications.
+
+Module 1(12 Hours)
+
+Open channel flow-Definition-Importance-Classification of flows
+Uniform flow- Resistance equation-Chezy’s and Manning’s equation-roughness coefficient.-factions affecting roughness coefficient- normal depth and its computation-conveyance – section factor - specific energy - specific force - diagram – critical flow - section factor -hydraulic exponent for critical flow computation and its use for trapezoidal channel-Application of specific energy and specific force in open channel
+.
+Module 2( 12 Hours)
+Non-uniform flow - friction slope - differential equation of non-uniform flow - types of surface profiles - the point of control - computation by Bresse's method and the simplified step method.
+
+.Module 3( 12 Hours)
+
+Hydraulic jump - sequent depths - dimensionless equation of the jump - loss of head - the jump at the foot of a spillway - criteria for the formation of a jump - use of jump as an energy dissipater. Control of jump by sills - stilling basins
+
+Module 4( 12 Hours)
+
+Water waves - classification into periodic oscillatory, periodic progressive, uniformly progressive, solitary and stationary waves.
+Ocean waves – Introduction-characteristics-classification based on wave period. Small amplitude wave theory .expression for the celerity of deep water gravity wave and shallow water gravity wave - determination of the wave length and celerity for any water depth given the deep water wave amount as wave energy (no proof).
+Wave Transformations –shoaling- refraction- reflection-diffraction –wave breaking (description only.
+
+Module 5( 12 Hours)
+
+Long period waves-astronomical tide-tsunami, basin oscillations, storm surge, climatologic effects, geologic effects(description only)
+Wave forecasting - SMB method.
+Coastal erosion with special reference to the Kerala Coast
+ 
+Shore protection measures – break waters of different types-sea walls – tetrapods, groynes and beach nourishment.
+
+
+References
+
+1.	S.M.Woodword, C.J.Posey, Hydraulic of Steady Flow in Open Channels 
+2.	F. N. Henderson, Open Channel Flow 
+3.	A. I. Ippen, Estuary and Coast line Hydrodynamics 
+4.	K. E. R. I. Peechi, Coastal Engineering Publications 
+5.	V. T. Chow, Open Channel hydraulics, Mc Graw Hill 
+6.	Robert .M. Sorensen, Basic coastal engineering, John Willey & Sons 
+ 

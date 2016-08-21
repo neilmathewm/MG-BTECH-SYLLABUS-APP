@@ -1,0 +1,66 @@
+
+CS010 701: Web Technologies
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the new concepts in Web Technologies 
+
+•	To develop understanding about the different technologies used in the World Wide Web including XML, Perl, 
+
+
+Module I (15hours)
+
+XHTML
+
+Evolution of HTML and XHTML- Standard XHTML Document Structure- Basic Text Markup- Images-Hypertext Links-Lists- Tables- Forms- Frames.
+
+Cascading Style Sheets
+
+Introduction to CSS – Levels of Style Sheets- Style Specification Formats- Selector Forms- Property Value Forms – Font Properties- List Properties – Color- Alignment of Text – Background Images- Span and Div Tags.
+
+Module II (12 hours)
+
+XML
+
+Introduction to SGML – features of XML - XML as a subset of SGML – XML Vs HTML – Views of an XML document - Syntax of XML- XML Document Structure – Namespaces- XML Schemas- simple XML documents – Different forms of markup that can occur in XML documents - Document Type declarations – Creating XML DTDs – Displaying XML Data in HTML browser – Converting XML to HTML with XSL minimalist XSL style sheets – XML applications
+
+Module III (12hours)
+
+Perl
+
+Origin and Use of Perl- Scalars and their Operations – Assignment Statements and Simple Input and Output – Control Statements- Fundamentals of Arrays – Hashes-References- Functions- Pattern Matching – File Input and Output – Simple programs in Perl -Using Perl for CGI Programming.
+
+Module IV (12 hours)
+
+PHP
+
+Origin and Use of PHP- Overview of PHP- General Syntactic Characteristics-Operations and Expressions- Control Statements- Arrays- Functions- Pattern Matching- Form Handling- Files-Cookies-Session Tracking - Simple programs in PHP.
+
+Module V (9 hours)
+
+Rails
+Overview of Rails- Document Requests- Processing Forms- Rails Application with Databases – Layouts.
+Ajax
+Overview of Ajax – Basics of Ajax – Rails with Ajax.
+
+Reference Books
+1)	Robert W Sebesta, Programming with World Wide Web , 4th ed., Pearson Education ,New Delhi, 2009 
+
+2)	Deitel & Deitel Internet & World Wide Web How To Program 4th ed., Pearson International Edition Education ,New Delhi, 2009 
+
+3)	Deitel & Deitel, Nieto, Lin, Sadhu, XML How to Program, Pearson Education ,New Delhi, 2011 
+
+4)	Kogent Learning Solutions Inc, Web Technologies Black Book, Dreamtech Press, New Delhi, 2009 
+5)	Chris Bates, Web Programming Building Internet Applications 3rd ed., Wiley India Edition, New Delhi, 2009 
+
+6)	Phil Ballard, Michael Moncur, Sams Teach Yourself Ajax, JavaScript and PHP, Pearson Education ,New Delhi, 2009. 
+
+7)	Achyut S Godbole , Atul Kahate, Web Technologies TCP/IP Architecture and Java Programming, 2nd ed., Tata McGraw Hill Education Private Limited, New Delhi, 2010 
+
+8)	Pankaj Sharma, Introduction to Web Technology, Katson Books, New Delhi, 2008 
+9)	Bankim Patel, Lal Bihari Barik, Introduction to Web Technology & Internet, Acme Learning Private Limited, New Delhi, 2009 
+ 
+

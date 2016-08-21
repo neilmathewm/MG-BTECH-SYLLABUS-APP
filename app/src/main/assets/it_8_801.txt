@@ -1,0 +1,50 @@
+IT010 801 WIRELESS COMMUNICATION
+
+
+Teaching scheme Credits: 4 3 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To introduce the underlying technologies of wireless communication. 
+
+•	To explain the benefits and limitations of various techniques for providing multiple users access to scarce radio spectrum resources. 
+•	To provide a detailed study of the four generations of wireless cellular and mobile telephony, technologies, applications and other issues. 
+
+
+Module 1	(15 Hours)
+Overview-Principles of  CDMA-Radio channel access- Spread  Spectrum-
+Power control-Handovers-Wideband CDMA Air interface- Physical layer-
+FEC encoding/decoding-Error detection-Frequency and time synchronization-
+Channels- Spreading and scrambling codes- Diversity.
+
+Module 2	(15 Hours)
+
+Modulation techniques and spread spectrum- Spreading techniques- Codes-Channel coding – Wideband CDMA air interface- Protocol stack- Media Access Control (MAC)- Radio Link control (RLC)- Radio Resource Control (RRC) – User plane – PDC protocol- Data protocols
+
+Module 3	(15 Hours)
+
+UMTS network structure- Core network- UMTS Radio access network – GSM Radio access network- Interfaces – Network Protocols.New concepts in UMTS Network – Location services-Opportunity driven multiple access – Multimedia Messaging services– Gateway location register – Support of localized service area.
+
+Module 4	(15 Hours)	
+
+3G  services  –  Service  categories  –  Tele  services  Bearer  services
+Supplementary	services – Service capabilities – QoS classes – 3G
+Applications.Introduction to IMS, Architecture – CSCF – Media gateway –
+Application  Servers  –  IMS  Protocols:  SIP,  RTP/RTCP  and  other  IMS
+protocols – IMS Services.
+Module 5	(15 Hours)	
+Introduction to 4G networks - DVB-H - Wireless Local Loop (WLL) WLL Architecture, WLL Technologies and frequency spectrum, WLL products, LMDS
+ 
+
+References:
+
+1.	Juha Korhonen, “Introduction to 3G Mobile communications”, Artech House, 2001, 
+2.	Miikka Poikselka, Aki Niemi, Hisham Khartabil, Georg Mayer, The IMS: IP Multimedia Concepts and Services, 2nd Edition John Wiley & Sons 2006 
+3.	Jeffrey G. Andrews Fundamentals of WiMAX: Understanding Broadband Wireless Networking, Prentice Hall, 2007 
+4.	Clint Smith, Daniel Collins, Daniel Collins, 3G Wireless Networks, McGraw-Hill Companies, 2006 
+5.	Garg.V.K "IS-95 CDMA and cdma 2000", first Indian reprint 2002, Pearson Education 
+6.	Heikki Kaaranen, Siamäk Naghian, Lauri Laitinen, Ari Ahtiainen , Valtteri Niemi, “UMTS Networks: Architecture, Mobility and Services”, John Wiley & Sons; 1st edition 2001 
+
+7.	Frank Ohrtman, “WiMAX Handbook”, McGraw-Hill Professional; 1 edition 2005 
+ 

@@ -1,0 +1,43 @@
+EC010 804L01 NANO ELETCRONICS
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 2 hours tutorial per week.
+
+Objectives
+
+•	To introduce students to the nano electronics and the  systems. 
+
+•	To understand the basic principles of carbon nano tubes. 
+
+
+Module I (12hrs)
+
+Challenges going to sub-100 nm MOSFETs Oxide layer thickness, tunnelling, power density, non-uniform dopant concentration, threshold voltage scaling, lithography, hot electron effects, sub-threshold current, velocity saturation, interconnect issues, fundamental limits for MOS operation.
+
+Module II (12 hrs)
+
+Novel MOS-based devices Multiple gate MOSFETs, Silicon-on-insulator, Silicon-on-nothing, Fin FETs, vertical MOSFETs, strained Si devices.
+
+Module III (12 hrs)
+
+Quantum structures quantum wells, quantum wires and quantum dots, Single electron devices charge quantization, energy quantization, Coulomb blockade, Coulomb staircase, Bloch oscillations.
+
+Module IV (12 hrs)
+
+Hetero structure based devices Type I, II and III hetero junctions, Si-Ge hetero structure, hetero structures of III-V and II-VI compounds - resonant tunnelling devices.
+
+Module V (12 hrs)
+
+Carbon nanotubes based devices CNFET, characteristics; Spin-based devices spin FET, characteristics.
+
+Reference Books:
+
+1.	Mircea Dragoman and Daniela Dragoman, “ Nano electronics Principles & devices”, Artech House Publishers, 2005. 
+
+2.	Karl Goser, “Nanoelectronics and Nanosystems: From Transistors to Molecular and Quantum Devices”, Springer 2005. 
+
+3.	Mark Lundstrom and Jing Guo, “Nanoscale Transistors: Device Physics Modelling and Simulation”, Springer, 2005. 
+
+4.	Vladimir V Mitin, Viatcheslav A Kochelap and Michael A Stroscio, “Quantum hetero structures”, Cambridge University Press, 1999. 
+5.	S M Sze (Ed), “ High speed semiconductor devices”, Wiley, 1990. 
+ 

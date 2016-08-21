@@ -1,0 +1,53 @@
+AI010 505
+
+CONTROL ENGINEERING I
+(Common to EI010 505)
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+1)	To give the fundamental concept of the analysis and design techniques of control systems by transfer function approach. 
+2)	To get an adequate knowledge in the time response of systems and steady state error analysis. 
+3)	To learn the concept of stability of control system and methods of stability analysis. 
+4)	To study the three ways of designing compensation for a control system. 
+
+5)	To get an exposure to MAT lab programs for control system analysis. 
+
+Module 1 (12 Hours)
+
+System modeling - Transfer function approach :
+
+Introduction to control system – Classification of control systems. Principles of automatic control- Feed back systems –Practical examples – Transfer function – Transfer function of electrical, mechanical and electromechanical system – Block diagram – Signal flow graph – Mason’s gain formula.
+
+Module 2 (12 Hours)
+
+Time domain analysis :
+
+Standard test signals - Response of systems to standard test signals – Step response of second order systems in detail – Time domain specifications – Steady state response – Steady state error- Static & Dynamic error coefficients- MAT lab programs for time domain analysis.
+
+Module 3 (12 Hours)
+
+Stability of linear systems in time domain – Routh’s criterion of stability. Root locus - Construction of root locus – Effect of addition of poles and zeros on root locus-MAT lab programs for stability analysis.
+
+Module 4 (12 Hours)
+
+Frequency domain analysis :
+
+Frequency response – Frequency domain specifications – Stability in the frequency domain - Nyquist stability criterion – Stability from polar and Bode plots - Relative stability – Gain margin and phase margin – M & N circles – Nichol’s chart – MAT lab programs for frequency domain analysis.
+
+Module 5 (12 Hours)
+
+Design of compensators:
+ 
+Introduction to design – compensation techniques – Lead, Lag and Lead -Lag compensation using RC network --Design of Lead, Lag and Lead-Lag compensators using bode plots.
+
+
+
+References
+
+1.	Modern control engineering – Katsuhiko Ogata, Pearson Edn. 
+2.	Control systems principles and design: M. Gopal, TMH. 
+3.	Automatic control system – B.C. Kuo, PHI. 
+4.	Control system design: Graham C Goodwin, PHI. 
+5.	Modern Control Systems: Dorf, Pearson Education. 

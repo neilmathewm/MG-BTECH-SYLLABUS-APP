@@ -1,0 +1,51 @@
+AI010 405
+
+SIGNAL COMMUNICATION
+
+Credits: 4 3+1+0
+Objectives:
+
+Familiarize the students with theoretical aspects of signal communication. Generate awareness in students about practical issues.
+Give the students an application sense.
+
+Module 1
+
+An overview of electronic communication systems: block diagram of communication system, analogue versus digital, modulation multiplexing.
+Basic concepts of signals: signal, signal characteristics.
+Basic concepts of telemetry: signal transmission over wires using voltage, current and frequency – issues related to long distance transmission: signal attenuation, phase delays
+– need for wireless telemetry – types of modulations used (only introduction, details in another module).
+
+Module 2
+
+Basic concepts of noise:, noise, noise spectrum, noise figure and noise temperature; Bandwidth requirements, effect of limiting bandwidth; signal attenuation and transmission distance; considerations of filter selection for suppression of noise: bandwidth, amplitude response, phase response.
+Emi and related issues: grounding – shielding – twisted pair – twisted shielded pair - ground loop – guarding techniques.
+
+Module 3
+
+Introduction to digital communication: components of digital transmission system – advantages of digital transmission – analogue and discrete sinusoids – A/D conversion – sampling – sampling theorem- sampling in practical situations involving a range of frequencies and noise – aliasing error - filter order to minimize aliasing error - D/A conversion – channel capacity; Pulse Modulation concept and basic scheme: PAM, PWM, PPM, PCM, Delta modulation.
+FDM and telemetry- IRIG standards for telemetry.
+
+Module 4
+
+Introduction to fibre optic communication: Light propagation in glass fibres; optical communication system: system components, transmitters – fibre channel – light detectors; transmitter concepts: sources, optical switches, modulation;
+optical fibres: step index fibre, graded index fibre, single mode and multi mode fibres - fibre power loss terms; channel multiplexing: TDM, FDM: modulation formats; optical receivers: detectors, optical isolators.
+ 
+Module 5
+
+Introduction to satellite communication: basic concepts: satellite orbits, block diagram of satellite communication system, transponders, up linking, down linking, satellite system parameters, satellite system link equation and link budget, frequency bands for satellite communication.
+
+
+
+
+
+References:
+
+1.	Wayne Tomasi, Advanced Electronic Communication Systems, PHI. 
+2.	NIIT, Communication System, PHI. 
+3.	K.N. Hari Bhatt, Analogue Communication, Sanguine Technical Publishers. 
+4.	Gautam Saha, Principles of Communication System, Tata McGraw Hill. 
+5.	David Bailey, Edwin Wright, Practical Fibre Optics, Elsevier Publications. 
+6.	Govind P. Agrawal, Fibre Optic Communication system, John Wiley 
+7.	Joseph C. Palais, Fibre Optic Communication, P Education. 
+8.	D. Patranabis, Telemetry Principle, Tata McGraw Hill. 
+9.	Cardon, Frank, Telemetry System Design, ARTEC. 

@@ -1,0 +1,38 @@
+EC010 802 COMMUNICATION NETWORK
+
+Teaching Schemes	Credits:4
+2 hours lecture and 2 hours tutorial per week
+
+Objectives:
+•	To impart a basic knowledge on networking techniques. 
+
+•	To provide a strong foundation to students about the internet protocols and network security. 
+
+Module 1 (12 hrs)
+
+Network services and layered architecture.Network topology, Switching: basics of message switching, packet switching, circuit switching and cell switching. :Layering architecture, the OSI reference model, Layers, protocols and services, overview of TCP/IP architecture, TCP/IP protocol.
+
+Module2  (12 hrs)
+
+Multiple access communications, local area networks (LAN) structure, the medium access control sub layer, the logical link control layer, random access, ALOHA, slotted ALOHA, CSMA, CSMA/CD, scheduling approaches to medium access control, reservation systems, polling, token passing rings, comparison of random access and scheduling. Medium access controls, IEEE 802.3 standards for 10Mbps and 1000 Mbps LANs, repeaters and hubs, LAN bridges, transparent bridges, source routing bridges, mixes media bridges, LAN switches.
+
+Module 3 (12 hrs)
+
+Internetworking: Inter network, datagram forwarding in IP, ARP, DHCP, ICMP, Virtual networks and Tunnels. Routing: Distance vector routing, Link state Routing. Routing for Mobile hosts. Global internet: Subnetting, CIDR, BGP. IPV4 and IPV6.
+
+Module4  (12 hrs)
+
+Asynchronous Transfer Mode (ATM):Addressing, signaling and routing. ATM header structure, ATM adaptation layer, management and control, Internetworking with ATM. Control of ATM networks.
+
+Module 5 (12 hrs)
+
+Network security: Symmetric and asymmetric key cryptography. Security services, Digital signature, IPsecurity(IPsec),SSL/TLS,PGP, Firewalls.
+
+References:
+
+1.	Jean Walrand & Pravin Varaiya, “High Performance Communication Networks” , Elsevier 
+
+2.	Behrouz.a. Forouzan, “Data Communication and Networking”, Tata McGraw Hill 
+3.	Larry L. Peterson, Bruce S. Davie, “Computer networks”, 4th edition, Elsevier 
+4.	Andrew S Tanenbaum, “Computer Networks”, Pearson Education 
+5.	William Stallings,”Data and computer communication”, Pearson Education 

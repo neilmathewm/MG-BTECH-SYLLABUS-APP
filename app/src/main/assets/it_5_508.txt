@@ -1,0 +1,49 @@
+IT010 508: SYSTEMS LAB
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To understand operating system structures and the implementation aspects of various OS functions and schedulers. 
+•	To be able to design databases, write queries and develop applications. 
+
+
+
+Part 1: Operating systems
+
+1.	Basic UNIX commands and shell programming 
+2.	Introduction to the tools providing GUI based human computer interaction (for example Qt.) Automatic generation of code for interaction using visual programming (for example Qt Designer). 
+
+3.	Exercises involving the system calls fork(),exec(),create() etc. 
+4.	Implementation of typical problems such as bounded buffer, dining philosophers etc. by multiprogramming using threads, semaphores and shared memory 
+5.	Inter-process communication using mailboxes and pipes 
+
+Part 2: Database management systems
+
+1.	Familiarization of MySQL database- creation and manipulation of tables. 
+
+2.	Analyze a given situation such as Banking, Electricity Billing, Library Management, 
+Payroll, Insurance ,Inventory, Health Care, Cricket Board Database, College Admission, Question Paper Bank, Hostel Management etc. Design and implement the database. Manipulate the tables using SQL commands.
+
+3.  Develop a 2 tier application for the above situation using a suitable front end.
+
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+50%-Laboratory practical and record
+30%- Test/s
+20%- Regularity in the class
+
+
+
+
+
+
+End Semester Examination (Maximum Marks-100)
+
+70% -  Procedure, conducting experiment, results, tabulation, and inference
+
+30% -  Viva voce
+ 

@@ -1,0 +1,47 @@
+ME010 802 Operations Management
+
+(Common with AU010 802)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+•	To familiarize the main decision making scenarios (strategic, tactical and operative) an Operations Manager may come across. 
+•	To develop an understanding of the main OM principles, techniques and tools to analyze, diagnose and then to improve processes. 
+
+Module I (12 hours)
+
+Introduction to Operations Management- Functions of Operations Management, Strategic, Tactical and Operational decisions. Forecasting in decision making: Factors affecting forecasting, Sources of data, Time series analysis, Demand patterns, Forecasting methods-Moving average, Regression, Exponential smoothing-problems, Qualitative methods- Measures of forecast accuracy.
+
+Module II (12 hours)
+
+Aggregate Planning: Aggregate planning strategies and methods, Transportation model for aggregate planning. Master Production Schedule- Materials Requirement Planning, Bill of materials, Lot sizing in MRP, MRP-II, CRP, DRP.
+
+Module III (12 hours)
+
+Introduction to Scheduling: Single machine scheduling, Flow shop scheduling, Job shop scheduling. Sequencing: Johnson’s algorithm, Processing n jobs through two machines, processing n jobs through three machines, processing n jobs through m machines, processing two Jobs through m machines-problems.
+
+Module IV (12 hours)
+
+Maintenance Planning and Control: Types of maintenance, Need for replacement, Replacement problems, Individual replacement policy, Group replacement policy, TPM. Reliability – Bath tub curve- reliability improvement, Measures for maintenance performance, reliability calculations, FMECA, information system for maintenance management.
+
+Module V (12 hours)
+
+Modern concepts/ techniques in operations management: Just in time manufacturing, Lean manufacturing, Push Pull Production, Kanban systems, Flexible manufacturing systems, ERP.
+Supply Chain management: Supply chain, objective of Supply Chain, Supply chain macro processes, Process view of a supply chain, Drivers of Supply Chain.
+
+
+
+Text Books
+
+1.	Mahadevan B., Operations Management, Pearson Education. 
+2.	Panneerselvam R., Production and operations Management, Prentice Hall of India. 
+
+Reference Books
+
+3.	Krajewski and Ritzman, Operations Management, Pearson Education. 
+4.	Verma A.P., Industrial Engineering, S. K. Kataria & Sons. 
+5.	Adam and Ebert, Production and Operations Management, Prentice Hall of India. 
+6.	Chopra and Meindl, Supply Chain Management, Prentice Hall of India. 

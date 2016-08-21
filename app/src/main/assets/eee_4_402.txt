@@ -1,0 +1,59 @@
+EE 010 402 DC Machines and Transformers
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	Understanding the basic working principles of DC machines and Transformers 
+
+•	Analysing the performance of DC machines and Transformers 
+
+
+Module I (10 hours)						
+DC Machines: Constructional features	–	principle of operation of DC generator	-  armature
+winding -  types -	e.m.f. equation -	armature reaction	–	effects of armature reaction -
+demagnetizing  and	cross  magnetizing	ampere-  turns	-	compensating	winding  -
+commutation – methods to improve commutation – e.m.f. in coil undergoing commutation – reactance e.m.f.- effect of brush shift- inter poles.
+
+Module II (12 hours)
+
+DC Generator: Types of excitation – separately excited- self excited shunt, series and compound machines – the magnetization curve – condition for self excitation- field critical resistance- critical speed- load characteristics of generators – load critical resistance – voltage regulation - parallel operation of shunt, series and compound generators – power flow diagram- losses and efficiency- condition for maximum efficiency- applications.
+
+Module III (15 hours)
+
+DC Motors: principle of operation of DC motor – developed torque - performance characteristics and operating characteristics of shunt, series and compound motors.
+Starting – three point and four point starters – design of starter resistance for shunt motor - methods of speed control of shunt , series and compound motors – solid state speed control (block diagram) – power flow diagram- losses and efficiency- testing of D C machines – Swinburne’s test - Hopkinson’s test - Field’s test – retardation test- applications
+
+Module IV (14 hours)
+
+Single Phase transformers: Principle of operation - constructional details - e.m.f equation - operation on no load - magnetizing current wave form - load operation - phasor diagram - equivalent circuit – per unit impedance - losses and efficiency - condition for maximum efficiency – voltage regulation- approximate expression for voltage regulation- harmonics in single phase transformers - OC and SC tests - Sumpner’s tests - parallel operation – applications.
+
+Module V (9 hours)
+
+Three phase transformers: Constructional details- choice of transformer connections- Scott connection (three phase to two phase only) - oscillating neutral- tertiary winding - vector groups- equivalent circuits- tap changing transformers- no load tap changing – on load tap changing- cooling of transformers.
+
+Distribution transformers- all day efficiency- auto transformers- saving of copper-applications.
+ 
+
+Text Books
+
+1.	Dr. P S Bimbhra, Electrical Machinery, Khanna Publishers 
+
+2.	Clayton and Hancock, The Performance and design of DC Machines, ELBS/CBS Publishers,Delhi 
+
+
+Reference Books
+
+1.	Alexander Langsdorf A S, Theory of AC Machinery, Tata McGraw-Hill 
+
+2.	J B Gupta, Electrical Machines , S K Kataria and Son 
+
+3.	Fitzgerald, Kingsley, Electric machinery, 6e, Tata McGraw – Hill Education, New Delhi, 2003 
+
+4.	Say M G, Performance and design of AC Machines, ELBS 
+
+5.	Nagarath I J and Kothari D P, Electrical Machines ,4e, Tata McGraw- Hill Education, New Delhi, 2010 
+6.	Vincent Deltoro, Electrical Machines and Power System, Prentice Hall 
+ 

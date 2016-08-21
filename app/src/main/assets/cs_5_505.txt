@@ -1,0 +1,59 @@
+CS010 505: Operating Systems
+
+(Common with IT010 504)
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To understand the fundamental concepts and techniques of Operating Systems. 
+
+•	To study the basic structure of Linux system. 
+
+
+Module I (8 hours)
+
+Introduction: Operating System – Batch, Multiprogrammed, Time-sharing and Real time systems – Operating system structure – Operating system operations
+System Structures: Operating system service – System calls – System Programs – System structure – Simple structure, Layered approach – Kernel, Shell.
+
+Module II (12 hours)
+
+Process Management: Process concept – Process state, PCB – Process scheduling – Operations on processes – Interprocess communication – Multithreading –Benefits, Models Process Scheduling: Basic concepts – Preemptive scheduling, Dispatcher – Scheduling criteria – Scheduling algorithms – Multiple-processor scheduling.
+
+Module III (16 hours)
+
+Process Synchronization: The Critical-Section problem – Peterson’s solution – Synchronization Hardware – Semaphores – Classic problems of synchronization – Monitors Deadlocks: System model – Deadlock characterization – Methods for handling deadlocks – Prevention, Avoidance and Detection – Recovery from deadlock.
+
+Module IV (14 hours)
+
+Memory Management: Resident Monitor – Dynamic loading – Swapping – Contiguous memory allocation – Paging – Basic, Multi-level Paging – Segmentation
+Virtual Memory – Demand Paging – Page Replacement algorithms – Allocation of Frames – Thrashing – Cause of thrashing.
+
+Module V (10 hours)
+
+File System: File concept – Access methods – Directory structure – Directory implementation – Linear list, Hash table – Disk scheduling
+Case study: Linux system.
+
+
+Reference Books
+
+1. Abraham Silberschatz, Peter B.Galvin and Greg Gagne, “Operating System Concepts”, John Wiley & Sons Inc, 8th Edition 2010.
+2. D M Dhamdhere, “Operating Systems A Concept-based Approach”, Tata McGraw Hill, New Delhi, 2nd Edition, 2010.
+3. Achyut S Godbole, “Operating Systems”, Tata McGraw Hill , New Delhi, 2nd Edition, 2009. 4. Elmasri, Carrick, Levine, “Operating Systems A Spiral Approach”, Tata McGraw Hill, New
+Delhi, First Edition 2010.
+5.  Gary Nutt, “Operating Systems”, Second Edition, Addison Wesley, 2003.
+
+6.  Andew S. Tanenbaum, “Modern Operating”, Pearson Education, Second Edition, 2001.
+7. Promod Chandra P.Bhatt, “An introduction to Operating Systems Concepts and Practice”, PHI, New Delhi, Third Edition, 2010
+
+8. B Prasanalakshmi, “Computer Operating System”, CBS Publishers, New Delhi, First Edition, 2010
+
+9. D P Sharma, “Foundation of Operating Systems”, EXCEL BOOKS, New Delhi, First Edition 2008
+
+10. Brian L Stuart, “Operating Systems Principles, Design and Applications”, Cengage Learning, New Delhi, First Edition 2009.
+
+11. Charles Crowley, “Operating Systems A Design Oriented Approach”, Tata McGraw Hill, New Delhi, First Edition 2009.
+12. Pabitra Pal Choudhaury, ” Operating Systems Principles and, Design”, PHI, New Delhi, First Edition, 2009

@@ -1,0 +1,31 @@
+IT 010 603INFORMATION THEORY AND CODING
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week	3+1+0
+
+Objectives:
+
+•	To provide basic concepts of Information Theory 
+
+•	To understand the design and analysis of coding/decoding scheme for digital communication application 
+
+Module 1 (12 Hours) Information theory: - Concept of amount of information -units, Entropy -marginal, conditional and joint entropies -relation among entropies Mutual information, information rate, channel capacity, redundancy and efficiency of channels.
+
+
+Module 2 (12 Hours) Discrete channels: - Symmetric channels, Binary Symmetric Channel, Binary Erasure Channel, Cascaded channels, repetition of symbols, Binary unsymmetric channel, Shannon theorem. Continuous channels: - Capacity of band limited Gaussian channels, Shannon-Hartley theorem, Trade off between band width and signal to noise ratio, Capacity of a channel with infinite band width, Optimum modulation system.
+
+Module 3 (12 Hours) Source coding: - Encoding techniques, Purpose of encoding, Instantaneous codes, Construction of instantaneous codes, Kraft's inequality, Coding efficiency and redundancy, Noiseless coding theorem. Construction of basic source codes: - Shannon-Fano algorithm, Huffman coding, Arithmetic coding, ZIP coding.
+
+
+Module 4 (12 Hours) Codes for error detection and correction: - Parity check coding, Linear block codes, Error detecting and correcting capabilities, Generator and Parity check matrices, Standard array and Syndrome decoding, Hamming codes, Encoding and decoding of systematic and unsystematic codes. Cyclic codes: - Generator polynomial, Generator and Parity check matrices, Encoding of cyclic codes, Syndrome computation and error detection, Decoding of cyclic codes, BCH codes, RS codes, Burst error correction.
+
+Module 5 (12 Hours) Convolutional codes: - Encoding- State, Tree and Trellis diagrams, Maximum likelihood decoding of convolutional codes -Viterby algorithm, Sequential decoding -Stack algorithm. Interleaving techniques: - Block and convolutional interleaving, Coding and interleaving applied to CD digital audio system -CIRC encoding and decoding, interpolation and muting. ARQ: - Types of ARQ, Performance of ARQ, Probability of error and throughput.
+
+References
+1.	Ranjan Bose ,Information Theory, Coding and Cryptography 2nd Edition:, Tata McGraw-Hill, New Delhi, 2008 
+2.	Simon Haykin,Communication Systems: John Wiley & Sons. Pvt. Ltd. 
+3.	Taub & Schilling, Principles of Communication Systems: Tata McGraw-Hill 
+4.	Das, Mullick & Chatterjee, Principles of Digital Communication: Wiley Eastern Ltd. 
+5.	Error Control Coding Fundamentals and Applications: Prentice Hall Inc. 
+6.	Shu Lin & Daniel J. Costello Jr.,Digital Communications Fundamentals and Applications: Bernard Sklar, Person Education Asia 

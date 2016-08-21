@@ -1,0 +1,43 @@
+IT010 707 INTERNETWORKING LAB
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+
+•	Familiarization of Network hardware such as NIC, Hub, Bridge, Switch, Router etc 
+
+•	Familiarization of different Network Cables- Color coding - Crimping. 
+
+•	Familiarization of Wireless Access Point. 
+
+•	LAN Configuration – IP Addressing – Host name - Domain Name – Setting up – Configuring – testing and troubleshooting 
+•	Wireless LAN Configuration 
+
+•	Experiments using Router and Switch 
+
+¾	Basic router configuration. 
+
+¾	Implementing static routing. 
+
+¾	Implementing dynamic routing using RIP 
+
+¾	Implementing dynamic routing using OSPF 
+
+¾	Implementing dynamic routing using EIGRP 
+
+¾	Basic switch configuration 
+
+¾	VLAN configuration 
+
+¾	VTP, VTP pruning. 
+
+¾	Implement inter-VLAN routing 
+
+¾	Backup and recovery of configuration files of a router using TFTP server. 
+
+¾	Access Control List (Standard and Extended) 
+
+¾	Configuring PPP. 
+
+•	Design, Configure and implement a WAN scenario which explains all concepts discussed above. 
+ 

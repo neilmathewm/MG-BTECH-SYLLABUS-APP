@@ -1,0 +1,73 @@
+ME010 507: CAD/CAM Lab
+
+(Common with PE010 708)
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To train the students in solid modelling, surface modelling and drafting 
+
+•	To gain experience in assembly modelling, mechanism design and systems routing 
+•	To practise computer controlled manufacturing methods 
+•	To expose students to rapid prototyping 
+
+Solid Modeling (15 hours)
+
+Creation of 3D models-Wireframe, Surface and Solid modeling techniques using CAD packages- Parametric modeling-Drafting-Generation of orthographic 2D views from models,Sectioning,Detailing –Exposure to Industrial components-Application of Geometrical Dimensioning &Tolerancing.
+
+Assembly Design (15 hours)
+
+Assembling of various machine parts and tolerance analysis, generation of 2D drawings and bill of materials from assembly
+
+Mechanism Design - synthesis and design of mechanisms - animations - exercises on various mechanisms like four bar chain, slider crank mechanism and its inversions
+System Design-Schematic and non schematic driven routing of pipes and tubes,
+
+Computer aided manufacturing (15 hours)
+
+Part programming fundamentals - manual part programming and computer aided part programming - hands on training in computer controlled turning and milling operations - tool path generation and simulation - exercises on CNC lathe and machining center/milling machines
+
+Generation of STL files and rapid prototyping of CAD models
+
+Exercises
+
+1)	Modeling of machine parts, brackets using 2D drawings 
+
+2)	Modeling of surfaces using given master geometry 
+3)	Parametric modeling of standard parts such as nuts, bolts, rivets, washers etc 
+4)	Assembling of machine parts 
+5)	Generation of manufacturing drawings from 3D models/assembly 
+6)	Synthesis of four bar mechanism and its simulation using software packages 
+7)	Synthesis of slider crank mechanism and its simulation using software packages 
+8)	Schematic and non schematic routing of pipes/tubes 
+9)	Manual/Computer aided part programming for turning and milling operations 
+10)	Rapid prototyping of simple CAD models 
+ 
+
+Reference Books
+
+1.	CAD and Solid Modeling Software Packages CATIAV5, UNIGRAPHICS and PRO-E Manuals of Latest Version 
+2.	Ibrahim Zeid, R Sivasubrahmanian CAD/CAM: Theory & Practice Tata McGraw Hill Education Private Limited, Delhi, 
+3.	Yoram Koren, Computer Control of Manufacturing Systems Tata McGraw Hill Education Private Limited, Delhi, 
+4.	Peter Smid, (2003), CNC programming Handbook a comprehensive guide to practical CNC programming, Industrial Press 
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+50%-Laboratory practical and record
+30%- Test/s
+20%- Regularity in the class
+
+Note:  Exercise in Rapid prototyping may be demonstrated for the entire batch
+
+
+
+
+End Semester Examination (Maximum Marks-100)
+
+70% -  Procedure, modeling steps, results
+
+30% -  Viva voce
+ 
+
+

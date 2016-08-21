@@ -1,0 +1,44 @@
+EC010 706L01 OPTIMIZATION TECHNIQUES
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 1 hour tutorial per week.
+
+Objectives:
+
+Understand the need and origin of the optimization methods. Get a broad picture of the various applications of optimization methods used in engineering. Define an optimization problem and its various components.
+
+Module I (12 hrs)
+
+One Dimensional Unconstrained Minimization techniques, single variable minimization, unimodality, bracketing the minimum, necessary and sufficient conditions for optimality, convexity, steepest descent method.
+
+Module II (12hrs)
+
+Linear programming, introduction, linear programming problem, linear programming problems involving LE (=) constraints, simplex method, optimality conditions, artificial starting solutions, the M method.
+
+Module III (12hrs)
+
+Transportation models, definition, non traditional models, transportation algorithm, East West corner method, Vogel approximation method. Assignment model, Introduction, Hungarian method.
+
+Module IV (12hrs)
+
+Forecasting Models, moving average technique, regression method, exponential smoothing. Game Theory, two persons zero sum games, mixed strategy games-graphical method.
+
+Module V (12hrs)
+
+Queuing models, elements of queuing model, pure birth and death model, specialized Poisson queues, single server models. Multiple server models, self service model.
+
+References:
+
+1.	Ashok D Belegundu, Tirupathi R Chandrupatla, “Optimization concepts and Application in Engineering”, Pearson Education. 
+
+2.	Kalynamoy Deb, “Optimization for Engineering Design, Alogorithms and Examples”, Prentice Hall, 
+
+3.	Hamdy A Taha, “Operations Research – An introduction”, Pearson Education, 
+
+4.	Hillier / Lieberman, “Introduction to Operations Research”, Tata McGraw Hill Publishing company Ltd, 
+
+5.	Singiresu S Rao, “Engineering optimization Theory and Practice”, New Age International, 
+
+6.	Mik Misniewski, “Quantitative Methods for Decision makers”, MacMillian Press Ltd., 
+ 
+

@@ -1,0 +1,54 @@
+ME010 801 Design of Transmission Elements
+
+(Common with AU010 801)
+
+
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture, 2 hour tutorial and 1 hour drawing per week
+
+Objectives
+
+To provide basic design skill with regard to various transmission elements like clutches, brakes, bearings and gears.
+
+Module I (20 Hrs)
+
+Clutches - friction clutches- design considerations-multiple disc clutches-cone clutch- centrifugal clutch - Brakes- Block brake- band brake- band and block brake-internal expanding shoe brake.
+
+Module II (17 Hrs)
+
+Design of bearings - Types - Selection of a bearing type - bearing life - Rolling contact bearings - static and dynamic load capacity - axial and radial loads - selection of bearings - dynamic equivalent load - lubrication and lubricants - viscosity - Journal bearings - hydrodynamic theory - design considerations - heat balance - bearing characteristic number - hydrostatic bearings.
+
+Module III (19 Hrs)
+
+Gears- classification- Gear nomenclature - Tooth profiles - Materials of gears - design of spur, helical, bevel gears and worm & worm wheel - Law of gearing - virtual or formative number of teeth- gear tooth failures- Beam strength - Lewis equation- Buckingham’s equation for dynamic load- wear load-endurance strength of tooth- surface durability- heat dissipation - lubrication of gears - Merits and demerits of each type of gears.
+
+Module IV (16 Hrs)
+
+Design of Internal Combustion Engine parts- Piston, Cylinder, Connecting rod, Flywheel
+
+Design recommendations for Forgings- castings and welded products- rolled sections- turned parts, screw machined products- Parts produced on milling machines. Design for manufacturing - preparation of working drawings - working drawings for manufacture of parts with complete specifications including manufacturing details.
+
+Note: Any one of the following data book is permitted for reference in the final University examination:
+
+1.	Machine Design Data hand book by K. Lingaiah, Suma Publishers, Bangalore/ Tata Mc Graw Hill
+2.	PSG Design Data,  DPV Printers, Coimbatore.
+ 
+Text Books
+
+1.	C.S,Sarma, Kamlesh Purohit, Design of Machine Elements Prentice Hall of India Ltd NewDelhi 
+
+2.	V.B.Bhandari, Design of Machine Elements McGraw Hill Book Company 
+3.	M. F. Spotts, T. E. Shoup, Design of Machine Elements, Pearson Education. 
+
+Reference Books
+
+1.	J. E. Shigley, Mechanical Engineering Design, McGraw Hill Book Company. 
+2.	Juvinall R.C & Marshek K.M., Fundamentals of Machine Component Design, John Wiley 
+
+3.	Doughtie V.L., & Vallance A.V., Design of Machine Elements, McGraw Hill Book Company. 
+
+4.	Siegel, Maleev & Hartman, Mechanical Design of Machines, International Book Company. 
+ 

@@ -1,0 +1,53 @@
+CE010 402 CONSTRUCTION ENGINEERING AND MANAGEMENT
+
+Teaching scheme:	Credits: 4
+
+3 hour lecture and 1 hour tutorial per week
+
+Objective:
+
+Imparting fundamental knowledge in network scheduling techniques, details of execution of works, principles of functional planning of buildings, mechanization in construction, project cost analysis and industrial relations
+
+Module 1 (12 Hours)
+
+Fresh concrete – Workability-factors affecting- measurement of workability-different tests for workability-segregation-bleeding-process of manufacture of concrete-batching-mixing-transportation-compaction-curing methods-admixtures in concrete-special concretes
+Joints – Construction joints – expansion joints – contraction joints – sliding joints
+– joints in water retaining structures etc.
+Scaffolding and Formwork (elementary concepts only).
+Flooring – different types – Mosaic – marble – granite – roofing – pitched and flat roofs – domes and folded plate roofs
+Damp prevention – Causes – Material used – Damp proofing of floors – walls – roofs.
+Finished works – plastering, painting – white washing – distempering – application of Snowcem – Concrete repairs-construction and constructed facilities.
+
+Module 2 (12 Hours)
+
+Functional planning of buildings – general principles of site plan – principles of functional planning – orientation of buildings – shading principles.
+Modern construction materials – Intelligent buildings – building automation. Construction management –
+Mechanisation in construction – earth moving,handling, pneumatic and hoisting equipment – pile driving equipment – Earthwork computation – mass diagram – soil compaction & stabilization – owning and operating works of construction equipment.
+
+Module 3 (12 Hours)
+
+Introduction to job planning and Management: Bar charts and mile stone charts - work breakdown structure - C P M and PERT networks - Network and time estimates - Earliest expected time - Forward pass and backward pass - Time estimates - related problems.
+
+Module 4 (12 Hours)
+
+Project costs analysis: Cost Vs Time curve - optimum duration- related problems - updating, resource allocation - resource smoothing – resource leveling - Network compression - Compression limited by crashing - float- parallel critical paths - crashed critical paths – most economical solution.
+ 
+
+Module 5 (12 Hours)
+
+Industrial Relations: Payment of wages Act - Minimum wages Act - Employees State Insurance Act –Workers participation in management – labour welfare and social security – Industrial safety and welfare provision – role of state in labour welfare – role of labour welfare officers social security principles and practice.
+
+References
+
+1.	M. S. Shetty, Concrete technology, S.Chand & Co. 
+2.	S. P.Arora, Building construction, Dhanpat Rai & Sons, New Delhi. 
+3.	Dr.Mahesh Varma, Construction Equipment and its Planning and Application, Metropolitan Book Company. 
+4.	R.L.Peurifoy, W.B.Ledbetter, Construction Planning, Equipment, and methods, Tata Mc Graw Hill. 
+5.	Chitkara, Construction Project Management Planning scheduling and control Mc GrawHill 
+6.	B.L.Gupta, Amit Gupta, Construction Management and Accounts, Standard publishers and Distributors. 
+7	James.D.Steevens, Techniques for Construction Network Sheduling, McGraw Hill. 
+8.	S.C.Sharma, Management of Systems, Khanna Publishers. 
+9.	L. S. Srinath, PERT and CPM Principles and Applications, East – West Press. 
+10.	Subir K. Sarkar,Subhajit Sarasswati ,Construction Technolgy, Oxford University press. 
+11.	A.R. Santhakumar, Concrete Technology, Oxford university Press. 
+ 

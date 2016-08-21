@@ -1,0 +1,66 @@
+AI010 707
+
+Industrial Instrumentation Lab
+
+
+Teaching scheme:	Credits: 2
+
+3 hours practical per week
+
+Objective:
+
+To study the characteristics of various physical phenomenons.
+
+
+Experiments:
+
+
+1.	Measurement of viscosity 
+
+•	Plot the characteristics- temperature versus viscosity. 
+
+2.	Measurement of temperature 
+
+•	RTD – Temperature versus resistance. 
+
+3.	Measurement of pH. 
+
+4.	Measurement of pressure 
+
+•	Strain gauge – input versus output and sensitivity. 
+
+5.	Measurement of level. 
+
+6.	Measurement of flow 
+
+•	Flow in pipe line. 
+
+•	Error analysis. 
+
+7.	Dynamic response of first order system . 
+
+8.	Dynamic response of second order system. 
+9.	Pressure to current converter. 
+
+•	Plot the characteristics. 
+
+10.	Current to pressure converters 
+
+•	Plot the characteristics. 
+
+11.	Use of LDR for measurement of physical variations. 
+
+•	Light intensity versus resistance. 
+
+12.	Measurement of strain/force. 
+
+•	Resistance versus strain. 
+
+•	Error analysis. 
+
+13.	Measurement of speed- Open loop and closed loop. 
+
+14.	Calibration of instruments. 
+
+•	Pressure gauge. 
+ 

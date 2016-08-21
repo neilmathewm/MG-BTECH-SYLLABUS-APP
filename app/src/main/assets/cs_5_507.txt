@@ -1,0 +1,36 @@
+
+CS010 507 Database Lab
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To acquaint the students with the implementation and fundamental algorithms of database systems. 
+
+•	To provide experience on design, querying, and processing of data in a relational database. 
+
+I.	Experiments to implement the following 
+
+1.	Relational algebra operations select, project and join. 
+
+2.	Determination of Attribute Closure, Candidate Key, Functional Dependency. 
+3.	Checking Serializability of a Schedule. 
+4.	Dynamic Hashing. 
+
+
+II. Experiments in any relational database for the following
+
+
+1.	Creation, Insertion, Updation, Deletion of Tables, Indexes, Views. 
+
+2.	Simple Queries, Nested Queries, Use of Arithmetic and String Functions. 
+3.	Simple PL/SQL Programs, Use of Exceptions, Cursor, Procedure, Function, Trigger, Sequence. 
+4.	Report Generation 
+5.	ODBC/JDBC Interface. 
+
+Any experiment according to the syllabus of CS010 503 can be substituted.
+
+Resources:
+
+1 SQL,PL/SQL”Ivan Bayross”, BPB Publication 3rd Ed.

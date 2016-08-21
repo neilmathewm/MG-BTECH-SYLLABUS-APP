@@ -1,0 +1,47 @@
+CE010 404  OPEN CHANNEL FLOW AND HYDRAULIC MACHINES
+
+Teaching scheme:	Credits: 4
+
+3 hour lecture and 1 hour tutorial per week
+
+Objectives:
+
+•	The problems that man encountered in the field of water supply, irrigation, navigation and water power resulted in the development of fluid mechanics 
+•	It enables us to understand the interesting phenomenon in nature and it empowers us to design and to create variety of fluid flow equipment for the benefit of mankind 
+
+Module 1 (12 Hours)
+
+Flow in open Channel – Types of flow, – Velocity distribution in open channels, Uniform flow in open channels– Chezy’s , Manning’s and Kutter’s formula, Most economical cross sections – computation of uniform flow- conveyance - Normal depth. Energy in open channel flow- specific energy. Momentum in open channel flow-specific force , Critical flow and its computation-critical flow in rectangular channels Application of specific energy and discharge diagrams to channel transitions,
+
+Module 2 (12 Hours)
+
+Measurent of flow in open channels-mean velocity-pitot tube,current meter,floats. Discharge in flumes and rivers
+Gradually varied flow- Dynamic Equation for gradually varied flow- in wide rectangular channels-different forms of the dynamic equation, channel bottom slopes-Study of surface profiles and its Characteristics in prismatic channels, backwater computation by direct step method.
+
+Module 3 (10 Hours)
+
+Rapidly varied flow, hydraulic jump – initial and sequent depths, non-dimensional equation, Practical application of hydraulic jump, Types of jump in horizontal floor, Basic characteristics of the jump, Energy loss, efficiency, height of jump, jump as energy dissipater, stilling basins, Location of hydraulic jump.
+
+Module 4 (14 Hours)
+
+Hydraulic Machines – Impulse momentum principle, Impact of jet, Force of jet on stationary and moving plates –
+Turbines – Classification, velocity triangle for Pelton, Francis, Kaplan turbines, Specific speed, selection of turbines, draft tube – types,
+
+Module 5 (12 Hours)
+
+Centrifugal Pumps – Types, Velocity triangle for pumps-Work done- Head of pump, Losses and efficiency, Minimum starting speed, Specific speed, Multistage pump, Pumps in parallel.
+ 
+Positive displacement pumps – working principle, types of reciprocating pumps, work done - effect of acceleration and frictional resistance, slip and coefficient of discharge. Indicator diagram, separation in suction and delivery pipes. Air vessel
+
+– rate of flow into and from air vessel.
+
+
+References
+
+1.Ven Te Chow, Open Channel Hydraulics, Mc Graw Hill Ltd. 
+2.K. Subrahmanya, Flow in open channel vol.1, Tata McGraw Hill, New Delhi 
+3.Dr. P. N. Modi & Dr. S. M. Seth, Hydraulics & Fluid Mechanics, Standard Book House, Delhi. 
+4.Jagadheesh Lal, Hydraulic Machines, Metropolitian Book Co., New Delhi. 
+5.Dr. R.K Bansal,A Text book of Fluid mechanics and Hydraulic machines,Laxmi Publications
+6.  K.G Rangaraju, Flow through openchannel Tata Mc Graw Hill
+7 . Shivkumar, “Fluid Mechanics& Fluid Machines Basic concepts& Principles; Ane Books Pvt. Ltd

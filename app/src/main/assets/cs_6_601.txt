@@ -1,0 +1,69 @@
+CS010 601: Design And Analysis Of Algorithms
+
+(Common with IT010 605)
+
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To develop an understanding about basic algorithms and different problem solving strategies. 
+
+•	To improve creativeness and the confidence to solve non-conventional problems and expertise for analysing existing solutions. 
+
+
+Module I (13 hours) Introduction and Complexity
+
+What is an algorithm – Properties of an Algorithm, Development of an algorithm, Pseudo-code Conventions, Recursive Algorithms – Performance Analysis - Space and Time Complexity –Asymptotic Notations – ‘Oh’, ‘Omega’, ‘Theta’, Worst, Best and Average Case Complexity, Running Time Comparison, Common Complexity Functions -Recurrence Relations – Solving Recurrences using Iteration and Recurrence Trees – Example Problems – Profiling - Amortized Complexity.
+
+Module II	(11 hours)
+
+Divide and Conquer - Control Abstraction, Finding Maximum and Minimum, Costs associated element comparisons and index comparisons, Binary Search, Divide and Conquer Matrix Multiplication, Stressen’s Matrix Multiplication, Quick Sort, Merge Sort. – Refinements.
+
+Module III    (14 hours)
+
+Greedy Strategy - Control Abstraction, General Knapsack Problem, Minimum Cost Spanning Trees – PRIM’s Algorithm, Kruskal’s Algorithm, Job sequencing with deadlines. Dynamic Programming - Principle of Optimality, Multistage Graph Problem, Forward Approach, Backward Approach, All-Pairs Shortest Paths, Traveling Salesman Problem.
+
+Module IV	(11 hours)
+
+Backtracking – State Space Tree - Fixed Tuple and Variable Tuple Formulation - Control Abstraction – Generating Function and Bounding Function - Efficiency of the method - Monte Carlo Method – N-Queens Problem, Sum of Subsets.
+
+Branch and Bound Techniques – FIFO, LIFO, and LC Control Abstractions, 15-puzzle.
+
+Module V	(11 hours)
+
+Sophisticated Algorithms - Approximation Algorithms – Planar Graph Coloring, Vertex cover - String Matching Algorithms – Rabin Karp algorithm - Topological Sort - Deterministic and Non-Deterministic Algorithms.
+
+Lower Bound Theory - Comparison Trees for Searching and Sorting, lower bound on comparison based algorithms, Sorting, Selection & Merging; Oracles and Adversary Arguments –Merging,Basic concepts of randomized algorithm-Las Vagas algorithm for search.
+ 
+
+Reference Books
+
+1.	Ellis Horowitz and Sartaj Sahni, Sanguthevar Rajasekaran, Fundamentals of Computer Algorithms,Universities Press, 2nd Edition, Hyderabad . 
+
+2.	Thomas Coremen, Charles, Ronald Rives, Introduction to algorithm, PHI Learning 
+
+3.	Sara Baase & Allen Van Gelder , Computer Algorithms – Introduction to Design and Analysis, Pearson Education.. 
+
+4.	Anany Levitin, Introduction to The Design & Analysis of Algorithms, Pearson Education, 2nd Edition, New Delhi, 2008. 
+
+5.	Berman and Paul, Algorithms, Cenage Learning India Edition, New Delhi, 2008. 
+
+6.	S.K.Basu , Design Methods And Analysis Of Algorithms ,PHI Learning Private Limited, New Delhi,2008. 
+
+7.	Jon Kleinberg and Eva Tardos, Algorithm Design, Pearson Education, New Delhi, 2006. 
+
+8.	Hari Mohan Pandey, Design Analysis And Algorithms, University Science Press, 2008. 
+
+9.	R. Panneerselvam, Design and Analysis of Algorithms, PHI Learning Private Limited, New Delhi, 2009. 
+
+10.	Udit Agarwal, Algorithms Design And Analysis, Dhanapat Rai & Co, New Delhi, 2009. 
+
+11.	Aho, Hopcroft and ullman, The Design And Analysis of Computer Algorithms, Pearson Education, New Delhi, 2007. 
+
+12.	S.E.Goodman and S. T. Hedetmiemi, Introduction To The Design And Analysis Of Algorithms, McGraw-Hill International Editions, Singapore 2000. 
+
+13.	Richard Neapolitan, Kumarss N, Foundations of Algorithms, DC Hearth &company. 
+
+14.	Sanjay Dasgupta, Christos Papadimitriou, Umesh Vazirani, Algorithms, Tata McGraw-Hill Edition. 

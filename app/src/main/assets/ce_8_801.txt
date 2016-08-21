@@ -1,0 +1,41 @@
+CE010 801  ADVANCED STRUCTURAL DESIGN
+
+
+Teaching scheme:	Credit: 4
+
+3hours lecture and 2 hours tutorial per week
+
+Objective:
+
+To familiarize students with behavior and design procedure of some of the special structural elements so that they can perform better in the analysis and design of these structures in practical situations.
+
+Module 1 (15 Hrs)
+
+Road bridges: IRC Loadings and Specifications-T beam bridges – box culvert
+(Design forIRC Class A Loading only)- Bearings(Theory only)
+
+Module 2 (15 Hrs)
+Shell structures: general principles for membrane theory for symmetrical uniformly distributed load- design of a simply supported single barrel cylindrical shell for membrane stresses. Folded plates: general principles- structural behaviour of plates (design not required)
+
+Module 3 (14 Hrs)
+
+Industrial buildings: roof loads- design of trusses ( analysis not required ) -design of purlins-design of bracings and supporting system. (Problems not expected.)
+
+Module 4 (15 Hrs)
+
+Design of Plate girders and gantry girders- welded compound sections
+
+Module 5(16 Hrs)
+
+Steel bridges: IS specifications-design of highway and railway bridges of plate girder type.(Design of bracings not required.)
+Note:
+Sketches only required for reinforcement details. Detailed drawing in drawing sheets not required.
+
+REFERENCES
+
+1.	IRC Bridge code,Indian railway bridge code, IS 456.IS 800,IS 875 
+2.	Victor J D, Design of concrete bridges, oxford & IBH publishing company,new delhi 
+3.	Krishna Raju, Advanced design of concrete structures, oxford & IBH publishing company,new delhi 
+4.	Ramchandra, Design of steel structures vol 2 standard book house, delhi 
+
+5.	Ramaswamy G S Design and construction of concrete shell roofs, Mc Graw Hill 

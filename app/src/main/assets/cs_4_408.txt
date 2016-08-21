@@ -1,0 +1,33 @@
+CS010 408(EC) ELECTRONIC CIRCUITS AND COMMUNICATION LAB
+
+Teaching scheme	Credits: 2
+3 hours Practical per week
+
+Objectives:-
+
+To provide an introduction to Electronic Circuits Design thereby giving a hands on experience on working with various Electronic Components, and Devices
+
+PART 1 (Electronic Circuits):-
+
+1.	Design of Two Stage RC Coupled Amplifiers 
+2.	Design of FET Amplifiers 
+3.	Design of Bootstrap Sweep Generators 
+4.	Design of Astable, Monostable, and Bistable Multivibrators ( 3 experiments) 
+5.	Design of Oscillators(RC Phase Shift Oscillator, Hartley Oscillator, Colpitt’s Oscillator – 3 experiments) 
+
+PART 2 (Communication Engineering):-
+
+1.	Amplitude Modulation 
+2.	Frequency Modulation 
+3.	Delta Modulation 
+4.	Pulse Amplitude Modulation (PAM) 
+5.	Pulse Width Modulation (PWM) 
+6.	Amplitude Shift Keying (ASK) 
+7.	Phase Shift Keying (PSK) 
+
+Note: - A minimum of 5 experiments from each part must be done.
+
+Reference Books:-
+
+1.	Boylestead and Nashelky- Electronic Devices and Circuits- Prentice Hall of India 
+2.	George Kennedy - Electronic Communication Systems - TMH 

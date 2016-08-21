@@ -1,0 +1,22 @@
+IT010 806 WEB APPLICATIONS LAB
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+
+1.	Implementing and deploying web applications using Servlets, HTML and JSPs. 
+
+2.	Testing the applications on an Application Server. 
+
+3.	Debugging Web applications locally and remotely. 
+
+4.	Developing applications in a team environment. 
+
+5.	Retrieval of data from database using SQL and exchange of information in XML format. 
+ 
+
+
+
+
+

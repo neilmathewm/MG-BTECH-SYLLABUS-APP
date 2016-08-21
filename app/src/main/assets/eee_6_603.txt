@@ -1,0 +1,63 @@
+EE 010 603: Control Systems
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To provide knowledge in the frequency response analysis of linear time invariant systems 
+
+•	To provide knowledge in the design of controllers and compensators. 
+
+•	To provide knowledge in state variable analysis of systems. 
+
+MODULE 1 (12 Hours)
+
+Control system components – synchros, D.C servo motor, A.C servo motor, stepper motor, Tacho generator, Gyroscope.
+
+Frequency domain analysis-. Bode plots, relative stability – gain margin and phase margin. correlation between time and frequency domain specifications. Static position error coefficient and static velocity error coefficient from bode plot. Gain adjustment in bode plot. Analysis of systems with transportation lag.
+
+MODULE 2 (12 Hours)
+
+Polar plots-phase margin and gain margin and stability from polar plot, Correlation between phase margin and damping ratio. Minimum phase and non-minimum phase systems. Log magnitude versus phase plots.
+
+Nyquist plot – principle of argument , Nyquist stability criterion, conditionally stable systems
+
+MODULE 3 (12 Hours)
+
+Response of systems with P, PI and PID controllers.
+
+Compensation Techniques – cascade compensation and feed back design, Lead, Lag and Lag-Lead design using Bode plots and root locus. Realisation of compensators using operational amplifiers.
+
+Module 4 (12 Hours)
+
+State variable formulation-concept of state variable and phase variable. State space representation of multivariable systems, Similarity transformation, invariance of eigen values under similarity transformation. Formation of Controllable canonical form, Observable canonical form. Diagnalisation, and Jordan canonical form from transfer function. Transfer function from state model.
+
+Module 5 (12 Hours)
+
+State model of discrete time systems. Solution of state equation – state transition matrix and state transition equation, computation of STM by canonical transformation, Laplace transform and cayley- Hamilton theorem. Discretization of continuous time system.
+
+Text Books:
+
+1.	K.Ogatta, Modern Control Engineering- Pearson Education 
+
+2.	I.J. Nagrath and M.Gopal, Control Engineering, TMH 
+ 
+
+
+Reference Books
+
+1.	D.Roy Choudhary, Modern Control Engineering, PHI 
+
+2.	Richard C. Dorf and Robert H. Bishop, Modern Control Systems, Pearson Education 
+
+3.	M.N. Bandyopadhay, Control Engineering-Theory and Practice, PHI,New 
+
+Delhi,2009.
+
+4  S. Hassan Saeed, Automatic Control Systems –Katson Books.
+
+5.	A. Anand Kumar,  Control Systems, PHI 
+
+6.	Franklin,Powell, Feedback Control of Dynamic Systems, Pearson. 
+ 

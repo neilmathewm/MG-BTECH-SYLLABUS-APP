@@ -1,0 +1,44 @@
+CS010 606L02   Micro controller Based Systems
+
+(Common with EE010 503 and EC010 502)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of microcontrollers and their programming in assembly language and in C. 
+
+•	It also focused on the 8051 microcontroller which is a widely used microcontroller. 
+
+Pre-requisites: Microprocessor systems, Advanced microprocessor and peripherals
+
+
+Module I (10 hours)
+
+Microcontroller - Features of 8051-Arcchitecture of 8051 -Pin diagram of 8051-memory organization-External memory interfacing-stacks- addressing modes-instruction set.
+
+Module II (12 hours)
+
+8051 programming in C-data types and time delay – I/O programming – logical operation – data conversation program –basics of serial communication connection to RS232- serial port programming in assembly and C.
+
+Module III (14 hours)
+
+Basics of interrupts,-interrupt sources- interrupt enable register-interrupt priority-interrupt control system-interrupt handling-single step operation- port bit latches and buffers-port structures and operation- accessing external memory.
+
+Module IV (12 hours) Timer 0& -Timer1- T MOD SFR-mode0,mode 1,mode2,mode3-TCON SFR-serial interface-SCON SFR -mode0,mode 1,mode 2,mode3-block schematics-baud rates-power on reset circuit-ONCE mode-on chip oscillator-external program & data memory timing diagrams.
+
+Module V (12 hours)
+
+PIC microcontrollers: Overview and features-PIC16C6X/7X FSR-Reset action-PIC memory organization-instructions-addressing modes.
+ 
+
+Reference Books
+
+1. Muhammad Ali mazidi, Janice Gillispie Mazidi, Rolin D Mc kinlay , The 8051 microcontroller and embedded systems,person, second edition., 2006
+
+2. V Udayashankara,M S Mallikarjunaswamy ,8051 Microcontroller hardware &software application,TMH
+
+3. Ajay V Deshmukh,Microcontrollers, theory and applications,TMH 4. Kennath J Ayala, The 8051 microcontroller., Penram International
+5. 1 Satish Shah,8051 microcontrollers MCS 51 family and its variants ,Oxford higher education

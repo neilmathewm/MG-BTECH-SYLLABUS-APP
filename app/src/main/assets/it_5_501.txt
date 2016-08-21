@@ -1,0 +1,50 @@
+EN010501 B   Engineering Mathematics IV
+
+(CS, IT)
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives: To use basic numerical techniques for solving problems and to know the importance of learning theories in mathmatics and in queueing system.
+
+MODULE 1   Finite differences	(12 hours)
+
+Finite difference operators     - interpolation using Newtons forward and backward formula – Newton’s divided difference formula - Numerical differentiation using Newtons forward and backward formula – Numerical integration – Trapezoidal rule – Simpsons 1/3rd and 3/8th rule
+
+MODULE 2  Z transforms	(12 hours)
+
+Definition of Z transforms – transform of polynomial function and trignometric functions – shifting property , convolution property - inverse transformation – solution of 1st and 2nd order difference equations with constant coifficients using Z transforms.
+
+MODULE 3  Discrete numeric functions	(12 hours)
+
+Discrete numeric functions – Manipulations of numeric functions- generating functions – Recurrence relations – Linear recurrence relations with constant coefficients – Homogeneous solutions – Particular solutions – Total solution – solution by the method of generating functions.
+
+MODULE 4  Complex integration	(12 hours)
+
+Functions of complex variable – analytic function - Line integral – Cauchy’s integral theorem – Cauchy’s integral formula – Taylor’s series- Laurent’s series – Zeros and singularities – types of singularities – Residues – Residue theorem – evaluation of real integrals in unit circle – contour integral in semi circle when poles lie on imaginary axis.
+
+MODULE 5  Queueing Theory	(12 hours)
+
+General concepts – Arrival pattern – service pattern – Queue disciplines – The Markovian model M/M/1/   , M/M/1/N – steady state solutions – Little’s formula.
+
+References
+
+1.	C.L.Liu and D.P. Mohapatra – Elements of Discrete Mathematics - Mc Graw Hill 
+
+2.	S.Lipschutz, M.L.Lipson – Discrete mathematics –Schaum’s outlines – Mc Graw Hill 
+
+3.	B.V. Ramana - Higher Engg. Mathematics – McGraw Hill 
+
+4.	Babu Ram – Engg. Mathematics -Pearson. 
+
+5.	K Venkataraman- Numerical methods in science and Engg -National publishing co 
+ 
+6.	V. Sundarapandian - probability ,Statistics and Queueing theory - PHI 
+
+7.	S.Bathul – text book of Engg.Mathematics – Special functions and complex variables –PHI 
+
+8.	H. Weif HSU – probability, random variables & Random processes – Schaum’s out lines - Mc Graw Hill 
+9.	T.Veerarajan - probability ,Statistics & Random processes - Mc Graw Hill 
+
+10.	H.C.Taneja – Advanced Engg. Mathematics Vol II – I.K.International 

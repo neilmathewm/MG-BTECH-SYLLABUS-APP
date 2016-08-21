@@ -1,0 +1,51 @@
+CE010 504 GEOTECHNICAL ENGINEERING – I
+
+Teaching scheme:	Credits: 4
+
+3 hour lecture and 1 hour tutorial per week
+
+Objective:
+
+Geotechnical Engineering is one of the important disciplines of Civil Engineering involving the study of behaviour and engineering properties of soil.
+The objective of the course is to present different laws and principles of Soil Mechanics so that the strength and settlement of the foundation soil can be evaluated.
+
+Module 1 (15 Hours)
+
+Soil formation and soil types: Residual soil and transported soil-Soil structure-Basic structural units of clay minerals. Simple soil properties: three phase systems
+
+-	void ratio - porosity - degree of saturation - moisture content - specific gravity - unit weight relationships. 
+Laboratory and field identification of soils: Determination of water content, specific gravity, determination of field density by core cutter and sand replacement method, grain size analysis by sieve, hydrometer analysis 
+-	Atterberg limits and indices - field identification of soils. 
+Classification of soils: Principles of classification - I. S. classification - plasticity chart.
+
+Module 2 (13 Hours)
+
+Permeability of soils: Darcy’s law - factors affecting - constant head
+and falling head test - permeability of stratified deposits. soil- water system - classification of soil water - capillarity of soils - principles of effective stress. Seepage of soils: seepage pressure, critical hydraulic gradient - quick
+sand condition - flownet diagram for isotropic and anisotropic soils
+.
+Module 3 (10 Hours)
+Shear strength: Shear strength parameters - Mohr’s circle – Mohr Coulomb strength theory -direct, triaxial, unconfined and vane shear tests- Drainage conditions - UU, CD and CD tests - choice of test conditions for field problems - measurement of pore pressure-critical void ratio and liquefaction. - Activity ,sensitivity and thixotropy
+
+Module 4 (12 Hours)
+
+Compaction: Objects of compaction - proctor test and modified proctor test - concept of OMC and Max. dry density - Zero air void line - factors affecting compaction - effect of compaction on soil properties - field methods-.of compaction - control of compaction.
+Stability of slopes: types of failures of soil slopes - Analysis of finite slopes only-Swedish circle method - = 0 analysis and c - analysis. -Taylor’s stability number and stability charts
+.
+ 
+
+Module 5 (10 Hours)
+
+Compressibility and consolidation of soils: void ratio - pressure relationship - concept of coefficient of compressibility - coefficient of volume change and compression index - normally loaded and pre loaded deposits - determination of preconsolidation pressure - Terzaghi’s theory of one dimensional consolidation - time rate of consolidation - time factor - degree of consolidation - square root time and log time - fitting methods - coefficient of consolidation - calculation of void ratio - height of solids methods and change in void ratio method - settlement analysis.
+
+References
+
+1.	Murthy V. N.S, Soil Mechanics and Foundation Engineering, Nai Sarak, Delhi. 
+
+2.	Gopal Ranjan and A .S .R .Rao, Basic and Applied Soil Mechanics, New Age International Publishers. 
+3.	Punmia B. C., Soil Mechanics and Foundation Engineering, Laxshmi Publications, New Delhi. 
+4.	Arora K. R., Soil Mechanics and Foundation Engineering, Standard Publishers, Distributors. 
+5.	V. Narasimha Rao and Venkatramaiah, Numerical Problems, Examples and Objective Questions in Geotechnical Engineering, Orient LongMan Publishers. 
+6.	Lambe & Whitman, Soil Mechanics, John Wiely Publications 
+7.	S. K. Garg, Soil Mechanics and Foundation Engineering, Khanna Publishers. 
+ 

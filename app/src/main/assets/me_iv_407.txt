@@ -1,0 +1,56 @@
+ME010 407: Hydraulic Machines Laboratory
+
+(Common with PE010 407)
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To provide experience on various Hydraulic machineries. 
+
+•	To acquaint the students with the measurement of various parameters. 
+
+Experiments
+
+Performance characteristic tests on Pelton wheel (Load test & best speed). Performance characteristic tests on Francis turbine (Load test & best gate opening).
+Performance characteristic tests on Kaplan turbine (Load test & best gate, vane angle opening).
+Performance characteristic tests on single stage, multi stage centrifugal pumps at constant speed & at variable speed. Actual & predicted curves. Performance characteristic tests on self-priming pump, Jet pump, Airlift pump and deep well pump
+
+Performance characteristic tests on axial flow pump. Performance characteristic tests on Hydraulic ram.
+
+Performance characteristic tests on reciprocating pump at constant speed. Performance characteristic tests on Gear pump.
+Performance characteristic tests on Screw pump.
+
+
+Text Books
+
+1.	Abdulla Sheriff, Fluid Mechanics & Hydraulic Machines: Standard Publ. 
+2.	R.K Bansal, Fliud Machines and Hydraulic Machines , Lakshmi publications New Delhi 
+
+Reference Books
+
+1.	K Subramanya , Fluid Machines and Hydraulic Machines , TMH. 
+2.	Govinda Rao N.S, Fluid Flows Machines, TMH. 
+3.	Shiv Kumar, Fluid Mechanics & Fluid machines , Ane books. 
+4.	Massey B. S, Fluid Mechanics, ELBS 
+5.	Stepanoff John A. J, Centrifugal and Axial Flow Pump, Wiley & Sons 
+
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+50%-Laboratory practical and record
+30%- Test/s
+
+20%- Regularity in the class
+
+End Semester Examination (Maximum Marks-100)
+
+70% -  Procedure, conducting experiment, results, tabulation, and inference
+
+30% -  Viva voce
+ 
+
+
+

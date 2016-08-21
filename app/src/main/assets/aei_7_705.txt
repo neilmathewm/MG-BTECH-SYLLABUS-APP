@@ -1,0 +1,57 @@
+AI010 705
+
+Industrial Instrumentation II
+(Common to EI010 705 and IC010 705)
+
+Teaching scheme	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To provide exposure to various measuring techniques for flow, level, ph, humidity, viscosity, moisture , dimension, sound and thermal conductivity. 
+
+•	At the end of the course the student will have an in depth knowledge in units, different techniques, and significance of measuring devices. 
+
+
+Module 1
+
+Measurement of flow: Flow characteristics- Flow measuring techniques - Classification of flow meters- Variable head flow meters for incompressible fluids- : Venturi tubes- Square root relationship - Flow nozzle- Orifice plates - Dall tube – Wiers and flumes - Pitot tube. Variable meters for compressible fluids. Installation of flow meters. Quantity flow meters: Positive displacement flow meters- Nutating disc, Rotary vane, Reciprocating piston, Oval gear, Helix type. Mass flow meters: Angular momentum type, Impeller turbine, Twin turbine, Coriollis , Thermal , Radiation type mass flow meters.
+
+Module 2
+
+Inferential type : Variable area flow meters (Rotameters) – Turbine flow meters - Target flow meters- Electrical type flow meters- Electro magnetic type- Comparison of DC and AC excitations- Ultrasonic flow meters - Laser Doppler Anemometer (LDA) - Hot wire anemometer - Other flow meters: Purge flow regulators- Flow meters for solid flow – Vortex flow meters – Calibration of flow meters. Dynamic weighing method – Master meter method- Bell prover system . Factors to be considered for flow meter selection.
+
+Module 3
+
+Level measurement :- Methods of liquid level measurement –Classification of liquid level detectors – Direct method- Hook type, Sight glass technique– Float type level indication –– Float level switches - Rope method- Level measurement using displacer and torque tube – Indirect methods : Hydrostatic pressure type- Pressure gauge method- Air bellows- Air purge system. Boiler drum level measurement – Thermal level sensors – Differential pressure method – Electrical types of level gauges using Resistance, Capacitance, Nuclear radiation and Ultrasonic sensors – Laser level sensors- Microwave level switches – Fibre optic level detectors- Calibration of level detectors.
+
+Module 4
+
+Measurement of pH, Viscosity, Humidity and Moisture : - Need for pH measurement - pH electrodes- Viscosity terms – Capillary viscometer- Say bolt viscometer – Rotameter type
+viscometer- red wood type viscometer. – Humidity terms – Dry and wet bulb psychrometers – Hot wire electrode type hygrometer – Dew cell – Electrolysis type hygrometer – Commercial type dew point meter –Different methods of moisture measurement –Application of moisture measurement.
+
+Smart sensors: block diagram- Smart transmitter. Recent trends in sensor technology – Semiconductor sensors–Film sensors – MEMS - Nanosensors.
+
+
+Module 5
+
+Measurement of Dimension, Sound and Thermal conductivity : Thickness measurement-Contact type thickness gauge- Inductive methods , Capacitive methods . Non contact type - Radiation type- Laser based thickness gauges- Measurement of coating thickness- Laser based length measurement- Width measurement – Diameter measurement. Measurement of sound using microphones, Measurement of thermal conductivity of solids, liquids and gases.
+
+
+TEXT BOOKS
+
+1.	D. Patranabis, Principles of Industrial Instrumentation Tata McGraw Hill Publishing Co., New Delhi, 1999 
+2.	R.K.Jain, Mechanical and Industrial Measurements, Khanna Publishers, New Delhi 1999. 
+3.	A.K.Sawhney, A course in Mechanical Measurements and Instrumentation – DhanpatRai and Sons, New Delhi, 1999. 
+
+
+REFERENCES
+
+1.	Ernest O. Doebelin, Measurement systems application and design international student Edition, Tata McGraw Hill Publishing Co., New Delhi, 1999. 
+2.	Eckman D.P.Industrial Instrumentation – Wiley Eastern Limited, 1990. 
+3.	Liptak B.G. Instrument Engineers Handbook (Measurement), Chilton Book Co., 1994. 
+4.  Padmanabhan  T  R,	Industrial  Instrumentation  Principles  and  Design,  Springer
+
+International
+ 

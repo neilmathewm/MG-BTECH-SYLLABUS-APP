@@ -1,0 +1,33 @@
+IT010 704: INTERNETWORKING
+
+Teaching scheme Credits: 3 2 hours lecture and 1 hour tutorial per week
+
+
+Objective
+
+•	to familiarize with the TCp/IP protocol suite, the different protocols used in each layer, and their implementation 
+
+
+Module 1	(9 hours)
+Internet  Architecture,  Classful  Internet  Addresses,  Mapping  Internet  Addresses  to
+Physical  addresses  (ARP),  Determining  an  Internet  address  at  start-up  (RARP),
+Connectionless Datagram Delivery (IPV4) , Forwarding IP datagrams.
+.	
+Module 2	(9 hours)
+Error and Control Messages ( ICMP ),Classless and Subnet Address Extensions (CIDR),
+Protocol Layering, User datagram Protocol, Reliable Stream Transport Service.
+Module 3	(9 hours)
+Routing Architecture : Cores, Peers, and Algorithms, Routing Between Peers (BGP),
+Routing Within an Autonomous System (RIP, OSPF).
+Module 4	(9 hours)
+Internet Multi casting, IP Switching and MPLS, Private Network Interconnection (NAT, VPN), Bootstrap and Auto configuration (DHCP).Applications - DNS, Remote Login and Desktop (TELNET, SSH)
+
+Module 5	(9 hours)
+
+File Transfer and Access ( FTP, TFTP, NFS) , Electronic Mail ( SMTP, POP, IMAP, MIME), WWW (HTTP), Voice and Video Over IP (RTP, RSVP, QoS).
+
+
+Reference Book
+
+1.	Internetworking with TCP/IP - Volume I, Principles, Protocols and Architecture (5th Edition), Douglas E.Comer, PHI 2009 
+2.	The Internet and Its Protocols, Adrian Farrel, Elsevier 2005. 

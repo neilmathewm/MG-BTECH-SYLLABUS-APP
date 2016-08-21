@@ -1,0 +1,43 @@
+EC010 703 MICROWAVE ENGINEERING
+
+Teaching Schemes	Credit : 3
+2 hours lecture and 1 hour tutorial per week.
+
+
+Objectives
+
+•	To give the basic ideas about the characteristics and applications of microwave frequency bands 
+
+•	To understand the working of various microwave passive and active devices and circuits 
+
+Module 1: (12 hours)
+
+Microwave network Characterization and passive devices: Characteristic, features and applications of microwaves- Circuit and S parameter representation of N port microwave networks - Reciprocity Theorem- Lossless networks and unitary conditions- ABCD parameters-Cascaded networks-Relations between S- Y and ABCD parameters. Properties and s-matrices for typical network such as section of uniform transmission line, 3-port networks (reciprocal and nonreciprocal), T-junctions directional coupler, magic tee, ferrite devices, isolator, circulators.
+
+Module 2 :(15 hours)
+
+Microwave Tubes: Generation of microwaves by tubes, limitations of conventional tubes, klystron amplifiers - analysis, reflex klystron oscillator-analysis, magnetrons, traveling wave tube (TWT), backward wave oscillator (BWO)-basic principles. Millimetre wave tubes-introduction
+
+Module 3: (13 hours)
+
+Microwave semiconductor: High frequency limitations of transistors, microwave transistors (theory only), Manley Rowe relations, parameteric amplifiers and frequency multipliers, tunnel diodes, Gunn effect, Gunn Diode oscillators, Avalanche effect, IMPATT & TRAPATT diodes, PIN diodes and their applications, Schottky barrier and backward diodes.
+
+Module 4: (10 hours)
+
+Microwave Measurements: VSWR measurement, microwave power measurement, impedance measurement, frequency measurement, measurement of scattering parameters Return loss measurement using directional couplres-introduction to vector network analyzer and its uses.
+
+Module 5: (10 hours)
+
+Planar Transmission Lines: Planer transmission lines such as stripline, microstrip line, slotline and coplanar waveguides. Characteristics of planar transmission lines. Losses in Microstrip Lines- Quality Factor Q of Microstrip Lines- Substrate materials.
+
+Introduction to MIC’s:-Technology of hybrid MICs, monolithis MICs. Comparison of both MICs.
+
+Reference Books:
+
+1.	Liao S.Y.”Microwave devices and Circuits”, Prentice Hall Of India, New Delhi, 3rd Ed. 2006 
+2.	Rizzi P.A,”Microwave Engineering,Passive Circuits” Prentice Hall of India 
+3.	Pozar D.M .,” Microwave Engineering”, John Wiley 
+
+4.	Annapurna Das and Sisir Das, “Microwave Engineering”, Tata-McGraw Hill , New Delhi, 2008. 
+
+5.	R.E. Collin : Foundations for Microwave Engg- – IEEE Press Second Edition. 

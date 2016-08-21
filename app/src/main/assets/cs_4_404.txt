@@ -1,0 +1,51 @@
+CS010 404 SIGNALS AND COMMUNICATION SYSTEMS
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives:-
+
+To introduce the fundamentals of Analog and Digital Signals ,their properties and introduce the relevant transforms used in Communication.
+To familiarize the core ideas of Communication Engineering which in turn adds to the study of Computer Communication.
+
+
+Module 1 (15 hrs):-
+
+Introduction to Signals:- Continuous Time Signals- Discrete Time Signals- Signal Operations- Properties of Signals(Periodicity and Symmetry), Frequency Domain Representation of Continuous Time Signals-Continuous Time Fourier Series(CTFS)- Definition- properties-Examples, Continuous Time Fourier Transform(CTFT)- Definition- Properties – Examples-Concept of Frequency Spectrum, Sampling- The Sampling Theorem(proof not required)-Quantisation
+
+Module 2 (12 hrs):-
+
+Communication Systems:- Architecture of a Typical Communication System – Basic problems in Signal Transmission - Noise – Types of Noise- Internal and External Noise, Cross Talk- Typical parameters of Communication Systems- Signal propagation Delay, Signal to Noise Ratio, Attenuation, Bandwidth
+Communication Channels:- Twisted Pairs- Coaxial Cables- Fiber Optic Cables- Capacity of a Noisy Channel- Shannon Hartley Theorem
+
+Module 3: (15 Hrs)
+
+Modulation- Need for Modulation
+Analog Modulation- Types of analog modulation- Amplitude Modulation, Frequency modulation, Phase modulation, Pulse Modulation Schemes- Pulse Amplitude modulation(PAM), Pulse Width Modulation(PWM), Pulse Position Modulation(PPM), Pulse Code Modulation(PCM),Delta modulation, Sample problems based on different modulation methods.
+Digital modulation;- Amplitude Shift Keying(ASK), Frequency Shift keying(FSK),Phase Shift Keying(PSK), Quadrature Amplitude modulation (QAM), Differential Phase Shift Keying(DPSK)
+
+Module 4: (8 Hrs)
+ 
+Multiplexing: -Time Division Multiplexing(TDM)- Frequency Division Multiplexing(FDM)- Wavelength Division multiplexing(WDM)
+Switching:- Circuit, Packet and Message Switching Schemes, Case Study:- SONET( Basic ideas only)- Datagrams and virtual Circuits
+Digital Transmission:- Analog to Digital Converter(ADC), Serial and parallel Transmission- Simplex, Half Duplex and Full Duplex Transmissions.
+
+Module 5: (10 Hrs)
+
+Error Correction and Detection;- Line Coding Schemes- Block Coding- Convolution Coding- Hamming Codes
+Transmission Codes:- Different Character Codes- ASCII, EBCDIC, Baudot Code, Bar Coding, Parity Coding
+
+Reference Books
+
+1.	S.Haykin and B. V. Veen, Signals and Systems, John Wiley & Sons, N. Y., 2002 
+
+2.	George Kennedy, Bernard Davis - Electronic Communication Systems-Tata McGraw Hill 
+3.	Behrouz Forouzan- Data Communication and Networking- Tata McGraw Hill 
+
+4.	Michael J Roberts, Govind Sharma- Fundamentals of Signals and Systems-Tata McGraw Hill 
+5.	William Stallings- Data and Computer Communications- Prentice Hall of India 
+6.	Fred Halsall- Digital Communication, Computer Networks and Open Systems Pearson Education 
+7.	Taub and Schilling – Principles of Communication Systems- Tata McGraw Hill 
+
+8.	Kolimbiris H.- Digital Communication Systems- Pearson Education 

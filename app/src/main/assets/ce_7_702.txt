@@ -1,0 +1,43 @@
+CE010 702   ENVIRONMENTAL ENGINEERING - I
+
+Teaching scheme:	Credits: 4
+
+2 hour lecture and 2 hour tutorial per week
+
+Objective:
+
+•	To understand the basic principles of Water Supply Engineering 
+
+•	To develop knowledge in unit operations and design of water treatment systems 
+
+Module 1(10hrs) 
+
+Scope of Environmental Engg. Water supply Engineering: Rural and Urban water supply systems - water demand - percapita demand, factors affecting percapita demand, variations in the rate of consumption, fire demand, design period, forecasting population. Quality of water: impurities in water and their importance - water borne diseases - analysis of water - physical, chemical and bacteriological tests - MPN total coliforms, fecal coliforms. WHO and Indian standards for drinking water. 
+
+Module 2 (10hrs)
+Collection of water : intakes - location, types, pipe materials - hydraulics-of flow - design of pipes - Pumps: Classification - selection of pumps - location of pumping stations. Appurtenances in the distribution system - meters, valves, fire hydrants etc. pipe laying, testing & disinfections of mains. Storage of water - effect of storage on quality of water
+
+Module 3 (15hrs)
+
+General layout of treatment plant - surface water and ground water. Aeration, purpose of aeration. Sedimentation - plain sedimentation, theory of sedimentation, continuous flow sedimentation tanks. Chemically aided sedimentation - necessity, theory of coagulation and flocculation - generally used coagulants, dosage of coagulants- clariflocculators, design of flash mixers clarifiers and clarifloculators.
+
+Module  4 (15hrs)
+
+Filtration - Theory of filtration, filter media - sand for filtration. Classification of filters - design, construction, control, operation and maintenance of rapid sand filters and slow sand filters, pressure filters.
+Disinfection: requirements of a good disinfectant, chlorination - action, application, and dosage chlorine demand, pre-chlorination, post chlorination, double chlorination, super chlorination, breakpoint chlorination. Other disinfectants.
+
+Module 5(10hrs)
+
+Miscellaneous treatment methods: color, odour and taste removal, iron and manganese removal, deflouridation, removal of hardness, desalination. Distribution of water: pumping system, gravity system, pumping and storage system, distribution reservoirs -storage capacity of balancing reservoir, pipe grids,
+ 
+methods of analysis of network. Detection and prevention of leaks in distribution system- cleaning and maintenance of distribution system, pipe corrosion and its control.
+
+
+
+References:
+
+1.	Peavy, Rowe, Tchobanoglous, Environmental Engineering, Mc Graw Hill International Editions. 
+2.	M.N. Rao & H.V.N. Rao, Air Pollution, Tata Mc Graw Hill Pvt. Ltd., New Delhi. 
+3.	S. K. Garg, Environmental Engineering Vol. l & ll, Khanna Publishers, New Delhi. 
+4.	B.C. Punmia, Water supply Engineering, Arihant Publications, Jodpur. 
+5.	B.C. Punmia, Waste water Engineering, Arihant Publications, Jodpur. 

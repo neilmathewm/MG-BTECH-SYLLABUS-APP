@@ -1,0 +1,55 @@
+EE 010 604  Digital Signal Processing
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+
+•	To provide knowledge of transforms for the analysis of discrete time systems. 
+
+•	To impart knowledge in digital filter design techniques and associated problems. 
+
+Module 1 (14hrs)
+
+Discrete time signals and systems: Basic principles of signal processing-Building blocks of digital signal processing. Review of sampling process and sampling theorem. Standard signals-delta, step, ramp. Even and odd functions. Properties of systems-linearity, causality, time variance, convolution and stability –difference equations-frequency domain representation – Discrete – time Fourier transform and its properties- Z transform and inverse Z transform-solution of difference equations.
+
+Module 2 (14hrs)
+
+Discrete fourier transform-inverse discrete fourier transform-properties of DFT-linear and circular convolution-overlap and add method-overlap and save method-FFT - radix 2 DIT FFT-Radix2 DIF FFT
+
+Module 3 (12hrs)
+
+Digital filter design: Design of IIR filters from analog filters - analog butter worth functions for various filters - analog to digital transformation-backward difference and forward difference approximations- impulse invariant transformation – bilinear transformation-frequency warping and pre warping-design examples- frequency transformations. Structures for realizing digital IIR filters-Direct form 1-direct form II-parallel and cascade structure-lattice structure.
+
+Module 4 (12hrs)
+
+Design of FIR filters-Properties of FIR filters-Design of FIR filters using fourier series method - Design of FIR filters without using windows- Design of FIR filters using windows-Design using frequency sampling-Design using frequency sampling method-Design using Kaiser’s approach- realization of FIR filters .
+
+Module 5 (8hrs)
+
+Finite register length problems in digital filters-fixed point and floating point formats-errors due to quantization, truncation and round off. Introduction to DSP processors. Architecture of TMS 320C54 XX Digital Signal Processor. Principle of speech signal processing (Block Schematic only).
+
+Text Books:
+
+1.	John G. Proakis, Dimitris G. Manolakis, Digital Signal Processing ,PHI,New Delhi,1997V. 
+
+2.	Mitra, Digital Signal Processing , 3e, Tata McGraw –Hill Education New Delhi,2007 
+
+3.	P. Ramesh Babu- Digital Signal Processing-Scitech publication 
+ 
+
+
+Reference Books:
+
+1.	Alan V. Oppenheim, Ronald W. Schafer, Discrete time Signal Processing , PHI,New Delhi,1997. 
+
+2.	Udayashankara , Real Time Digital Signal Processing, PHI, New Delhi, 2010. 
+
+3.	Ganesh Rao, Digital Signal Processing, Sanguins 
+
+4.	Haykin and Van Veen, Signals and Systems, John Wiley and sons Inc .,2010. 
+
+5.	Li Tan, Digital Signal Processing-Architecture Implementation and Applications-Elsevier Publications 
+ 
+

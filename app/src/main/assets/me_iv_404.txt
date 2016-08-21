@@ -1,0 +1,54 @@
+ME010 404: Manufacturing Process
+
+(Common with AU010 404)
+
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+1.	To gain theoretical and practical knowledge in material casting processes and develops an understanding of the dependent and independent variables which control materials casting in a production processes. 
+2.	Provide a detailed discussion on the welding process and the physics of welding. Introduce students to different welding processes weld testing and advanced processes to be able to appreciate the practical applications of welding. 
+
+3.	The course will also provide methods of analysis allowing a mathematical/physical description of forming processes. 
+
+
+Module I (12 hours)
+
+Patterns: - types, allowances, color code – Molding sand: - constituents, types, properties, testing, types of mould, molding machines – Cores:- sands, types prints, machines, chaplets, forces acting on molding flasks - Gating system:- fluid flow and heat transfer in metal casting, elements and design of gating system, sprue, gating ratio, slag trap system – Risering:-risering design, chills, feeding devices - Cupola operation -pouring and cleaning of castings - defects in castings - inspection and quality control - Casting:- continuous, strip, shell mold, vacuum, investment, slush, pressure, die, centrifugal, precision investment, squeeze casting and semi solid metal forming, economics and surface finish obtainable - casting machines - comparison of casting with other production processes. (Include necessary figures and equations).
+
+
+Module II (12 hours)
+
+Welding:- diffusion, definition of welding, metallurgy of welding, applications, classification, mechanism - welding design:- effect of weld parameters on weld quality, heat input, heat flow and distortions - Gas welding:- details, equipment, fluxes and filler rods – flame cutting - Arc welding:- applications, equipment, polarity, governing factor in fusion welding - electrodes and types – TIG - GMA - CO 2 process - Submerged arc, electroslag, plasma arc and flux cored arc welding - Resistance, thermit solid state welding - Electron and laser beam welding
+
+– explosive welding - inspection and defects in welding - heat affected zone, grain size variations in joint strength - Brazing and soldering - adhesive bonding – Extrusion: Metal flow – mechanism and types – extrusion defects.
+
+Module III (12 hours)
+
+Rolling:- principles - types of rolls and rolling mills - mechanics of flat rolling, roll pressure distribution - neutral point - front and back tension, roll forces in hot rolling, roll torque and power, friction, deflection and flattening - friction and lubrication in metal forming - defects - hot and cold rolling - rolling machines - strip velocity and roll velocity - roll and roll pass design - theories of rolling and effect of parameters - load calculation - rolling of tubes, wheels, axles, I-beam thread, gear rolling.
+
+Module IV 12 hours)
+
+Forging:- classification - open die forging, forces and work of deformation - Forging methods analysis:- slab method only, solid cylindrical, rectangular work piece in plane strain, forging under sticking condition - deformation zone geometry – die forging:- impression, close,
+ coining, skew rolling etc. – defects in forging – forgeability tests – die design and materials – equipments - heating in forging - quality assurance for forging -non destructive testing - mechanics of rod and wire Drawing:- ideal deformation, ideal deformation and friction, drawing of flat strips etc – drawing defects – drawing practices.
+
+Module V (12 hours)
+
+Locating methods:- methods, degrees of freedom - principle of clamping:- clamping types - work holding principle – Die cutting:- Different types - shearing - types of presses –cutting action in punch and die operations – die clearances – types of die:- progressive, compound, combination die – Bending dies:- bending methods, minimum bend radius, bendability, spring back, forces, bend allowances – Forming dies:- solid form, curling, embossing, coining, bulging dies - Shear and tube spinning - High energy rate forming:- need, energy sources - material behavior - pneumatic, mechanical, electrohydraulic, electromagnetic, and explosive forming – Deep drawing:- deep drawability, punch forces.
+
+
+
+
+Text Books
+
+1.	Manufacturing Science - Amitabha Ghosh and  Ashok Kumar Mallick 
+
+2.	Manufacturing Engineering and Technology - Kalapakjian and Schmid 
+
+Reference Books
+
+1.	Principles of Metal Casting - Hine and Rosenthal 
+
+2.	Foundry Technology - P.R.Beeley 

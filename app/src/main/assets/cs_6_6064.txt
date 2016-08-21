@@ -1,0 +1,46 @@
+CS010 606L04 : UNIX Shell Programming
+
+(Common with IT010 606L03)
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To provide a fair knowledge of Unix concepts and gain sharp skills in Unix Shell programming 
+
+
+
+Module 1. (8 hours)
+
+Introduction to Unix:- Architecture of Unix, Features of Unix , Basic Unix Commands - Unix Utilities:- Introduction to unix file system, vi editor, file handling utilities, security by file permissions, process utilities, disk utilities, networking commands - Text processing utilities and backup
+
+Module 2. (13 hours)
+
+Introduction to Shells:-Unix Session, Standard Streams, Redirection, Pipes, tee Command, Command Execution, Command-Line Editing, Quotes, Command Substitution, Job Control, Aliases, Variables, Predefined Variables, Options, Shell/Environment Customization. Regular expressions, Filters and Pipes, Concatenating files, Display Beginning and End of files, Cut and Paste, Sorting, Translating Characters, Files with Duplicate Lines, Count characters, words or lines, Comparing Files.
+
+Module 3. (12 hours)
+
+grep:-Operation, grep Family, Searching for File Content. sed:-Scripts, Operation, Addresses, commands, Applications, grep and sed. awk:-Execution, Fields and Records, Scripts, Operations, Patterns, Actions, Associative Arrays, String Functions, Mathematical Functions, User Defined Functions, Using System commands in awk, Applications of awk, grep and sed
+
+Module 4. (15 hours)
+
+Interactive Shells - Korn Shell, C Shell and BASH - Shell Features, Special Files, Variables, Output, Input, Exit Status of a Command, eval Command, Environmental Variables, Options, Startup Scripts, Command History, Command Execution Process.
+
+Shell Programming - Korn Shell, C Shell and BASH -
+
+Basic Script concepts, Expressions, Decisions: Making Selections, Repetition, special Parameters and Variables, changing Positional Parameters, Argument Validation, Debugging Scripts, Script Examples.
+
+Module 5. (12 hours)
+
+Process management:- Creation, Hierarchies, Sending signals to processes, exec, termination, Zombie, waitpid etc - Network management:- tools, Client server mechanism, address resolution, ping, telnet, ftp, dns and squid – X Window System:- Overview, Architecture, starting and stopping X, X clients and display
+ 
+
+Reference Books
+
+1.	Behrouz A. Forouzan, Richard F. Gilberg,” Unix and shell Programming.”, Cengage Learning 
+2.	Sumitabha Das , “Unix the ultimate guide”, TMH. 2nd Edition. 
+3.	Kernighan and Pike, “Unix programming environment”, PHI. / Pearson Education 
+4.	Graham Glass, King Ables,” Unix for programmers and users”, 3rd edition, Pearson Education 
+5.	Maurice J. Bach, “The Design of the Unix Operating System”, First Edition, 
+Pearson Education, 1999

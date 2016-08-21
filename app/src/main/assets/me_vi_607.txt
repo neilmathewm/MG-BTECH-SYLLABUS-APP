@@ -1,0 +1,41 @@
+ME010 607: HEAT ENGINES LABORATORY
+
+(Common with AU010 607 and AN010 607)
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To provide experience on testing of IC engines performance. 
+
+Study of systems and components of IC Engines and automobiles - study of dynamometers used in engine testing - study of IC Engine repairs and maintenance.
+
+Study of boilers, boiler mountings and accessories - study of steam engine parts and systems.
+
+Testing of IC engines • Performance analysis of IC engine using computerized test rig-
+
+Load test on petrol and diesel engines- determination of indicated and brake thermal efficiencies - mechanical efficiency - relative efficiency - volumetric efficiency - air-fuel ratio and compression ratio - valve timing diagram - retardation test - Morse test - heat balance - effect of varying the rate of cooling water and varying the speed on the performance characteristics of engines.
+
+Testing of steam boiler - boiler trial - steam calorimeters and steam nozzles - performance test on steam engines - performance test on steam turbines.
+
+Testing of fuels and lubricants - determination of flash and fire points of petroleum products - determination of kinematics and absolute viscosity of lubricating oils - determination of calorific values
+
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+50%-Laboratory practical and record
+30%- Test/s
+20%- Regularity in the class
+
+
+
+End Semester Examination (Maximum Marks-100)
+
+70% -  Procedure, conducting experiment, results, tabulation, and inference
+
+30% -  Viva voce
+ 
+

@@ -1,0 +1,51 @@
+AI010 406 : ANALOG CIRCUITS – II
+
+(Common to EC010 406)
+
+
+Teaching Scheme :	Credits : 4
+
+3 hours lecture and 1 hour tutorial per week.
+
+Objectives:
+
+•	To understand differential amplifiers using BJT and MOSFET 
+
+•	To understand operational amplifier and its applications. 
+
+Module I (12)
+
+Differential Amplifiers - BJT differential pair, large signal and small signal analysis of differential amplifiers, Input resistance, voltage gain, CMRR, non ideal characteristics of differential amplifier. Frequency response of differential amplifiers. MOS differential amplifiers, Current sources, Active load, cascode load, current mirror circuits, Wilson current mirror circuits. Small signal equivalent circuits, multistage differential amplifiers.
+
+Module II (12)
+
+Simplified internal circuit of 741 op-amp. DC analysis, Gain and frequency response. MOS Operational Amplifiers, single stage- cascode and folded cascode, two stage op-amp, op-amp with output buffer, frequency compensation and slew rate in two stage Op-amps. Ideal op-amp parameters, Non ideal op-amp. Effect of finite open loop gain, bandwidth and slew rate on circuit performance.
+
+Module III (12)
+
+Opamp applications: Inverting and non-inverting amplifier, summing amplifier, integrator, differentiator, Differential amplifiers, Instrumentation amplifiers, V to I and I to V converters, Comparators, Schmitt Trigger, Square and triangular waveform generator, Oscillators – RC Phase-shift and Wein-Bridge, Multivibrators – Astable and Monostable, Precision rectifiers, Programmable gain Amplifier
+
+Module IV (12)
+
+Filters: Ist order Low pass, high pass and all pass filters - Bandpass and band elimination filters Biquadratic filters (single op-amp with finite gain non inverting Sallen-Key of Low pass, High pass, Band pass and Band elimination filters. Switched capacitor Resistor, switched capacitor Integrator, Ist order SC filter
+
+Module V (12)
+
+D/A converters: DAC characteristics- resolution, output input equations, weighted resistor, R-2R network. A/D converter: ADC characteristics, Types - Dual slope, Counter ramp, Successive approximation, flash ADC, oversampling and delta sigma ADC.
+
+Waveform generators – grounded capacitor VCO and emitter coupled VCO. Basic PLL topology and principle, transient response of PLL, Linear model of PLL, Major building blocks of PLL – analog and digital phase detector, VCO, filter. Applications of PLL. Monolithic PLL - IC LM565 and CD4046 CMOS PLL. 555 Timer Astable Multi vibrator and Monostable Multi vibrator using 555.
+ 
+
+
+References:
+
+
+1.	Sergio Franco: Design with Operational Amplifiers and Analog Integrated Circuits, 3/e,TMH. 
+2.	Behzad Razavi : Design of Analog CMOS IC, TMH, 2003. 
+3.	Gayakwad : Op-Amps and Linear Integrated Circuits , 4/e, PHI. 
+
+4.	David A.Johns, Ken Martin: Analog Integrated Circuit Design, Wiley India, 2008 
+
+5.	Gray, Hurst, Lewis and Meyer Analysis and Design of Analog Integrated Circuits, Wiley 
+
+6.	Baker R Jacob: CMOS Circuit Design, Layout and Simulation, PHI,2005 

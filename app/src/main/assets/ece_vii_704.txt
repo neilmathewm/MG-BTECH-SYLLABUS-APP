@@ -1,0 +1,39 @@
+EC010 704  ELECTRONIC INSTRUMENTATION
+
+Teaching Schemes	Credits: 3
+2 hours lecture and 1 hour tutorial per week.
+
+Objective: To cater the needs of students who want a comprehensive study of the electronic measurements, technology and instruments.
+
+Module 1(12 hrs)
+
+Objectives of engineering measurement-Basic measuring system-block diagram and description-Performance characteristics of instruments-Static and Dynamic. Errors in measurement – error analysis. Units-Dimensions – Standards. Instrument calibration.
+
+Module 2 (13 hrs)
+
+Transducers-parameters of electrical transducers-types-active and passive-analogue and digital types of transducers. Electromechanical type-potentiometric, inductive, thermocouple, capacitive, resistive, piezo electric, strain gauge, ionization gauge,LVDT,hall effect sensor,thin film sensor, proximity sensor, displacement sensor, load cell, nano sensors and Ultrasonic transducers. Opto electrical type-photo emissive, photo conductive and photo voltaic type. Digital encoders- optical encoder-selection criteria for transducers.
+
+Module 3 (13 hrs)
+
+Intermediate elements- instrumentation amplifier, isolation amplifier, opto-couplers. DC and AC bridges- Wheatstone bridge - guarded Wheatstone bridge - Owen's bridge - Shering Bridge - Wein Bridge - Wagner ground connection. Data transmission elements-block diagram of telemetry system-Electrical telemetering system--voltage, current and position type-RF telemetery-pulse telemetery (analog and digital).FDM-TDM.
+
+Module 4 (12 hrs)
+
+End devices –Digital voltmeter and ammeter. Recording techniques-strip chart recorders-XT and XY recorders. Basic principles of digital recording. Basic principles of Signal Analyzers-Distortion analyzer, wave analyzer, spectrum analyzer, DSO. Control system-electronic control-analog-digital-Basic principles of PLC. Basic principles of data acquisition system.
+
+Module 5(10 hrs)
+
+Basic measurements – Resistance, Capacitance, Inductance, Voltage, Current, Power, Strain, Pressure, Flow, Temperature, Force, Torque, mass, conductivity, PH.
+
+References:
+ 
+1.	Doeblin, “Measurement Systems”, MCGraw Hill. 
+2.	H S Kalsi, “Electronic Instrumentation”, Tata McGraw Hill 
+
+3.	W D Cooper, “Modern Electronic Instrumentation and Measurement techniques”, Prentice Hall of India 
+
+4.	Morris, “Principles of Measurement & Instrumentation”, Prentice Hall of India 
+5.	D.U. S Murthy, “Transducers & Instrumentation”, Prentice Hall of India. 
+6.	David A Bell, “Electronic Instrumentation and Measurements”, Oxford 
+
+7.	Rangan, Sarma & Mani, “Instrumentation-devices and systems”, Tata McGraw Hill. 

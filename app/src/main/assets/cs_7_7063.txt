@@ -1,0 +1,46 @@
+CS010 706L03: Operating System Kernel Design
+
+( common to IT010 706L05 Operating System Kernel Design )
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To provide knowledge about the operating system working principles. 
+
+•	To discuss most of the significant data structures and algorithms used in the kernel. 
+
+
+Module I (13 hours)
+
+Basic Operating System Concepts – Kernel – Types: monolithic, microkernel – An Overview of Unix Kernels-The Process/Kernel Model, Reentrant Kernels – Signals sending and receiving – System calls – System Call Handler and Service Routines - Interrupts and Exceptions - Interrupt Handling - The Timer Interrupt Handler.
+
+Module II (13 hours)
+
+Processes - Process Descriptor - Process State, Process relationship – Creating Processes - Process Termination - Process Scheduling – Scheduling algorithm – SMP Scheduler.
+Kernel Synchronization - Synchronization Techniques - Process Communication - System V IPC.
+
+Module III (10 hours)
+
+Paging in Linux - Memory Management - Page Frame Management - The Buddy System Algorithm - The Process's Address Space - The Memory Descriptor - Memory Regions - Page Fault Exception Handler.
+
+Module IV (14 hours)
+
+Overview of the Unix File System - The Virtual File System - role of the VFS - VFS Data Structures – File system Mounting.
+The Ext2 File system - Disk Data Structures - Creating the File system - Data Blocks Addressing - Allocating a Data Block.
+
+Module V (10 hours)
+
+Managing I/O Devices - Associating Files with I/O Devices - Device Drivers - Character Device - Block Device.
+Disk Caches - Buffer Cache - Writing Dirty Buffers to Disk - Page Cache.
+
+
+
+
+Reference Books
+
+1)	Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel, First ed., O'Reilly, 2000 
+2)	M Bech et al., Linux Kernel Internals, 2nd ed., Addison-Wesley, 1998 
+3)	Maurice J. Bach, The Design of the Unix Operating System, First Edition, Pearson Education, 1999. 
+4)	Abraham Silberschatz, Peter B.Galvin and Greg Gagne, “Operating System Concepts”, John  Wiley & Sons Inc, 8th Edition 2010.

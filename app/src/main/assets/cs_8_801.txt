@@ -1,0 +1,52 @@
+CS010 801 : HIGH PERFORMANCE COMPUTING
+
+
+Teaching scheme Credits: 4 3 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To design a powerful and cost-effective computer system. 
+
+•	To provide the basic concepts of parallel processing on high performance computers. 
+
+
+Module I (15 hours)
+
+Introduction to parallel processing - Trends towards parallel processing - Parallelism in uniprocessor - Parallel computer structures-Architecture classification schemes ,Amdahl’s law,Indian contribution to parallel processing
+
+Module II (15 hours)
+
+Principles of pipelining and vector processing - Linear pipelining - Classification of pipeline processors - General pipelines - Instruction and Arithmetic pipelines –Design of Pipelined instruction unit-Principles of Designing Pipeline Processors- Instruction prefetch and branch handling- Data Buffering and Busing Structure-Internal forwarding and register tagging-Hazard detection and Resolution,Dynamic pipelines and Reconfigurability
+
+
+Module III (15 hours)
+
+Array processors - SIMD array processors - Interconnection networks - Static vs dynamic networks - mesh connected networks - Cube interconnection networks - Parallel algorithms for array processors - SIMD matrix multiplication-Parallel sorting on array processors - Associative array processing - Memory organization.
+
+
+Module IV (15 hours)
+
+Multiprocessor architectures and Programming - Loosely coupled and Tightly coupled multiprocessors - Interconnection networks - Language features to exploit parallelism -Inter process communication mechanism-Process synchronisation mechanisms,synchronization with semaphores.
+
+
+Module V (15 hours)
+
+Dataflow computers - Data driven computing and Languages, Data flow computers architectures - Static data flow computer , Dynamic data flow computer ,Data flow design alternatives.
+ 
+
+References:
+
+1.Computer Architecture & Parallel Processing - Kai Hwang & FayeA.Briggs,McGraw Hill
+2.	Computer architecture A quantitative approach - John L Hennessy and David A. Patterson-ELSEVIER,Fourth Edition 
+
+3.	Elements of Parallel computing - V. Rajaraman - PHI 
+4.	Super Computers - V. Rajaraman - Wiely arstern 
+5.	Parellel Processing for Super Computers & AI Kai Hwange & Douglas Degneot Mc Graw Hill 
+6.	Highly parallel computing - George S. Almasi,Allan Gottlieb. - Benjamin Cumings Publishers. 
+
+7.	HIgh Performance Computer Architecture - Harold S. Stone, Addison Wesley. 
+8.	Advanced Computing- Vijay P.Bhatkar, Asok V.Joshi, 
+Arirban Basu, Asok K.Sharma.
+ 
+

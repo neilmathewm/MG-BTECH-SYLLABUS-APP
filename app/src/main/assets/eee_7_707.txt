@@ -1,0 +1,42 @@
+EE 010 707: Electrical CAD
+
+
+
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objective:
+
+To develop skills in computer aided drafting of electrical machines and lay-out of various electrical installations.
+
+Familiarization of CAD Environment- Creating files/folders- Naming of files/folders-Basic features of CAD software like AutoCAD, ProE, CATIA etc. Drafting and modelling- Setting the work space/work bench- 2D drafting/sketching- Status bar/tool bar settings.
+
+Simple drawing commands: line, ray, arc, circle, spline, ellipse, polygon etc., text, text editing
+
+Edit commands – cut, copy, paste…, View commands- zoom, pan, redraw, regen …,
+
+Modify commands- erase, copy, mirror, offset, move, rotate, trim, extend, arrays…., Object selection – Window, crossing, last, previous…
+
+Preparation of 2D drawings -Dimensioning- Layer and block control, Block Editor, Dimension styles, Scaling, Editing Preparation of 2D drawings-X-ref- commands, Printing/ Plotting of drawings
+
+Electrical CAD- Symbol libraries, Electrical User interface, icon menus, PCB drawing, Help system, Basic work flow, Project manager- opening, activating and closing projects
+
+Drawing Examples- DC simplex Lap and Wave windings- Schematic wiring, Wires, Ladders, Wire numbering, Signal arrows…etc, Three phase ac double layer Lap winding and single layer Mush winding
+
+Circuits- Multiple phase circuits, Electrical Schematic drawing of an 11kV indoor Sub-station, HT/LT panels with Circuit Breakers-Electrical Schematic drawings of MSB with supplies from a Transformer and Standby DG set, relays, indication lamps, metering etc.
+
+Editing- Editing tools, Schematic symbols, Updating of blocks, Rail assembly.
+
+Electrical Machine (2D) dimensioned drawings- Half sectional elevation and end view of Induction motor, Synchronous machine and DC machine.
+
+Introduction to 3D (demonstration only)
+ 
+References
+
+1.	Auto CAD reference manual (Release 2008 or later) 
+
+2.	A text book computer aided machine drawing: S. Trymbaka Murthy 
+
+3.	CAD/ CAM principle, practice and manufacturing management: Chris McMahon, Jimmie Browne 

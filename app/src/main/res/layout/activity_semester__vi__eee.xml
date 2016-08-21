@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.neil.user.mg_syllabus.Semester_VI_Eee">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 601: Power Generation and Distribution"
+        android:id="@+id/button13"
+        android:layout_marginTop="30dp"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="Eee_VI_601"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 602 Induction Machines"
+        android:id="@+id/button14"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_below="@+id/button13"
+        android:layout_centerHorizontal="true"
+        android:onClick="Eee_VI_602"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="EE 010 603: Control Systems"
+        android:id="@+id/button15"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/button14"
+        android:layout_centerHorizontal="true"
+        android:onClick="Eee_VI_603"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 604  Digital Signal Processing"
+        android:id="@+id/button16"
+        android:layout_below="@+id/button15"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Eee_VI_604"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 605 Microcontrollers and Embedded Systems"
+        android:id="@+id/button17"
+        android:layout_below="@+id/button16"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Eee_VI_605"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 606 L01  High Voltage Engineering"
+        android:id="@+id/button18"
+        android:layout_below="@+id/button17"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Eee_VI_606"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE010 607 Power Electronics Lab"
+        android:id="@+id/button19"
+        android:layout_below="@+id/button18"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:textColor="#ffffff"
+        android:layout_marginTop="5dp"
+        android:ems="100"
+        android:onClick="Eee_VI_607"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:text="EE 010 608: Microprocessor and Microcontroller Lab"
+        android:id="@+id/button20"
+        android:layout_below="@+id/button19"
+        android:layout_centerHorizontal="true"
+        android:background="#113ec3"
+        android:layout_marginTop="5dp"
+        android:textColor="#ffffff"
+        android:ems="100"
+        android:onClick="Eee_VI_608"
+        />
+</RelativeLayout>

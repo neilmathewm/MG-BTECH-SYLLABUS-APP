@@ -1,0 +1,43 @@
+CS010 606L05: Embedded Systems
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hours tutorial per week
+
+
+Objectives
+
+•	To impart the basic concepts of Embedded System and its applications 
+
+•	To develop understanding about micro controllers and programming the micro controller for the development of Embedded systems. 
+
+
+
+
+Module I (-12 hours)
+
+Introduction to Embedded Systems-Classification of Embedded Systems-Application areas of Embedded Systems, Typical Embedded System- Memory-Sensors and Actuators-Embedded Firmware - Characteristics and Quality Attributes of Embedded Systems
+
+Module II (13 hours)
+
+Application Specific Embedded System – Domain Specific Embedded System, Designing Embedded Systems with 8bit Microcontrollers- Factors to be considered in selecting a Controller- Designing with 8051 microcontroller- 8052 microcontroller, Programming the 8051 microcontroller – Addressing modes of 8051 – the 8051 Instruction set
+
+Module III ( 13 hours)
+
+Hardware Software Co-Design and Program Modeling – Computational models in Embedded Design, Embedded Hardware Design and development – Electronic Design Automation Tools, Embedded Firmware Design and Development - Embedded Firmware Design Approaches - Embedded Firmware Development Languages – Programming in Embedded C.
+
+Module IV (12 hours)
+
+Real Time Operating System based Embedded System Design – Operating System Basics – Types of Operating Systems – Tasks- Process- Threads – Multiprocessing and Multitasking – Task Scheduling – Task Communication – Task Synchronization – Introduction to Vx Works and Micro C/OS-II RTOS
+
+Module V (10 hours)
+
+The Embedded System Development Environment – Integrated Development Environment , The Embedded Product Development Life Cycle – EDLC- Objectives of EDLC – Different phases of EDLC – Modeling the EDLC
+ 
+
+Reference Books
+
+1.	Shibu K V, Introduction to Embedded Systems, McGraw Hill, New Delhi, 2009 
+2.	Raj Kamal, Embedded Systems Architecture, Programming and Design, 2nd ed., Tata McGraw Hill , New Delhi, 2008 
+3.	Frank Vahid & Tony Givargis, Embedded System Design A Unified Hardware/Software Introduction, Wiley - India Edition, New Delhi, 2010 
+4.	Wayne Wolf , Computers as Components Principles of Embedded Computing System Design, , 2nd ed., Elsevier, Gurgaon, 2009 
+
+5.	Steven F Barrett & Daniel J Pack , Embedded Systems Design and Applications with the 68HC12 and HCS12, Pearson Education, Delhi, 2008. 

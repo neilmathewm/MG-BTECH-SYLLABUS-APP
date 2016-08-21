@@ -1,0 +1,51 @@
+EC010 403 SIGNALS AND SYSTEMS
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+? To study the methods of analysis of continuous time and discrete time signals and systems to serve as a foundation for further study on communication, signal processing and control
+
+Module I (12 hrs)
+
+
+Classification of signals: Continuous time and Discrete time, Even and Odd , Periodic and Non-periodic , Energy and Power – Basic operations on signals: Operations performed on the dependent variable , operations on the independent variable: Shifting , Scaling – Elementary Discrete time and Continuous time signals: Exponential , Sinusoidal , Step , Impulse , Ramp – Systems: Properties of Systems: Stability, Memory, Causality, Invertibility, Time invariance, Linearity – LTI Systems: Representation of Signals in terms of impulses – Impulse response – Convolution sum and Convolution integral – Cascade and Parallel interconnections – Memory, Invertibility, Causality and Stability of LTI systems – Step response of LTI systems – Systems described by differential and difference equations (solution by conventional methods not required)
+
+Module II (12 hrs)
+
+
+Fourier analysis for continuous time signals and systems: Representation of periodic signals: Continuous Time Fourier Series – convergence of Fourier series – Gibbs phenomenon – Representation of aperiodic signals: Continuous Time Fourier Transform – The Fourier Transform for periodic signals – Properties of Fourier representations – Frequency Response of systems characterized by linear constant coefficient differential equations
+
+Module III (12 hrs)
+
+
+Fourier analysis for discrete time signals and systems: : Representation of periodic signals: Discrete Time Fourier Series – Representation of aperiodic signals: Discrete Time Fourier Transform – The Fourier Transform for periodic signals – Properties of Fourier representations – Frequency Response of systems characterized by linear constant coefficient difference equations
+
+Module IV (12 hrs)
+
+
+Filtering: Frequency domain characteristics of ideal filters – Time domain characteristics of ideal LPF
+
+– Non-ideal filters – First and Second order filters described by differential and difference equations – Approximating functions: Butterworth, Chebyshev and elliptic filters (Magnitude response only) – Sampling: The sampling theorem – Reconstruction of a signal from its samples using interpolation – Aliasing
+ 
+
+
+Module V (12 hrs)
+
+
+Bilateral Laplace Transform – ROC – Inverse – Geometric evaluation of the Fourier transform from pole-zero plot – Analysis and characterization of LTI systems using Laplace Transform – The Z Transform – ROC – Inverse – Geometric evaluation of the Fourier Transform from pole-zero plot – Properties of Z transform - Analysis and characterization of LTI systems using Z-Transform
+
+References:
+
+1)	A V Oppenheim, A S Willsky and S H Nawab, Signals and Systems, Prentice Hall of India. 
+
+2)	S Haykin,  and B V Veen, Signals and Systems, Wiley 
+3)	B P Lathi, Signal Processing and Linear Systems, OUP 
+
+4)	E W Kamen, and B Heck, Fundamentals of Signals and Systems using the web and Matlab, Pearson 
+
+5)	Luis F Chaparro ,   Signals and Systems Using MATLAB, Elsevier 
+6)	R E Ziemer,  and W H Tranter, Signals and Systems, Pearson. 
+7)	R A Gabel and R A Roberts, Signals and Linear Systems, Wiley 

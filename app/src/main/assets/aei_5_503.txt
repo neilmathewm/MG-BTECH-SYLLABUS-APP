@@ -1,0 +1,44 @@
+AI010 503
+
+BASIC INSTRUMENTATION & RECORDING SYSTEM
+
+Credits: 4 3+1+0
+Objectives:
+
+To help the students to
+1.	have knowledge of the basics of instrumentation, 
+2.	have an exposure to different types of bridge measurements, recorders and meters 
+
+Module 1
+
+Generalized configuration of Instrumentation system- Definition of measurement parameters – Calibration - Static and dynamic characteristics- Standards of measurements-Measurements errors- Accuracy-Precision- Sensitivity- Resolution, Significant figures .
+
+Module 2
+
+Bridge measurement: Wheatstone, Kelvin, Wien, Hay, Maxell, Anderson and Schering bridges; Q meter – Potential transformer - current transformers – KVA meters – Power factor meter – Megger.
+
+Module 3
+
+DC and AC voltmeters, differential voltmeters, AC current measurements – multimeters –vector impedance meter - power meter: Wave analyzer – harmonic distortion analyzer - spectrum analyzer.
+
+Module 4
+
+Digital instruments: Digital voltmeter - dual slope- successive approximation types; Digital measurement of time interval, phase, period, frequency, ratio of two Frequencies; Digital LCR meter; Digital alpha numeric display.
+
+Module 5
+
+General purpose oscilloscope : CRT screen characteristics – vertical and horizontal amplifiers –delay line – time base and sweep trigger circuits –synchronization- typical measurements using CRO ; Sampling oscilloscope ; digital storage oscilloscope ; Recorders: moving coil recorders - XY plotters - UV recorders- Thermal recording.
+
+Text Book:
+
+1.	Doeblin, Measurement Systems-Application and Design, Mc Graw Hill, N.Y.1990. 
+2.	Cooper, W.D., and Helfrick, A.D., Electronic Instrumentation and Measurement Techniques, Third Edition, Prentice Hall of India, 1991 
+3.	D.A.Bell, Electronic Instrumentation and Measurements, Englewood Cliffs, N.J., 1994 
+4.	Kalsi, G.C., Electronic Instrumentation TMH, 1998. 
+ 
+Reference Books:
+
+1.	Sawhney, K.A., A Course in Electrical & Electronics Measurement & Instrumentation, Dhanpat Rai & Sons. 
+2.	Cidwell, W., Electrical Instruments and Measurements, TMH, 1969. 
+3.	Woolvert, G.A., Transducers in Digital Systems, Peter peregrinvs Ltd., England, 1988. 
+4.	Bouwens, A.J., Digital Instrumentation, McGraw Hill, 1986. 

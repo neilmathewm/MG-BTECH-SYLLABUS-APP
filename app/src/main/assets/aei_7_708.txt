@@ -1,0 +1,47 @@
+AI010 708
+
+DIGITAL SIGNAL PROCESSING(DSP) LAB
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives:
+
+•	To familiarise with real time signal processing. 
+
+•	To familiarize with signal procesing tools like, Matlab/Octave and TMS 320C 6713 DSP Processor. 
+
+•	Study of charecteristics of analog and digital signals and systems. 
+
+•	Study of practical dificulties in designing a digital system. 
+
+List of Experiments:
+
+1.	Introduction to Matlab/Octave for signal processing. 
+
+2.	Architecture of DSP chips-TMS 320C 6713 DSP Processor. 
+
+3.	Generation of Test Discrete-Time Signals in the Time Domain- Impulse, step, triangular, sinusoidal, damped sinusoidal, etc. 
+
+4.	Discrete-Time Systems in the Time Domain- Discrete time system as mathematical operation and analysing for linearity, impulse response, step response. 
+
+5.	Discrete-Time Signals in the Frequency Domain- Analysis of various signals in frequency domain using Fourier basis using Fourier series, Foureir Transform, DFS DTFT and N-point FFT algorithm. 
+
+6.	Discrete-Time Systems in the Frequency Domain- Analysis of system in frequency domain and study the frequency response and phase response of a system. 
+
+7.	Digital Processing of Continuous-Time signals: Sampling Theorem and anti-aliasing filters-Study of sampling theorem by sampling an analog signal and reconstruction for various sampling rate. Design of a signal pre-processing(anti-aliasing filter) system to sample a signal from a transducer. 
+
+8.	Digital Filter Structures: Realisation of FIR and IIR system and their implementation in direct, cascade, parallel, lattice and lattice-ladder forms and study the finite length effects in various realization. 
+
+9.	Digital Filter Design -FIR filters using windows and effects of various windows on transition width and maximum attenuation obtained. 
+
+10.	Digital Filter Design -IIR filters by pole-zero placements and approximation of analog filters like Butterworth, Chebyshev, elliptic filters and comparing their phase charecteristics, magnitude response for various orders. 
+
+References:
+
+1.	Digital Signal Processing: Laboratory Experiments Using C and the TMS320C31 DSK:Rulph Chassaing 
+
+2.	DIGITALS IGNALP ROCESSING USING MATLAB by Vinay K. Lngle, John G. Proakis. 
+
+3.	Digital Signal Processing Laboratory Using MATLABby Sanjit K Mitra. 
+ 

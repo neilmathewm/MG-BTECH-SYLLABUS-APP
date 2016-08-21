@@ -1,0 +1,99 @@
+ME010 508 Electrical & Electronics Lab
+
+(Common with PE010 508 and AU010 508)
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To conduct various tests on Electrical Machines and to study their performance. 
+
+•	To conduct various tests on practical electronic circuits 
+
+PART A
+
+1.	Study of 3-point and 4-point starters for D.C machines 
+
+2.	OCC of self excited D.C machines – critical resistances of various speeds. Voltage built-up with a given field circuit resistance. Critical speed for a given field circuit resistance 
+
+3.	OCC of separately excited D.C machines 
+
+4.	Load test on shunt generator – deduce external, internal and armature reaction characteristics. 
+
+5.	Load test on compound generator 
+
+6.	Swinburne’s test on D.C machines 
+
+7.	Brake test on D.C shunt motors and determination of characteristics. 
+
+8.	Brake test on D.C series motors and determination of characteristics. 
+
+9.	Brake test on D.C compound motors and determination of characteristics. 
+
+10.	O.C and S.C tests on single phase transformers – calculation of performance using equivalent circuit – efficiency, regulation at unity, lagging and leading power factors. 
+
+11.	Load test on single phase transformers. 
+
+12.	Alternator regulation by emf and mmf methods 
+
+13.	Study of starters for three phase induction motors 
+
+14.	Load tests on three phase squirrel cage induction motors 
+
+15.	Load tests on three phase slip ring induction motors 
+
+16.	Load tests on single phase induction motors 
+
+
+PART B
+
+1.	Design and testing of clipping and clamping circuits 
+
+2.	Design and testing of of RC integrator and differentiator circuits. 
+ 
+
+
+
+
+Syllabus – B.Tech. Mechanical Engineering
+ 
+Mahatma Gandhi University
+
+
+
+
+3.	Design and testing of rectifier circuits – Half wave – Full wave (centre – tapped and bridge) circuits. Filter circuits. 
+
+4.	Design and testing of RC coupled amplifier– frequency response. 
+
+Sweep circuits
+
+5. Design and Testing of RC phase-shift Oscillator
+
+References
+
+1.	Dr. P S Bimbra, Electrical Machinery, Khanna Publishers 
+2.	R K Rajput, A text book of Electrical Machines, Laxmi publishers 
+3.	A.P. Malvino, Electronic Principles– TMH 
+4.	Floyd, Electronic Devices, Pearson Education, LPE 
+
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+50%-Laboratory practical and record
+30%- Test/s
+20%- Regularity in the class
+
+
+
+
+
+
+End Semester Examination (Maximum Marks-100)
+
+70% -  Procedure, conducting experiment, results, tabulation, and inference
+
+30% -  Viva voce

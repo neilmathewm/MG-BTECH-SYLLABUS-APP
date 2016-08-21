@@ -1,0 +1,48 @@
+
+EE 010 608: Microprocessor and Microcontroller Lab
+
+
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To provide experience in the programming of 8085 microprocessor and 8051 microcontroller 
+
+•	To familiarize with the interfacing applications of 8085 microprocessor and 8051 microcontroller. 
+
+1.	8085 assembly language programming experiments 
+
+a.	8-bit and 16 bit arithmetic operations 
+
+b.	Sorting 
+c.	BCD to binary and binary to BCD conversion 
+d.	Finding square root of a number 
+e.	Finding out square root of a number using look-up table 
+f.	Setting up time delay and square wave generation 
+g.	Interfacing of switch and LED 
+h.	Traffic control signals 
+
+2.	8051 programming 
+
+a.	Setting up time delay using timer and square wave generation 
+
+b.	Interfacing LEDs 
+c.	Interfacing Hex keyboard 
+d.	Interfacing LCD display 
+e.	Interfacing electromechanical and static relay 
+f.	Interfacing DC motor with MOSFET switches and opto-isolator 
+
+
+
+3.	Mini Project 
+
+The students are expected to do a mini project in the area of microprocessors /microcontrollers and should be evaluated separately and considered for internal assessment. 
+
+Reference: 
+
+Satish Shah, 8051 Microcontroller , Oxford Higher Education 
+
+
+Note : Internal assessment mark for the laboratory work ( Part 1 & Part2) is 60 % and for the mini project (Part 3) is 40 %.

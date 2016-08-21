@@ -1,0 +1,75 @@
+EE 010 702: Synchronous Machines
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+To impart knowledge on
+
+•	Construction and performance of salient and non – salient type synchronous generators. 
+
+•	Principle of operation and performance of synchronous motors. 
+
+Module 1 (12 hours)
+
+Synchronous Machines: Types – selection of alternators – constructional features of cylindrical and salient pole machines.
+
+Armature windings: different types – phase grouping – single and double layer, integral and fractional slot winding – emf equation – distribution factor – coil span factor – tooth harmonic ripples – skewed slots – harmonics, elimination of harmonics – revolving magnetic field.
+
+Module 2 (14 hours)
+
+Armature Reaction – Synchronous reactance – circuit model of synchronous machine. Regulation – predetermination – emf, mmf and potier methods, saturated synchronous reactance – Phasor diagrams – short circuit ratio – two-reaction theory – Phasor diagram – slip test – measurement of Xd, Xq, losses and efficiency of synchronous machines.
+
+Module 3 (14 hours)
+
+Parallel operation of alternators – load sharing – synchronizing power and torque – governor characteristics – method of synchronizing – synchroscope.
+
+Synchronous Motor: Principles of operation – torque and power relationships – Phasor diagram
+– hunting in synchronous machines – damper winding – starting of synchronous motors.
+
+Module 4 (12 hours)
+
+Synchronous machines connected to infinite bus – power angle characteristics of cylindrical rotor and salient pole machines – reluctance power – steady state stability limit – V-curves – inverted V-curves – O-curves – synchronous condenser
+
+Symmetrical short circuit of unloaded alternators – steady state, transient and sub-transient reactance – current variation during short circuit.
+
+Module 5 (8 hours)
+
+Excitation systems: different types – comparison – exciter ceiling voltage – excitation limits – exciter response – methods of increasing the response of an exciter.
+
+Brushless Alternators: Principle of operation - constructional features – excitation methods – voltage regulation.
+
+
+
+Syllabus-B.Tech Electrical And Electronics Engineering
+ 
+Mahatma Gandhi University
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+60% -  Tests (minimum 2)
+
+20% - Assignments (minimum 2) such as home work, problem solving, group discussions, quiz, literature survey, seminar, term-project, software exercises, etc.
+20% -  Regularity in the class
+
+Note:	One of the assignments shall be simulation of continuous systems using any technical computing software
+
+
+Text Book
+
+1. Electrical Machines: P.S Bhimbra, Khanna Publishers, New Delhi
+
+References
+
+1.	The performance and Design of AC Machines: M.G. Say, Cbs Publishers 
+
+2.	Theory of Alternating Current Machinery: Alexander Langsdorf, Tata Mgraw Hill 
+3.	A course in Electrical Engg. Vol.2: C.L Dawes, McGraw- Hill Book Company inc. 
+4.	Power System Stability – Vol. 3: Edward.W Kimbark, Ieee Computer Society Press 
+5.	Electric Machines: D. P.Kothari & I.J.Nagrath, Tata McGraw Hill 
+6.	Chapman S J, Electrical Machine Fundamentals, Mc Graw Hill 
+7.	Theory and performance of Electrical Machines: J.B Gupta, S. K. Kataria & Sons 
+

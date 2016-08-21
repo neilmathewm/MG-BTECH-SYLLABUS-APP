@@ -1,0 +1,44 @@
+IT 010 702 : Object Oriented Modeling and Design
+
+Teaching scheme Credits: 3 2 hours lecture and 1 hour tutorial per week
+
+
+Objective
+
+•	To impart ideas on building systems through the object oriented modelling approach using the Unified Modelling Language. 
+
+
+Module 1	(10 hours)
+
+Introduction: object oriented development-modeling concepts – object oriented methodology – models – object oriented themes-Object Modeling– links and associations
+– advanced links and association concepts – generalization and inheritance - grouping constructs – a sample object model
+Advanced Object Modeling: aggregation – abstract classes – generalization as extension and restriction – multiple inheritance – metadata – candidate keys – constraints.
+
+Module 2	(10 hours)
+
+Dynamic modeling: Events and states – Operations – Nested state diagrams – Concurrency – Advanced dynamic modeling concepts – A sample dynamic model – Relationship of Object and Dynamic models.
+Functional modeling: Functional models – Data Flow Diagrams - Specifying operations
+– Constraints – A sample functional model – Relation of functional to Object and Dynamic models.
+
+Module 3	(10 hours)
+
+Analysis: Analysis in object modeling, dynamic modeling and functional modeling, Adding operations- Iterating the analysis
+System Design: Breaking system into subsystems - Identifying concurrency-allocating subsystems to processors and tasks, managing of data stores. Handling of global resources- handling boundary conditions-Common Architectural Frameworks
+
+Module 4	(8 hours)
+Object Design: Overview of Object design – Combining the three models – Designing
+algorithms  –  Design  optimization  –  Implementation  of  control  –  Adjustment  of
+inheritance - Design of association – Object representation – Physical packaging –
+Documenting design decisions-Comparison of methodologies
+Module 5	(7 hours)
+Unified Modeling language: Introduction, UML Diagrams – Class diagrams, Sequence diagrams, Object diagrams, Deployment diagrams, Use case diagrams, State diagrams, Activity diagram, Component diagrams – Case Study.
+
+
+Reference Book
+
+1.	Object Oriented Modeling and Design -James Rumbaugh, Prentice Hall India 
+
+2.	UML Distilled – Martin Fowler, Addison Wesley 
+3.	Object- oriented Systems analysis and design using UML- 4th ed., Simon Bennet,Stephen McRobb, Ray Farmer. TMH. 
+
+4.	Object Oriented Analysis and Design with Applications - Grady Booch, Pearson Education Asia 

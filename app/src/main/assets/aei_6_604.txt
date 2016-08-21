@@ -1,0 +1,48 @@
+AI010 604
+
+MICROCONTROLLER BASED SYSTEM DESIGN
+
+3+1+0 Credits: 4
+
+Objectives:
+
+1.	To give an idea about micro controllers and its interfacing techniques. 
+
+2.	To get an exposure in microcontroller programming 
+
+Module 1
+
+Various logic families – features – comparison – PLA – PAL- GAL -comparison – combinational PAL – PAL with flip-flops – study of 16L8, 22V10 GAL – dual port RAM
+
+– FIFO – FPGA – gate arrays.
+
+Module 2
+
+Embedded C compiler – advantages – memory models – interrupt functions – code optimization – 89C2051 micro-controller- architecture-comparison with 89C51- design of a simple trainer circuit using 89C51/89C2051 µC. Introduction to latest micro controllers (ARM Processor/ PIC microcontrollers) - introduction, architecture (block diagram explanation only), Memory organization etc.
+
+Module 3
+
+Analog to digital converters- single slope, dual slope, successive approximation, sigma delta, flash – comparison – typical ICs – A/D interface – digital to analog converters – different types – D/A interface – optically isolated TRIAC interface- design of a temperature control system- sensors - opto isolator -interfacing programs using C and assembly language-.
+
+Module 4
+
+Serial Communication :Serial bus standards – I2C bus, SPI bus – operation – timing diagrams – 2 wire serial EEPROM – 24C04 – 3wire serial EEPROM – 93C46 – interfacing – serial communication standards – RS232, RS422, RS485 – comparison – MAX232 line driver/ receiver – interfacing –– universal serial bus – PCI bus - interfacing programs using C and assembly language – low voltage differential signaling – PC printer port – registers – interfacing.
+
+Module 5
+
+Real World Interfacing: Matrix key board interface – AT keyboard – commands – keyboard response codes – watch dog timers – DS1232 watch dog timer – real time
+ 
+clocks – DS1302 RTC – interfacing – measurement of frequency – phase angle – power factor – stepper motor interface – dc motor speed control – L293 motor driver – design of a position control system –– interfacing of DIP switch, LED, 7 segment display, alphanumeric LCD – relay interface – design of a traffic light control system – interfacing programs using C and assembly language.
+
+References
+
+1.	The 8051 Microcontroller: Muhammad Ali Mazidi, Pearson Education. 
+
+2.	The 8051 Microcontroller: Kenneth J Ayala, Penram International. 
+3.	Digital fundamentals: Floyd, Pearson Education. 
+4.	Programming and customizing the 8051 µC: Myke Predko, TMH 
+5.	Programming with ANSI C and turbo C: Kamthane, Pearson Education. 
+6.	Microcomputers and Microprocessors: John Uffenbeck, PHI. 
+7.	Web site of Atmel semiconductors –  www.atmel.com 
+
+8.	PIC 16F877 data book 

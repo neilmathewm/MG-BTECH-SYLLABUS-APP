@@ -1,0 +1,43 @@
+IT010 601: Computer Networks
+
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hour tutorial per week
+
+Objectives
+
+To teach the mode of operation of different types of computer networks that are used to interconnect a distributed community of computers and various interfacing standards and protocols.
+
+Module I (10 hours)
+
+Introduction: - ISO-OSI Reference Model – TCP/IP Reference Model – Comparison Network hardware-Repeaters, Routers, Bridges, Gateways, Hub, Cable Modem. Physical Layer: - Transmission Media– ISDN system Architecture – Communication Satellites – geostationary satellites - Medium Earth Orbit Satellites- Low earth orbit satellites– Satellite v/s Fiber
+
+Module 2 (12 hours)
+
+Data Link Layer: - Design issues-Error Detection and correction – Elementary Data link protocols- Sliding window protocols. .
+LAN Protocols: - Static & Dynamic channel allocation in LAN’s and WAN’s, Multiple access protocols – ALOHA – Pure ALOHA – Slotted ALOHA – Carrier Sense Multiple Access protocols – persistent and non-persistent CSMA – CSMA with collision detection – IEEE 802.3 standards for LAN
+
+Module 3 (14 hours)
+
+Network layer: -Virtual Circuits, Datagrams, Routing Algorithm – Optimality principle - Flooding - Flow Based Routing - Link state routing – Distance vector routing – Multicasting – Link state multicasting – Distance vector multicasting - Congestion Control Algorithms – General principles – Packet discarding – Choke packets - Congestion prevention policies – Traffic shaping – Leaky bucket algorithm
+– Flow specifications – jitter control
+
+Module 4 (12 hours)
+
+Transport Layer: - Transport Service - Elements of transport protocols – Internet Transfer Protocols UDP and TCP – ATM – Principle characteristics.
+
+Module 5 (12 hours)
+
+Application Layer: -Domain name system – DNS name space – Resource records – Name servers – operation of DNS - Electronic Mail – MIME
+Mobile networks: - Mobile telephone systems, Bluetooth - Components – Error correction – Network topology – Piconet and scatternet – L2CAP layers – Communication in Bluetooth networks
+ 
+
+References
+
+1.	Computer Networks (Fourth Edition): Andrew S.Tanenbaum, Pearson Education Asia/ PHI 
+2.	An Introduction to computer networking: Kenneth C. Mansfield Jr., James L. Antonakos, Prentice-Hall India 
+3.	Communication Networks: Leon, Garcia, Widjaja Tata McGraw Hill. 
+4.	Computer Networks (Second Edition): Larry L Peterson & Bruce S Davie, (Harcourt India) 
+5.	Computer Networking: James F Kurose & Keith W Ross, Pearson Education 
+6.	Introduction to Data Communications and Networking: Behrouz, Forouzan, McGraw Hill 

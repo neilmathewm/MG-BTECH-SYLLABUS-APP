@@ -1,0 +1,61 @@
+CE 010 506 STRUCTURAL ANALYSIS I
+
+Teaching scheme:	Credits: 4
+3hour lecture and 1 hour tutorial per week
+
+Objective:
+
+To study the force and displacement methods of structural analysis of indeterminate structures , the influence line diagrams and an introduction to Finite Element Method.
+
+Module 1 (12 hours)
+
+Indeterminate structures- force and displacement methods of structural analysis. Force method of analysis of indeterminate structures - static indeterminacy
+
+Method of consistent deformation, Clapyron’ s theorem of three moments- analysis of fixed and continuous beams
+
+Module 2 (12 hours)
+
+Displacement method of analysis: Kinematic indeterminacy
+Slope deflection method- fundamental equations-analysis of continuous beams & portal frames (with sway and without sway)
+Moment distribution method - analysis of continuous beams & portal frames (with sway and without sway).
+
+Module 3 (14 hours)
+
+Matrix methods: Stiffness method-stiffness-equilibrium equation
+Direct stiffness method - structure stiffness matrix-assembly of structure stiffness matrix from element stiffness matrix-equivalent joint load – incorporation of boundary conditions –analysis of beams and pin-jointed frames.
+
+Module 4 (10 hours)
+
+Flexibility method: Flexibility –compatibility equation-flexibility influence coefficients – force transformation matrix-flexibility matrix-analysis of beams & frames (rigid and pin-jointed).
+
+Module 5 (12hours)
+
+Finite element method: Introduction to FEM-Historical development-Idealization of actual structures- Boundary conditions. General procedure of FEA-Displacement approach - shape functions
+
+References
+
+1.Devdas Menon, Structural Analysis, Vol.1&II, Narosa, Chennai.
+
+2.	Bhavikatti S.S , Structural Analysis Vol. I, Vikas Publishing House (P) Ltd. 
+3.	Weaver &Gere, Matrix Analysis of Structures, East West Press. 
+4.	Moshe F. Rubinstein – Matrix Computer Analysis of Structures- Prentice Hall, 1969. 
+5.	Meek J.L., Matrix Structural Analysis, McGraw Hill,1971. 
+6.	Reddy C.S., Basic Structural Analysis, Tata McGraw Hill Publishing Co.1996. 
+ 
+7.	Smith J.C. Structural Analysis, Macmillian Pub.Co.1985. 
+
+8.	Rajesekharan & Sankarasubramanian,G., Computational Structural Mechanics, Prentice Hall of India, 2001. 
+9.	Mukhopadhyay M., Matrix Finite Element Computer and Structural Analysis, Oxford & IBH,1984. 
+10.	Wang C.K.& Solomon C.G., Introductory Structural Analysis, McGrawHill.1968. 
+
+11.	Pezemieniecki, J.S, Theory of Matrix Structural Analysis, McGraw Hill Co., 1984 
+
+12.	Sadhu Sindh, Strength of Materials, Khanna Publishers, 1988. 
+13.	Seeli F.B.&Smith J.P., Advanced Mechanics of Materials, John Wiley &Sons, 1993. 
+14.	Norris & Wilbur, Elementary Structural Analysis, McGraw Hill. 
+15.	Junarker S.R., Mechanics of Structures, Vol. II, Charorbar Book Stall. 
+16.O C Zienkiewicz,.Finite Element Method, fourth Edition,McGraw Hill,
+17.	R.D.Cook, Concepts and Applications of Finite Element Analysis, John Wiley &Sons. 
+19.	C.S.Krishnamoorthy, Finite Element Analysis, Tata McGraw Hill .New Delhi, 1987. 
+20.	S.Rajasekharan, Finite Element Analysis, Wheeler Publishing Co., &Sons.1993. 
+ 

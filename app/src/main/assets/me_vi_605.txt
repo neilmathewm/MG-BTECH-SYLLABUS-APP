@@ -1,0 +1,42 @@
+ME010 605 Mechatronics and Control systems
+
+(Common with AU010 605)
+
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart basic concepts of mechatronics and control systems. 
+
+Module 1 [12 Hours]
+
+Introduction:-Scope of Mechatronics-Systems-Microprocessor based controllers-mechatronic approach-sensors-transducers-force-velocity-displacement-temperature-inputting data by switches-signal conditioning-operational amplifiers-filtering-multiplexers- data acquisition-modulation. Data presentation systems:- Displays-measurement systems-calibration-pneumatic and hydraulic systems-control valves-actuators- mechanical and electrical activation systems-relays and solenoid switches-proximity pickups.
+Module 2 [12 Hours]
+Input/output Systems:-Ports, interface requirements, adaptors-programmable logic controllers -data handling digital communications-system, networks, protocols, interfaces, fault finding- design and mechatronic design solutions. Electromechanical systems:-CD, DVD Rom, OCR, Printers.
+Module 3 [12 Hours]
+Introduction to Control Systems Engineering:-Concept of automatic control-open loop and closed loop systems-servomechanisms-Block diagrams-transfer functions-Representation of control components and systems-Translational and rotational mechanical components –series and parallel combinations-comparators ,integrating devices, hydraulic servomotors, temperature control systems, speed control systems.
+Module 4 [12 Hours]
+
+System Response:-First and second order system-Response to step, pulse, ramp and sinusoidal input-systems with distance, velocity lag. Control System Analysis:-Transient Response of simple control systems –Stability of control systems –Routh Stability criteria –Error Analysis.
+Module 5 [12 Hours]
+Frequency Response Analysis :- Polar ,Rectangular and Logarithmic plots – Experimental determination of frequency response -Bode and Nyquist stability criteria – Gain and phase margin. Root locus of simple transfer function.
+
+
+Text Books
+
+1. Mechatronics-W.Bolton-Pearson
+
+2. Control Systems- A. Nagoor Kani
+
+References
+
+1. Mechatronics-A.Smaili&F.Mrad-Oxford
+
+2. Control Systems Engg –T .J. Nagrath & M .Gopal.
+
+3. Automatic Control Theory-Ravan.
+4. Modern Control Engg.-K. Ogatta
+5 Control Systems Engg -Benjamin C Kuo

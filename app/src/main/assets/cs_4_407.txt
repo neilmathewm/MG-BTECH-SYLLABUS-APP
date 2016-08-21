@@ -1,0 +1,24 @@
+CS010 407: Data Structures Lab
+
+Teaching scheme Credits: 2 3 hours practical per week
+
+
+Objectives
+
+•	To provide experience on design, testing, and analysis of Algorithms and Data Structures. 
+•	To acquaint the students with the Data Structures used in the Computer Science field. 
+
+1)	Representation of Polynomials using Arrays and Linked List and the different operations that can be performed on Polynomials 
+2)	Representation of Sparse Matrix using Arrays and Linked List and the different operations that can be performed on Sparse Matrices 
+3)	Representation of Stacks using Arrays and Linked List and the different operations that can be performed on Stacks 
+4)	Representation of Queues using Arrays and Linked List and the different operations that can be performed on Queues 
+5)	Representation of Double Ended Queue using Arrays and Linked List and the different operations that can be performed on Double Ended Queue 
+6)	Representation of Priority Queues using Arrays and Linked List and the different operations that can be performed on Priority Queues 
+7)	Representation of Binary Trees using Arrays and Linked List and the different operations that can be performed on Binary Trees 
+8)	Representation of Graphs using Arrays and Linked List and the different operations that can be performed on Graphs 
+9)	Infix, Postfix and Prefix conversions. 
+10)	Different Sorting and Searching methods. 
+11)	String representation using Arrays and Linked List and different pattern matching algorithms 
+12)	Implementation and operations on B-Tree and B+Tree 
+
+Any experiment according to the syllabus of CS010 403 can be substituted.

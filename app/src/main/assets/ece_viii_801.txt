@@ -1,0 +1,37 @@
+EC010 801 WIRELESS COMMUNICATION
+
+Teaching Schemes	Credits: 4
+2 hours lecture and 2 hours tutorial per week.
+
+Objective: To give the students an idea about the cellular communication theory and technology.
+
+Module 1 (12 hrs)
+
+Cellular concept-frequency reuse, channel assignment, hand off, interference, trunking and grade of service, cell splitting, sectoring, microcell concept.
+
+Module 2 (12 hrs)
+
+Introduction to radio wave propagation-free space propagation model, round reflection (2-ray) model, impulse response model of a multipath channel, parameters o mobile multipath channels, type of small scale fading, fading effect due to multipath time delay spread and Doppler spread, diversity technique for mobile wireless radio system.
+
+Module 3 (12 hrs)
+
+Multiple access technique for wireless communication-FDMA, TDMA, spread spectrum multiple access-FHMA, CDMA, hybrid spread spectrum technique-space division multiple access- packet radio.
+
+Module 4 (12 hrs)
+
+GSM-GSM network architecture, GSM channel type, frame structure for GSM,( signal processing in GSM-speech coding, channel coding, interleaving, ciphering, burst formatting, modulation, frequency hopping, demodulation) authentication and security in GSM, GSM call procedures, GSM hand off procedures.
+
+Module 5 (12 hrs)
+
+CDMA digital cellular standards- Introduction, frequency and channel specification, forward and reverse CDMA channel, CDMA call processing, soft hand off, performance of a CDMA system, comparison of CDMA with GSM, digital cellular standards- DECT, PDC, PHS
+
+
+References:
+
+1.	Andrea Goldsmith, “Wireless Communications”, Cambridge University Press, 2005. 
+2.	Simon Haykin & Michael Moher, “Modern Wireless Communications”, Person Education, 2007. 
+3.	T. S. Rappaport, “Wireless Communication, Principles & Practice”, Dorling Kindersley (India) Pvt. Ltd., 2009. 
+4.	G. L. Stuber, “Principles of Mobile Communications”, 2nd Edition, Springer Verlag. 2007. 
+5.	Kamilo Feher, 'Wireless Digital Communication', Dorling Kindersley (India) Pvt. Ltd., 2006. 
+6.	R. L. Peterson, R. E. Ziemer & David E. Borth, “Introduction to Spread Spectrum Communication”, Prentice Hall, 1995. 
+7.	A. J. Viterbi, “CDMA- Principles of Spread Spectrum”, Prentice Hall, 1995. 

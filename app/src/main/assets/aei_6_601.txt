@@ -1,0 +1,52 @@
+AI010 601
+
+PROCESS CONTROL INSTRUMENTATION
+(Common to EI010 601, IC010 601)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+1.	To study the basics of process control 
+
+2.	To study about the various controller modes and methods of tuning of controllers 
+3.	To give an idea about the construction , characteristics and applications of control valves 
+4.	To have a case study of distillation column control. 
+
+Module 1 (12 hours)
+
+Process Control System: Need for process control, classification of process variables, Process characteristics: Process equation, degrees of freedom, modeling of simple systems – thermal, gas, liquid systems. Process lag, load disturbance and their effect on processes. Self-regulating processes, interacting and non interacting processes, Regulator and servo control. Piping and Instrumentation diagram- instrument terms and symbols.
+
+Module 2 (12 hours)
+
+Controller modes: Basic control action, two position (ON-OFF), multi-position, floating control modes. Continuous controller modes: Proportional, Integral, Derivative. Composite controller modes: P-I, P -D, P-I-D. response of controllers for different types of test inputs, electronic controllers to realize various control actions, selection of control mode for different processes, Integral wind-up and prevention. Auto/Manual transfer, Bumpless transfer.
+
+Module 3 (12 hours)
+
+Optimum Controller Settings: Controller tuning Methods- Process reaction curve method, Ziegler Nichols method, damped oscillation method, ¼ decay ratio. Evaluation criteria - IAE, ISE, ITAE. Response of controllers for different test inputs. Selection of control modes for processes like level, pressure, temperature and flow.
+
+Module 4 (12 hours)
+
+Final control elements: I/P and P/I converter, Pneumatic and Electric actuators. Pneumatic control valves, classification, construction details (Globe, butterfly and ball valve types), various plug characteristics. Valve sizing, inherent and installed valve characteristics. Cavitation and flashing in control valves. Valve actuators and positioners. Selection of control valves.
+
+Module 5 (12 hours)
+ 
+
+Advanced control schemes: Cascade control, ratio control, feed forward control, Adaptive and Inferential control, split range and averaging control. Multivariable process control, interaction of control loops. Case Studies: Steam boiler – control of heat exchangers, drum level control and combustion. Distillation column – Control of top and bottom product compositions – Reflux ratio, control schemes in distillation column.
+
+Text Books:
+
+1.	George Stephenopoulos: Chemical Process Control, 
+
+2.	Donald P. Eckman, Automatic Process Control 
+3.	Peter Harriot : Process Control,TMH,1985. 
+4.	D R Coughanowr: Process Systems Analysis and Control, McGraw Hill. 
+
+References:
+
+1.	Patranabis D: Principles of Process Control, TMH, 1981. 
+
+2.	B.G Liptak, Process Control, Chilton Book Company. 
+ 

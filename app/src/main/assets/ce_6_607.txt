@@ -1,0 +1,38 @@
+CE010 607 COMPUTER AIDED DESIGN AND DRAFTING LAB
+
+Teaching Scheme	Credit: 2
+
+3 hours practical per week
+
+Objective
+
+To provide familiarity with functional requirements and regulations related to buildings and to enable students to prepare neat building drawings with CAD software so as to minimize effort and maximize output.
+
+Exposure to different categories of building (Private, Public, Residential, Flats, Offices, Clubs/Recreational buildings etc.- Local visit and preparation of sketches
+
+Functional requirements of buildings – Different functional units of a building- Requirements regarding Area, Height, Head room, Width of passage way, Lighting, Ventilation, Public amenities, Setback, Parking, clearance from electric lines, Provision and location of septic Tank-clearance from well, Familiarity with norms in National Building Code and local building rules. Study of building plans (Residential / Commercial / Public buildings / Office/Flats / Cottages etc. ) sanctioned by local authority.
+
+Preparation of 2D drawing- Advantages of CAD over manual drafting- Features of CAD software-menus and tool bars-Concept of drawing in true size- Drawing units- Drawing tools-Editing tools- Controlling display-(zoom, pan, regeneration, redraw) Productivity tools-mirror,copy,block,array,Detailing-layers,color,linetype,ltscale,hatch Inquiry –area, dimension Plotting- scale. Specifications for drawings
+
+Preparation of 3D drawings- Concept of 3D drawing- viewpoint, real-time 3D rotation, 3D modeling techniques- wire modeling, surface modeling, surface revolution, 3D face. Elevation and thickness - addition and subtraction of 3d objects. Shading - rendering.
+
+Application of CAD to Civil Engineering Drawing with emphasis on architectural appearance. Residential, Public buildings complete in all aspect including layout plan, section, elevation, details/specifications/joinery and site plan taken in standard scale with title block.
+
+Exposure to 3D studio and 3D Max
+
+A term project submitted individually and suitable for submitting to local bodies for approval incorporating local building rules and NBC provisions is compulsory for external evaluation.
+
+Assignments:- Submission of neat dimensioned line sketches from local visit Collection and study of approved building plan
+
+Preparing an Elevation for given plans Preparing Plans based on requirements of clients.
+References
+
+1.  Reference manual of the package.
+ 
+2.	National building code of India. 
+
+3.	Shah & Kale, Building Drawing, Tata McGraw Hill. 
+4.	Balgopal T.S.Prabhu, Building Drawing and Detailing, SPADES Calicut. 
+5.	Sham Tickoo, Understanding Auto CAD2002, Tata McGraw Hill. 
+6.	Sham Tickoo, Auto CAD2002 with applications, Tata McGraw Hill. 
+ 

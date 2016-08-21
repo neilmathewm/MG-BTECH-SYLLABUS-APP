@@ -1,0 +1,45 @@
+CE010 805G01  FINITE ELEMENT ANALYSIS (Elective IV)
+
+Teaching scheme:	Credit: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective:
+
+To make the back ground, basic concepts and basic formulation of finite element method
+
+Module I (12hrs)
+
+Introduction to FEM-Historical development-Idealization of actual structures-Mathematical model-General procedure of FEA-Displacement approach. Solution techniques- Gauss Elimination – Frontal solver (concepts only)
+
+Module 2 (12hrs)
+
+Finite element analysis- - Energy principles- Principle of Stationary Potential Energy- Complementary Energy - Variational approach -Stable- Unstable-Neutral equilibrium-Virtual work- Principle of virtual forces – Principle of virtual displacements.
+
+Module 3 (12hrs)
+
+Shape functions-Lagrangian and Hermition Interpolation – Polynomials – General coordinates-Area coordinates-Compatibility –C0 and C1 elements-convergence criteria- conforming & nonconforming elements – Patch test
+
+Module 4 (12hrs)
+
+Stiffness matrix-Bar element-Beam element-Triangular elements - Constant Strain Triangle-Linear Strain Triangle- Isoparametric elements-Numerical Integration - Gauss Quadrature.
+
+Module 5 (12hrs)
+
+General plate bending elements- Plate bending theory – Kirchhoff’s theory – Mindlin’s theory – Introduction to locking problems- preventive measures – reduced integration – selective integration. Axysymmetric elements- Introduction to shell elements
+
+References
+
+1.	O C Zienkiewicz,.Finite Element Method, fourth Edition,McGraw Hill, 
+2.	R.D.Cook, Concepts and Applications of Finite Element Analysis, John Wiley &Sons. 
+3.	Stephen P.Timoshenko& Krieger, S.W., Theory of Plates and Shells, McGraw Hill. 
+4.	C.S.Krishnamoorthy, Finite Element Analysis, Tata McGraw Hill .New Delhi, 1987. 
+5.	S.Rajasekharan, Finite Element Analysis, Wheeler Publishing Co., &Sons.1993. 
+6.	T.Kant, Finite Element Methods in Computational Mechanics, Pergamons Press. 
+7.	K.J.Bathe, Finite Element Procedures in Engineering Analysis, Prentice Hall, 
+8.	Mukhopadhyay M., Matrix Finite Element Computer and Structural Analysis, 
+ 
+Oxford &IBH, 1984.
+
+9.	Irving H.Shames, Energy &Finite Element Methods in Structural Mechanics. 
+10.	Desai C.S.&Abel J.F., Introduction to Finite Element Methods, East West Press 

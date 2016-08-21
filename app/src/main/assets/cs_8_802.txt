@@ -1,0 +1,45 @@
+CS010 802: ARTIFICIAL  INTELLIGENCE
+
+Teaching scheme Credits: 4 2 hours lecture and 2 hour tutorial per week
+
+
+Objectives
+
+•	To provide introduction to the basic knowledge representation, problem solving, and learning methods of Artificial Intelligence. 
+
+•  To familiarize with Fuzzy Logic and knowledge processing in expert  systems
+
+•	To give exposure to problem solving in AI using Python 
+
+Module 1 (14 hours)
+
+Problems- problem spaces and search, production systems, Problem characteristics, Searching strategies – Generate and Test, Heuristic Search Techniques- Hill climbing– issues in hill climbing, General Example Problems.
+
+Python-Introduction to Python- Lists Dictionaries & Tuples in Python- Python implementation of Hill Climbing
+
+Module 2 (12 hours)
+
+Search Methods- Best First Search- Implementation in Python- OR Graphs, The A * Algorithm, Problem Reduction- AND-OR Graphs, The AO* algorithm, Constraint Satisfaction. Games as search problem, MINIMAX search procedure, Alpha–Beta pruning.
+
+Module3  (12 hours)
+
+Knowledge representation -Using Predicate logic- representing facts in logic, functions and predicates, Conversion to clause form, Resolution in propositional logic, Resolution in predicate logic, Unification, Question Answering, forward and backward chaining.
+
+Module 4  (12 hours)
+
+Learning- Rote Learning – Learning by Advice- Learning in Problem Solving - By Parameter Adjustment with Macro Operators, Chunking, Learning from Examples- Winston’s Learning Program, Version Spaces- Positive & Negative Examples – Candidate Elimination- Decision Trees-ID3 Decision Tree Induction Algorithm.
+
+Module 5 (10 hours)
+
+Fuzzy Sets – Concept of a Fuzzy number- Operations on Fuzzy Sets – Typical Membership Functions – Discrete Fuzzy Sets.
+Expert System –Representing and using Domain Knowledge – Reasoning with knowledge– Expert System Shells –Support for explanation- examples –Knowledge acquisition-examples.
+
+References
+
+1.	Elaine Rich, Kevin Knight, Shivashankar B Nair Tata McGraw Hill- Artificial Intelligence, 3rd Edn ,2004. 
+2.	Stuart Russell – Peter Narang, Pearson Education Asia - Artificial Intelligence- A modern approach. 
+3.	George F Luger - Artificial Intelligence, Pearson Education Asia 
+4.	Allen B. Downey – (Think Python) Python for software design- How to think like a computer scientist, Cambridge University press, 2009 . 
+Web Reference
+
+1.	http://code.google.com/p/aima-python/ - Website for search strategy implementation in python 

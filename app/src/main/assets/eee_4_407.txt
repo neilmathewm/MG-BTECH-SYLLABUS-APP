@@ -1,0 +1,46 @@
+EE 010 407 Computer Programming Lab
+
+
+Teaching scheme	Credits: 2
+
+3 hours practical per week
+
+Objectives
+
+•	To develop computer programming skills 
+
+
+Programming Experiments in C
+
+Programming experience in C to cover control structures, functions, arrays, structures, pointers and files in accordance with syllabus of EE 010 406.
+
+
+1.	Familiarization using simple programs. 
+
+2.	Familiarization of branching and looping operations 
+3.	Summation of series 
+4.	Preparation of Conversion tables 
+5.	Solution of quadratic equations 
+6.	Array manipulation 
+7.	Functions 
+8.	Recursive functions 
+9.	Matrix operations 
+10.	String manipulation – compare, copy, reverse operations 
+11.	Pointers- Sorting of single dimensional arrays and strings 
+12.	Structures - sorting 
+13.	Tabulation of marks and declaration of results – input and output using files 
+14.	Creation of numeric and text files, merging and appending of files. 
+15.	Simple programs using linked lists 
+
+
+References:
+
+1.	Balagurusamy, Programming in ANSI C, TMH 
+
+2.	K.R. Venugopal & S.R. Prasad, Mastering C , TMH 
+ 
+
+
+
+
+

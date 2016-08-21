@@ -1,0 +1,57 @@
+EE 010 602 Induction Machines
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	Construction, principle of operation and performance of induction machines and special electrical machines 
+
+.
+
+Module1(16 Hours)
+
+Three phase induction motor: Construction-squirrel cage and slip ring motors-principle of operation-slip and frequency of rotor current-mechanical power - developed torque- phasor diagram-torque-slip curve-pull out torque-losses and efficiency.
+
+No load and locked rotor tests-equivalent circuit-performance calculation from equivalent circuit-circle diagram-operating characteristics from circle diagram-cogging and crawling and methods of elimination.
+
+Module 2(14 Hours)
+
+Starting of three phase squirrel cage induction motor-direct on line starting-auto transformer-star delta starting- starting of slip ring motors-design of rotor rheostat-variation of starting torque with rotor resistance.
+
+Speed control-pole changing-rotor resistance control-frequency control- static frequency conversion-Deep bar and double cage induction motor –equivalent circuit -applications of induction machines-single phasing-analysis using symmetrical components.
+
+Module3(10 Hours)
+
+Induction Generator: Theory- phasor diagram-Equivalent circuit-Synchronous Induction motor-construction-rotor winding connections-pulling into step
+
+Single phase Induction motor: Revolving field theory- equivalent circuit- torque- slip curve-starting methods-split phase, capacitor start-capacitor run and shaded pole motors.
+
+Module 4(10 Hours)
+
+Commutator motors-principle and theory-emf induced in a commutator winding- Single phase series motor :theory –phasor diagram-compensation and interpole winding-Universal motor-Repulsion motor: torque production –phasor diagram-compensated type of motors-repulsion start and repulsion run induction motor-applications-Reluctance motor-Hysterisis motor.
+
+
+Module5(10 Hours)
+
+Construction-principle of operation, operating characteristics of stepper motor, switched reluctance motor, BLDC motor, Permanent magnet synchronous motor, linear induction motor-principle-application-magnetic levitation
+
+Text Books:
+
+1.	Alexander Langsdorf A S, Theory of AC Machinery, Tata McGraw-Hill 
+
+2.	Dr. P S Bimbhra, Electrical Machinery, Khanna Publishers 
+ 
+Reference Books:
+
+1.	Say M G, Performance and design of AC Machines, ELBS 
+
+2.	J B Gupta, Electrical Machines , S K Kataria and Son 
+
+3.	Nagarath I J and Kothari D P, Electrical Machines ,4e, Tata McGraw- Hill Education, New Delhi, 2010 
+4.	Vincent Deltoro, Electrical Machines and Power System, Prentice Hall 
+
+5.	Venketaratnam, Special Electrical Machines, Universal Press 
+ 
+
+

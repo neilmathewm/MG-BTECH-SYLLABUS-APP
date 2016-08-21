@@ -1,0 +1,57 @@
+EC010 506 MICROPROCESSORS AND APPLICATIONS
+
+Teaching scheme	Credits: 4
+3 hours lecture and 1 hour tutorial per week.
+
+
+Objectives
+•	To study the architecture of microprocessors 8085 and 8086. 
+•	To understand the instruction set of 8085. 
+•	To know the methods of interfacing them to the peripheral devices. 
+•	To use all the above in the design of microprocessor based systems. 
+
+Module I (12hours)
+
+Introduction to microprocessors and microcomputers: Function of microprocessors-organisation of a microprocessor based system – microprocessor architecture and its operations – memory – I/O devices - pin configuration and functions of 8085 – tristate bus concept - control signals– de-multiplexing AD0-AD7 – flags - memory interfacing - I/O addressing - I/O mapped I/O - memory mapped I/O schemes - instruction execution - fetch/execute cycle - instruction timings and operation status.
+
+Module II (12 hours)
+
+Intel 8085 instruction set - instruction and data format – simple programs - programs in looping, counting and indexing – 16 bit arithmetic operations - stack and subroutines - basic concepts in serial I/O – 8085 serial I/O lines
+
+Module III (12 hours)
+
+Basic interfacing concepts – interfacing input devices – interfacing output devices – interfacing as memory mapped I/O - Interrupts – vectored interrupt – restart as software instruction – interfacing A/D and D/A converters.
+.
+Module IV (12 hours)
+
+Programmable interface devices – basic concepts – 8279 programmable keyboard / display interface – 8255A programmable peripheral interface – 8254 programmable interval timer – 8259A programmable interrupt controller - DMA and 8237 as DMA controller.
+
+Module V (12 hours)
+
+Intel 8086 Microprocessor - Internal architecture – Block diagram – Minimum and maximum mode operation – Interrupt and Interrupt applications – memory organization – even and odd memory banks – segment registers – logical and physical address – advantages and disadvantages of physical memory.
+
+
+Reference
+
+1.	Ramesh S Goankar, 8085 Microprocessors Architecture Application and Programming, 
+
+Penram International, 5th edition, 1999. 
+2.	Aditya P Mathur, Introduction to Microprocessor, Tata McGraw-Hill, 3rd edition, 2002. 
+3.	Douglas V Hall, Microprocessors and Interfacing, Tata McGraw-Hill 2nd edition, 2008. 
+
+4.	N Senthil Kumar, M Saravanan, Microprocessors and Microcontrollers, Oxford University press, 2010. 
+
+5.	John Uffenbeck, Microcomputer and Microprocessor, The 8080, 8085 And Z80 Programming, Interfacing and Trouble Shooting, PHI, 3rd edition, 2006. 
+
+6.	Michel Slater, Microprocessor Based Design A Comprehensive Guide to Effective Hardware Design, PHI, 2009. 
+ 
+
+
+
+
+Syllabus - B.Tech. Electronics & Communication Engg.
+ 
+Mahatma Gandhi University
+
+
+7.	P K Ghosh, P R Sridhar, 0000 to 8085 Introduction to Microprocessors for Engineers and Scientists, Prentice Hall of India, 2nd edition, 2006. 

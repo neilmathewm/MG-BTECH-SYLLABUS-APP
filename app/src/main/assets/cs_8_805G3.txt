@@ -1,0 +1,52 @@
+CS010 805G03 : Advanced Mathematics
+
+( common to IT010 805G02  Advanced Mathematics )
+
+Teaching Schedule:	Credits: 4
+
+2 hour Lecturer and 2 hour Tutorial per week
+
+Objectives
+
+•	To provide an understanding of Green’s Function, Integral Equations, Gamma, Beta functions, Power Series solution of differential equation, Numerical solution of partial differential equations 
+
+Module 1 (12 Hours) Green’s Function
+
+Heavisides, unit step function – Derivative of unit step function – Dirac delta function – properties of delta function – Derivatives of delta function – testing functions – symbolic function – symbolic derivatives – inverse of differential operator – Green’s function – initial value problems – boundary value problems – simple cases only
+
+Module 2 (12 Hours)
+
+Integral Equations
+
+Definition of Volterra and Fredholm Integral equations – conversion of a linear differential equation into an integral equation – conversion of boundary value problem into an integral equation using Green’s function – solution of Fredhlom integral equation with separable Kernels – Integral equations of convolution type – Neumann series solution.
+
+Module 3 (12 Hours) Gamma, Beta functions
+
+Gamma function, Beta function – Relation between them – their transformations – use of them in the evaluation certain integrals – Dirichlet’s integral – Liouville’s extension of Dirichlet’s theorem
+– Elliptic integral – Error function.
+
+Module 4 (12 Hours)
+
+Power Series solution of differential equation
+The power series method – Legendre’s Equation – Legendre’s polynomial – Rodrigues formula – generating function – Bessel’s equation – Bessel’s function of the first kind – Orthogonality of Legendre’s Polynomials and Bessel’s functions.
+
+Module 5 (12 Hours)
+
+Numerical solution of partial differential equations
+
+Classification of second order equations- Finite difference approximations to partial derivatives – solution of Laplace and Poisson’s equations by finite difference method – solution of one dimensional heat equation by Crank – Nicolson method – solution one dimensional wave equation.
+
+References
+
+1. S.S Sasthri, “Introductory methods of Numerical Analysis”,Prentice Hall of India. 2. Ram P.Kanwal, Linear Integral Equation, Academic Press, New York.
+3. Allen C.Pipkin, Springer, A Course on Integral Equations, Verlag. 4. H.K.Dass, Advanced Engg. Mathematics, S.Chand.
+
+5. Michael D.Greenberge, Advanced Engg. Mathematics, Pearson Edn. Asia. 6. B.S.Grewal, Numrical methods in Engg.&science, Khanna Publishers.
+
+7. R.F. Hoskins, Generalized functions, John Wiley and Sons.
+8.	Bernard Friedman, Principles and Techniques of Applied Mathematics, John Wiley and sons 
+
+9.	James P.Keener, Principles of Applied Mathematics, Addison Wesley. 
+10.	P.Kandasamy, K.Thilagavathy, K.Gunavathy Numerical methods, S.Chand & co 
+ 
+

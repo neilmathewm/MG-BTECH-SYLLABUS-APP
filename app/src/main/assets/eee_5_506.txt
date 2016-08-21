@@ -1,0 +1,51 @@
+EE 010 506: Microprocessors and Applications
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To provide in-depth knowledge about 8085 microprocessor architecture, programming and interfacing. 
+•	To introduce the 16-bit microprocessor 8086. 
+
+Module 1 (10 hours)
+
+Evolution of Processors – single chip microcomputer – Intel 8085 Microprocessor – signals architecture of 8085 – ALU – register organization – timing and control unit – microprocessor operations – instruction cycle – fetch, decode and execute operation – T-state, machine cycle and instruction cycle – timing diagram of opcode fetch, memory read, I/O read, memory write and I/O write cycles – wait state
+
+Module 2 ( 13 hours)
+
+Instruction set of 8085: Classification of instructions – different addressing modes – writing assembly language programs – typical examples like 8 bit and 16 bit arithmetic operations, finding the sum of a data array, finding the largest and smallest number in a data array, arranging a data array in ascending and descending order, finding square from look-up table.
+
+Module 3 (11 hours)
+
+Stack and Subroutines: Stack pointer – stack operations – call-return sequence – examples - Counters and time delays
+
+Interrupts of 8085: Software and hardware interrupts- restart instructions – interrupt structure of 8085 – interrupt procedure- vectored and non-vectored interrupts – SIM and RIM instructions
+
+Module 4 ( 12 hours)
+
+Interfacing: Memory interfacing - ROM and RAM – interfacing I/O devices – address space partitioning – memory mapped I/O and I/O mapped I/O schemes – interfacing I/Os using decoders –programmable peripheral devices –8255 block diagram, programming simple input and output ports- DMA controller 8257-– interfacing of 8279 keyboard /display controller-8275 CRT controller
+
+Module 5 (14 hours)
+
+Intel 8086: Logical Pin diagram –Internal Architecture- pipelining- registers and flags - Operating modes: Minimum mode and Maximum mode.
+Physical address generation – memory segmentation –even and odd memory banks. Addressing modes- instruction set classification – writing simple programs : arithmetic operations.
+ 
+
+Text books:
+
+1.	Ramesh Gaonkar, Microprocessor Architecture, Programming and Applications with 8085, Penram Intl. 
+
+2.	A.K. Ray and K.M. Burchand , Advanced Microprocessors and Peripherals , TMH 
+
+
+Reference books:
+
+1.	B.Ram, Fundamentals of Microprocessors and Microcomputers, Dhanpat Rai and Sons 
+2.	A.Nagoor Kani , Microprocessor(8085) and its Applications , RBA Publications 
+3.	Douglas V. Hall, Microprocessors and Digital Systems, McGraw Hill 
+4.	A.P Mathur, Introduction to Microprocessors, TMH 
+5.	Douglas V. Hall , Microprocessors and Interfacing: Programming and Hardware, TMH 
+6.	A. Nagoor Kani , Microprocessor 8086 Programming and Interfacing, RBA Publications 
+ 

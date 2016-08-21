@@ -1,0 +1,54 @@
+EC010 603   RADIATION AND PROPAGATION
+
+Teaching Schemes	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week.
+
+OBJECTIVES
+
+•	To impart the basic concepts of radiating structures and their arrays 
+•	_To give understanding about analysis and synthesis of arrays 
+•	To give idea about basic propagation mechanisms 
+
+MODULE 1 ( 13 hours)
+
+Retarded potentials: Concept of vector potential- Modification for time varying- retarded case- Fields associated with Hertzian dipole- Power radiated and radiation resistance of current element-Radiation from half-wave dipole and quarter-wave monopole antennas.
+
+Antenna Parameters: Introduction, Isotropic radiators, Radiation pattern, Gain -radiation intensity-Directive gain, Directivity, antenna efficiency- antenna field zones. Reciprocity theorem & its applications, effective aperture, Effective height, radiation resistance, terminal impedance, front-to-back ratio, antenna beam width, antenna bandwidth, antenna beam efficiency, antenna beam area or beam solid angle, polarization, antenna temperature.
+
+MODULE 2 (13hours)
+
+Antenna Arrays: Introduction, various forms of antenna arrays, arrays of point sources, non isotropic but similar point sources, multiplication of patterns, arrays of n-isotropic point sources, Grating lobes, Properties and Design of Broadside, Endfire, Binomial and Dolph Chebyshev arrays, Phased arrays, Frequency- Scanning arrays- Adaptive arrays and Smart antennas.
+
+MODULE 3 (13hours)
+
+Antenna Types:- Horizontal and Vertical Antennas above the ground plane. Loop Antennas: Radiation from small loop and its radiation resistance- Radiation from a loop with circumference equal to a wavelength-Helical antenna: Normal mode and axial mode operation-Yagi uda Antenna- Log periodic antenna- rhombic antenna- Horn antenna-Reflector antennas and their feed systems- Micro strip antenna-Selection of antenna based on frequency of operation – Antennas for special applications: Antenna for terrestrial mobile communication systems, Ground Penetrating Radar(GPR), Embedded antennas, UWB,
+
+,Plasma antenna.
+
+MODULE 4 (13hours)
+
+Ground wave propagation: Attenuation characteristics for ground wave propagation-Calculation of field strength at a distance –
+ 
+
+Space wave propagation: Reflection characteristics of earth- Resultant of direct and reflected ray at the receiver- LOS distance – Effective earth‘s radius – Field strength of space wave - duct propagation
+
+Sky wave propagation: Structure of the ionosphere- effect of earth‘s magnetic field Effective dielectric constant of ionized region- Mechanism of refraction- Refractive index- Critical frequency- Skip distance- Effect of earth’s magnetic field- Attenuation factor for ionospheric propagation- Maximum usable frequency(MUF) – skip distance – virtual height – skip distance, Fading and Diversity reception.
+
+MODULE 5 (8 hours)
+
+Antenna Measurements: Reciprocity in Antenna measurements – Measurement of radiation pattern – Measurement of ranges - Measurement of different Antenna parameters- Directional pattern, Gain, Phase, Polarization, Impedance, and Efficiency, Effective gain,SAR.
+
+
+REFERENCES
+
+1.	John D. Krauss, Ronald J Marhefka: “Antennas and Wave Propagation”, 4th Edition, Tata Mc Graw Hill 
+
+2.	Jordan & Balman. “Electromagnetic waves & Radiating Systems”– Prentice Hall India 
+
+3.	Constantine. A. Balanis: “Antenna Theory- Analysis and Design”, Wiley India, 2nd Edition, 2008 
+
+4.	R.E Collin: “Antennas & Radio Wave Propagation”, Mc Graw Hill. 1985. 
+5.	Terman: “Electronics & Radio Engineering”, 4th Edition, McGraw Hill. 
+
+6.	Kamal Kishor: “Antenna and Wave propagation” , IK International 

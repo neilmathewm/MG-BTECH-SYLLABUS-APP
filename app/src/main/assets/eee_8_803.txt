@@ -1,0 +1,63 @@
+EE 010 803: Electrical System Design
+
+Teaching scheme	Credits: 4
+
+3 hours Lecture and 2 hours Tutorial per week
+
+Objectives
+
+•	Design of Electrical machines and transformers for the given specifications 
+
+•	To impart sound knowledge in the design and estimation of electrical installations. 
+
+Module I (18 Hours) Design of D.C Machines:
+Magnetic system- Carter’s coefficient – real and apparent flux density. Design specifications
+– output equation – output Coefficient – specific loadings – choice of speed and number of poles – calculation of D and L – Armature design – choice of type of winding – number of slots –number of conductors per slot – current density – cross sectional area – slot insulation 
+
+– length of air gap – field winding design – field ampere turns – excitation voltage per coil – conductor cross section – height of pole. 
+
+Module II (16 Hours)
+
+Transformers: Design – single phase and three phase – output equation – specific magnetic loading – core design – single, stepped core - windings – number of turns – current density – area of cross section of conductors – types of coils – insulation – window area – window space factor – overall dimensions-heating, cooling and temperature rise calculation – continuous, short time and intermittent rating– design of cooling tank with tubes – design of small transformers like 230V/6-0-6V.
+
+Module III (11 Hours)
+
+Design of Synchronous Machines: Specific loading – output equation – output coefficient – main dimensions – types of winding – design of field system – turbo alternator – main dimensions – stator design – rotor design – damper winding design – comparison of water wheel and turbo alternators.
+
+Design of three phase Induction motors: output equation – output coefficient –main dimensions – rotor bar currents.
+
+Module IV (15 Hours)
+
+General awareness on standards of Bureau of Indian Standards (BIS) with special reference to
+
+(1) Code of Practice for Medium Voltage Installations I.S .732, (2) Code of Practice for Earthing I.S.3043, National Electrical Code, Bureau of Energy Efficiency (BEE) and its labelling. Electrical wiring layout of a small residential building and preparation of schedule of quantity of materials, Preparation of basic electrical schemes and layout drawings of a high-rise building , Commercial building with rising main distribution to upper floors, Basic design and layout of cinema theatres, Basic illumination design of a small seminar hall with fluorescent lamps
+
+Module V (15 Hours)
+
+Selection of transformer and standby generator for High Tension consumers having one large capacity motor and many small motors. Basic design and preparation of single line diagram and layout drawings of an HT industrial consumer with a) outdoor and b) indoor 11kV substation. Layout and estimation of over head and under ground power distribution system. Design of earthing system for an HT consumer, Dimensions and drawings of typical earth electrodes (1)Pipe Earthing, (2)Plate Earthing. Touch, Step and Transfer potentials at EHT Sub-Stations, Earth-mat, installations of special equipment like X-Ray, Neon-Sign.
+
+
+Internal Continuous Assessment (Maximum Marks-50)
+
+60% -  Tests (minimum 2)
+
+20% - Assignments (minimum 2) such as home work, problem solving, group discussions, quiz, literature survey, seminar, term-project, software exercises, etc.
+20% -  Regularity in the class
+
+
+
+
+
+Text Books
+
+1.	Electrical Machine Design- A. K. Sawhney & A. Chakrabarthi.Dhanapat Rai &Sons 
+2.	Electrical Design Estimating and costing.- Raina & Bhatacharya, Wiley Eastern Limited, New Delhi, 
+
+3.	Electrical system Design: M K Giridharan ,I K International Publishing House Pvt.Ltd, Bangalore. 
+
+
+Reference Books
+
+1.Design &Testing of electrical machines: Deshpande, Wheeler Publishing 2.Design of Electrical Machines: V N Mittle
+
+Note: Relevant codes/ Data Sheets may be permitted for examinations

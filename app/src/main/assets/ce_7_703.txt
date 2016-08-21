@@ -1,0 +1,42 @@
+CE010 703  DESIGN OF CONCRETE STRUCTURES – II
+
+Teaching Scheme	Credit: 3
+
+2 hours lecture and 1 hour tutorial per week.
+
+Objective
+To provide knowledge in the structural design of selected structures.
+
+Module 1 (10 Hrs)
+
+Prestressed Concrete: I S specifications- general principles- analysis of prestress and bending stress -methods and systems of prestressing – losses of prestress- design of simply supported rectangular beams with constant eccentricity only.
+
+Module 2 (10 Hrs)
+
+Retaining walls : Types-Earth pressure diagrams- modes of failure-design of cantilever and counter fort retaining walls (“L” not included)
+
+Module 3 (8 Hrs)
+
+Design of continuous beams: Using coefficients given in IS 456.
+Circular beams:Uniformly loaded and supported on symmetrically placed columns
+
+Module 4 (8 Hrs)
+
+Domes: Membrane stresses in spherical and conical domes-design of domes with uniformly distributed and concentrated loads-openings-ring beams
+
+Module 5 (9 Hrs)
+
+Water Tanks: types-design of ground supported and overhead water tanks- circular with flat bottom-flexible and rigid joints-design of staging-columns and bracings-IS code method.
+
+References
+
+1.	Relevant IS codes (IS 456, IS 875, IS 1343, IS 3370 Part 2 and Part 4 ,SP 16) 
+2.	Park R and Pauloy T, Reinforced concrete structures, John wiley & sons Inc 
+3.	Purushothaman P, Reinforced concrete structural elements –Behaviour, analysis and design, Tata Mc Graw Hill Publishing Company Ltd 
+4.	Unnikrishna Pillai S & Devdas Menon, Reinforced concrete, Tata Mc Graw Hill Publishing Company Ltd 
+5.	Mallick S K, Reinforced concrete, oxford & IBH publishing company 
+6.	Varghese P C Limit state design of reinforced concrete structures, Prentice Hall of India pvt Ltd 
+7.	Ashok K Jain Reinforced concrete –Limit state design, new chand & bose 
+8.	Krishna Raju, prestressed concrete oxford and ibh publishing company ltd 
+9.	Ramamrutham S, Design of reinforced concrete structures, Dhanpat Rai publishing co 
+10.	Punmia B C Reinforced concrete structures vol 2. Laxmi publications

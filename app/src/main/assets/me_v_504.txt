@@ -1,0 +1,47 @@
+ME010 504: Kinematics of Machinery
+
+(Common with AU010 504)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+1.	To understand the basic components and layout of linkages in the assembly of a system/machine. 
+2.	To understand the principles involved in assembly the displacement, velocity and acceleration at any point in a link of a mechanism. 
+3.	To understand the motion resulting from a specified set of linkages. 
+4.	To understand and to design few linkage mechanisms and cam mechanisms for specified output motions. 
+5.	To understand the basic concepts of toothed gearing and kinematics of gear trains. 
+
+Module I (14hours)
+
+Classification of mechanisms – Basic kinematic concepts and definitions – Degree of freedom, Mobility – Kutzbach criterion, Gruebler’s criterion – Grashof’s Law –Kinematic inversions of four-bar chain, slider crank chains and double slider crank chains – Limit positions –Mechanical advantage – Transmission Angle -Coupler curves – Description of some common Mechanisms – Quick return mechanisms, Straight line generators, Dwell Mechanisms, Ratchets and Escapements, Universal Joint, steering mechanisms
+
+Module II (12hours)
+
+Displacement, velocity and acceleration analysis of simple mechanisms – Graphical method – Velocity and acceleration polygons – Velocity analysis using instantaneous centers – Kennedy’s theorem, kinematic analysis by complex algebra methods – Vector approach – Computer applications in the kinematic analysis of simple mechanisms – Coincident points – Coriolis component of Acceleration.
+
+Module III (10hours)
+
+Kinematic synthesis ( Planar Mechanisms) - Tasks of kinematic synthesis – Type, Number and dimensional synthesis – Precision points - Graphical synthesis for four link mechanism Function generator – 2 position and 3 position synthesis – Overlay Method - Analytical synthesis techniques
+
+Module IV (12 hours)
+
+Cams and Followers: - types-follower motion-SHM-uniform velocity and acceleration-Cycloidal - displacement, velocity and acceleration curves-Cam profile-Reciprocating and oscillating followers-Tangent cams-Convex and concave cams with footed followers. Introduction to Polynomial cams.
+
+Module V (12 hours)
+
+Law of toothed gearing – Involutes and cycloidal tooth profiles –Spur Gear terminology and definitions –Gear tooth action – contact ratio – Interference and undercutting – Non-standard
+
+gear teeth – Helical, Bevel, Worm, Rack and Pinion gears [Basics only] Gear trains – Speed ratio, train value – Parallel axis gear trains– Epicyclic Gear Trains – Differentials
+
+Reference Books
+
+1.	R L Norton, Kinematics and Dynamics of Machinery, 1st ed., Tata McGraw Hill Education Private Limited, Delhi, 2009 
+2.	J. E. Shigley, J. J. Uicker, Theory of Machines and Mechanisms, McGraw Hill 
+
+3	S .S Rattan Theory of Machines, 3rd ed., Tata McGraw Hill Education Private Limited, Delhi, 2009 
+
+4	A. Ghosh, A. K. Malik, Theory of Mechanisms and Machines, Affiliated East West Press 
+5	A. G. Erdman, G. N. Sandor, Mechanism Design: Analysis and synthesis Vol I & II, Prentice Hall of India 

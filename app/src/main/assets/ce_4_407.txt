@@ -1,0 +1,28 @@
+CE010 407 SURVEYING PRACTICAL II
+
+Teaching Scheme	Credits: 2
+
+3 hours practical per week
+
+Objective
+
+• To give a practical knowledge in different aspects of Theodolite Surveying & Tacheometry
+
+List of exercises
+
+1.	Determination of tacheometric constants 
+2.	Heights and distances by stadia tacheometry(2classes) 
+3.	Heights and distances by tangential tacheometry(2classes) 
+4.	Three point problem. 
+5.	Setting out of simple curves - angular method 
+6.	Theodolite traversing 
+7.	Setting out of building plans 
+8.	Study of Total station 
+9.	Total station – Horizontal and vertical angles, Horizontal distance, Level difference. 
+
+References :
+
+1.	Dr. B. C. Punmia, Surveying Vol. I & II, Laxmi Publications (P) LTD, New Delhi. 
+2.	T.P. Kanetkar & Kulkarni, Surveying and leveling Vol. I&II A.V.G.Publications, Pune. 
+3.	Dr. K. R. Arora, Surveying Vol. I, Standard Book House New Delhi. 
+4.. S. K. Duggal , Surveying Vol I& II, Tata Mc Graw Hill.

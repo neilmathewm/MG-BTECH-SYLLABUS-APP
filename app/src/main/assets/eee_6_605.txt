@@ -1,0 +1,58 @@
+EE 010 605 Microcontrollers and Embedded Systems
+
+Teaching scheme Credits: 4 3 hours lecture and 1 hour tutorial per week
+
+
+Objectives
+
+•	To impart knowledge about 8051 microcontroller programming and interfacing. 
+
+•	To introduce students to advanced PIC 16F877 microcontroller and embedded systems 
+
+•	. 
+
+Module 1(14hrs)
+Introduction to Embedded Systems (block diagram description)- Microcontrollers and Microprocessors - Comparison.
+Intel 8051: Architecture–Block diagram- Oscillator and Clock-Internal Registers-Program Counter-PSW-Register Banks-Input and Output ports-Internal and External memory, Counters and Timers, Serial data I/O- Interrupts - SFRs.
+
+Module 2 (14hrs)
+
+Programming of 8051: Instruction syntax-Types of instructions–Moving data-Arithmetic Instructions-Jump and Call Instructions-Logical Instructions-Single Bit Instructions. Arithmetic programs. Timing subroutines –Software time delay- Software polled timer-Addressing Modes – Application of Keil C in microcontroller programming.
+
+Module 3 (10hrs)
+
+I/O Programming: Timer/Counter Programming -Interrupts Programming- Timer and external Interrupts- Serial Communication- Different character transmission techniques using time delay, polling and interrupt driven-Receiving serial data – polling for received data, interrupt driven data reception-RS232 Serial Bus standard.
+
+Module 4 (10hrs)
+
+Microcontroller system design: External memory and Memory Address Decoding for EPROM and RAM. Interfacing keyboard. 7 segment display and LCD display. Interfacing of ADC (0808) and DAC (808) to 8051- frequency measurement – Interfacing of stepper motor.
+
+Module 5 (12hrs)
+
+Introduction to RISC Microcontrollers: Architecture of PIC 16F877 microcontroller- FSR
+– different Reset conditions – various oscillator connections- Internal RC, External RC, Crystal Oscillator and external clock. PIC memory organization – Program (Code) memory and memory map, Data memory and Data EEPROM.
+
+Instruction set – Different addressing modes. Timers - Interrupt structure in PIC 16F877 microcontroller. Simple assembly language programs - square wave generation - reading/writing with internal data EEPROM.
+
+Text books:
+
+1.	Muhammad Ali Mazidi and Janice Gillispie Mazidi, The 8051 Microcontroller and Embedded Systems, Pearson Education Asia. 
+
+2.	Ajay V Deshmukh , Microcontrollers- Theory and Applications , Tata McGraw – Hill Education, New Delhi 
+ 
+
+Reference books
+
+1.	Kenneth J. Ayala, The 8051 Microcontroller – Architecture, Programming and Applications, Penram International Publishing (India), Second Ed. 
+
+2.	K.V.Shibu, Introduction to Embedded Systems, 1e, Tata McGraw –Hill Education, New Delhi 2009 
+
+3.	Dreamtech Software Team, Programming of Embedded Systems , Wiley Dreamtech 
+
+4.	John B. Peatman,  Design with PIC Microcontrollers , Pearson Education 
+
+5.	Myke Predko, Programming and Customizing the 8051 Microcontroller, Tata McGraw Hill Education, New Delhi, 2009 
+
+6.	Intel Data Book on MCS 51 family 
+ 
+

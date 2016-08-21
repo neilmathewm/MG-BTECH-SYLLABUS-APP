@@ -1,0 +1,61 @@
+ME010 505 I. C. Engines & Combustion
+
+(Common with AU010 505)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•	To impart the basic concepts of IC Engine and Combustion 
+
+
+
+Module I (15 hours)
+
+Working of two stroke and four stroke engines and valve timing diagrams of – Petrol and diesel engine. (Review only). Fuel air cycles. Ignition systems- Battery and magneto systems- ignition timing and spark advance. Fuels – Qualities, rating of fuels - Octane and Cetane numbers. Alternative fuels.
+
+Types of engines - Wankel engine,- Stirling engine - Stratified charge engine - VCR engine - free piston engine.
+
+Module II (15 hours)
+
+Air fuel mixture requirements – Solex Carburettor. Stoichiometric and excess air calculations. Fuel injection systems in SI and CI engines - Fuel injection pumps.- nozzle- direct and indirect injections. MPFI systems and GDI engines. CRDI technology.
+
+Lubrication systems- types – properties of lubricants. Flash point, fire point and viscosity index.
+
+Module III (10 hours)
+
+Thermodynamics of combustion. Combustion reaction of common fuels. Exhaust gas composition. Flue gas analysis. Air fuel ratio from exhaust gas composition. Variation of specific heats- heat losses- Dissociation.
+
+Engine cooling systems- Air and liquid system- Super charging and turbo charging
+
+Module IV (10 hours)
+
+Combustion in SI engines- P-? diagram- Stages of combustions- Ignition lag. Flame propagation – Abnormal combustion – detonation effects. Combustion in CI engines, P-? diagram - Ignition delay, diesel knock- controlling methods.
+
+Air motion- Squish, tumble, swirl motions. Different types combustion chamber for SI and CI engines.
+
+Module V (10 hours)
+
+Pollutants in SI and CI engines. NOx, CO, unburned hydrocarbons ,smoke and particulate. Measurement of exhaust emission. (HC, CO, NOx and smoke intensity ) Exhaust gas treatment.- Catalytic converter – Thermal reaction -Particulate trap.
+
+Testing of IC engines - Indicated power – Brake Power - Volumetric efficiency - Heat balance test - Morse test.
+ 
+
+Text Books
+
+V Ganesan, Internal Combustion Engine Tata Mc Graw Hill Publishing Company Ltd. New Delhi 2006. -
+
+Reference Books
+
+John B Heywood, Internal Combustion Engine Fundamentals, Mc Graw Hill Publishing Company Sigapur,1998.
+Obert E F,Internal Combustion Engine and air Pollution Mc Graw Hill book company New York.
+
+Mathur and Sharma,A course in Internal Combustion Engine   - Dhanpat Rai Publications new
+
+Delhi, 2004.
+
+Sharma S.P, Fuels and Combustion, Tata Mc Graw Hill Publishing Company Ltd. New Delhi.1990.
+
+Spalding D.B. Some Fundamentals of Combustion Better Worths Scientific Publications London, 1955.

@@ -1,0 +1,57 @@
+AI010 706L01
+
+Robotics
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives:
+
+•	To familiarize the students with the fundamental concepts of robotics and automation. 
+•	To introduce basic elements and subsystems of robots. 
+
+•	To generate an awareness of various applications of robots. 
+
+Module1
+
+Robot Organization
+Introduction to robotics: Evolution of robots, laws of robotics, progressive advancements in robots, robot anatomy. Links, joints, degrees of freedom, arm configuration, wrist configuration, end effectors, manipulation and control. Coordinate frames: description of objects in space, transformation of vectors, inverting a homogeneous transform, fundamental rotation matrices, Euler angle representations.
+Forward kinematics: mechanical structure and notations, description of links and joints, kinematic modeling of the manipulator, Denavit-Hartenberg notation, kinematic relationship between adjacent links manipulator transformation matrix
+Inverse kinematics: Manipulator workspace, solvability of inverse kinematic model.
+
+Module 2 Robot hardware
+
+Robot sensors: proximity sensors ,range sensors, tactile sensors, , position sensors, velocity sensors Visual Sensors and auditory sensors.Robot Manipulators introduction: wrists, robot gripper, manipulator control
+Dynamic modeling (proofs not required): Lagrangian mechanics, two degree freedom manipulator, Lagrange Euler formulation, velocity of a point on the manipulator.
+
+Module 3
+
+Introduction to robot control
+Control of manipulators: linear control schemes, partitioned PD control scheme,PID control scheme, computed torque control,force control of robotic manipulators,hybrid position force control,impedance force torque control,adaptive control.
+
+Module 4
+
+Robot and Artificial Intelligence
+Principles of all basics of Learning, planning movement,basics of knowledge representation, robot programming languages,trajectory planning (only a brief introduction required) and remote manipulation.
+
+Module 5
+
+Robotic Vision Systems
+Principles of edge detection, determination of optical flow and shape, image segmentation, pattern recognition, model director sense analysis.
+
+Textbooks
+
+1.	R K Mittal , I J Nagrath, Robotics and control,Tata McGraw Hill 
+
+2.	M.P .Groover,Mitchell Weiss, Roger N.Nagel, Nicholas G Odrey, Industrial 
+Robotics,  Tata McGraw Hill.
+3.  Lee, Gonzalez aqnd Fu “Robotics (11 Ed)”, IEEE Press, 1986
+
+References
+
+1.	Hall and Hall” Robotics – A User Friendly Introduction”, Saunders Publishing Company, 1985 
+2.	Vokobravotic “Introduction to Robotics”, Springer 1988 
+3.	Charniakand, Mcdermott, “Roboty Technology ande Applications”, Springer 1985 
+4.	Charniac & Mcdermott, “Introduction to Artificial Intelligence”, Mc Graw Hill, 1986 
+5.	P Janaki Raman, “Robotics”, Tata Mcgraw Hill 

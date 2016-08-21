@@ -1,0 +1,30 @@
+AI010 508(P)
+
+MEASUREMENTS LAB
+0+0+3 Credit : 2
+
+
+
+
+
+Objectives:
+
+To familiarize signal conditioning circuits using Op-amps
+To familiarize various measuring devices
+To study various transducers and measurements
+
+1.	Op-amp ADC & DAC. (2expts). 
+
+2.	Filters using Op-amps: determine frequency response and phase response. 
+3.	Instrumentation amplifier 
+4.	Determination of impact of filter on rise time and fall time of pulses. 
+5.	Characterisation of simple measuring instruments like ammeter and voltmeter. 
+6.	Measurement of resistance using Kelvin’s double bridge and Wheatstone bridge. 
+7.	Measurement of inductance using Maxwell’s bridge and Hay’s bridge. 
+8.	Measurement of capacitance using Schering bridge. 
+9.	Measurement using transducers: 
+(i). Measurement of temperature using forward drop of diode. (ii). Measurement of displacement using LVDT. 
+(iii). Evaluation of coefficients of thermocouple. (iv). Evaluation of coefficients of RTD. 
+
+(v). Calibration of pressure transducer using dead weight calibrator. 
+ 

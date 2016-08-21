@@ -1,0 +1,53 @@
+ME010 506 Thermodynamics
+
+(Common with PE 010 506 and AU010 506)
+
+Teaching scheme	Credits: 4
+
+3 hours lecture and 1 hour tutorial per week
+
+Objectives
+
+•  To impart the basic concepts of Thermodynamics
+
+Pre-requisites: Knowledge required to study this subject (especially any subject previously studied)
+
+Module I (10 hours)
+
+Fundamentals concepts – scope and limitations of thermodynamics. Thermodynamic systems
+– different types of systems – macroscopic and microscopic analysis – continuum – Properties 
+– state – processes. Thermodynamics equilibrium – Equation of state of an ideal gas – PVT system – Real gas relations – Compressibility factor – Law of corresponding states. 
+
+Module II (15 hours) 
+Laws of thermodynamics- Zeroth law of thermodynamics – Thermal equilibrium – Concept of temperature – Temperature scales – Thermometry – Perfect gas temperature scales. – Thermometry – Perfect gas temperature scales. Work and heat – First law of thermodynamics 
+
+– Concept of energy _ First law for closed and open systems – Specific heats – internal energy and enthalpy – Steady flow energy equations _ Jule Thompson effect. 
+
+Module III (15 hours) 
+Second law of thermodynamics- Various statements and their equivalence_ Reversible process and reversible cycles- Carnot cycles- Corollaries of the second law – thermodynamics temperature scales – Clausis inequality- Concept of entropy – Calculation of change in entropy in various thermodynamic processes – Reversibility and irreversibility – Available and unavailable energy – Third law of thermodynamics. 
+
+Module IV (10 hours) 
+Thermodynamic relations – Combined first and second law equations – Hemholtz and gibbs functions – Maxwell relations- Equations for specific heats, internal energy, enthalpy and entropy – Clausius Clapeyron equations _ applications of thermo dynamic relations. 
+
+Module V (10 hours) 
+Properties of pure substances – PVT, PT and TS diagrams, Mollier diagrams- Mixture of gases and vapours- mixture of ideal gases – Dalton’s law – Gibbs law- Thermodynamic properties of mixtures 
+
+Text Books
+
+1  P K Nag, Engineering Thermodynamics, Tata Mc Graw Hill Publishing Company
+Ltd. New Delhi 2008.
+Reference Books
+
+1.	J. F. Lee and FW Sears, Engineering Thermodynamics, Addison-Wesleg Publishing Company, London, 1962. 
+
+2.	Spalding and Cole, Engineering Thermodynamics, The English Language Book Society and Edward Arnold Ltd.,1976. 
+3.	M. A.chuthan, Engineering Thermodynamics,Prentice Hall of India Private Ltd, New Delhi 2002. 
+4.	J.H Keenan,   Thermodynamics, John Wiley and Sons , New York, 1963. 
+5.	Edward F Obert, Concept of Thermodynamics, McGraw Hill book company New York, 1988. 
+
+6.	J.P. Holman, Thermodynamics, McGraw Hill book company New York, 1988. 
+
+7.	Mark W. Zemansky, Heat and Thermodynamic, McGraw Hill, New Delhi, 2001. 
+
+8	Roy T, Basic Engineering Thermodynamics, Tata Mc Graw Hill Publishing Company Ltd. New Delhi 1989. 
+ 

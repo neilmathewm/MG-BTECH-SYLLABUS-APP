@@ -1,0 +1,54 @@
+
+EC010 705 EMBEDDED SYSTEMS
+
+Teaching Schemes	Credits: 3
+
+2 hours lecture and 1 hour tutorial per week.
+
+Objectives
+
+•	To introduce students to the embedded systems, its hardware and software. 
+
+•	To introduce devices and buses used for embedded networking. 
+
+•	To explain programming concepts and embedded programming in C. 
+
+•	To explain real time operating systems. 
+
+
+Module I (9hrs)
+
+Introduction to Embedded System, Definition and Classification, Requirements of Embedded Systems, Applications of Embedded Systems in Consumer Electronics, Control System, Biomedical Systems, Handheld computers, Communication devices, Embedded Systems on a Chip (SoC).
+
+Module II (9 hrs)
+
+Embedded Hardware & Software Development Environment, Hardware Architecture, Embedded System Development Process, Embedded C compiler, advantages, code optimization, Programming in assembly language vs. High Level Language, C Program Elements, Macros and functions, Interfacing programs using C language.
+
+Module III (9 hrs)
+
+Embedded Communication System: Serial Communication, PC to PC Communication, Serial communication with the 8051 Family of Micro-controllers, I/O Devices - Device Types and Examples , synchronous and Asynchronous Communications from Serial Devices - Examples of Internal Serial-Communication Devices - UART and HDLC - Parallel Port Devices - Sophisticated interfacing features in Devices/Ports- Timer and Counting Devices - 12C, USB, CAN and advanced I/O Serial high speed buses- ISA, PCI, PCI-X, and advanced buses. Voice-over-IP, Embedded Applications over Mobile Network.
+
+Module IV (9 hrs)
+
+Matrix key board interface - AT keyboard – commands – keyboard response codes - watch dog timers - DS1232 watch dog timer – real time clocks – DS1302 RTC – interfacing - measurement of frequency - phase angle - power factor – stepper motor interface - dc motor speed control – L293 motor driver - design of a position control system - Interfacing with Displays, D/A and A/D Conversions, interfacing programs using C
+
+Module V (9 hrs)
+
+Definitions of process, tasks and threads – Clear cut distinction between functions – ISRs and tasks by their characteristics – Operating System Services- Goals – Structures- Kernel - Process Management – Memory Management – Device Management – File System Organisation and Implementation – I/O Subsystems – Interrupt Routines Handling in RTOS, REAL TIME OPERATING SYSTEMS : Introduction to Real – Time Operating Systems: Tasks and Task States, Tasks and Data, Semaphores, and Shared Data; Message Queues, Mailboxes and Pipes, Timer Functions, Events, Memory Management, Interrupt Routines in an RTOS Environment
+ 
+
+Reference Books
+
+
+1.	Rajkamal, “Embedded Systems Architecture, Programming and Design”, Tata McGraw-Hill 
+
+2.	Steve Heath, “Embedded Systems Design”, Newnes. 
+3.	David E.Simon, “An Embedded Software Primer”, Pearson Education Asia. 
+
+4.	Wayne Wolf, “Computers as Components; Principles of Embedded Computing System Design” Harcourt India, Morgan Kaufman Publishers. 
+
+5.	Frank Vahid and Tony Givargis, “Embedded Systems Design – A unified Hardware /Software Introduction” , John Wiley 
+6.	Kenneth J.Ayala, “The 8051 Microcontroller”, Thomson. 
+
+7.	Labrosse, “Embedding system building blocks”, CMP publishers. 
+8.	Ajay V Deshmukhi, “Micro Controllers”, Tata McHraw-Hill. 

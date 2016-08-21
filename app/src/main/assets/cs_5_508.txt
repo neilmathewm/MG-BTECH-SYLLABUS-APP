@@ -1,0 +1,27 @@
+CS010 508: Hardware and Microprocessors Lab
+
+Teaching scheme	Credits: 2
+3 hours practical per week
+
+Objectives
+
+•	To acquaint the students with the implementation and fundamental algorithms of database systems. 
+•	To provide experience on design, querying, and processing of data in a relational database. 
+•	To familiarise the students with 8085,8086,masm programming and various PC hardware components 
+•	To provide experience on design, querying, and processing of data in a relational database. 
+
+
+
+Phase I
+
+1.	Familiarization of 8085 training Kit. 
+2.	Simple programs using 8085 Kit. Phase II 
+3.Study of MASM Programming. 4.Simple programs in 8086 using MASM. 
+
+Phase III. 
+
+5.Familiarisation with PC Components. 6.Experiments based on various hardware components. 
+7.Experiments for communication with peripheral devices using C and MASM 
+
+
+NB: Students should do the experiments in all the phases. External examiner can conduct University Examinations on any of these phases.

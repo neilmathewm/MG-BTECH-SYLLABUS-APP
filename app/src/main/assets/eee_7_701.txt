@@ -1,0 +1,60 @@
+EE 010 701: Electrical Power Transmission
+
+Teaching scheme	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objectives
+
+•	To impart knowledge about electrical transmission systems 
+
+Module I (10 hours)
+
+Transmission Line Parameters: Inductance of single phase two wire line – inductance of composite conductor lines – inductance of three phase lines – double circuit three phase lines
+
+– bundled conductors – resistance – skin effect and proximity effect – magnetic field induction – capacitance of two wire line – capacitance of a three phase line with equilateral spacing and unsymmetrical spacing – transposition of lines – effect of earth on capacitance – method of GMD – electrostatic induction
+
+Module II (11 hours)
+
+Analysis of Transmission Lines: Short transmission line – generalised circuit constants – medium transmission lines by nominal pi and T methods – long transmission line rigorous solution – equivalent circuit of long lines – Ferranti effect – tuned power lines – power flow through a transmission line – Effects of transformer on the performance of a transmission line
+
+– reactive power in a line – power transfer capability of transmission lines – compensation of transmission lines – power flow in a long transmission line
+
+Module III (12 hours)
+
+Insulators for overhead transmission lines: Ratings – types of insulators – potential distribution over a string of suspension insulators – string efficiency – methods to improve string efficiency – methods of equalising potential – insulation failure – testing of insulators.
+
+Mechanical design of Transmission Lines: Sag and Tension – Spans of unequal length – equivalent span – effect of ice and wind loading – stringing chart – vibration and vibration dampers.
+Underground cables: types of cables – capacitance of single core cables – grading of cables
+
+– power factor and heating of cables – capacitance of three core belted cable – DC cables – location of faults in underground cables (Murray and Varley tests)
+
+Module IV (12 hours)
+
+Substations: Types of substations – Bus bar arrangements – substation bus schemes – substation equipments
+
+Grounding Systems: resistance of grounding systems – neutral grounding – resonant grounding – solid grounding or effective grounding – resistance grounding – reactance grounding – earthing transformer
+
+Corona: Critical disruptive voltage – conditions affecting corona – corona loss – factors affecting corona loss – radio interference – interference between power and communication lines.
+
+Module V (15 hours)
+
+HVDC Transmission: Advantages and disadvantages of HVDC transmission – Types of HVDC links – Interconnection of HVDC into AC systems
+
+FACTS Technology: Objectives of Flexible AC Transmission – FACTS devices – simple model of STATCOM, static VAR compensator(SVC), thyristor controlled reactor(TCR), thyristor switched reactor(TSR), thyristor switched capacitor(TSC), interline power flow controller(IPFC), thyristor controlled series capacitor(TCSC), thyristor controlled series reactor(TCSR) and unified power flow controller(UPFC)
+ 
+
+
+Text Books
+
+1.	Power System Engineering: D P Kothari and I J Nagrath, Tata McGraw Hill 
+2.	Electric Power Generation, Transmission and Distribution: S N Singh, PHI 
+
+Reference Books
+
+1.	Power System Analysis: William D Stevenson Jr, John J Grainger, Tata McGraw Hill 
+2.	Electrical machines, Drives and Power Systems: Thoedore Wildi, Pearson Ed. 
+3.	Electrical power Distribution and Transmission: Luces M. Faulkenberry, Walter Coffer, Pearson Education 
+
+4.	Power System Analysis: Hadi Saadat, Tata McGraw Hill 
+ 

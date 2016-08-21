@@ -1,0 +1,57 @@
+CE010 803	ENVIRONMENTAL ENGINEERING - II
+
+Teaching scheme:	Credits: 4
+
+2 hours lecture and 2 hours tutorial per week
+
+Objective:
+
+•	To understand the basic principles of Wastewater Engineering 
+
+•	To develop knowledge in unit operations and design of wastewater treatment systems 
+
+
+Module 1 (10hrs)
+
+Introduction to sanitary engineering. Sewerage systems – separate, combined and partially combined systems.
+
+Quantity of sewage: sanitary sewage - sources, factors affecting. Fluctuations in sewage flow, peak factor.
+
+Characteristics of sewage: physical, chemical and biological characteristics and analysis. population equivalent, relative stability.
+
+Storm sewage: Factors affecting, intensity of rainfall, rational and empirical formula, time of concentration, intensity - duration curve and formula.
+
+Design of sewers: Flow formula, minimum and maximum velocity of flow, effect of variation of discharge on velocity, use of partial flow diagrams, design of circular sewers, longitudinal and cross section of sewer lines.
+
+Module 2 (10hrs)
+
+Construction of sewers: Materials of sewers, crown corrosion.
+
+Sewer appurtenances: inlets, catch basins, clean outs, manholes, drop manholes, lamp holes/flushing tanks, grease and oil traps, inverted siphons, storm regulators. Sewage pumping: classification and capacity of pumps.
+
+Natural methods of wastewater disposal: land disposal -. Sewage farming - disposal by dilution - self purification of streams - oxygen sag curve - dilution into sea, comparison of disposal methods.
+
+Module 3 (10hrs)
+
+Objectives of waste water treatment - Effluent standards, KSPCB Standards, BIS Standards. Layout of conventional treatment plant - preliminary, primary, secondary and tertiary treatments in general.
+ 
+Screens - types of screens, design, disposal of' screenings; comminutors. Grit chamber - function, design, construction and operation, disposal of grit, detritus tank. Skimming tank -function, design and operation, disposal of skimmings Sedimentation: Theory of sewage sedimentation - design, construction and operation, rectangular and circular tanks, disposal of sludge.
+
+Module 4 (15hrs)
+
+Biological process: principle and theory of biological treatment. Sewage filtration: Trickling filters - design, construction and operation. Activated sludge process: Design, construction and operation of conventional and extended aeration, aeration methods. Miscellaneous methods- Stabilization ponds, Oxidation ditch, Aerated lagoons, rotating biological contactors; disinfection of sewage effluents.
+
+Module 5 (15hrs)
+
+Sludge treatment and disposal: quantity of sludge, characteristics of sludge, sludge thickening, digestion, conditioning and disposal, design of sludge digesters only. Septic Tanks: Design (as per Ministry of urban development) construction, disposal of effluents, cleaning of tanks, Imhoff tanks. Sewage treatment by high rate anaerobic methods: Anaerobic digestion, suspended growth, contact process, UASB, attached growth, filters, expanded bed - only basics.
+
+References
+
+1.	Peavy, Rowe, Tchobanoglous, Environmental Engineering, Mc Graw Hill International Editions. 
+2.	S. K. Garg, Environmental Engineering Vol. l & ll, Khanna Publishers, New Delhi. 
+
+3.	B.C. Punmia, Water supply Engineering, Arihant Publications, Jodpur. 
+4.	B.C. Punmia, Waste water Engineering, Arihant Publications, Jodpur. 
+5.	Metcalf & Eddy, Waste water Engg.- Treatment and Reuse, 4th Edn., Mc Graw Hill International Editions. 
+6.	Mark J Hammer, Water and waste water technology, John Wiley and sons, Inc. 
+ 

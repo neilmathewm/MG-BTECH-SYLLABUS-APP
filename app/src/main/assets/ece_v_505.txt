@@ -1,0 +1,72 @@
+EC010 505	APPLIED ELECTROMAGNETIC THEORY
+
+Teaching Schemes	Credit: 4
+3 hours lecture and 1 hour tutorial per week.
+
+OBJECTIVES
+
+•	To analyze fields potentials due to static changes 
+•	To evaluate static magnetic fields 
+
+•	To understand how materials affect electric and magnetic fields 
+•	To understand the relation between the fields under time varying situations 
+•	To understand principles of propagation of uniform plane waves. 
+
+Module I (14hours)
+
+Review of vector analysis: Cartesian, Cylindrical and Spherical co-ordinates systems- Coordinate transformations. Vector fields: Divergence and curl- Divergence theorem- Stoke’s theorem. Static electric field: Electrical scalar potential- different types of potential distribution- Potential gradient-
+
+Energy stored in Electric field - Derivation of capacitance of two wire transmission line and
+
+coaxial cable –Electrostatic boundary conditions– Steady magnetic field: Ampere’s Law, Faraday’s Law, Helmholtz’s theorems, Energy stored in magnetic fields- Magnetic dipole- Magnetic
+
+boundary conditions- Vector magnetic potential A- Magnetic field intensity,
+
+transmission line and coaxial cable- Relation between E, V and A.- Equation of continuity, Poisson and Laplace equations.
+
+Module II (12 hours)
+
+Maxwell’s equations and travelling waves: Conduction current and displacement current, Maxwell’s equations- Plane waves- Poynting theorem and Poynting vector- Power flow in a co-axial cable – Instantaneous Average and Complex Poynting Vector. Plane electromagnetic waves- Solution for free space condition- Uniform plane wave:-wave equation for conducting medium- wave propagation in conductors and dielectric, depth of penetration, reflection and
+
+refraction  of  plane  waves  by  conductor  and  dielectric.  Wave  polarization  -
+
+electromagnetic wave and derivation of polarization angle.
+
+Module III (14 hours)
+
+Guided wave :-Guided waves between parallel planes- Transverse Electric and Transverse Magnetic waves and its characteristics- Waves in Rectangular Waveguides- Transverse Magnetic Waves in Rectangular Wave guides – Transverse Electric Waves in Rectangular Waveguides
+
+– characteristic of TE and TM Waves – Cut off wavelength and phase velocity – Impossibility of TEM waves in waveguides – Dominant mode in rectangular waveguide – Attenuation of TE and TM modes in rectangular waveguides – Wave impedances – characteristic impedance – Excitation of modes.
+
+Moddule IV( 10 hours)
+ 
+
+Circular waveguides and resonators:- Bessel functions – Solution of field equations in cylindrical co-ordinates – TM and TE waves in circular guides – wave impedances and characteristic impedance – Dominant mode in circular waveguide – excitation of modes – Microwave cavities, Rectangular cavity resonators, circular cavity resonator, Q factor of a cavity resonator.
+
+Module IV (10hours)
+
+Transmission lines:- Uniform transmission line- Transmission line equations. Voltage and Current distribution, loading of transmission lines. Transmission line Parameters – Characteristic impedance - Definition of Propagation Constant. General Solution of the transmission line, Derivation of input impedance of transmission line. VSWR and reflection coefficient – wavelength and velocity of propagation. Waveform distortion – distortion less transmission line. The quarter wave line and impedance matching:-The Smith Chart – Application of the Smith Chart – Single stub matching and double stub matching.
+
+REFERENCES
+
+1.	W H.Hayt & J A Buck : “Engineering Electromagnetics” Tata McGraw-Hill, 7th Edition 2007. 
+
+2.	Mathew N.O. Sadiku: “Elements of Electromagnetics”–, Oxford Pub, 3rd Edition. 
+
+3.	David K.Cheng: “Field and Wave Electromagnetics - Second Edition-Pearson Edition, 2004. 
+
+4.	W H.Hayt & J A Buck ,“Problems and Solutions in Electromagnetics” - Tata McGraw-Hill,2010 
+
+5.	E.C. Jordan & K.G. Balmain: “Electromagnetic Waves and Radiating Systems.” PHI. 
+
+6.	J. D. Kraus : “Electromagnetics”, 5th Edition, Mc Graw Hill Publications. 
+
+7.	Edminister : “Electromagnetics”, Schaum series, 2 Edn. 
+
+8.	D A Pozar, Microwave Engineering, Wiley 
+
+9.	Umran S. Inan & Aziz S. Inan: Engineering Electromagnetics, Pearson Education, 1999. 
+
+10.	Nannapaneni Narayana Rao: Elements of Engineering Electromagnetics, 5th Edition, Pearson Education. 
+
+11.	Clayton R.Paul ,Keith W.Whites, Syed A Nasar “Introduction to Electromagnetic Fileds” TATA McGraw-Hill 3rd Edition 

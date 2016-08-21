@@ -1,0 +1,61 @@
+CE010 608 MATERIAL TESTING LABORATORY - II
+
+Teaching scheme	Credits: 2
+3 hours practical per week
+
+Objective:
+
+To study properties of concrete and its various constituent materials.
+
+1. Tests on cement.
+
+a)	Standard consistency, initial and final setting time. 
+b)	Compressive strength of mortar cubes. 
+c)	Specific gravity. d) Soundness. e) Fineness. 
+
+2.	Tests on fresh concrete. a) Compaction factor test. b) Slump test. 
+
+c) Vee-Bee test. d) Flow table test. 
+e) Ball penetration test. 
+
+3.	Tests on hardened concrete. 
+
+a)	Compressive strength of concrete cubes. 
+b)	Compressive strength of concrete cylinder. 
+c)	Splitting tensile strength. 
+d)	Modulus of elasticity. 
+e)	Flexural strength. 
+
+4.	Tests on RC beam 
+5.	Tests on aggregates. 
+
+a)	Aggregate crushing value for coarse aggregate. 
+b)	Specific gravity of coarse and fine aggregate. 
+c)	Bulking of fine aggregate. 
+d)	Bulk density and percentage voids of coarse aggregate. 
+e)	Grain size analysis of coarse and fine aggregate. 
+6. Tests on bricks.
+a)	Compressive strength. b) Water absorption. c) Efflorescence. 
+
+7. Tests on roofing tiles. 
+
+a)	Transverse strength. b) Water absorption. 
+
+8. Tests on flooring tiles. 
+
+a)	Transverse strength. b) Water absorption. c) Abration tests. 
+
+9. Compression tests on Laterite blocks 
+10. Study of 
+
+a)	Strain measurements using electrical resistance- strain gauges. 
+b)	Nondestructive test on concrete. 
+Note
+All tests should be done as per relevant BIS.
+ 
+
+
+References
+ 
+
+1.A.R.Santhakumar,Concrete Technology,Oxford University Press,Chennai. 2. M. S. Shetty, Concrete technology, S.Chand & Co.
